@@ -1,0 +1,5552 @@
+{
+  "Agnesi (Merate)": {
+    "id": "Agnesi (Merate)",
+    "nome": "Agnesi",
+    "comune": "Merate",
+    "provincia": "LC",
+    "partecipazioni": 4,
+    "miglior_piazzamento": 19,
+    "storia": [
+      {
+        "anno": 2008,
+        "posizione": 23,
+        "punti": 468
+      },
+      {
+        "anno": 2009,
+        "posizione": 19,
+        "punti": 562
+      },
+      {
+        "anno": 2018,
+        "posizione": 26,
+        "punti": 429
+      },
+      {
+        "anno": 2021,
+        "posizione": 34,
+        "punti": 488
+      }
+    ]
+  },
+  "Alberghetti (Imola)": {
+    "id": "Alberghetti (Imola)",
+    "nome": "Alberghetti",
+    "comune": "Imola",
+    "provincia": "BO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 21,
+    "storia": [
+      {
+        "anno": 2024,
+        "posizione": 21,
+        "punti": 786
+      }
+    ]
+  },
+  "Aldi (Grosseto)": {
+    "id": "Aldi (Grosseto)",
+    "nome": "Aldi",
+    "comune": "Grosseto",
+    "provincia": "GR",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 16,
+    "storia": [
+      {
+        "anno": 2008,
+        "posizione": 29,
+        "punti": 332
+      },
+      {
+        "anno": 2010,
+        "posizione": 16,
+        "punti": 631
+      }
+    ]
+  },
+  "Alessi (Perugia)": {
+    "id": "Alessi (Perugia)",
+    "nome": "Alessi",
+    "comune": "Perugia",
+    "provincia": "PG",
+    "partecipazioni": 13,
+    "miglior_piazzamento": 1,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 24,
+        "punti": 414
+      },
+      {
+        "anno": 2007,
+        "posizione": 1,
+        "punti": 1014
+      },
+      {
+        "anno": 2008,
+        "posizione": 9,
+        "punti": 654
+      },
+      {
+        "anno": 2009,
+        "posizione": 3,
+        "punti": 920
+      },
+      {
+        "anno": 2010,
+        "posizione": 21,
+        "punti": 584
+      },
+      {
+        "anno": 2011,
+        "posizione": 8,
+        "punti": 881
+      },
+      {
+        "anno": 2012,
+        "posizione": 12,
+        "punti": 656
+      },
+      {
+        "anno": 2013,
+        "posizione": 12,
+        "punti": 719
+      },
+      {
+        "anno": 2014,
+        "posizione": 19,
+        "punti": 587
+      },
+      {
+        "anno": 2016,
+        "posizione": 4,
+        "punti": 852
+      },
+      {
+        "anno": 2017,
+        "posizione": 8,
+        "punti": 785
+      },
+      {
+        "anno": 2021,
+        "posizione": 33,
+        "punti": 489
+      },
+      {
+        "anno": 2025,
+        "posizione": 17,
+        "punti": 835
+      }
+    ]
+  },
+  "Amaldi (Novi Ligure)": {
+    "id": "Amaldi (Novi Ligure)",
+    "nome": "Amaldi",
+    "comune": "Novi Ligure",
+    "provincia": "AL",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 6,
+    "storia": [
+      {
+        "anno": 2010,
+        "posizione": 6,
+        "punti": 820
+      },
+      {
+        "anno": 2013,
+        "posizione": 26,
+        "punti": 303
+      }
+    ]
+  },
+  "Amedeo di Savoia (Pistoia)": {
+    "id": "Amedeo di Savoia (Pistoia)",
+    "nome": "Amedeo di Savoia",
+    "comune": "Pistoia",
+    "provincia": "PT",
+    "partecipazioni": 4,
+    "miglior_piazzamento": 12,
+    "storia": [
+      {
+        "anno": 2016,
+        "posizione": 27,
+        "punti": 398
+      },
+      {
+        "anno": 2018,
+        "posizione": 29,
+        "punti": 389
+      },
+      {
+        "anno": 2022,
+        "posizione": 12,
+        "punti": 500
+      },
+      {
+        "anno": 2025,
+        "posizione": 28,
+        "punti": 632
+      }
+    ]
+  },
+  "Apollinare (Roma)": {
+    "id": "Apollinare (Roma)",
+    "nome": "Apollinare",
+    "comune": "Roma",
+    "provincia": "RM",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 16,
+    "storia": [
+      {
+        "anno": 2023,
+        "posizione": 16,
+        "punti": 647
+      }
+    ]
+  },
+  "Arcivescovile (Trento)": {
+    "id": "Arcivescovile (Trento)",
+    "nome": "Arcivescovile",
+    "comune": "Trento",
+    "provincia": "TN",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 7,
+    "storia": [
+      {
+        "anno": 2008,
+        "posizione": 7,
+        "punti": 738
+      }
+    ]
+  },
+  "Ariosto-Spallanzani (Reggio Emilia)": {
+    "id": "Ariosto-Spallanzani (Reggio Emilia)",
+    "nome": "Ariosto-Spallanzani",
+    "comune": "Reggio Emilia",
+    "provincia": "RE",
+    "partecipazioni": 6,
+    "miglior_piazzamento": 3,
+    "storia": [
+      {
+        "anno": 2015,
+        "posizione": 9,
+        "punti": 880
+      },
+      {
+        "anno": 2016,
+        "posizione": 3,
+        "punti": 1093
+      },
+      {
+        "anno": 2017,
+        "posizione": 15,
+        "punti": 593
+      },
+      {
+        "anno": 2018,
+        "posizione": 7,
+        "punti": 833
+      },
+      {
+        "anno": 2021,
+        "posizione": 37,
+        "punti": 441
+      },
+      {
+        "anno": 2023,
+        "posizione": 19,
+        "punti": 630
+      }
+    ]
+  },
+  "Aristotele (Roma)": {
+    "id": "Aristotele (Roma)",
+    "nome": "Aristotele",
+    "comune": "Roma",
+    "provincia": "RM",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 14,
+    "storia": [
+      {
+        "anno": 2007,
+        "posizione": 14,
+        "punti": 633
+      },
+      {
+        "anno": 2021,
+        "posizione": 42,
+        "punti": 362
+      }
+    ]
+  },
+  "Artom (Asti)": {
+    "id": "Artom (Asti)",
+    "nome": "Artom",
+    "comune": "Asti",
+    "provincia": "AT",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 19,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 19,
+        "punti": 222
+      }
+    ]
+  },
+  "Aselli (Cremona)": {
+    "id": "Aselli (Cremona)",
+    "nome": "Aselli",
+    "comune": "Cremona",
+    "provincia": "CR",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 24,
+    "storia": [
+      {
+        "anno": 2016,
+        "posizione": 24,
+        "punti": 449
+      }
+    ]
+  },
+  "Avogadro (Roma)": {
+    "id": "Avogadro (Roma)",
+    "nome": "Avogadro",
+    "comune": "Roma",
+    "provincia": "RM",
+    "partecipazioni": 4,
+    "miglior_piazzamento": 3,
+    "storia": [
+      {
+        "anno": 2004,
+        "posizione": 10,
+        "punti": 637
+      },
+      {
+        "anno": 2008,
+        "posizione": 3,
+        "punti": 910
+      },
+      {
+        "anno": 2025,
+        "posizione": 27,
+        "punti": 651
+      },
+      {
+        "anno": 2026,
+        "posizione": 8,
+        "punti": 1149
+      }
+    ]
+  },
+  "Bagatta (Desenzano del Garda)": {
+    "id": "Bagatta (Desenzano del Garda)",
+    "nome": "Bagatta",
+    "comune": "Desenzano del Garda",
+    "provincia": "BS",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 32,
+    "storia": [
+      {
+        "anno": 2015,
+        "posizione": 36,
+        "punti": 184
+      },
+      {
+        "anno": 2023,
+        "posizione": 32,
+        "punti": 235
+      }
+    ]
+  },
+  "Balbo (Casale Monferrato)": {
+    "id": "Balbo (Casale Monferrato)",
+    "nome": "Balbo",
+    "comune": "Casale Monferrato",
+    "provincia": "AL",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 10,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 10,
+        "punti": 552
+      }
+    ]
+  },
+  "Balbo-Palli (Casale Monferrato)": {
+    "id": "Balbo-Palli (Casale Monferrato)",
+    "nome": "Balbo-Palli",
+    "comune": "Casale Monferrato",
+    "provincia": "AL",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 17,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 17,
+        "punti": 270
+      }
+    ]
+  },
+  "Banzi Bazoli (Lecce)": {
+    "id": "Banzi Bazoli (Lecce)",
+    "nome": "Banzi Bazoli",
+    "comune": "Lecce",
+    "provincia": "LE",
+    "partecipazioni": 6,
+    "miglior_piazzamento": 6,
+    "storia": [
+      {
+        "anno": 2010,
+        "posizione": 31,
+        "punti": 476
+      },
+      {
+        "anno": 2011,
+        "posizione": 20,
+        "punti": 601
+      },
+      {
+        "anno": 2012,
+        "posizione": 6,
+        "punti": 806
+      },
+      {
+        "anno": 2016,
+        "posizione": 28,
+        "punti": 397
+      },
+      {
+        "anno": 2021,
+        "posizione": 15,
+        "punti": 688
+      },
+      {
+        "anno": 2023,
+        "posizione": 31,
+        "punti": 310
+      }
+    ]
+  },
+  "Barsanti e Matteucci (Viareggio)": {
+    "id": "Barsanti e Matteucci (Viareggio)",
+    "nome": "Barsanti e Matteucci",
+    "comune": "Viareggio",
+    "provincia": "LU",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 29,
+    "storia": [
+      {
+        "anno": 2009,
+        "posizione": 29,
+        "punti": 351
+      }
+    ]
+  },
+  "Battaglini (Taranto)": {
+    "id": "Battaglini (Taranto)",
+    "nome": "Battaglini",
+    "comune": "Taranto",
+    "provincia": "TA",
+    "partecipazioni": 5,
+    "miglior_piazzamento": 15,
+    "storia": [
+      {
+        "anno": 2015,
+        "posizione": 29,
+        "punti": 592
+      },
+      {
+        "anno": 2016,
+        "posizione": 29,
+        "punti": 384
+      },
+      {
+        "anno": 2017,
+        "posizione": 22,
+        "punti": 498
+      },
+      {
+        "anno": 2021,
+        "posizione": 17,
+        "punti": 635
+      },
+      {
+        "anno": 2025,
+        "posizione": 15,
+        "punti": 891
+      }
+    ]
+  },
+  "Belfiore (Mantova)": {
+    "id": "Belfiore (Mantova)",
+    "nome": "Belfiore",
+    "comune": "Mantova",
+    "provincia": "MN",
+    "partecipazioni": 5,
+    "miglior_piazzamento": 8,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 19,
+        "punti": 455
+      },
+      {
+        "anno": 2007,
+        "posizione": 24,
+        "punti": 374
+      },
+      {
+        "anno": 2010,
+        "posizione": 8,
+        "punti": 713
+      },
+      {
+        "anno": 2012,
+        "posizione": 22,
+        "punti": 464
+      },
+      {
+        "anno": 2013,
+        "posizione": 10,
+        "punti": 764
+      }
+    ]
+  },
+  "Berard (Aosta)": {
+    "id": "Berard (Aosta)",
+    "nome": "Berard",
+    "comune": "Aosta",
+    "provincia": "AO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 25,
+    "storia": [
+      {
+        "anno": 2025,
+        "posizione": 25,
+        "punti": 688
+      }
+    ]
+  },
+  "Berto (Mogliano Veneto)": {
+    "id": "Berto (Mogliano Veneto)",
+    "nome": "Berto",
+    "comune": "Mogliano Veneto",
+    "provincia": "TV",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 20,
+    "storia": [
+      {
+        "anno": 2016,
+        "posizione": 20,
+        "punti": 528
+      }
+    ]
+  },
+  "Bertoni (Udine)": {
+    "id": "Bertoni (Udine)",
+    "nome": "Bertoni",
+    "comune": "Udine",
+    "provincia": "UD",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 5,
+    "storia": [
+      {
+        "anno": 2013,
+        "posizione": 14,
+        "punti": 634
+      },
+      {
+        "anno": 2015,
+        "posizione": 5,
+        "punti": 925
+      },
+      {
+        "anno": 2016,
+        "posizione": 7,
+        "punti": 789
+      }
+    ]
+  },
+  "Bruno (Torino)": {
+    "id": "Bruno (Torino)",
+    "nome": "Bruno",
+    "comune": "Torino",
+    "provincia": "TO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 21,
+    "storia": [
+      {
+        "anno": 2011,
+        "posizione": 21,
+        "punti": 590
+      }
+    ]
+  },
+  "Cairoli (Vigevano)": {
+    "id": "Cairoli (Vigevano)",
+    "nome": "Cairoli",
+    "comune": "Vigevano",
+    "provincia": "PV",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 25,
+    "storia": [
+      {
+        "anno": 2016,
+        "posizione": 25,
+        "punti": 420
+      }
+    ]
+  },
+  "Calini (Brescia)": {
+    "id": "Calini (Brescia)",
+    "nome": "Calini",
+    "comune": "Brescia",
+    "provincia": "BS",
+    "partecipazioni": 17,
+    "miglior_piazzamento": 2,
+    "storia": [
+      {
+        "anno": 2007,
+        "posizione": 23,
+        "punti": 419
+      },
+      {
+        "anno": 2009,
+        "posizione": 22,
+        "punti": 437
+      },
+      {
+        "anno": 2011,
+        "posizione": 2,
+        "punti": 969
+      },
+      {
+        "anno": 2012,
+        "posizione": 9,
+        "punti": 718
+      },
+      {
+        "anno": 2013,
+        "posizione": 7,
+        "punti": 874
+      },
+      {
+        "anno": 2014,
+        "posizione": 21,
+        "punti": 574
+      },
+      {
+        "anno": 2015,
+        "posizione": 17,
+        "punti": 789
+      },
+      {
+        "anno": 2016,
+        "posizione": 8,
+        "punti": 778
+      },
+      {
+        "anno": 2017,
+        "posizione": 25,
+        "punti": 466
+      },
+      {
+        "anno": 2018,
+        "posizione": 14,
+        "punti": 608
+      },
+      {
+        "anno": 2020,
+        "posizione": 17,
+        "punti": 588
+      },
+      {
+        "anno": 2021,
+        "posizione": 8,
+        "punti": 799
+      },
+      {
+        "anno": 2022,
+        "posizione": 10,
+        "punti": 568
+      },
+      {
+        "anno": 2023,
+        "posizione": 2,
+        "punti": 991
+      },
+      {
+        "anno": 2024,
+        "posizione": 3,
+        "punti": 1313
+      },
+      {
+        "anno": 2025,
+        "posizione": 9,
+        "punti": 1092
+      },
+      {
+        "anno": 2026,
+        "posizione": 13,
+        "punti": 1007
+      }
+    ]
+  },
+  "Cannizzaro (Vittoria)": {
+    "id": "Cannizzaro (Vittoria)",
+    "nome": "Cannizzaro",
+    "comune": "Vittoria",
+    "provincia": "RG",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 10,
+    "storia": [
+      {
+        "anno": 2008,
+        "posizione": 10,
+        "punti": 654
+      }
+    ]
+  },
+  "Capirola (Leno)": {
+    "id": "Capirola (Leno)",
+    "nome": "Capirola",
+    "comune": "Leno",
+    "provincia": "BS",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 11,
+    "storia": [
+      {
+        "anno": 2015,
+        "posizione": 19,
+        "punti": 758
+      },
+      {
+        "anno": 2017,
+        "posizione": 11,
+        "punti": 678
+      },
+      {
+        "anno": 2018,
+        "posizione": 24,
+        "punti": 478
+      }
+    ]
+  },
+  "Cassini (Genova)": {
+    "id": "Cassini (Genova)",
+    "nome": "Cassini",
+    "comune": "Genova",
+    "provincia": "GE",
+    "partecipazioni": 17,
+    "miglior_piazzamento": 1,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 3,
+        "punti": 598
+      },
+      {
+        "anno": 2006,
+        "posizione": 9,
+        "punti": 574
+      },
+      {
+        "anno": 2008,
+        "posizione": 12,
+        "punti": 586
+      },
+      {
+        "anno": 2009,
+        "posizione": 9,
+        "punti": 680
+      },
+      {
+        "anno": 2011,
+        "posizione": 3,
+        "punti": 944
+      },
+      {
+        "anno": 2012,
+        "posizione": 4,
+        "punti": 940
+      },
+      {
+        "anno": 2013,
+        "posizione": 4,
+        "punti": 996
+      },
+      {
+        "anno": 2014,
+        "posizione": 4,
+        "punti": 931
+      },
+      {
+        "anno": 2015,
+        "posizione": 3,
+        "punti": 1048
+      },
+      {
+        "anno": 2017,
+        "posizione": 27,
+        "punti": 446
+      },
+      {
+        "anno": 2019,
+        "posizione": 14,
+        "punti": 590
+      },
+      {
+        "anno": 2021,
+        "posizione": 20,
+        "punti": 630
+      },
+      {
+        "anno": 2022,
+        "posizione": 5,
+        "punti": 734
+      },
+      {
+        "anno": 2023,
+        "posizione": 20,
+        "punti": 608
+      },
+      {
+        "anno": 2024,
+        "posizione": 5,
+        "punti": 1269
+      },
+      {
+        "anno": 2025,
+        "posizione": 1,
+        "punti": 1681
+      },
+      {
+        "anno": 2026,
+        "posizione": 27,
+        "punti": 773
+      }
+    ]
+  },
+  "Castelnuovo (Firenze)": {
+    "id": "Castelnuovo (Firenze)",
+    "nome": "Castelnuovo",
+    "comune": "Firenze",
+    "provincia": "FI",
+    "partecipazioni": 6,
+    "miglior_piazzamento": 11,
+    "storia": [
+      {
+        "anno": 2018,
+        "posizione": 23,
+        "punti": 495
+      },
+      {
+        "anno": 2021,
+        "posizione": 38,
+        "punti": 436
+      },
+      {
+        "anno": 2023,
+        "posizione": 27,
+        "punti": 507
+      },
+      {
+        "anno": 2024,
+        "posizione": 15,
+        "punti": 968
+      },
+      {
+        "anno": 2025,
+        "posizione": 24,
+        "punti": 696
+      },
+      {
+        "anno": 2026,
+        "posizione": 11,
+        "punti": 1044
+      }
+    ]
+  },
+  "Cattaneo (Follonica)": {
+    "id": "Cattaneo (Follonica)",
+    "nome": "Cattaneo",
+    "comune": "Follonica",
+    "provincia": "GR",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 22,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 22,
+        "punti": 179
+      }
+    ]
+  },
+  "Cattaneo (Torino)": {
+    "id": "Cattaneo (Torino)",
+    "nome": "Cattaneo",
+    "comune": "Torino",
+    "provincia": "TO",
+    "partecipazioni": 14,
+    "miglior_piazzamento": 1,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 28,
+        "punti": -1
+      },
+      {
+        "anno": 2010,
+        "posizione": 1,
+        "punti": 983
+      },
+      {
+        "anno": 2011,
+        "posizione": 16,
+        "punti": 687
+      },
+      {
+        "anno": 2012,
+        "posizione": 7,
+        "punti": 783
+      },
+      {
+        "anno": 2013,
+        "posizione": 8,
+        "punti": 858
+      },
+      {
+        "anno": 2014,
+        "posizione": 34,
+        "punti": 366
+      },
+      {
+        "anno": 2015,
+        "posizione": 4,
+        "punti": 1026
+      },
+      {
+        "anno": 2019,
+        "posizione": 8,
+        "punti": 674
+      },
+      {
+        "anno": 2020,
+        "posizione": 18,
+        "punti": 520
+      },
+      {
+        "anno": 2021,
+        "posizione": 39,
+        "punti": 418
+      },
+      {
+        "anno": 2022,
+        "posizione": 9,
+        "punti": 608
+      },
+      {
+        "anno": 2024,
+        "posizione": 28,
+        "punti": 612
+      },
+      {
+        "anno": 2025,
+        "posizione": 3,
+        "punti": 1392
+      },
+      {
+        "anno": 2026,
+        "posizione": 28,
+        "punti": 764
+      }
+    ]
+  },
+  "Cavalieri (Verbania)": {
+    "id": "Cavalieri (Verbania)",
+    "nome": "Cavalieri",
+    "comune": "Verbania",
+    "provincia": "VB",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 4,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 4,
+        "punti": 655
+      },
+      {
+        "anno": 2007,
+        "posizione": 7,
+        "punti": 744
+      }
+    ]
+  },
+  "Cavour (Roma)": {
+    "id": "Cavour (Roma)",
+    "nome": "Cavour",
+    "comune": "Roma",
+    "provincia": "RM",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 20,
+    "storia": [
+      {
+        "anno": 2010,
+        "posizione": 20,
+        "punti": 599
+      }
+    ]
+  },
+  "Cavour (Torino)": {
+    "id": "Cavour (Torino)",
+    "nome": "Cavour",
+    "comune": "Torino",
+    "provincia": "TO",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 11,
+    "storia": [
+      {
+        "anno": 2008,
+        "posizione": 11,
+        "punti": 599
+      },
+      {
+        "anno": 2009,
+        "posizione": 30,
+        "punti": 343
+      }
+    ]
+  },
+  "Cecioni (Livorno)": {
+    "id": "Cecioni (Livorno)",
+    "nome": "Cecioni",
+    "comune": "Livorno",
+    "provincia": "LI",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 15,
+    "storia": [
+      {
+        "anno": 2011,
+        "posizione": 15,
+        "punti": 730
+      }
+    ]
+  },
+  "Copernico (Brescia)": {
+    "id": "Copernico (Brescia)",
+    "nome": "Copernico",
+    "comune": "Brescia",
+    "provincia": "BS",
+    "partecipazioni": 18,
+    "miglior_piazzamento": 1,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 20,
+        "punti": 455
+      },
+      {
+        "anno": 2007,
+        "posizione": 9,
+        "punti": 690
+      },
+      {
+        "anno": 2009,
+        "posizione": 11,
+        "punti": 647
+      },
+      {
+        "anno": 2010,
+        "posizione": 2,
+        "punti": 913
+      },
+      {
+        "anno": 2011,
+        "posizione": 14,
+        "punti": 742
+      },
+      {
+        "anno": 2012,
+        "posizione": 1,
+        "punti": 1359
+      },
+      {
+        "anno": 2013,
+        "posizione": 1,
+        "punti": 1562
+      },
+      {
+        "anno": 2014,
+        "posizione": 1,
+        "punti": 1277
+      },
+      {
+        "anno": 2015,
+        "posizione": 1,
+        "punti": 1520
+      },
+      {
+        "anno": 2016,
+        "posizione": 2,
+        "punti": 1131
+      },
+      {
+        "anno": 2017,
+        "posizione": 13,
+        "punti": 652
+      },
+      {
+        "anno": 2018,
+        "posizione": 5,
+        "punti": 971
+      },
+      {
+        "anno": 2019,
+        "posizione": 13,
+        "punti": 597
+      },
+      {
+        "anno": 2020,
+        "posizione": 11,
+        "punti": 767
+      },
+      {
+        "anno": 2021,
+        "posizione": 11,
+        "punti": 756
+      },
+      {
+        "anno": 2022,
+        "posizione": 22,
+        "punti": 245
+      },
+      {
+        "anno": 2023,
+        "posizione": 5,
+        "punti": 853
+      },
+      {
+        "anno": 2025,
+        "posizione": 11,
+        "punti": 909
+      }
+    ]
+  },
+  "Copernico (Prato)": {
+    "id": "Copernico (Prato)",
+    "nome": "Copernico",
+    "comune": "Prato",
+    "provincia": "PO",
+    "partecipazioni": 6,
+    "miglior_piazzamento": 9,
+    "storia": [
+      {
+        "anno": 2015,
+        "posizione": 24,
+        "punti": 688
+      },
+      {
+        "anno": 2019,
+        "posizione": 10,
+        "punti": 637
+      },
+      {
+        "anno": 2020,
+        "posizione": 14,
+        "punti": 719
+      },
+      {
+        "anno": 2021,
+        "posizione": 13,
+        "punti": 715
+      },
+      {
+        "anno": 2024,
+        "posizione": 9,
+        "punti": 1079
+      },
+      {
+        "anno": 2026,
+        "posizione": 16,
+        "punti": 973
+      }
+    ]
+  },
+  "Copernico (Torino)": {
+    "id": "Copernico (Torino)",
+    "nome": "Copernico",
+    "comune": "Torino",
+    "provincia": "TO",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 12,
+    "storia": [
+      {
+        "anno": 2009,
+        "posizione": 12,
+        "punti": 646
+      },
+      {
+        "anno": 2014,
+        "posizione": 36,
+        "punti": 338
+      }
+    ]
+  },
+  "Copernico (Udine)": {
+    "id": "Copernico (Udine)",
+    "nome": "Copernico",
+    "comune": "Udine",
+    "provincia": "UD",
+    "partecipazioni": 10,
+    "miglior_piazzamento": 5,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 5,
+        "punti": 648
+      },
+      {
+        "anno": 2007,
+        "posizione": 6,
+        "punti": 837
+      },
+      {
+        "anno": 2011,
+        "posizione": 26,
+        "punti": 464
+      },
+      {
+        "anno": 2014,
+        "posizione": 23,
+        "punti": 554
+      },
+      {
+        "anno": 2015,
+        "posizione": 20,
+        "punti": 755
+      },
+      {
+        "anno": 2017,
+        "posizione": 28,
+        "punti": 445
+      },
+      {
+        "anno": 2023,
+        "posizione": 26,
+        "punti": 509
+      },
+      {
+        "anno": 2024,
+        "posizione": 6,
+        "punti": 1252
+      },
+      {
+        "anno": 2025,
+        "posizione": 10,
+        "punti": 1072
+      },
+      {
+        "anno": 2026,
+        "posizione": 23,
+        "punti": 847
+      }
+    ]
+  },
+  "Corbino (Siracusa)": {
+    "id": "Corbino (Siracusa)",
+    "nome": "Corbino",
+    "comune": "Siracusa",
+    "provincia": "SR",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 25,
+    "storia": [
+      {
+        "anno": 2014,
+        "posizione": 25,
+        "punti": 483
+      }
+    ]
+  },
+  "Corni (Modena)": {
+    "id": "Corni (Modena)",
+    "nome": "Corni",
+    "comune": "Modena",
+    "provincia": "MO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 11,
+    "storia": [
+      {
+        "anno": 2014,
+        "posizione": 11,
+        "punti": 724
+      }
+    ]
+  },
+  "Corradini (Thiene)": {
+    "id": "Corradini (Thiene)",
+    "nome": "Corradini",
+    "comune": "Thiene",
+    "provincia": "VI",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 5,
+    "storia": [
+      {
+        "anno": 2017,
+        "posizione": 5,
+        "punti": 838
+      },
+      {
+        "anno": 2018,
+        "posizione": 19,
+        "punti": 547
+      },
+      {
+        "anno": 2024,
+        "posizione": 26,
+        "punti": 641
+      }
+    ]
+  },
+  "Croce (Roma)": {
+    "id": "Croce (Roma)",
+    "nome": "Croce",
+    "comune": "Roma",
+    "provincia": "RM",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 26,
+    "storia": [
+      {
+        "anno": 2016,
+        "posizione": 26,
+        "punti": 407
+      }
+    ]
+  },
+  "Curie (Giulianova)": {
+    "id": "Curie (Giulianova)",
+    "nome": "Curie",
+    "comune": "Giulianova",
+    "provincia": "TE",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 33,
+    "storia": [
+      {
+        "anno": 2015,
+        "posizione": 33,
+        "punti": 368
+      }
+    ]
+  },
+  "Curie (Pinerolo)": {
+    "id": "Curie (Pinerolo)",
+    "nome": "Curie",
+    "comune": "Pinerolo",
+    "provincia": "TO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 12,
+    "storia": [
+      {
+        "anno": 2017,
+        "posizione": 12,
+        "punti": 667
+      }
+    ]
+  },
+  "D'Arzo (Montecchio Emilia)": {
+    "id": "D'Arzo (Montecchio Emilia)",
+    "nome": "D'Arzo",
+    "comune": "Montecchio Emilia",
+    "provincia": "RE",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 17,
+    "storia": [
+      {
+        "anno": 2013,
+        "posizione": 17,
+        "punti": 507
+      }
+    ]
+  },
+  "Da Vinci (Firenze)": {
+    "id": "Da Vinci (Firenze)",
+    "nome": "Da Vinci",
+    "comune": "Firenze",
+    "provincia": "FI",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 33,
+    "storia": [
+      {
+        "anno": 2009,
+        "posizione": 33,
+        "punti": 297
+      }
+    ]
+  },
+  "Da Vinci (Genova)": {
+    "id": "Da Vinci (Genova)",
+    "nome": "Da Vinci",
+    "comune": "Genova",
+    "provincia": "GE",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 4,
+    "storia": [
+      {
+        "anno": 2026,
+        "posizione": 4,
+        "punti": 1332
+      }
+    ]
+  },
+  "Da Vinci (Milano)": {
+    "id": "Da Vinci (Milano)",
+    "nome": "Da Vinci",
+    "comune": "Milano",
+    "provincia": "MI",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 23,
+    "storia": [
+      {
+        "anno": 2020,
+        "posizione": 23,
+        "punti": 353
+      },
+      {
+        "anno": 2021,
+        "posizione": 43,
+        "punti": 360
+      }
+    ]
+  },
+  "Da Vinci (Trento)": {
+    "id": "Da Vinci (Trento)",
+    "nome": "Da Vinci",
+    "comune": "Trento",
+    "provincia": "TN",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 5,
+    "storia": [
+      {
+        "anno": 2004,
+        "posizione": 5,
+        "punti": 723
+      }
+    ]
+  },
+  "Da Vinci (Treviso)": {
+    "id": "Da Vinci (Treviso)",
+    "nome": "Da Vinci",
+    "comune": "Treviso",
+    "provincia": "TV",
+    "partecipazioni": 15,
+    "miglior_piazzamento": 1,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 13,
+        "punti": 529
+      },
+      {
+        "anno": 2009,
+        "posizione": 1,
+        "punti": 981
+      },
+      {
+        "anno": 2010,
+        "posizione": 5,
+        "punti": 838
+      },
+      {
+        "anno": 2011,
+        "posizione": 1,
+        "punti": 1103
+      },
+      {
+        "anno": 2012,
+        "posizione": 2,
+        "punti": 1169
+      },
+      {
+        "anno": 2013,
+        "posizione": 5,
+        "punti": 993
+      },
+      {
+        "anno": 2014,
+        "posizione": 5,
+        "punti": 876
+      },
+      {
+        "anno": 2015,
+        "posizione": 23,
+        "punti": 694
+      },
+      {
+        "anno": 2016,
+        "posizione": 17,
+        "punti": 638
+      },
+      {
+        "anno": 2017,
+        "posizione": 31,
+        "punti": 308
+      },
+      {
+        "anno": 2018,
+        "posizione": 16,
+        "punti": 599
+      },
+      {
+        "anno": 2021,
+        "posizione": 12,
+        "punti": 743
+      },
+      {
+        "anno": 2022,
+        "posizione": 11,
+        "punti": 519
+      },
+      {
+        "anno": 2025,
+        "posizione": 8,
+        "punti": 1118
+      },
+      {
+        "anno": 2026,
+        "posizione": 17,
+        "punti": 952
+      }
+    ]
+  },
+  "Da Vinci-Pascoli (Gallarate)": {
+    "id": "Da Vinci-Pascoli (Gallarate)",
+    "nome": "Da Vinci-Pascoli",
+    "comune": "Gallarate",
+    "provincia": "VA",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 23,
+    "storia": [
+      {
+        "anno": 2025,
+        "posizione": 23,
+        "punti": 717
+      }
+    ]
+  },
+  "Dante Alighieri (Roma)": {
+    "id": "Dante Alighieri (Roma)",
+    "nome": "Dante Alighieri",
+    "comune": "Roma",
+    "provincia": "RM",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 2,
+    "storia": [
+      {
+        "anno": 2009,
+        "posizione": 2,
+        "punti": 935
+      }
+    ]
+  },
+  "De Giorgi (Lecce)": {
+    "id": "De Giorgi (Lecce)",
+    "nome": "De Giorgi",
+    "comune": "Lecce",
+    "provincia": "LE",
+    "partecipazioni": 4,
+    "miglior_piazzamento": 11,
+    "storia": [
+      {
+        "anno": 2021,
+        "posizione": 35,
+        "punti": 481
+      },
+      {
+        "anno": 2022,
+        "posizione": 14,
+        "punti": 451
+      },
+      {
+        "anno": 2024,
+        "posizione": 11,
+        "punti": 1059
+      },
+      {
+        "anno": 2026,
+        "posizione": 25,
+        "punti": 796
+      }
+    ]
+  },
+  "Di Savoia (Pistoia)": {
+    "id": "Di Savoia (Pistoia)",
+    "nome": "Di Savoia",
+    "comune": "Pistoia",
+    "provincia": "PT",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 23,
+    "storia": [
+      {
+        "anno": 2010,
+        "posizione": 23,
+        "punti": 560
+      },
+      {
+        "anno": 2026,
+        "posizione": 33,
+        "punti": 570
+      }
+    ]
+  },
+  "Di Savoia-Benincasa (Ancona)": {
+    "id": "Di Savoia-Benincasa (Ancona)",
+    "nome": "Di Savoia-Benincasa",
+    "comune": "Ancona",
+    "provincia": "AN",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 19,
+    "storia": [
+      {
+        "anno": 2017,
+        "posizione": 29,
+        "punti": 406
+      },
+      {
+        "anno": 2025,
+        "posizione": 19,
+        "punti": 741
+      }
+    ]
+  },
+  "Dini (Pisa)": {
+    "id": "Dini (Pisa)",
+    "nome": "Dini",
+    "comune": "Pisa",
+    "provincia": "PI",
+    "partecipazioni": 14,
+    "miglior_piazzamento": 2,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 15,
+        "punti": 508
+      },
+      {
+        "anno": 2007,
+        "posizione": 20,
+        "punti": 483
+      },
+      {
+        "anno": 2009,
+        "posizione": 34,
+        "punti": 137
+      },
+      {
+        "anno": 2010,
+        "posizione": 26,
+        "punti": 545
+      },
+      {
+        "anno": 2011,
+        "posizione": 5,
+        "punti": 924
+      },
+      {
+        "anno": 2013,
+        "posizione": 15,
+        "punti": 539
+      },
+      {
+        "anno": 2018,
+        "posizione": 13,
+        "punti": 680
+      },
+      {
+        "anno": 2020,
+        "posizione": 15,
+        "punti": 699
+      },
+      {
+        "anno": 2021,
+        "posizione": 2,
+        "punti": 1195
+      },
+      {
+        "anno": 2022,
+        "posizione": 2,
+        "punti": 1232
+      },
+      {
+        "anno": 2023,
+        "posizione": 25,
+        "punti": 523
+      },
+      {
+        "anno": 2024,
+        "posizione": 7,
+        "punti": 1154
+      },
+      {
+        "anno": 2025,
+        "posizione": 6,
+        "punti": 1212
+      },
+      {
+        "anno": 2026,
+        "posizione": 3,
+        "punti": 1408
+      }
+    ]
+  },
+  "Don Milani (Montichiari)": {
+    "id": "Don Milani (Montichiari)",
+    "nome": "Don Milani",
+    "comune": "Montichiari",
+    "provincia": "BS",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 32,
+    "storia": [
+      {
+        "anno": 2017,
+        "posizione": 32,
+        "punti": 223
+      },
+      {
+        "anno": 2021,
+        "posizione": 47,
+        "punti": 289
+      }
+    ]
+  },
+  "Donatelli (Terni)": {
+    "id": "Donatelli (Terni)",
+    "nome": "Donatelli",
+    "comune": "Terni",
+    "provincia": "TR",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 22,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 27,
+        "punti": 286
+      },
+      {
+        "anno": 2007,
+        "posizione": 22,
+        "punti": 449
+      },
+      {
+        "anno": 2021,
+        "posizione": 22,
+        "punti": 592
+      }
+    ]
+  },
+  "Douhet (Firenze)": {
+    "id": "Douhet (Firenze)",
+    "nome": "Douhet",
+    "comune": "Firenze",
+    "provincia": "FI",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 18,
+    "storia": [
+      {
+        "anno": 2013,
+        "posizione": 29,
+        "punti": 202
+      },
+      {
+        "anno": 2014,
+        "posizione": 18,
+        "punti": 601
+      }
+    ]
+  },
+  "Einstein (Palermo)": {
+    "id": "Einstein (Palermo)",
+    "nome": "Einstein",
+    "comune": "Palermo",
+    "provincia": "PA",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 30,
+    "storia": [
+      {
+        "anno": 2017,
+        "posizione": 30,
+        "punti": 322
+      }
+    ]
+  },
+  "Einstein (Piove di Sacco)": {
+    "id": "Einstein (Piove di Sacco)",
+    "nome": "Einstein",
+    "comune": "Piove di Sacco",
+    "provincia": "PD",
+    "partecipazioni": 4,
+    "miglior_piazzamento": 2,
+    "storia": [
+      {
+        "anno": 2004,
+        "posizione": 4,
+        "punti": 732
+      },
+      {
+        "anno": 2005,
+        "posizione": 2,
+        "punti": 598
+      },
+      {
+        "anno": 2006,
+        "posizione": 18,
+        "punti": 457
+      },
+      {
+        "anno": 2008,
+        "posizione": 26,
+        "punti": 387
+      }
+    ]
+  },
+  "Einstein (Teramo)": {
+    "id": "Einstein (Teramo)",
+    "nome": "Einstein",
+    "comune": "Teramo",
+    "provincia": "TE",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 10,
+    "storia": [
+      {
+        "anno": 2013,
+        "posizione": 16,
+        "punti": 513
+      },
+      {
+        "anno": 2014,
+        "posizione": 10,
+        "punti": 726
+      }
+    ]
+  },
+  "Failla Tedaldi (Castelbuono)": {
+    "id": "Failla Tedaldi (Castelbuono)",
+    "nome": "Failla Tedaldi",
+    "comune": "Castelbuono",
+    "provincia": "PA",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 25,
+    "storia": [
+      {
+        "anno": 2010,
+        "posizione": 25,
+        "punti": 553
+      }
+    ]
+  },
+  "Falcone (Asola)": {
+    "id": "Falcone (Asola)",
+    "nome": "Falcone",
+    "comune": "Asola",
+    "provincia": "MN",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 16,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 16,
+        "punti": 302
+      },
+      {
+        "anno": 2008,
+        "posizione": 21,
+        "punti": 485
+      }
+    ]
+  },
+  "Fanti (Carpi)": {
+    "id": "Fanti (Carpi)",
+    "nome": "Fanti",
+    "comune": "Carpi",
+    "provincia": "MO",
+    "partecipazioni": 4,
+    "miglior_piazzamento": 12,
+    "storia": [
+      {
+        "anno": 2007,
+        "posizione": 21,
+        "punti": 465
+      },
+      {
+        "anno": 2008,
+        "posizione": 14,
+        "punti": 562
+      },
+      {
+        "anno": 2021,
+        "posizione": 45,
+        "punti": 322
+      },
+      {
+        "anno": 2023,
+        "posizione": 12,
+        "punti": 722
+      }
+    ]
+  },
+  "Farinato (Enna)": {
+    "id": "Farinato (Enna)",
+    "nome": "Farinato",
+    "comune": "Enna",
+    "provincia": "EN",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 5,
+    "storia": [
+      {
+        "anno": 2008,
+        "posizione": 22,
+        "punti": 470
+      },
+      {
+        "anno": 2009,
+        "posizione": 5,
+        "punti": 861
+      },
+      {
+        "anno": 2011,
+        "posizione": 28,
+        "punti": 314
+      }
+    ]
+  },
+  "Fermi (Bologna)": {
+    "id": "Fermi (Bologna)",
+    "nome": "Fermi",
+    "comune": "Bologna",
+    "provincia": "BO",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 19,
+    "storia": [
+      {
+        "anno": 2009,
+        "posizione": 27,
+        "punti": 399
+      },
+      {
+        "anno": 2025,
+        "posizione": 22,
+        "punti": 720
+      },
+      {
+        "anno": 2026,
+        "posizione": 19,
+        "punti": 930
+      }
+    ]
+  },
+  "Fermi (Cantù)": {
+    "id": "Fermi (Cantù)",
+    "nome": "Fermi",
+    "comune": "Cantù",
+    "provincia": "CO",
+    "partecipazioni": 9,
+    "miglior_piazzamento": 4,
+    "storia": [
+      {
+        "anno": 2014,
+        "posizione": 28,
+        "punti": 448
+      },
+      {
+        "anno": 2016,
+        "posizione": 14,
+        "punti": 656
+      },
+      {
+        "anno": 2017,
+        "posizione": 6,
+        "punti": 823
+      },
+      {
+        "anno": 2018,
+        "posizione": 25,
+        "punti": 470
+      },
+      {
+        "anno": 2021,
+        "posizione": 40,
+        "punti": 379
+      },
+      {
+        "anno": 2022,
+        "posizione": 8,
+        "punti": 634
+      },
+      {
+        "anno": 2023,
+        "posizione": 4,
+        "punti": 934
+      },
+      {
+        "anno": 2024,
+        "posizione": 14,
+        "punti": 997
+      },
+      {
+        "anno": 2026,
+        "posizione": 10,
+        "punti": 1051
+      }
+    ]
+  },
+  "Fermi (Montesarchio)": {
+    "id": "Fermi (Montesarchio)",
+    "nome": "Fermi",
+    "comune": "Montesarchio",
+    "provincia": "BN",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 32,
+    "storia": [
+      {
+        "anno": 2009,
+        "posizione": 32,
+        "punti": 323
+      }
+    ]
+  },
+  "Fermi (Padova)": {
+    "id": "Fermi (Padova)",
+    "nome": "Fermi",
+    "comune": "Padova",
+    "provincia": "PD",
+    "partecipazioni": 8,
+    "miglior_piazzamento": 3,
+    "storia": [
+      {
+        "anno": 2012,
+        "posizione": 28,
+        "punti": 356
+      },
+      {
+        "anno": 2019,
+        "posizione": 4,
+        "punti": 774
+      },
+      {
+        "anno": 2020,
+        "posizione": 7,
+        "punti": 899
+      },
+      {
+        "anno": 2021,
+        "posizione": 3,
+        "punti": 1133
+      },
+      {
+        "anno": 2022,
+        "posizione": 3,
+        "punti": 886
+      },
+      {
+        "anno": 2023,
+        "posizione": 30,
+        "punti": 434
+      },
+      {
+        "anno": 2024,
+        "posizione": 19,
+        "punti": 838
+      },
+      {
+        "anno": 2026,
+        "posizione": 12,
+        "punti": 1042
+      }
+    ]
+  },
+  "Ferraris (Torino)": {
+    "id": "Ferraris (Torino)",
+    "nome": "Ferraris",
+    "comune": "Torino",
+    "provincia": "TO",
+    "partecipazioni": 17,
+    "miglior_piazzamento": 1,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 16,
+        "punti": 496
+      },
+      {
+        "anno": 2009,
+        "posizione": 8,
+        "punti": 700
+      },
+      {
+        "anno": 2010,
+        "posizione": 14,
+        "punti": 638
+      },
+      {
+        "anno": 2011,
+        "posizione": 27,
+        "punti": 412
+      },
+      {
+        "anno": 2012,
+        "posizione": 25,
+        "punti": 411
+      },
+      {
+        "anno": 2014,
+        "posizione": 6,
+        "punti": 763
+      },
+      {
+        "anno": 2016,
+        "posizione": 12,
+        "punti": 688
+      },
+      {
+        "anno": 2017,
+        "posizione": 4,
+        "punti": 849
+      },
+      {
+        "anno": 2018,
+        "posizione": 8,
+        "punti": 798
+      },
+      {
+        "anno": 2019,
+        "posizione": 2,
+        "punti": 1006
+      },
+      {
+        "anno": 2020,
+        "posizione": 5,
+        "punti": 1104
+      },
+      {
+        "anno": 2021,
+        "posizione": 6,
+        "punti": 849
+      },
+      {
+        "anno": 2022,
+        "posizione": 1,
+        "punti": 1305
+      },
+      {
+        "anno": 2023,
+        "posizione": 1,
+        "punti": 1410
+      },
+      {
+        "anno": 2024,
+        "posizione": 2,
+        "punti": 1321
+      },
+      {
+        "anno": 2025,
+        "posizione": 4,
+        "punti": 1352
+      },
+      {
+        "anno": 2026,
+        "posizione": 1,
+        "punti": 1493
+      }
+    ]
+  },
+  "Flaminio (Vittorio Veneto)": {
+    "id": "Flaminio (Vittorio Veneto)",
+    "nome": "Flaminio",
+    "comune": "Vittorio Veneto",
+    "provincia": "TV",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 18,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 18,
+        "punti": 227
+      }
+    ]
+  },
+  "Fracastoro (Verona)": {
+    "id": "Fracastoro (Verona)",
+    "nome": "Fracastoro",
+    "comune": "Verona",
+    "provincia": "VR",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 21,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 21,
+        "punti": 208
+      }
+    ]
+  },
+  "Frisi (Monza)": {
+    "id": "Frisi (Monza)",
+    "nome": "Frisi",
+    "comune": "Monza",
+    "provincia": "MB",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 8,
+    "storia": [
+      {
+        "anno": 2014,
+        "posizione": 8,
+        "punti": 753
+      },
+      {
+        "anno": 2017,
+        "posizione": 10,
+        "punti": 717
+      },
+      {
+        "anno": 2025,
+        "posizione": 31,
+        "punti": 577
+      }
+    ]
+  },
+  "Galilei (Alessandria)": {
+    "id": "Galilei (Alessandria)",
+    "nome": "Galilei",
+    "comune": "Alessandria",
+    "provincia": "AL",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 28,
+    "storia": [
+      {
+        "anno": 2010,
+        "posizione": 28,
+        "punti": 522
+      }
+    ]
+  },
+  "Galilei (Belluno)": {
+    "id": "Galilei (Belluno)",
+    "nome": "Galilei",
+    "comune": "Belluno",
+    "provincia": "BL",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 13,
+    "storia": [
+      {
+        "anno": 2009,
+        "posizione": 17,
+        "punti": 600
+      },
+      {
+        "anno": 2012,
+        "posizione": 13,
+        "punti": 579
+      }
+    ]
+  },
+  "Galilei (Caravaggio)": {
+    "id": "Galilei (Caravaggio)",
+    "nome": "Galilei",
+    "comune": "Caravaggio",
+    "provincia": "BG",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 34,
+    "storia": [
+      {
+        "anno": 2025,
+        "posizione": 34,
+        "punti": 443
+      }
+    ]
+  },
+  "Galilei (Catania)": {
+    "id": "Galilei (Catania)",
+    "nome": "Galilei",
+    "comune": "Catania",
+    "provincia": "CT",
+    "partecipazioni": 7,
+    "miglior_piazzamento": 12,
+    "storia": [
+      {
+        "anno": 2013,
+        "posizione": 19,
+        "punti": 486
+      },
+      {
+        "anno": 2017,
+        "posizione": 20,
+        "punti": 530
+      },
+      {
+        "anno": 2018,
+        "posizione": 12,
+        "punti": 706
+      },
+      {
+        "anno": 2019,
+        "posizione": 12,
+        "punti": 610
+      },
+      {
+        "anno": 2021,
+        "posizione": 23,
+        "punti": 588
+      },
+      {
+        "anno": 2022,
+        "posizione": 16,
+        "punti": 434
+      },
+      {
+        "anno": 2026,
+        "posizione": 21,
+        "punti": 859
+      }
+    ]
+  },
+  "Galilei (Civitavecchia)": {
+    "id": "Galilei (Civitavecchia)",
+    "nome": "Galilei",
+    "comune": "Civitavecchia",
+    "provincia": "RM",
+    "partecipazioni": 4,
+    "miglior_piazzamento": 4,
+    "storia": [
+      {
+        "anno": 2018,
+        "posizione": 15,
+        "punti": 604
+      },
+      {
+        "anno": 2020,
+        "posizione": 4,
+        "punti": 1117
+      },
+      {
+        "anno": 2021,
+        "posizione": 5,
+        "punti": 906
+      },
+      {
+        "anno": 2022,
+        "posizione": 4,
+        "punti": 780
+      }
+    ]
+  },
+  "Galilei (Crema)": {
+    "id": "Galilei (Crema)",
+    "nome": "Galilei",
+    "comune": "Crema",
+    "provincia": "CR",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 18,
+    "storia": [
+      {
+        "anno": 2015,
+        "posizione": 18,
+        "punti": 766
+      }
+    ]
+  },
+  "Galilei (Dolo)": {
+    "id": "Galilei (Dolo)",
+    "nome": "Galilei",
+    "comune": "Dolo",
+    "provincia": "VE",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 8,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 8,
+        "punti": 485
+      },
+      {
+        "anno": 2006,
+        "posizione": 21,
+        "punti": 439
+      }
+    ]
+  },
+  "Galilei (Erba)": {
+    "id": "Galilei (Erba)",
+    "nome": "Galilei",
+    "comune": "Erba",
+    "provincia": "CO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 29,
+    "storia": [
+      {
+        "anno": 2026,
+        "posizione": 29,
+        "punti": 714
+      }
+    ]
+  },
+  "Galilei (Manfredonia)": {
+    "id": "Galilei (Manfredonia)",
+    "nome": "Galilei",
+    "comune": "Manfredonia",
+    "provincia": "FG",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 18,
+    "storia": [
+      {
+        "anno": 2010,
+        "posizione": 18,
+        "punti": 616
+      }
+    ]
+  },
+  "Galilei (Perugia)": {
+    "id": "Galilei (Perugia)",
+    "nome": "Galilei",
+    "comune": "Perugia",
+    "provincia": "PG",
+    "partecipazioni": 5,
+    "miglior_piazzamento": 19,
+    "storia": [
+      {
+        "anno": 2010,
+        "posizione": 24,
+        "punti": 559
+      },
+      {
+        "anno": 2017,
+        "posizione": 19,
+        "punti": 543
+      },
+      {
+        "anno": 2019,
+        "posizione": 31,
+        "punti": 236
+      },
+      {
+        "anno": 2021,
+        "posizione": 30,
+        "punti": 507
+      },
+      {
+        "anno": 2025,
+        "posizione": 36,
+        "punti": 269
+      }
+    ]
+  },
+  "Galilei (Pescara)": {
+    "id": "Galilei (Pescara)",
+    "nome": "Galilei",
+    "comune": "Pescara",
+    "provincia": "PE",
+    "partecipazioni": 5,
+    "miglior_piazzamento": 7,
+    "storia": [
+      {
+        "anno": 2012,
+        "posizione": 27,
+        "punti": 379
+      },
+      {
+        "anno": 2016,
+        "posizione": 30,
+        "punti": 375
+      },
+      {
+        "anno": 2019,
+        "posizione": 27,
+        "punti": 287
+      },
+      {
+        "anno": 2024,
+        "posizione": 25,
+        "punti": 680
+      },
+      {
+        "anno": 2026,
+        "posizione": 7,
+        "punti": 1215
+      }
+    ]
+  },
+  "Galilei (Trento)": {
+    "id": "Galilei (Trento)",
+    "nome": "Galilei",
+    "comune": "Trento",
+    "provincia": "TN",
+    "partecipazioni": 11,
+    "miglior_piazzamento": 12,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 12,
+        "punti": 541
+      },
+      {
+        "anno": 2010,
+        "posizione": 30,
+        "punti": 484
+      },
+      {
+        "anno": 2014,
+        "posizione": 17,
+        "punti": 605
+      },
+      {
+        "anno": 2016,
+        "posizione": 31,
+        "punti": 330
+      },
+      {
+        "anno": 2017,
+        "posizione": 26,
+        "punti": 463
+      },
+      {
+        "anno": 2018,
+        "posizione": 32,
+        "punti": 272
+      },
+      {
+        "anno": 2019,
+        "posizione": 18,
+        "punti": 401
+      },
+      {
+        "anno": 2021,
+        "posizione": 24,
+        "punti": 576
+      },
+      {
+        "anno": 2022,
+        "posizione": 19,
+        "punti": 390
+      },
+      {
+        "anno": 2025,
+        "posizione": 14,
+        "punti": 892
+      },
+      {
+        "anno": 2026,
+        "posizione": 26,
+        "punti": 796
+      }
+    ]
+  },
+  "Galilei (Trieste)": {
+    "id": "Galilei (Trieste)",
+    "nome": "Galilei",
+    "comune": "Trieste",
+    "provincia": "TS",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 20,
+    "storia": [
+      {
+        "anno": 2026,
+        "posizione": 20,
+        "punti": 864
+      }
+    ]
+  },
+  "Galilei (Verona)": {
+    "id": "Galilei (Verona)",
+    "nome": "Galilei",
+    "comune": "Verona",
+    "provincia": "VR",
+    "partecipazioni": 6,
+    "miglior_piazzamento": 11,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 12,
+        "punti": 441
+      },
+      {
+        "anno": 2006,
+        "posizione": 23,
+        "punti": 414
+      },
+      {
+        "anno": 2007,
+        "posizione": 11,
+        "punti": 650
+      },
+      {
+        "anno": 2008,
+        "posizione": 28,
+        "punti": 353
+      },
+      {
+        "anno": 2009,
+        "posizione": 13,
+        "punti": 630
+      },
+      {
+        "anno": 2019,
+        "posizione": 11,
+        "punti": 617
+      }
+    ]
+  },
+  "Galilei Moro (Manfredonia)": {
+    "id": "Galilei Moro (Manfredonia)",
+    "nome": "Galilei Moro",
+    "comune": "Manfredonia",
+    "provincia": "FG",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 22,
+    "storia": [
+      {
+        "anno": 2020,
+        "posizione": 22,
+        "punti": 404
+      }
+    ]
+  },
+  "Galilei-Moro (Manfredonia)": {
+    "id": "Galilei-Moro (Manfredonia)",
+    "nome": "Galilei-Moro",
+    "comune": "Manfredonia",
+    "provincia": "FG",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 28,
+    "storia": [
+      {
+        "anno": 2021,
+        "posizione": 28,
+        "punti": 546
+      }
+    ]
+  },
+  "Galvani (Bologna)": {
+    "id": "Galvani (Bologna)",
+    "nome": "Galvani",
+    "comune": "Bologna",
+    "provincia": "BO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 21,
+    "storia": [
+      {
+        "anno": 2025,
+        "posizione": 21,
+        "punti": 723
+      }
+    ]
+  },
+  "Gandhi (Narni)": {
+    "id": "Gandhi (Narni)",
+    "nome": "Gandhi",
+    "comune": "Narni",
+    "provincia": "TR",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 20,
+    "storia": [
+      {
+        "anno": 2009,
+        "posizione": 20,
+        "punti": 502
+      },
+      {
+        "anno": 2014,
+        "posizione": 35,
+        "punti": 366
+      }
+    ]
+  },
+  "Gandini (Lodi)": {
+    "id": "Gandini (Lodi)",
+    "nome": "Gandini",
+    "comune": "Lodi",
+    "provincia": "LO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 13,
+    "storia": [
+      {
+        "anno": 2015,
+        "posizione": 13,
+        "punti": 840
+      }
+    ]
+  },
+  "Giannone (Benevento)": {
+    "id": "Giannone (Benevento)",
+    "nome": "Giannone",
+    "comune": "Benevento",
+    "provincia": "BN",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 23,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 23,
+        "punti": 110
+      }
+    ]
+  },
+  "Gioia (Piacenza)": {
+    "id": "Gioia (Piacenza)",
+    "nome": "Gioia",
+    "comune": "Piacenza",
+    "provincia": "PC",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 2,
+    "storia": [
+      {
+        "anno": 2004,
+        "posizione": 2,
+        "punti": 807
+      },
+      {
+        "anno": 2005,
+        "posizione": 15,
+        "punti": 326
+      }
+    ]
+  },
+  "Gobetti (Torino)": {
+    "id": "Gobetti (Torino)",
+    "nome": "Gobetti",
+    "comune": "Torino",
+    "provincia": "TO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 28,
+    "storia": [
+      {
+        "anno": 2018,
+        "posizione": 28,
+        "punti": 390
+      }
+    ]
+  },
+  "Golgi (Breno)": {
+    "id": "Golgi (Breno)",
+    "nome": "Golgi",
+    "comune": "Breno",
+    "provincia": "BS",
+    "partecipazioni": 12,
+    "miglior_piazzamento": 5,
+    "storia": [
+      {
+        "anno": 2013,
+        "posizione": 20,
+        "punti": 473
+      },
+      {
+        "anno": 2014,
+        "posizione": 7,
+        "punti": 755
+      },
+      {
+        "anno": 2015,
+        "posizione": 25,
+        "punti": 685
+      },
+      {
+        "anno": 2016,
+        "posizione": 5,
+        "punti": 840
+      },
+      {
+        "anno": 2017,
+        "posizione": 16,
+        "punti": 556
+      },
+      {
+        "anno": 2018,
+        "posizione": 20,
+        "punti": 539
+      },
+      {
+        "anno": 2019,
+        "posizione": 7,
+        "punti": 687
+      },
+      {
+        "anno": 2020,
+        "posizione": 6,
+        "punti": 938
+      },
+      {
+        "anno": 2021,
+        "posizione": 14,
+        "punti": 704
+      },
+      {
+        "anno": 2022,
+        "posizione": 20,
+        "punti": 324
+      },
+      {
+        "anno": 2023,
+        "posizione": 18,
+        "punti": 645
+      },
+      {
+        "anno": 2024,
+        "posizione": 18,
+        "punti": 853
+      }
+    ]
+  },
+  "Grassi (Lecco)": {
+    "id": "Grassi (Lecco)",
+    "nome": "Grassi",
+    "comune": "Lecco",
+    "provincia": "LC",
+    "partecipazioni": 7,
+    "miglior_piazzamento": 15,
+    "storia": [
+      {
+        "anno": 2013,
+        "posizione": 27,
+        "punti": 290
+      },
+      {
+        "anno": 2014,
+        "posizione": 32,
+        "punti": 413
+      },
+      {
+        "anno": 2016,
+        "posizione": 23,
+        "punti": 466
+      },
+      {
+        "anno": 2018,
+        "posizione": 31,
+        "punti": 324
+      },
+      {
+        "anno": 2019,
+        "posizione": 15,
+        "punti": 584
+      },
+      {
+        "anno": 2025,
+        "posizione": 20,
+        "punti": 733
+      },
+      {
+        "anno": 2026,
+        "posizione": 34,
+        "punti": 560
+      }
+    ]
+  },
+  "Grassi (Saronno)": {
+    "id": "Grassi (Saronno)",
+    "nome": "Grassi",
+    "comune": "Saronno",
+    "provincia": "VA",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 13,
+    "storia": [
+      {
+        "anno": 2022,
+        "posizione": 13,
+        "punti": 488
+      }
+    ]
+  },
+  "Grigoletti (Pordenone)": {
+    "id": "Grigoletti (Pordenone)",
+    "nome": "Grigoletti",
+    "comune": "Pordenone",
+    "provincia": "PN",
+    "partecipazioni": 7,
+    "miglior_piazzamento": 10,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 10,
+        "punti": 458
+      },
+      {
+        "anno": 2006,
+        "posizione": 17,
+        "punti": 468
+      },
+      {
+        "anno": 2007,
+        "posizione": 17,
+        "punti": 542
+      },
+      {
+        "anno": 2008,
+        "posizione": 20,
+        "punti": 485
+      },
+      {
+        "anno": 2015,
+        "posizione": 16,
+        "punti": 793
+      },
+      {
+        "anno": 2016,
+        "posizione": 15,
+        "punti": 656
+      },
+      {
+        "anno": 2026,
+        "posizione": 18,
+        "punti": 939
+      }
+    ]
+  },
+  "Jacopo da Ponte (Bassano del Grappa)": {
+    "id": "Jacopo da Ponte (Bassano del Grappa)",
+    "nome": "Jacopo da Ponte",
+    "comune": "Bassano del Grappa",
+    "provincia": "VI",
+    "partecipazioni": 7,
+    "miglior_piazzamento": 1,
+    "storia": [
+      {
+        "anno": 2011,
+        "posizione": 22,
+        "punti": 540
+      },
+      {
+        "anno": 2014,
+        "posizione": 15,
+        "punti": 621
+      },
+      {
+        "anno": 2019,
+        "posizione": 21,
+        "punti": 391
+      },
+      {
+        "anno": 2020,
+        "posizione": 1,
+        "punti": 1367
+      },
+      {
+        "anno": 2021,
+        "posizione": 9,
+        "punti": 786
+      },
+      {
+        "anno": 2023,
+        "posizione": 11,
+        "punti": 733
+      },
+      {
+        "anno": 2024,
+        "posizione": 10,
+        "punti": 1060
+      }
+    ]
+  },
+  "Juvarra (Venaria Reale)": {
+    "id": "Juvarra (Venaria Reale)",
+    "nome": "Juvarra",
+    "comune": "Venaria Reale",
+    "provincia": "TO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 30,
+    "storia": [
+      {
+        "anno": 2026,
+        "posizione": 30,
+        "punti": 679
+      }
+    ]
+  },
+  "King (Genova)": {
+    "id": "King (Genova)",
+    "nome": "King",
+    "comune": "Genova",
+    "provincia": "GE",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 3,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 14,
+        "punti": 408
+      },
+      {
+        "anno": 2006,
+        "posizione": 3,
+        "punti": 669
+      },
+      {
+        "anno": 2008,
+        "posizione": 19,
+        "punti": 523
+      }
+    ]
+  },
+  "Labriola (Roma)": {
+    "id": "Labriola (Roma)",
+    "nome": "Labriola",
+    "comune": "Roma",
+    "provincia": "RM",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 15,
+    "storia": [
+      {
+        "anno": 2010,
+        "posizione": 15,
+        "punti": 634
+      }
+    ]
+  },
+  "Landi (Velletri)": {
+    "id": "Landi (Velletri)",
+    "nome": "Landi",
+    "comune": "Velletri",
+    "provincia": "RM",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 3,
+    "storia": [
+      {
+        "anno": 2015,
+        "posizione": 6,
+        "punti": 922
+      },
+      {
+        "anno": 2017,
+        "posizione": 3,
+        "punti": 897
+      }
+    ]
+  },
+  "Lanfranconi (Genova)": {
+    "id": "Lanfranconi (Genova)",
+    "nome": "Lanfranconi",
+    "comune": "Genova",
+    "provincia": "GE",
+    "partecipazioni": 4,
+    "miglior_piazzamento": 5,
+    "storia": [
+      {
+        "anno": 2008,
+        "posizione": 5,
+        "punti": 795
+      },
+      {
+        "anno": 2009,
+        "posizione": 14,
+        "punti": 625
+      },
+      {
+        "anno": 2010,
+        "posizione": 34,
+        "punti": 308
+      },
+      {
+        "anno": 2021,
+        "posizione": 26,
+        "punti": 565
+      }
+    ]
+  },
+  "Leonardo (Brescia)": {
+    "id": "Leonardo (Brescia)",
+    "nome": "Leonardo",
+    "comune": "Brescia",
+    "provincia": "BS",
+    "partecipazioni": 21,
+    "miglior_piazzamento": 1,
+    "storia": [
+      {
+        "anno": 2004,
+        "posizione": 1,
+        "punti": 840
+      },
+      {
+        "anno": 2005,
+        "posizione": 4,
+        "punti": 568
+      },
+      {
+        "anno": 2006,
+        "posizione": 2,
+        "punti": 673
+      },
+      {
+        "anno": 2007,
+        "posizione": 3,
+        "punti": 899
+      },
+      {
+        "anno": 2008,
+        "posizione": 4,
+        "punti": 892
+      },
+      {
+        "anno": 2009,
+        "posizione": 25,
+        "punti": 426
+      },
+      {
+        "anno": 2010,
+        "posizione": 10,
+        "punti": 692
+      },
+      {
+        "anno": 2011,
+        "posizione": 19,
+        "punti": 641
+      },
+      {
+        "anno": 2012,
+        "posizione": 24,
+        "punti": 435
+      },
+      {
+        "anno": 2014,
+        "posizione": 9,
+        "punti": 747
+      },
+      {
+        "anno": 2015,
+        "posizione": 15,
+        "punti": 812
+      },
+      {
+        "anno": 2016,
+        "posizione": 1,
+        "punti": 1144
+      },
+      {
+        "anno": 2017,
+        "posizione": 1,
+        "punti": 1113
+      },
+      {
+        "anno": 2018,
+        "posizione": 4,
+        "punti": 984
+      },
+      {
+        "anno": 2019,
+        "posizione": 5,
+        "punti": 759
+      },
+      {
+        "anno": 2020,
+        "posizione": 9,
+        "punti": 798
+      },
+      {
+        "anno": 2021,
+        "posizione": 19,
+        "punti": 632
+      },
+      {
+        "anno": 2022,
+        "posizione": 23,
+        "punti": 226
+      },
+      {
+        "anno": 2023,
+        "posizione": 9,
+        "punti": 766
+      },
+      {
+        "anno": 2025,
+        "posizione": 30,
+        "punti": 595
+      },
+      {
+        "anno": 2026,
+        "posizione": 22,
+        "punti": 857
+      }
+    ]
+  },
+  "Leonardo (Giarre)": {
+    "id": "Leonardo (Giarre)",
+    "nome": "Leonardo",
+    "comune": "Giarre",
+    "provincia": "CT",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 13,
+    "storia": [
+      {
+        "anno": 2008,
+        "posizione": 13,
+        "punti": 576
+      }
+    ]
+  },
+  "Leonardo (Milano)": {
+    "id": "Leonardo (Milano)",
+    "nome": "Leonardo",
+    "comune": "Milano",
+    "provincia": "MI",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 18,
+    "storia": [
+      {
+        "anno": 2009,
+        "posizione": 18,
+        "punti": 575
+      }
+    ]
+  },
+  "Leonardo Da Vinci (Genova)": {
+    "id": "Leonardo Da Vinci (Genova)",
+    "nome": "Leonardo Da Vinci",
+    "comune": "Genova",
+    "provincia": "GE",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 18,
+    "storia": [
+      {
+        "anno": 2008,
+        "posizione": 18,
+        "punti": 546
+      }
+    ]
+  },
+  "Leonardo da Vinci (Firenze)": {
+    "id": "Leonardo da Vinci (Firenze)",
+    "nome": "Leonardo da Vinci",
+    "comune": "Firenze",
+    "provincia": "FI",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 16,
+    "storia": [
+      {
+        "anno": 2012,
+        "posizione": 16,
+        "punti": 571
+      },
+      {
+        "anno": 2014,
+        "posizione": 40,
+        "punti": 273
+      },
+      {
+        "anno": 2017,
+        "posizione": 21,
+        "punti": 511
+      }
+    ]
+  },
+  "Leopardi (Recanati)": {
+    "id": "Leopardi (Recanati)",
+    "nome": "Leopardi",
+    "comune": "Recanati",
+    "provincia": "MC",
+    "partecipazioni": 4,
+    "miglior_piazzamento": 3,
+    "storia": [
+      {
+        "anno": 2016,
+        "posizione": 6,
+        "punti": 826
+      },
+      {
+        "anno": 2017,
+        "posizione": 9,
+        "punti": 753
+      },
+      {
+        "anno": 2018,
+        "posizione": 3,
+        "punti": 1070
+      },
+      {
+        "anno": 2021,
+        "posizione": 46,
+        "punti": 317
+      }
+    ]
+  },
+  "Leopardi-Majorana (Pordenone)": {
+    "id": "Leopardi-Majorana (Pordenone)",
+    "nome": "Leopardi-Majorana",
+    "comune": "Pordenone",
+    "provincia": "PN",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 13,
+    "storia": [
+      {
+        "anno": 2014,
+        "posizione": 30,
+        "punti": 417
+      },
+      {
+        "anno": 2020,
+        "posizione": 13,
+        "punti": 746
+      },
+      {
+        "anno": 2021,
+        "posizione": 31,
+        "punti": 495
+      }
+    ]
+  },
+  "Levi (Montebelluna)": {
+    "id": "Levi (Montebelluna)",
+    "nome": "Levi",
+    "comune": "Montebelluna",
+    "provincia": "TV",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 24,
+    "storia": [
+      {
+        "anno": 2026,
+        "posizione": 24,
+        "punti": 837
+      }
+    ]
+  },
+  "Levi-Civita (Roma)": {
+    "id": "Levi-Civita (Roma)",
+    "nome": "Levi-Civita",
+    "comune": "Roma",
+    "provincia": "RM",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 6,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 6,
+        "punti": 627
+      },
+      {
+        "anno": 2024,
+        "posizione": 32,
+        "punti": 424
+      }
+    ]
+  },
+  "Lioy (Vicenza)": {
+    "id": "Lioy (Vicenza)",
+    "nome": "Lioy",
+    "comune": "Vicenza",
+    "provincia": "VI",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 17,
+    "storia": [
+      {
+        "anno": 2023,
+        "posizione": 17,
+        "punti": 646
+      }
+    ]
+  },
+  "Lorenzini (Pescia)": {
+    "id": "Lorenzini (Pescia)",
+    "nome": "Lorenzini",
+    "comune": "Pescia",
+    "provincia": "PT",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 13,
+    "storia": [
+      {
+        "anno": 2021,
+        "posizione": 16,
+        "punti": 651
+      },
+      {
+        "anno": 2023,
+        "posizione": 13,
+        "punti": 692
+      }
+    ]
+  },
+  "Lucrezio Caro (Cittadella)": {
+    "id": "Lucrezio Caro (Cittadella)",
+    "nome": "Lucrezio Caro",
+    "comune": "Cittadella",
+    "provincia": "PD",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 28,
+    "storia": [
+      {
+        "anno": 2008,
+        "posizione": 30,
+        "punti": 273
+      },
+      {
+        "anno": 2013,
+        "posizione": 28,
+        "punti": 275
+      }
+    ]
+  },
+  "Lussana (Bergamo)": {
+    "id": "Lussana (Bergamo)",
+    "nome": "Lussana",
+    "comune": "Bergamo",
+    "provincia": "BG",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 13,
+    "storia": [
+      {
+        "anno": 2015,
+        "posizione": 31,
+        "punti": 474
+      },
+      {
+        "anno": 2024,
+        "posizione": 13,
+        "punti": 1009
+      },
+      {
+        "anno": 2025,
+        "posizione": 33,
+        "punti": 545
+      }
+    ]
+  },
+  "Magrini (Gemona Del Friuli)": {
+    "id": "Magrini (Gemona Del Friuli)",
+    "nome": "Magrini",
+    "comune": "Gemona Del Friuli",
+    "provincia": "UD",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 11,
+    "storia": [
+      {
+        "anno": 2010,
+        "posizione": 11,
+        "punti": 686
+      }
+    ]
+  },
+  "Magrini-Marchetti (Gemona del Friuli)": {
+    "id": "Magrini-Marchetti (Gemona del Friuli)",
+    "nome": "Magrini-Marchetti",
+    "comune": "Gemona del Friuli",
+    "provincia": "UD",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 10,
+    "storia": [
+      {
+        "anno": 2020,
+        "posizione": 10,
+        "punti": 772
+      },
+      {
+        "anno": 2023,
+        "posizione": 28,
+        "punti": 504
+      },
+      {
+        "anno": 2024,
+        "posizione": 23,
+        "punti": 775
+      }
+    ]
+  },
+  "Majorana (Brindisi)": {
+    "id": "Majorana (Brindisi)",
+    "nome": "Majorana",
+    "comune": "Brindisi",
+    "provincia": "BR",
+    "partecipazioni": 6,
+    "miglior_piazzamento": 13,
+    "storia": [
+      {
+        "anno": 2012,
+        "posizione": 29,
+        "punti": 185
+      },
+      {
+        "anno": 2013,
+        "posizione": 13,
+        "punti": 639
+      },
+      {
+        "anno": 2014,
+        "posizione": 22,
+        "punti": 572
+      },
+      {
+        "anno": 2015,
+        "posizione": 21,
+        "punti": 726
+      },
+      {
+        "anno": 2018,
+        "posizione": 27,
+        "punti": 416
+      },
+      {
+        "anno": 2020,
+        "posizione": 19,
+        "punti": 510
+      }
+    ]
+  },
+  "Majorana (Desio)": {
+    "id": "Majorana (Desio)",
+    "nome": "Majorana",
+    "comune": "Desio",
+    "provincia": "MB",
+    "partecipazioni": 4,
+    "miglior_piazzamento": 12,
+    "storia": [
+      {
+        "anno": 2018,
+        "posizione": 22,
+        "punti": 515
+      },
+      {
+        "anno": 2019,
+        "posizione": 23,
+        "punti": 367
+      },
+      {
+        "anno": 2020,
+        "posizione": 12,
+        "punti": 762
+      },
+      {
+        "anno": 2023,
+        "posizione": 23,
+        "punti": 538
+      }
+    ]
+  },
+  "Majorana (Isernia)": {
+    "id": "Majorana (Isernia)",
+    "nome": "Majorana",
+    "comune": "Isernia",
+    "provincia": "IS",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 32,
+    "storia": [
+      {
+        "anno": 2008,
+        "posizione": 32,
+        "punti": 213
+      }
+    ]
+  },
+  "Majorana (Mirano)": {
+    "id": "Majorana (Mirano)",
+    "nome": "Majorana",
+    "comune": "Mirano",
+    "provincia": "VE",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 26,
+    "storia": [
+      {
+        "anno": 2019,
+        "posizione": 26,
+        "punti": 309
+      }
+    ]
+  },
+  "Majorana (Torino)": {
+    "id": "Majorana (Torino)",
+    "nome": "Majorana",
+    "comune": "Torino",
+    "provincia": "TO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 35,
+    "storia": [
+      {
+        "anno": 2026,
+        "posizione": 35,
+        "punti": 522
+      }
+    ]
+  },
+  "Malignani (Udine)": {
+    "id": "Malignani (Udine)",
+    "nome": "Malignani",
+    "comune": "Udine",
+    "provincia": "UD",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 9,
+    "storia": [
+      {
+        "anno": 2026,
+        "posizione": 9,
+        "punti": 1138
+      }
+    ]
+  },
+  "Marconi (Carrara)": {
+    "id": "Marconi (Carrara)",
+    "nome": "Marconi",
+    "comune": "Carrara",
+    "provincia": "MS",
+    "partecipazioni": 19,
+    "miglior_piazzamento": 1,
+    "storia": [
+      {
+        "anno": 2007,
+        "posizione": 4,
+        "punti": 854
+      },
+      {
+        "anno": 2008,
+        "posizione": 1,
+        "punti": 1431
+      },
+      {
+        "anno": 2009,
+        "posizione": 6,
+        "punti": 807
+      },
+      {
+        "anno": 2010,
+        "posizione": 3,
+        "punti": 871
+      },
+      {
+        "anno": 2011,
+        "posizione": 7,
+        "punti": 891
+      },
+      {
+        "anno": 2012,
+        "posizione": 15,
+        "punti": 572
+      },
+      {
+        "anno": 2013,
+        "posizione": 6,
+        "punti": 926
+      },
+      {
+        "anno": 2014,
+        "posizione": 2,
+        "punti": 1028
+      },
+      {
+        "anno": 2016,
+        "posizione": 13,
+        "punti": 679
+      },
+      {
+        "anno": 2017,
+        "posizione": 2,
+        "punti": 921
+      },
+      {
+        "anno": 2018,
+        "posizione": 6,
+        "punti": 918
+      },
+      {
+        "anno": 2019,
+        "posizione": 6,
+        "punti": 711
+      },
+      {
+        "anno": 2020,
+        "posizione": 3,
+        "punti": 1308
+      },
+      {
+        "anno": 2021,
+        "posizione": 10,
+        "punti": 779
+      },
+      {
+        "anno": 2022,
+        "posizione": 7,
+        "punti": 693
+      },
+      {
+        "anno": 2023,
+        "posizione": 10,
+        "punti": 753
+      },
+      {
+        "anno": 2024,
+        "posizione": 4,
+        "punti": 1281
+      },
+      {
+        "anno": 2025,
+        "posizione": 5,
+        "punti": 1235
+      },
+      {
+        "anno": 2026,
+        "posizione": 2,
+        "punti": 1487
+      }
+    ]
+  },
+  "Marconi (Conegliano)": {
+    "id": "Marconi (Conegliano)",
+    "nome": "Marconi",
+    "comune": "Conegliano",
+    "provincia": "TV",
+    "partecipazioni": 10,
+    "miglior_piazzamento": 1,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 1,
+        "punti": 734
+      },
+      {
+        "anno": 2007,
+        "posizione": 13,
+        "punti": 643
+      },
+      {
+        "anno": 2008,
+        "posizione": 8,
+        "punti": 705
+      },
+      {
+        "anno": 2009,
+        "posizione": 7,
+        "punti": 713
+      },
+      {
+        "anno": 2011,
+        "posizione": 18,
+        "punti": 646
+      },
+      {
+        "anno": 2012,
+        "posizione": 14,
+        "punti": 574
+      },
+      {
+        "anno": 2013,
+        "posizione": 11,
+        "punti": 753
+      },
+      {
+        "anno": 2014,
+        "posizione": 3,
+        "punti": 982
+      },
+      {
+        "anno": 2015,
+        "posizione": 32,
+        "punti": 383
+      },
+      {
+        "anno": 2023,
+        "posizione": 22,
+        "punti": 540
+      }
+    ]
+  },
+  "Marconi (Foligno)": {
+    "id": "Marconi (Foligno)",
+    "nome": "Marconi",
+    "comune": "Foligno",
+    "provincia": "PG",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 11,
+    "storia": [
+      {
+        "anno": 2018,
+        "posizione": 11,
+        "punti": 711
+      },
+      {
+        "anno": 2019,
+        "posizione": 24,
+        "punti": 352
+      }
+    ]
+  },
+  "Marconi (Parma)": {
+    "id": "Marconi (Parma)",
+    "nome": "Marconi",
+    "comune": "Parma",
+    "provincia": "PR",
+    "partecipazioni": 4,
+    "miglior_piazzamento": 5,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 13,
+        "punti": 413
+      },
+      {
+        "anno": 2007,
+        "posizione": 5,
+        "punti": 849
+      },
+      {
+        "anno": 2008,
+        "posizione": 15,
+        "punti": 557
+      },
+      {
+        "anno": 2010,
+        "posizione": 13,
+        "punti": 670
+      }
+    ]
+  },
+  "Marconi-Delpino (Chiavari)": {
+    "id": "Marconi-Delpino (Chiavari)",
+    "nome": "Marconi-Delpino",
+    "comune": "Chiavari",
+    "provincia": "GE",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 18,
+    "storia": [
+      {
+        "anno": 2016,
+        "posizione": 18,
+        "punti": 599
+      }
+    ]
+  },
+  "Marinelli (Udine)": {
+    "id": "Marinelli (Udine)",
+    "nome": "Marinelli",
+    "comune": "Udine",
+    "provincia": "UD",
+    "partecipazioni": 14,
+    "miglior_piazzamento": 1,
+    "storia": [
+      {
+        "anno": 2004,
+        "posizione": 7,
+        "punti": 672
+      },
+      {
+        "anno": 2005,
+        "posizione": 1,
+        "punti": 620
+      },
+      {
+        "anno": 2008,
+        "posizione": 2,
+        "punti": 917
+      },
+      {
+        "anno": 2009,
+        "posizione": 15,
+        "punti": 619
+      },
+      {
+        "anno": 2010,
+        "posizione": 7,
+        "punti": 744
+      },
+      {
+        "anno": 2011,
+        "posizione": 6,
+        "punti": 915
+      },
+      {
+        "anno": 2012,
+        "posizione": 11,
+        "punti": 667
+      },
+      {
+        "anno": 2013,
+        "posizione": 9,
+        "punti": 781
+      },
+      {
+        "anno": 2014,
+        "posizione": 33,
+        "punti": 395
+      },
+      {
+        "anno": 2015,
+        "posizione": 27,
+        "punti": 671
+      },
+      {
+        "anno": 2018,
+        "posizione": 9,
+        "punti": 778
+      },
+      {
+        "anno": 2019,
+        "posizione": 3,
+        "punti": 812
+      },
+      {
+        "anno": 2021,
+        "posizione": 32,
+        "punti": 492
+      },
+      {
+        "anno": 2024,
+        "posizione": 30,
+        "punti": 577
+      }
+    ]
+  },
+  "Marzoli (Palazzolo sull'Oglio)": {
+    "id": "Marzoli (Palazzolo sull'Oglio)",
+    "nome": "Marzoli",
+    "comune": "Palazzolo sull'Oglio",
+    "provincia": "BS",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 30,
+    "storia": [
+      {
+        "anno": 2019,
+        "posizione": 30,
+        "punti": 255
+      }
+    ]
+  },
+  "Mascheroni (Bergamo)": {
+    "id": "Mascheroni (Bergamo)",
+    "nome": "Mascheroni",
+    "comune": "Bergamo",
+    "provincia": "BG",
+    "partecipazioni": 9,
+    "miglior_piazzamento": 2,
+    "storia": [
+      {
+        "anno": 2010,
+        "posizione": 17,
+        "punti": 616
+      },
+      {
+        "anno": 2011,
+        "posizione": 4,
+        "punti": 939
+      },
+      {
+        "anno": 2013,
+        "posizione": 2,
+        "punti": 1150
+      },
+      {
+        "anno": 2014,
+        "posizione": 13,
+        "punti": 645
+      },
+      {
+        "anno": 2020,
+        "posizione": 8,
+        "punti": 820
+      },
+      {
+        "anno": 2021,
+        "posizione": 7,
+        "punti": 817
+      },
+      {
+        "anno": 2022,
+        "posizione": 17,
+        "punti": 418
+      },
+      {
+        "anno": 2023,
+        "posizione": 21,
+        "punti": 602
+      },
+      {
+        "anno": 2025,
+        "posizione": 12,
+        "punti": 897
+      }
+    ]
+  },
+  "Masotto (Noventa Vicentina)": {
+    "id": "Masotto (Noventa Vicentina)",
+    "nome": "Masotto",
+    "comune": "Noventa Vicentina",
+    "provincia": "VI",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 8,
+    "storia": [
+      {
+        "anno": 2010,
+        "posizione": 33,
+        "punti": 464
+      },
+      {
+        "anno": 2012,
+        "posizione": 8,
+        "punti": 774
+      }
+    ]
+  },
+  "Mercalli (Napoli)": {
+    "id": "Mercalli (Napoli)",
+    "nome": "Mercalli",
+    "comune": "Napoli",
+    "provincia": NaN,
+    "partecipazioni": 1,
+    "miglior_piazzamento": 25,
+    "storia": [
+      {
+        "anno": 2019,
+        "posizione": 25,
+        "punti": 344
+      }
+    ]
+  },
+  "Meucci (Firenze)": {
+    "id": "Meucci (Firenze)",
+    "nome": "Meucci",
+    "comune": "Firenze",
+    "provincia": "FI",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 36,
+    "storia": [
+      {
+        "anno": 2026,
+        "posizione": 36,
+        "punti": 485
+      }
+    ]
+  },
+  "Monti (Chieri)": {
+    "id": "Monti (Chieri)",
+    "nome": "Monti",
+    "comune": "Chieri",
+    "provincia": "TO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 14,
+    "storia": [
+      {
+        "anno": 2014,
+        "posizione": 14,
+        "punti": 639
+      }
+    ]
+  },
+  "Moretti (Gardone Val Trompia)": {
+    "id": "Moretti (Gardone Val Trompia)",
+    "nome": "Moretti",
+    "comune": "Gardone Val Trompia",
+    "provincia": "BS",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 14,
+    "storia": [
+      {
+        "anno": 2015,
+        "posizione": 14,
+        "punti": 838
+      }
+    ]
+  },
+  "Moro (Reggio Emilia)": {
+    "id": "Moro (Reggio Emilia)",
+    "nome": "Moro",
+    "comune": "Reggio Emilia",
+    "provincia": "RE",
+    "partecipazioni": 12,
+    "miglior_piazzamento": 2,
+    "storia": [
+      {
+        "anno": 2004,
+        "posizione": 8,
+        "punti": 668
+      },
+      {
+        "anno": 2005,
+        "posizione": 5,
+        "punti": 520
+      },
+      {
+        "anno": 2006,
+        "posizione": 26,
+        "punti": 384
+      },
+      {
+        "anno": 2007,
+        "posizione": 2,
+        "punti": 980
+      },
+      {
+        "anno": 2009,
+        "posizione": 4,
+        "punti": 875
+      },
+      {
+        "anno": 2010,
+        "posizione": 27,
+        "punti": 531
+      },
+      {
+        "anno": 2011,
+        "posizione": 23,
+        "punti": 525
+      },
+      {
+        "anno": 2012,
+        "posizione": 5,
+        "punti": 855
+      },
+      {
+        "anno": 2014,
+        "posizione": 20,
+        "punti": 579
+      },
+      {
+        "anno": 2015,
+        "posizione": 11,
+        "punti": 852
+      },
+      {
+        "anno": 2016,
+        "posizione": 11,
+        "punti": 705
+      },
+      {
+        "anno": 2026,
+        "posizione": 15,
+        "punti": 992
+      }
+    ]
+  },
+  "Natta (Bergamo)": {
+    "id": "Natta (Bergamo)",
+    "nome": "Natta",
+    "comune": "Bergamo",
+    "provincia": "BG",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 48,
+    "storia": [
+      {
+        "anno": 2021,
+        "posizione": 48,
+        "punti": 249
+      }
+    ]
+  },
+  "Newton (Chivasso)": {
+    "id": "Newton (Chivasso)",
+    "nome": "Newton",
+    "comune": "Chivasso",
+    "provincia": "TO",
+    "partecipazioni": 5,
+    "miglior_piazzamento": 7,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 11,
+        "punti": 448
+      },
+      {
+        "anno": 2011,
+        "posizione": 17,
+        "punti": 653
+      },
+      {
+        "anno": 2014,
+        "posizione": 12,
+        "punti": 645
+      },
+      {
+        "anno": 2015,
+        "posizione": 7,
+        "punti": 921
+      },
+      {
+        "anno": 2023,
+        "posizione": 29,
+        "punti": 460
+      }
+    ]
+  },
+  "Newton (Roma)": {
+    "id": "Newton (Roma)",
+    "nome": "Newton",
+    "comune": "Roma",
+    "provincia": "RM",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 6,
+    "storia": [
+      {
+        "anno": 2008,
+        "posizione": 6,
+        "punti": 753
+      },
+      {
+        "anno": 2009,
+        "posizione": 26,
+        "punti": 400
+      },
+      {
+        "anno": 2013,
+        "posizione": 23,
+        "punti": 400
+      }
+    ]
+  },
+  "Nicoloso da Recco (Recco)": {
+    "id": "Nicoloso da Recco (Recco)",
+    "nome": "Nicoloso da Recco",
+    "comune": "Recco",
+    "provincia": "GE",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 6,
+    "storia": [
+      {
+        "anno": 2004,
+        "posizione": 6,
+        "punti": 722
+      }
+    ]
+  },
+  "Nievo (Padova)": {
+    "id": "Nievo (Padova)",
+    "nome": "Nievo",
+    "comune": "Padova",
+    "provincia": "PD",
+    "partecipazioni": 9,
+    "miglior_piazzamento": 4,
+    "storia": [
+      {
+        "anno": 2010,
+        "posizione": 4,
+        "punti": 867
+      },
+      {
+        "anno": 2011,
+        "posizione": 9,
+        "punti": 881
+      },
+      {
+        "anno": 2017,
+        "posizione": 7,
+        "punti": 800
+      },
+      {
+        "anno": 2018,
+        "posizione": 17,
+        "punti": 597
+      },
+      {
+        "anno": 2020,
+        "posizione": 16,
+        "punti": 652
+      },
+      {
+        "anno": 2022,
+        "posizione": 21,
+        "punti": 259
+      },
+      {
+        "anno": 2024,
+        "posizione": 16,
+        "punti": 929
+      },
+      {
+        "anno": 2025,
+        "posizione": 32,
+        "punti": 571
+      },
+      {
+        "anno": 2026,
+        "posizione": 32,
+        "punti": 676
+      }
+    ]
+  },
+  "Nomentano (Roma)": {
+    "id": "Nomentano (Roma)",
+    "nome": "Nomentano",
+    "comune": "Roma",
+    "provincia": "RM",
+    "partecipazioni": 5,
+    "miglior_piazzamento": 9,
+    "storia": [
+      {
+        "anno": 2015,
+        "posizione": 34,
+        "punti": 364
+      },
+      {
+        "anno": 2016,
+        "posizione": 9,
+        "punti": 742
+      },
+      {
+        "anno": 2017,
+        "posizione": 23,
+        "punti": 493
+      },
+      {
+        "anno": 2018,
+        "posizione": 10,
+        "punti": 773
+      },
+      {
+        "anno": 2019,
+        "posizione": 29,
+        "punti": 274
+      }
+    ]
+  },
+  "Oberdan (Trieste)": {
+    "id": "Oberdan (Trieste)",
+    "nome": "Oberdan",
+    "comune": "Trieste",
+    "provincia": "TS",
+    "partecipazioni": 9,
+    "miglior_piazzamento": 7,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 7,
+        "punti": 485
+      },
+      {
+        "anno": 2006,
+        "posizione": 22,
+        "punti": 422
+      },
+      {
+        "anno": 2007,
+        "posizione": 8,
+        "punti": 743
+      },
+      {
+        "anno": 2008,
+        "posizione": 31,
+        "punti": 270
+      },
+      {
+        "anno": 2009,
+        "posizione": 16,
+        "punti": 613
+      },
+      {
+        "anno": 2010,
+        "posizione": 9,
+        "punti": 707
+      },
+      {
+        "anno": 2011,
+        "posizione": 12,
+        "punti": 791
+      },
+      {
+        "anno": 2012,
+        "posizione": 10,
+        "punti": 698
+      },
+      {
+        "anno": 2017,
+        "posizione": 24,
+        "punti": 476
+      }
+    ]
+  },
+  "Pacini (Pistoia)": {
+    "id": "Pacini (Pistoia)",
+    "nome": "Pacini",
+    "comune": "Pistoia",
+    "provincia": "PT",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 29,
+    "storia": [
+      {
+        "anno": 2025,
+        "posizione": 29,
+        "punti": 602
+      }
+    ]
+  },
+  "Pacinotti (Cagliari)": {
+    "id": "Pacinotti (Cagliari)",
+    "nome": "Pacinotti",
+    "comune": "Cagliari",
+    "provincia": "CA",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 22,
+    "storia": [
+      {
+        "anno": 2024,
+        "posizione": 22,
+        "punti": 786
+      }
+    ]
+  },
+  "Pacinotti (La Spezia)": {
+    "id": "Pacinotti (La Spezia)",
+    "nome": "Pacinotti",
+    "comune": "La Spezia",
+    "provincia": "SP",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 10,
+    "storia": [
+      {
+        "anno": 2012,
+        "posizione": 17,
+        "punti": 565
+      },
+      {
+        "anno": 2014,
+        "posizione": 31,
+        "punti": 413
+      },
+      {
+        "anno": 2015,
+        "posizione": 10,
+        "punti": 863
+      }
+    ]
+  },
+  "Paleocapa (Rovigo)": {
+    "id": "Paleocapa (Rovigo)",
+    "nome": "Paleocapa",
+    "comune": "Rovigo",
+    "provincia": "RO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 16,
+    "storia": [
+      {
+        "anno": 2016,
+        "posizione": 16,
+        "punti": 640
+      }
+    ]
+  },
+  "Parentucelli (Sarzana)": {
+    "id": "Parentucelli (Sarzana)",
+    "nome": "Parentucelli",
+    "comune": "Sarzana",
+    "provincia": "SP",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 29,
+    "storia": [
+      {
+        "anno": 2011,
+        "posizione": 29,
+        "punti": 287
+      }
+    ]
+  },
+  "Pascal (Giaveno)": {
+    "id": "Pascal (Giaveno)",
+    "nome": "Pascal",
+    "comune": "Giaveno",
+    "provincia": "TO",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 6,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 6,
+        "punti": 507
+      },
+      {
+        "anno": 2006,
+        "posizione": 8,
+        "punti": 608
+      }
+    ]
+  },
+  "Pascal-Mazzolari (Manerbio)": {
+    "id": "Pascal-Mazzolari (Manerbio)",
+    "nome": "Pascal-Mazzolari",
+    "comune": "Manerbio",
+    "provincia": "BS",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 27,
+    "storia": [
+      {
+        "anno": 2021,
+        "posizione": 27,
+        "punti": 563
+      }
+    ]
+  },
+  "Paschini (Tolmezzo)": {
+    "id": "Paschini (Tolmezzo)",
+    "nome": "Paschini",
+    "comune": "Tolmezzo",
+    "provincia": "UD",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 22,
+    "storia": [
+      {
+        "anno": 2014,
+        "posizione": 38,
+        "punti": 319
+      },
+      {
+        "anno": 2016,
+        "posizione": 22,
+        "punti": 483
+      }
+    ]
+  },
+  "Paulucci di Calboli (Forlì)": {
+    "id": "Paulucci di Calboli (Forlì)",
+    "nome": "Paulucci di Calboli",
+    "comune": "Forlì",
+    "provincia": "FC",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 21,
+    "storia": [
+      {
+        "anno": 2010,
+        "posizione": 29,
+        "punti": 498
+      },
+      {
+        "anno": 2012,
+        "posizione": 21,
+        "punti": 491
+      }
+    ]
+  },
+  "Peano (Monterotondo)": {
+    "id": "Peano (Monterotondo)",
+    "nome": "Peano",
+    "comune": "Monterotondo",
+    "provincia": "RM",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 19,
+    "storia": [
+      {
+        "anno": 2019,
+        "posizione": 19,
+        "punti": 394
+      }
+    ]
+  },
+  "Pellati (Nizza Monferrato)": {
+    "id": "Pellati (Nizza Monferrato)",
+    "nome": "Pellati",
+    "comune": "Nizza Monferrato",
+    "provincia": "AT",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 18,
+    "storia": [
+      {
+        "anno": 2017,
+        "posizione": 18,
+        "punti": 549
+      }
+    ]
+  },
+  "Plinio Seniore (Roma)": {
+    "id": "Plinio Seniore (Roma)",
+    "nome": "Plinio Seniore",
+    "comune": "Roma",
+    "provincia": "RM",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 16,
+    "storia": [
+      {
+        "anno": 2018,
+        "posizione": 21,
+        "punti": 517
+      },
+      {
+        "anno": 2019,
+        "posizione": 16,
+        "punti": 573
+      }
+    ]
+  },
+  "Polo Liceale (Gorizia)": {
+    "id": "Polo Liceale (Gorizia)",
+    "nome": "Polo Liceale",
+    "comune": "Gorizia",
+    "provincia": "GO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 10,
+    "storia": [
+      {
+        "anno": 2007,
+        "posizione": 10,
+        "punti": 661
+      }
+    ]
+  },
+  "Principe di Napoli (Assisi)": {
+    "id": "Principe di Napoli (Assisi)",
+    "nome": "Principe di Napoli",
+    "comune": "Assisi",
+    "provincia": "PG",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 15,
+    "storia": [
+      {
+        "anno": 2019,
+        "posizione": 22,
+        "punti": 385
+      },
+      {
+        "anno": 2021,
+        "posizione": 41,
+        "punti": 378
+      },
+      {
+        "anno": 2023,
+        "posizione": 15,
+        "punti": 657
+      }
+    ]
+  },
+  "Quadri (Vicenza)": {
+    "id": "Quadri (Vicenza)",
+    "nome": "Quadri",
+    "comune": "Vicenza",
+    "provincia": "VI",
+    "partecipazioni": 8,
+    "miglior_piazzamento": 6,
+    "storia": [
+      {
+        "anno": 2013,
+        "posizione": 24,
+        "punti": 394
+      },
+      {
+        "anno": 2015,
+        "posizione": 8,
+        "punti": 896
+      },
+      {
+        "anno": 2021,
+        "posizione": 29,
+        "punti": 518
+      },
+      {
+        "anno": 2022,
+        "posizione": 6,
+        "punti": 694
+      },
+      {
+        "anno": 2023,
+        "posizione": 6,
+        "punti": 820
+      },
+      {
+        "anno": 2024,
+        "posizione": 8,
+        "punti": 1088
+      },
+      {
+        "anno": 2025,
+        "posizione": 18,
+        "punti": 826
+      },
+      {
+        "anno": 2026,
+        "posizione": 14,
+        "punti": 1000
+      }
+    ]
+  },
+  "Rambaldi-Valleriani (Imola)": {
+    "id": "Rambaldi-Valleriani (Imola)",
+    "nome": "Rambaldi-Valleriani",
+    "comune": "Imola",
+    "provincia": "BO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 39,
+    "storia": [
+      {
+        "anno": 2014,
+        "posizione": 39,
+        "punti": 275
+      }
+    ]
+  },
+  "Redi (Arezzo)": {
+    "id": "Redi (Arezzo)",
+    "nome": "Redi",
+    "comune": "Arezzo",
+    "provincia": "AR",
+    "partecipazioni": 5,
+    "miglior_piazzamento": 3,
+    "storia": [
+      {
+        "anno": 2004,
+        "posizione": 3,
+        "punti": 752
+      },
+      {
+        "anno": 2008,
+        "posizione": 24,
+        "punti": 461
+      },
+      {
+        "anno": 2013,
+        "posizione": 21,
+        "punti": 437
+      },
+      {
+        "anno": 2015,
+        "posizione": 30,
+        "punti": 507
+      },
+      {
+        "anno": 2024,
+        "posizione": 31,
+        "punti": 539
+      }
+    ]
+  },
+  "Respighi (Piacenza)": {
+    "id": "Respighi (Piacenza)",
+    "nome": "Respighi",
+    "comune": "Piacenza",
+    "provincia": "PC",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 19,
+    "storia": [
+      {
+        "anno": 2012,
+        "posizione": 19,
+        "punti": 547
+      },
+      {
+        "anno": 2019,
+        "posizione": 20,
+        "punti": 392
+      }
+    ]
+  },
+  "Ribezzo (Francavilla Fontana)": {
+    "id": "Ribezzo (Francavilla Fontana)",
+    "nome": "Ribezzo",
+    "comune": "Francavilla Fontana",
+    "provincia": "BR",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 18,
+    "storia": [
+      {
+        "anno": 2013,
+        "posizione": 18,
+        "punti": 492
+      },
+      {
+        "anno": 2016,
+        "posizione": 21,
+        "punti": 509
+      }
+    ]
+  },
+  "Righi (Cesena)": {
+    "id": "Righi (Cesena)",
+    "nome": "Righi",
+    "comune": "Cesena",
+    "provincia": "FC",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 10,
+    "storia": [
+      {
+        "anno": 2009,
+        "posizione": 10,
+        "punti": 674
+      }
+    ]
+  },
+  "Righi (Roma)": {
+    "id": "Righi (Roma)",
+    "nome": "Righi",
+    "comune": "Roma",
+    "provincia": "RM",
+    "partecipazioni": 16,
+    "miglior_piazzamento": 2,
+    "storia": [
+      {
+        "anno": 2004,
+        "posizione": 9,
+        "punti": 665
+      },
+      {
+        "anno": 2006,
+        "posizione": 7,
+        "punti": 619
+      },
+      {
+        "anno": 2010,
+        "posizione": 12,
+        "punti": 672
+      },
+      {
+        "anno": 2011,
+        "posizione": 11,
+        "punti": 796
+      },
+      {
+        "anno": 2012,
+        "posizione": 3,
+        "punti": 1065
+      },
+      {
+        "anno": 2013,
+        "posizione": 3,
+        "punti": 1041
+      },
+      {
+        "anno": 2014,
+        "posizione": 37,
+        "punti": 335
+      },
+      {
+        "anno": 2015,
+        "posizione": 2,
+        "punti": 1117
+      },
+      {
+        "anno": 2016,
+        "posizione": 10,
+        "punti": 735
+      },
+      {
+        "anno": 2018,
+        "posizione": 2,
+        "punti": 1149
+      },
+      {
+        "anno": 2019,
+        "posizione": 17,
+        "punti": 512
+      },
+      {
+        "anno": 2021,
+        "posizione": 4,
+        "punti": 966
+      },
+      {
+        "anno": 2023,
+        "posizione": 3,
+        "punti": 977
+      },
+      {
+        "anno": 2024,
+        "posizione": 17,
+        "punti": 865
+      },
+      {
+        "anno": 2025,
+        "posizione": 7,
+        "punti": 1184
+      },
+      {
+        "anno": 2026,
+        "posizione": 5,
+        "punti": 1232
+      }
+    ]
+  },
+  "Rolti (Ferrara)": {
+    "id": "Rolti (Ferrara)",
+    "nome": "Rolti",
+    "comune": "Ferrara",
+    "provincia": "FE",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 8,
+    "storia": [
+      {
+        "anno": 2023,
+        "posizione": 8,
+        "punti": 776
+      }
+    ]
+  },
+  "Romita (Campobasso)": {
+    "id": "Romita (Campobasso)",
+    "nome": "Romita",
+    "comune": "Campobasso",
+    "provincia": "CB",
+    "partecipazioni": 7,
+    "miglior_piazzamento": 14,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 14,
+        "punti": 522
+      },
+      {
+        "anno": 2007,
+        "posizione": 15,
+        "punti": 598
+      },
+      {
+        "anno": 2009,
+        "posizione": 24,
+        "punti": 429
+      },
+      {
+        "anno": 2010,
+        "posizione": 32,
+        "punti": 467
+      },
+      {
+        "anno": 2012,
+        "posizione": 18,
+        "punti": 555
+      },
+      {
+        "anno": 2015,
+        "posizione": 26,
+        "punti": 684
+      },
+      {
+        "anno": 2021,
+        "posizione": 18,
+        "punti": 632
+      }
+    ]
+  },
+  "Rosmini (Rovereto)": {
+    "id": "Rosmini (Rovereto)",
+    "nome": "Rosmini",
+    "comune": "Rovereto",
+    "provincia": "TN",
+    "partecipazioni": 5,
+    "miglior_piazzamento": 12,
+    "storia": [
+      {
+        "anno": 2007,
+        "posizione": 19,
+        "punti": 493
+      },
+      {
+        "anno": 2018,
+        "posizione": 30,
+        "punti": 328
+      },
+      {
+        "anno": 2021,
+        "posizione": 21,
+        "punti": 600
+      },
+      {
+        "anno": 2022,
+        "posizione": 15,
+        "punti": 445
+      },
+      {
+        "anno": 2024,
+        "posizione": 12,
+        "punti": 1035
+      }
+    ]
+  },
+  "Rossi (Massa)": {
+    "id": "Rossi (Massa)",
+    "nome": "Rossi",
+    "comune": "Massa",
+    "provincia": "MS",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 22,
+    "storia": [
+      {
+        "anno": 2013,
+        "posizione": 22,
+        "punti": 422
+      }
+    ]
+  },
+  "Ruffini (Viterbo)": {
+    "id": "Ruffini (Viterbo)",
+    "nome": "Ruffini",
+    "comune": "Viterbo",
+    "provincia": "VT",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 27,
+    "storia": [
+      {
+        "anno": 2024,
+        "posizione": 27,
+        "punti": 613
+      }
+    ]
+  },
+  "Rummo (Benevento)": {
+    "id": "Rummo (Benevento)",
+    "nome": "Rummo",
+    "comune": "Benevento",
+    "provincia": "BN",
+    "partecipazioni": 5,
+    "miglior_piazzamento": 9,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 9,
+        "punti": 481
+      },
+      {
+        "anno": 2006,
+        "posizione": 25,
+        "punti": 409
+      },
+      {
+        "anno": 2007,
+        "posizione": 12,
+        "punti": 649
+      },
+      {
+        "anno": 2009,
+        "posizione": 21,
+        "punti": 454
+      },
+      {
+        "anno": 2015,
+        "posizione": 22,
+        "punti": 719
+      }
+    ]
+  },
+  "Russell (Guastalla)": {
+    "id": "Russell (Guastalla)",
+    "nome": "Russell",
+    "comune": "Guastalla",
+    "provincia": "RE",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 31,
+    "storia": [
+      {
+        "anno": 2009,
+        "posizione": 31,
+        "punti": 340
+      }
+    ]
+  },
+  "Scacchi (Bari)": {
+    "id": "Scacchi (Bari)",
+    "nome": "Scacchi",
+    "comune": "Bari",
+    "provincia": "BA",
+    "partecipazioni": 4,
+    "miglior_piazzamento": 13,
+    "storia": [
+      {
+        "anno": 2021,
+        "posizione": 25,
+        "punti": 573
+      },
+      {
+        "anno": 2024,
+        "posizione": 24,
+        "punti": 693
+      },
+      {
+        "anno": 2025,
+        "posizione": 13,
+        "punti": 894
+      },
+      {
+        "anno": 2026,
+        "posizione": 31,
+        "punti": 678
+      }
+    ]
+  },
+  "Spallanzani (Reggio Emilia)": {
+    "id": "Spallanzani (Reggio Emilia)",
+    "nome": "Spallanzani",
+    "comune": "Reggio Emilia",
+    "provincia": "RE",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 26,
+    "storia": [
+      {
+        "anno": 2014,
+        "posizione": 26,
+        "punti": 454
+      }
+    ]
+  },
+  "Spano (Sassari)": {
+    "id": "Spano (Sassari)",
+    "nome": "Spano",
+    "comune": "Sassari",
+    "provincia": "SS",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 21,
+    "storia": [
+      {
+        "anno": 2019,
+        "posizione": 32,
+        "punti": 182
+      },
+      {
+        "anno": 2020,
+        "posizione": 21,
+        "punti": 471
+      }
+    ]
+  },
+  "Spinelli (Torino)": {
+    "id": "Spinelli (Torino)",
+    "nome": "Spinelli",
+    "comune": "Torino",
+    "provincia": "TO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 17,
+    "storia": [
+      {
+        "anno": 2008,
+        "posizione": 17,
+        "punti": 548
+      }
+    ]
+  },
+  "Stampacchia (Tricase)": {
+    "id": "Stampacchia (Tricase)",
+    "nome": "Stampacchia",
+    "comune": "Tricase",
+    "provincia": "LE",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 24,
+    "storia": [
+      {
+        "anno": 2013,
+        "posizione": 25,
+        "punti": 328
+      },
+      {
+        "anno": 2014,
+        "posizione": 24,
+        "punti": 521
+      }
+    ]
+  },
+  "Taramelli (Pavia)": {
+    "id": "Taramelli (Pavia)",
+    "nome": "Taramelli",
+    "comune": "Pavia",
+    "provincia": "PV",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 35,
+    "storia": [
+      {
+        "anno": 2015,
+        "posizione": 35,
+        "punti": 241
+      }
+    ]
+  },
+  "Taramelli-Foscolo (Pavia)": {
+    "id": "Taramelli-Foscolo (Pavia)",
+    "nome": "Taramelli-Foscolo",
+    "comune": "Pavia",
+    "provincia": "PV",
+    "partecipazioni": 4,
+    "miglior_piazzamento": 18,
+    "storia": [
+      {
+        "anno": 2021,
+        "posizione": 36,
+        "punti": 460
+      },
+      {
+        "anno": 2022,
+        "posizione": 18,
+        "punti": 411
+      },
+      {
+        "anno": 2023,
+        "posizione": 24,
+        "punti": 526
+      },
+      {
+        "anno": 2024,
+        "posizione": 20,
+        "punti": 837
+      }
+    ]
+  },
+  "Tassoni (Modena)": {
+    "id": "Tassoni (Modena)",
+    "nome": "Tassoni",
+    "comune": "Modena",
+    "provincia": "MO",
+    "partecipazioni": 6,
+    "miglior_piazzamento": 9,
+    "storia": [
+      {
+        "anno": 2007,
+        "posizione": 16,
+        "punti": 588
+      },
+      {
+        "anno": 2008,
+        "posizione": 16,
+        "punti": 556
+      },
+      {
+        "anno": 2019,
+        "posizione": 9,
+        "punti": 645
+      },
+      {
+        "anno": 2020,
+        "posizione": 24,
+        "punti": 316
+      },
+      {
+        "anno": 2024,
+        "posizione": 29,
+        "punti": 612
+      },
+      {
+        "anno": 2025,
+        "posizione": 16,
+        "punti": 849
+      }
+    ]
+  },
+  "Torricelli-Ballardini (Faenza)": {
+    "id": "Torricelli-Ballardini (Faenza)",
+    "nome": "Torricelli-Ballardini",
+    "comune": "Faenza",
+    "provincia": "RA",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 26,
+    "storia": [
+      {
+        "anno": 2019,
+        "posizione": 28,
+        "punti": 278
+      },
+      {
+        "anno": 2025,
+        "posizione": 26,
+        "punti": 686
+      }
+    ]
+  },
+  "Trissino (Valdagno)": {
+    "id": "Trissino (Valdagno)",
+    "nome": "Trissino",
+    "comune": "Valdagno",
+    "provincia": "VI",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 13,
+    "storia": [
+      {
+        "anno": 2011,
+        "posizione": 13,
+        "punti": 776
+      }
+    ]
+  },
+  "Tron (Schio)": {
+    "id": "Tron (Schio)",
+    "nome": "Tron",
+    "comune": "Schio",
+    "provincia": "VI",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 14,
+    "storia": [
+      {
+        "anno": 2017,
+        "posizione": 14,
+        "punti": 597
+      },
+      {
+        "anno": 2018,
+        "posizione": 18,
+        "punti": 573
+      }
+    ]
+  },
+  "Tron-Zanella (Schio)": {
+    "id": "Tron-Zanella (Schio)",
+    "nome": "Tron-Zanella",
+    "comune": "Schio",
+    "provincia": "VI",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 14,
+    "storia": [
+      {
+        "anno": 2023,
+        "posizione": 14,
+        "punti": 671
+      }
+    ]
+  },
+  "Ulivi (Parma)": {
+    "id": "Ulivi (Parma)",
+    "nome": "Ulivi",
+    "comune": "Parma",
+    "provincia": "PR",
+    "partecipazioni": 3,
+    "miglior_piazzamento": 10,
+    "storia": [
+      {
+        "anno": 2008,
+        "posizione": 25,
+        "punti": 447
+      },
+      {
+        "anno": 2010,
+        "posizione": 22,
+        "punti": 576
+      },
+      {
+        "anno": 2011,
+        "posizione": 10,
+        "punti": 800
+      }
+    ]
+  },
+  "Vallisneri (Lucca)": {
+    "id": "Vallisneri (Lucca)",
+    "nome": "Vallisneri",
+    "comune": "Lucca",
+    "provincia": "LU",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 25,
+    "storia": [
+      {
+        "anno": 2011,
+        "posizione": 25,
+        "punti": 504
+      },
+      {
+        "anno": 2014,
+        "posizione": 29,
+        "punti": 430
+      }
+    ]
+  },
+  "Vercelli (Asti)": {
+    "id": "Vercelli (Asti)",
+    "nome": "Vercelli",
+    "comune": "Asti",
+    "provincia": "AT",
+    "partecipazioni": 7,
+    "miglior_piazzamento": 11,
+    "storia": [
+      {
+        "anno": 2006,
+        "posizione": 11,
+        "punti": 548
+      },
+      {
+        "anno": 2007,
+        "posizione": 18,
+        "punti": 514
+      },
+      {
+        "anno": 2009,
+        "posizione": 28,
+        "punti": 367
+      },
+      {
+        "anno": 2010,
+        "posizione": 19,
+        "punti": 605
+      },
+      {
+        "anno": 2011,
+        "posizione": 24,
+        "punti": 512
+      },
+      {
+        "anno": 2012,
+        "posizione": 26,
+        "punti": 407
+      },
+      {
+        "anno": 2014,
+        "posizione": 27,
+        "punti": 450
+      }
+    ]
+  },
+  "Vian (Bracciano)": {
+    "id": "Vian (Bracciano)",
+    "nome": "Vian",
+    "comune": "Bracciano",
+    "provincia": "RM",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 23,
+    "storia": [
+      {
+        "anno": 2012,
+        "posizione": 23,
+        "punti": 445
+      }
+    ]
+  },
+  "Volta (Colle Val d'Elsa)": {
+    "id": "Volta (Colle Val d'Elsa)",
+    "nome": "Volta",
+    "comune": "Colle Val d'Elsa",
+    "provincia": "SI",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 28,
+    "storia": [
+      {
+        "anno": 2015,
+        "posizione": 28,
+        "punti": 630
+      },
+      {
+        "anno": 2016,
+        "posizione": 32,
+        "punti": 233
+      }
+    ]
+  },
+  "Volta (Colle di Val d'Elsa)": {
+    "id": "Volta (Colle di Val d'Elsa)",
+    "nome": "Volta",
+    "comune": "Colle di Val d'Elsa",
+    "provincia": "SI",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 16,
+    "storia": [
+      {
+        "anno": 2014,
+        "posizione": 16,
+        "punti": 612
+      }
+    ]
+  },
+  "Volta (Foggia)": {
+    "id": "Volta (Foggia)",
+    "nome": "Volta",
+    "comune": "Foggia",
+    "provincia": "FG",
+    "partecipazioni": 4,
+    "miglior_piazzamento": 20,
+    "storia": [
+      {
+        "anno": 2008,
+        "posizione": 27,
+        "punti": 366
+      },
+      {
+        "anno": 2020,
+        "posizione": 20,
+        "punti": 506
+      },
+      {
+        "anno": 2021,
+        "posizione": 44,
+        "punti": 344
+      },
+      {
+        "anno": 2022,
+        "posizione": 24,
+        "punti": 204
+      }
+    ]
+  },
+  "Volta (Milano)": {
+    "id": "Volta (Milano)",
+    "nome": "Volta",
+    "comune": "Milano",
+    "provincia": "MI",
+    "partecipazioni": 11,
+    "miglior_piazzamento": 1,
+    "storia": [
+      {
+        "anno": 2015,
+        "posizione": 12,
+        "punti": 848
+      },
+      {
+        "anno": 2016,
+        "posizione": 19,
+        "punti": 553
+      },
+      {
+        "anno": 2017,
+        "posizione": 17,
+        "punti": 552
+      },
+      {
+        "anno": 2018,
+        "posizione": 1,
+        "punti": 1190
+      },
+      {
+        "anno": 2019,
+        "posizione": 1,
+        "punti": 1134
+      },
+      {
+        "anno": 2020,
+        "posizione": 2,
+        "punti": 1309
+      },
+      {
+        "anno": 2021,
+        "posizione": 1,
+        "punti": 1373
+      },
+      {
+        "anno": 2023,
+        "posizione": 7,
+        "punti": 786
+      },
+      {
+        "anno": 2024,
+        "posizione": 1,
+        "punti": 1488
+      },
+      {
+        "anno": 2025,
+        "posizione": 2,
+        "punti": 1518
+      },
+      {
+        "anno": 2026,
+        "posizione": 6,
+        "punti": 1219
+      }
+    ]
+  },
+  "Volta (Sassuolo)": {
+    "id": "Volta (Sassuolo)",
+    "nome": "Volta",
+    "comune": "Sassuolo",
+    "provincia": "MO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 23,
+    "storia": [
+      {
+        "anno": 2009,
+        "posizione": 23,
+        "punti": 436
+      }
+    ]
+  },
+  "Volterra (Ciampino)": {
+    "id": "Volterra (Ciampino)",
+    "nome": "Volterra",
+    "comune": "Ciampino",
+    "provincia": "RM",
+    "partecipazioni": 2,
+    "miglior_piazzamento": 20,
+    "storia": [
+      {
+        "anno": 2012,
+        "posizione": 20,
+        "punti": 495
+      },
+      {
+        "anno": 2025,
+        "posizione": 35,
+        "punti": 419
+      }
+    ]
+  },
+  "Wiligelmo (Modena)": {
+    "id": "Wiligelmo (Modena)",
+    "nome": "Wiligelmo",
+    "comune": "Modena",
+    "provincia": "MO",
+    "partecipazioni": 1,
+    "miglior_piazzamento": 20,
+    "storia": [
+      {
+        "anno": 2005,
+        "posizione": 20,
+        "punti": 211
+      }
+    ]
+  }
+}
