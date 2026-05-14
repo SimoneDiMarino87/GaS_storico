@@ -1,16 +1,47 @@
-# React + Vite
+**Statistica GaS — Dashboard Storico**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Progetto frontend leggero costruito con React + Vite che visualizza lo storico e le classifiche nazionali delle scuole partecipanti ai tornei GaS.
 
-Currently, two official plugins are available:
+Contenuto principale:
+- Interfaccia single-page in `src/App.jsx` con tre viste: Storico Scuola, Classifiche Annuali e Albo d'Oro.
+- Dati inclusi (JSON) in `src/data/` e `public/data/` per sviluppo e deploy statico.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Quick start (sviluppo)
 
-## React Compiler
+1. Installa dipendenze:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```
+npm install
+```
 
-## Expanding the ESLint configuration
+2. Avvia il server di sviluppo (HMR):
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+npm run dev
+```
+
+Build e deploy
+
+- Build produzione: `npm run build`
+- Anteprima build: `npm run preview`
+- Deploy su GitHub Pages: `npm run deploy` (usa `gh-pages` - la `base` è impostata in `vite.config.js` su `/GaS_storico/`)
+
+Script utili (da `package.json`):
+- `dev` — avvia Vite in modalità sviluppo
+- `build` — crea la build di produzione
+- `preview` — serve la build statica localmente
+- `lint` — esegue ESLint
+- `deploy` — pubblica la cartella `dist` su GitHub Pages
+
+Dati inclusi
+
+- `src/data/elenco_scuole.json` — elenco delle scuole (id, metadata)
+- `src/data/profili_scuole.json` — profili con storico gare per ogni scuola
+- `src/data/classifiche_annuali.json` — classifiche per anno e categoria
+- `src/data/albo_medagliere.json` — medagliere e albo d'oro
+
+Note per sviluppatori
+
+- Il componente principale è `src/App.jsx`. I dati vengono importati come JSON statici per semplicità.
+- In `vite.config.js` la proprietà `base` è impostata a `/GaS_storico/`: aggiornarla se il repository cambia nome o il sito viene servito da un path diverso.
+- UI basata su Tailwind (config presente) e Recharts per i grafici.
