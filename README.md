@@ -6,6 +6,10 @@ Contenuto principale:
 - Interfaccia single-page in `src/App.jsx` con tre viste: Storico Scuola, Classifiche Annuali e Albo d'Oro.
 - Dati inclusi (JSON) in `src/data/` e `public/data/` per sviluppo e deploy statico.
 
+Provalo in rete:
+
+https://simonedimarino87.github.io/GaS_storico/
+
 Quick start (sviluppo)
 
 1. Installa dipendenze:
