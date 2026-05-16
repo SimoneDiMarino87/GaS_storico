@@ -1,9 +1,9 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { BarChart, Search, ListOrdered, Award } from 'lucide-react';
 import VistaStoricoScuola from './components/VistaStoricoScuola';
 import VistaClassifiche from './components/VistaClassifiche';
 import VistaAlboOro from './components/VistaAlboOro';
-import { profiliScuole, elencoScuole } from './lib/data';
+import get_data from './lib/data';
 
 function Header({activeTab, setActiveTab}) {
   return (
@@ -48,12 +48,23 @@ function Header({activeTab, setActiveTab}) {
 // COMPONENTE PRINCIPALE: CONTENITORE E NAVIGAZIONE
 // ============================================================================
 export default function App() {
+  const [data, setData] = useState(null);
   const [activeTab, setActiveTab] = useState('scuola'); 
   
-  const [scuolaSelezionata, setScuolaSelezionata] = useState(() => {
-    const lista = Array.isArray(elencoScuole) ? elencoScuole : [];
-    return lista.length > 0 ? lista[0].id_scuola : "";
-  });
+  const { profili } = data || {};
+
+  const [scuolaSelezionata, setScuolaSelezionata] = useState("");
+
+  useEffect(() => {
+    get_data().then(d => {
+      setData(d);
+      const entries = Object.entries(d.profiliScuole || {});
+      if (entries.length > 0) {
+        const id_scuola = entries[0][0];
+        setScuolaSelezionata(id_scuola);
+      }
+    });
+  }, []);
 
   const handleNavigaAScuola = (idScuola) => {
     setScuolaSelezionata(idScuola);
@@ -65,9 +76,10 @@ export default function App() {
     <div className="min-h-screen bg-slate-50 text-slate-800 font-sans pb-20" style={{ minHeight: '100vh', backgroundColor: '#f8fafc', color: '#1e293b', fontFamily: 'sans-serif', paddingBottom: '80px' }}>
       <Header activeTab={activeTab} setActiveTab={setActiveTab} />
       <main className="max-w-5xl mx-auto px-4 py-8" style={{ maxWidth: '1024px', margin: '0 auto', padding: '32px 16px' }}>
-        {activeTab === 'scuola' && <VistaStoricoScuola scuolaSelezionata={scuolaSelezionata} setScuolaSelezionata={setScuolaSelezionata} />}
-        {activeTab === 'classifiche' && <VistaClassifiche goToSchool={handleNavigaAScuola} />}
-        {activeTab === 'albo' && <VistaAlboOro />}
+        { !data && <div>Caricamento dati...</div> }
+        { data && activeTab === 'scuola' && <VistaStoricoScuola data={data} scuolaSelezionata={scuolaSelezionata} setScuolaSelezionata={setScuolaSelezionata} />}
+        { data && activeTab === 'classifiche' && <VistaClassifiche data={data} goToSchool={handleNavigaAScuola} />}
+        { data && activeTab === 'albo' && <VistaAlboOro data={data} />}
       </main>
     </div>
   );

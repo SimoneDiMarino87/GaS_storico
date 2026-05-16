@@ -1,7 +1,6 @@
 import { useState, useMemo } from 'react';
 import { Trophy, Medal, MapPin, Award, ChevronRight } from 'lucide-react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip as RechartsTooltip, ResponsiveContainer, Legend } from 'recharts';
-import { profiliScuole, elencoScuole, TUTTI_GLI_ANNI } from '../lib/data';
 
 // ============================================================================
 // COMPONENTE TOOLTIP SICURO (Isolato per prevenire crash)
@@ -43,11 +42,12 @@ function CustomTooltip({ active, payload, label, categoriaGara }) {
 // ============================================================================
 // COMPONENTE: STORICO SCUOLA
 // ============================================================================
-export default function VistaStoricoScuola({ scuolaSelezionata, setScuolaSelezionata }) {
+export default function VistaStoricoScuola({ data, scuolaSelezionata, setScuolaSelezionata }) {
+  const { profiliScuole, TUTTI_GLI_ANNI } = data;
   const [categoriaGara, setCategoriaGara] = useState("Completa"); 
   
   const profiliSicuri = profiliScuole || {};
-  const elencoSicuro = Array.isArray(elencoScuole) ? elencoScuole : [];
+  const elencoSicuro = Object.values(profiliSicuri).map(p => ({ id_scuola: p.id, "Nome Scuola": p.nome }));
   const profilo = profiliSicuri[scuolaSelezionata];
 
   const anniCrescenti = useMemo(() => [...TUTTI_GLI_ANNI].reverse(), []);
@@ -92,8 +92,10 @@ export default function VistaStoricoScuola({ scuolaSelezionata, setScuolaSelezio
     }
   }, [storiaFiltrata, categoriaGara, profilo]);
 
-  if (elencoSicuro.length === 0) {
-    return <div className="p-10 text-center text-slate-500 font-medium bg-white rounded-xl shadow-sm border border-slate-100">Attendere, caricamento dati in corso... (o file JSON vuoti)</div>;
+  if (!profilo || elencoSicuro.length === 0) {
+    return <div className="p-10 text-center text-slate-500 font-medium bg-white rounded-xl shadow-sm border border-slate-100">
+      Attendere, caricamento dati in corso... (o file JSON vuoti)
+    </div>;
   }
 
   return (
