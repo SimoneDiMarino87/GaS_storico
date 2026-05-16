@@ -1,11 +1,11 @@
 import { useState, useMemo } from 'react';
 import { Award, ListOrdered } from 'lucide-react';
-import { alboDati, elencoScuole } from '../lib/data';
 
 // ============================================================================
 // COMPONENTE: ALBO D'ORO E MEDAGLIERE
 // ============================================================================
-export default function VistaAlboOro() {
+export default function VistaAlboOro({ data }) {
+  const { alboDati } = data;
   const [filtroProvincia, setFiltroProvincia] = useState("Tutte");
   const { mista = [], femminile = [], medagliere = [] } = alboDati || {};
 

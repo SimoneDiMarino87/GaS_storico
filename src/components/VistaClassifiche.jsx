@@ -1,11 +1,11 @@
 import { useState, useMemo } from 'react';
 import { ChevronRight } from 'lucide-react';
-import { classificheAnnuali, TUTTI_GLI_ANNI } from '../lib/data';
 
 // ============================================================================
 // COMPONENTE: CLASSIFICHE ANNUALI
 // ============================================================================
-export default function VistaClassifiche({ goToSchool }) {
+export default function VistaClassifiche({ data, goToSchool }) {
+  const { classificheAnnuali, TUTTI_GLI_ANNI } = data;
   const [annoSel, setAnnoSel] = useState("2026");
   const [catSel, setCatSel] = useState("Finale Mista");
 
