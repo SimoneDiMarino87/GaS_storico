@@ -3,40 +3,6 @@ import { Trophy, Medal, MapPin, Award, ChevronRight } from 'lucide-react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip as RechartsTooltip, ResponsiveContainer, Legend } from 'recharts';
 
 // ============================================================================
-// COMPONENTE TOOLTIP SICURO (Isolato per prevenire crash)
-// ============================================================================
-function CustomTooltip({ active, payload, label, categoriaGara }) {
-  const hasData = payload && payload.some(p => p.value !== null);
-  if (!active || !payload || payload.length === 0 || !hasData) return null;
-
-  // Estrazione sicura dei dati
-  const semi = payload.find(p => p.dataKey === 'posizione_semi');
-  const fin = payload.find(p => p.dataKey === 'posizione_fin' || p.dataKey === 'posizione');
-
-  return (
-    <div className="bg-white p-3 border border-slate-200 rounded-lg shadow-md">
-      <p className="font-bold border-b border-slate-200 pb-1 mb-2 text-slate-800">Anno {label}</p>
-      
-      {semi && semi.value !== null && (
-        <div className="mb-2">
-          <p className="text-amber-600 font-bold m-0">Semifinale</p>
-          <p className="text-sm m-0 text-slate-700">Posizione: <strong>{semi.value}°</strong></p>
-          <p className="text-xs text-slate-500 m-0">Punti: {semi.payload?.punti_semi ?? '-'}</p>
-        </div>
-      )}
-
-      {fin && fin.value !== null && (
-        <div>
-          <p className="text-blue-600 font-bold m-0">{categoriaGara === 'Completa' ? 'Finale Mista' : categoriaGara}</p>
-          <p className="text-sm m-0 text-slate-700">Posizione: <strong>{fin.value}°</strong></p>
-          <p className="text-xs text-slate-500 m-0">Punti: {fin.payload?.punti_fin ?? fin.payload?.punti ?? '-'}</p>
-        </div>
-      )}
-    </div>
-  );
-}
-
-// ============================================================================
 // COMPONENTE: STORICO SCUOLA
 // ============================================================================
 export default function VistaStoricoScuola({ data, scuolaSelezionata, setScuolaSelezionata }) {
@@ -119,16 +85,30 @@ export default function VistaStoricoScuola({ data, scuolaSelezionata, setScuolaS
                 <th className="p-4 font-semibold w-24" style={{ padding: '16px', fontWeight: 600, width: '96px' }}>Anno</th>
                 {categoriaGara === "Completa" ? (
                   <>
-                    <th className="p-4 font-semibold" style={{ padding: '16px', fontWeight: 600 }}>Gara Semifinale</th>
-                    <th className="p-4 font-semibold text-center" style={{ padding: '16px', fontWeight: 600, textAlign: 'center' }}>Pos. Semi</th>
-                    <th className="p-4 font-semibold" style={{ padding: '16px', fontWeight: 600 }}>Gara Finale</th>
-                    <th className="p-4 font-semibold text-center" style={{ padding: '16px', fontWeight: 600, textAlign: 'center' }}>Pos. Finale</th>
+                    <th className="p-4 font-semibold" style={{ padding: '16px', fontWeight: 600 }}>
+                      Gara Semifinale
+                    </th>
+                    <th className="p-4 font-semibold text-center" style={{ padding: '16px', fontWeight: 600, textAlign: 'center' }}>
+                      Pos. Semi
+                    </th>
+                    <th className="p-4 font-semibold" style={{ padding: '16px', fontWeight: 600 }}>
+                      Gara Finale
+                    </th>
+                    <th className="p-4 font-semibold text-center" style={{ padding: '16px', fontWeight: 600, textAlign: 'center' }}>
+                      Pos. Finale
+                    </th>
                   </>
                 ) : (
                   <>
-                    <th className="p-4 font-semibold" style={{ padding: '16px', fontWeight: 600 }}>Gara Specifica</th>
-                    <th className="p-4 font-semibold text-center" style={{ padding: '16px', fontWeight: 600, textAlign: 'center' }}>Posizione</th>
-                    <th className="p-4 font-semibold text-right" style={{ padding: '16px', fontWeight: 600, textAlign: 'right' }}>Punti</th>
+                    <th className="p-4 font-semibold" style={{ padding: '16px', fontWeight: 600 }}>
+                      Gara Specifica
+                    </th>
+                    <th className="p-4 font-semibold text-center" style={{ padding: '16px', fontWeight: 600, textAlign: 'center' }}>
+                      Posizione
+                    </th>
+                    <th className="p-4 font-semibold text-right" style={{ padding: '16px', fontWeight: 600, textAlign: 'right' }}>
+                      Punti
+                    </th>
                   </>
                 )}
               </tr>
@@ -141,16 +121,30 @@ export default function VistaStoricoScuola({ data, scuolaSelezionata, setScuolaS
                   <td className="p-4 font-bold text-slate-700" style={{ padding: '16px', fontWeight: 'bold', color: '#334155' }}>{d.anno}</td>
                   {categoriaGara === "Completa" ? (
                     <>
-                      <td className="p-4 text-slate-600" style={{ padding: '16px', color: '#475569' }}>{d.dettaglio_semi || "-"}</td>
-                      <td className="p-4 text-center text-amber-600 font-bold" style={{ padding: '16px', textAlign: 'center', color: '#d97706', fontWeight: 'bold' }}>{d.posizione_semi ? `${d.posizione_semi}°` : "-"}</td>
-                      <td className="p-4 text-slate-600" style={{ padding: '16px', color: '#475569' }}>{d.dettaglio_fin || "-"}</td>
-                      <td className="p-4 text-center text-blue-600 font-bold" style={{ padding: '16px', textAlign: 'center', color: '#2563eb', fontWeight: 'bold' }}>{d.posizione_fin ? `${d.posizione_fin}°` : "-"}</td>
+                      <td className="p-4 text-slate-600" style={{ padding: '16px', color: '#475569' }}>
+                        {d.dettaglio_semi || "-"}
+                      </td>
+                      <td className="p-4 text-center text-amber-600 font-bold" style={{ padding: '16px', textAlign: 'center', color: '#d97706', fontWeight: 'bold' }}>
+                        {d.posizione_semi ? `${d.posizione_semi}°` : "-"}
+                      </td>
+                      <td className="p-4 text-slate-600" style={{ padding: '16px', color: '#475569' }}>
+                        {d.dettaglio_fin || "-"}
+                      </td>
+                      <td className="p-4 text-center text-blue-600 font-bold" style={{ padding: '16px', textAlign: 'center', color: '#2563eb', fontWeight: 'bold' }}>
+                        {d.posizione_fin ? `${d.posizione_fin}°` : "-"}
+                      </td>
                     </>
                   ) : (
                     <>
-                      <td className="p-4 text-slate-600" style={{ padding: '16px', color: '#475569' }}>{d.gara_dettaglio}</td>
-                      <td className="p-4 text-center font-bold text-blue-600" style={{ padding: '16px', textAlign: 'center', fontWeight: 'bold', color: '#2563eb' }}>{d.posizione}°</td>
-                      <td className="p-4 text-right font-mono" style={{ padding: '16px', textAlign: 'right', fontFamily: 'monospace' }}>{d.punti}</td>
+                      <td className="p-4 text-slate-600" style={{ padding: '16px', color: '#475569' }}>
+                        {d.gara}
+                      </td>
+                      <td className="p-4 text-center font-bold text-blue-600" style={{ padding: '16px', textAlign: 'center', fontWeight: 'bold', color: '#2563eb' }}>
+                        {d.posizione}°
+                      </td>
+                      <td className="p-4 text-right font-mono" style={{ padding: '16px', textAlign: 'right', fontFamily: 'monospace' }}>
+                        {d.punti}
+                      </td>
                     </>
                   )}
                 </tr>
@@ -162,6 +156,40 @@ export default function VistaStoricoScuola({ data, scuolaSelezionata, setScuolaS
     </div>
   );
 };
+
+// ============================================================================
+// COMPONENTE TOOLTIP SICURO (Isolato per prevenire crash)
+// ============================================================================
+function CustomTooltip({ active, payload, label, categoriaGara }) {
+  const hasData = payload && payload.some(p => p.value !== null);
+  if (!active || !payload || payload.length === 0 || !hasData) return null;
+
+  // Estrazione sicura dei dati
+  const semi = payload.find(p => p.dataKey === 'posizione_semi');
+  const fin = payload.find(p => p.dataKey === 'posizione_fin' || p.dataKey === 'posizione');
+
+  return (
+    <div className="bg-white p-3 border border-slate-200 rounded-lg shadow-md">
+      <p className="font-bold border-b border-slate-200 pb-1 mb-2 text-slate-800">Anno {label}</p>
+      
+      {semi && semi.value !== null && (
+        <div className="mb-2">
+          <p className="text-amber-600 font-bold m-0">Semifinale</p>
+          <p className="text-sm m-0 text-slate-700">Posizione: <strong>{semi.value}°</strong></p>
+          <p className="text-xs text-slate-500 m-0">Punti: {semi.payload?.punti_semi ?? '-'}</p>
+        </div>
+      )}
+
+      {fin && fin.value !== null && (
+        <div>
+          <p className="text-blue-600 font-bold m-0">{categoriaGara === 'Completa' ? 'Finale Mista' : categoriaGara}</p>
+          <p className="text-sm m-0 text-slate-700">Posizione: <strong>{fin.value}°</strong></p>
+          <p className="text-xs text-slate-500 m-0">Punti: {fin.payload?.punti_fin ?? fin.payload?.punti ?? '-'}</p>
+        </div>
+      )}
+    </div>
+  );
+}
 
 function Filtri({scuolaSelezionata, setScuolaSelezionata, categoriaGara, setCategoriaGara, elencoSicuro}) {
   return <div className="flex flex-col sm:flex-row gap-4 justify-center items-center bg-white p-4 rounded-xl shadow-sm border border-slate-100" style={{ display: 'flex', gap: '16px', justifyContent: 'center', backgroundColor: 'white', padding: '16px', borderRadius: '12px', border: '1px solid #f1f5f9' }}>
