@@ -1,1 +1,2154 @@
-[{"id_scuola":"Agnelli (Torino)","Nome Scuola":"Agnelli"},{"id_scuola":"Agnesi (Merate)","Nome Scuola":"Agnesi"},{"id_scuola":"Alberghetti (Imola)","Nome Scuola":"Alberghetti"},{"id_scuola":"Alberti (Benevento)","Nome Scuola":"Alberti"},{"id_scuola":"Alberti (Cagliari)","Nome Scuola":"Alberti"},{"id_scuola":"Aldi (Grosseto)","Nome Scuola":"Aldi"},{"id_scuola":"Alessi (Perugia)","Nome Scuola":"Alessi"},{"id_scuola":"Alfano da Termoli (Termoli)","Nome Scuola":"Alfano da Termoli"},{"id_scuola":"Alfano da Termoli [F] (Termoli)","Nome Scuola":"Alfano da Termoli [F]"},{"id_scuola":"Alighieri (Gorizia)","Nome Scuola":"Alighieri"},{"id_scuola":"Alighieri (Roma)","Nome Scuola":"Alighieri"},{"id_scuola":"Allievi-Sangallo (Terni)","Nome Scuola":"Allievi-Sangallo"},{"id_scuola":"Amaldi (Alzano Lombardo)","Nome Scuola":"Amaldi"},{"id_scuola":"Amaldi (Carbonia)","Nome Scuola":"Amaldi"},{"id_scuola":"Amaldi (Novi Ligure)","Nome Scuola":"Amaldi"},{"id_scuola":"Amedeo di Savoia (Pistoia)","Nome Scuola":"Amedeo di Savoia"},{"id_scuola":"Angioi (Sassari)","Nome Scuola":"Angioi"},{"id_scuola":"Angioy (Sassari)","Nome Scuola":"Angioy"},{"id_scuola":"Antonietti (Iseo)","Nome Scuola":"Antonietti"},{"id_scuola":"Apollinare (Roma)","Nome Scuola":"Apollinare"},{"id_scuola":"Aprosio (Ventimiglia)","Nome Scuola":"Aprosio"},{"id_scuola":"Archimede (Acireale)","Nome Scuola":"Archimede"},{"id_scuola":"Archimede (Roma)","Nome Scuola":"Archimede"},{"id_scuola":"Arcivescovile (Trento)","Nome Scuola":"Arcivescovile"},{"id_scuola":"Ariosto-Spallanzani (Reggio Emilia)","Nome Scuola":"Ariosto-Spallanzani"},{"id_scuola":"Ariosto-Spallanzani [F] (Reggio Emilia)","Nome Scuola":"Ariosto-Spallanzani [F]"},{"id_scuola":"Aristotele (Roma)","Nome Scuola":"Aristotele"},{"id_scuola":"Artom (Asti)","Nome Scuola":"Artom"},{"id_scuola":"Ascanio (Montesilvano)","Nome Scuola":"Ascanio"},{"id_scuola":"Aselli (Cremona)","Nome Scuola":"Aselli"},{"id_scuola":"Asproni (Nuoro)","Nome Scuola":"Asproni"},{"id_scuola":"Avogadro (Roma)","Nome Scuola":"Avogadro"},{"id_scuola":"Avogadro (Torino)","Nome Scuola":"Avogadro"},{"id_scuola":"Bagatta (Desenzano del Garda)","Nome Scuola":"Bagatta"},{"id_scuola":"Balbo (Casale Monferrato)","Nome Scuola":"Balbo"},{"id_scuola":"Balbo-Palli (Casale Monferrato)","Nome Scuola":"Balbo-Palli"},{"id_scuola":"Balzan (Badia Polesine)","Nome Scuola":"Balzan"},{"id_scuola":"Banfi (Vimercate)","Nome Scuola":"Banfi"},{"id_scuola":"Banzi Bazoli (Lecce)","Nome Scuola":"Banzi Bazoli"},{"id_scuola":"Baracca (Forl\u00ec)","Nome Scuola":"Baracca"},{"id_scuola":"Barsanti e Matteucci (Viareggio)","Nome Scuola":"Barsanti e Matteucci"},{"id_scuola":"Bassa Friulana (Cervignano del Friuli)","Nome Scuola":"Bassa Friulana"},{"id_scuola":"Battaglini (Taranto)","Nome Scuola":"Battaglini"},{"id_scuola":"Battaglini [F] (Taranto)","Nome Scuola":"Battaglini [F]"},{"id_scuola":"Belfiore (Mantova)","Nome Scuola":"Belfiore"},{"id_scuola":"Benincasa (Ancona)","Nome Scuola":"Benincasa"},{"id_scuola":"Berard (Aosta)","Nome Scuola":"Berard"},{"id_scuola":"Berenini (Fidenza)","Nome Scuola":"Berenini"},{"id_scuola":"Beretta (Gardone Val Trompia)","Nome Scuola":"Beretta"},{"id_scuola":"Berto (Mogliano Veneto)","Nome Scuola":"Berto"},{"id_scuola":"Bertolucci (Parma)","Nome Scuola":"Bertolucci"},{"id_scuola":"Bertoni (Udine)","Nome Scuola":"Bertoni"},{"id_scuola":"Bocchi-Galilei (Adria)","Nome Scuola":"Bocchi-Galilei"},{"id_scuola":"Boggio Lera (Catania)","Nome Scuola":"Boggio Lera"},{"id_scuola":"Bonghi-Rosmini (Lucera)","Nome Scuola":"Bonghi-Rosmini"},{"id_scuola":"Borsellino-Falcone (Zagarolo)","Nome Scuola":"Borsellino-Falcone"},{"id_scuola":"Botta (Ivrea)","Nome Scuola":"Botta"},{"id_scuola":"Brignoli-Einaudi-Marconi (Gradisca D'Isonzo)","Nome Scuola":"Brignoli-Einaudi-Marconi"},{"id_scuola":"Brotzu (Quartu)","Nome Scuola":"Brotzu"},{"id_scuola":"Bruno (Torino)","Nome Scuola":"Bruno"},{"id_scuola":"Bruno-Franchetti (Venezia)","Nome Scuola":"Bruno-Franchetti"},{"id_scuola":"Buonarroti (Pisa)","Nome Scuola":"Buonarroti"},{"id_scuola":"Buzzi (Prato)","Nome Scuola":"Buzzi"},{"id_scuola":"Cairoli (Vigevano)","Nome Scuola":"Cairoli"},{"id_scuola":"Calabrese-Levi (San Pietro In Cariano)","Nome Scuola":"Calabrese-Levi"},{"id_scuola":"Calasanzio (Carcare)","Nome Scuola":"Calasanzio"},{"id_scuola":"Calini (Brescia)","Nome Scuola":"Calini"},{"id_scuola":"Calini [F] (Brescia)","Nome Scuola":"Calini [F]"},{"id_scuola":"Calvino (Citt\u00e0 della Pieve)","Nome Scuola":"Calvino"},{"id_scuola":"Campana (Osimo)","Nome Scuola":"Campana"},{"id_scuola":"Cannizzaro (Palermo)","Nome Scuola":"Cannizzaro"},{"id_scuola":"Cannizzaro (Roma)","Nome Scuola":"Cannizzaro"},{"id_scuola":"Cannizzaro (Vittoria)","Nome Scuola":"Cannizzaro"},{"id_scuola":"Capirola (Leno)","Nome Scuola":"Capirola"},{"id_scuola":"Capizzi (Bronte)","Nome Scuola":"Capizzi"},{"id_scuola":"Carducci (Volterra)","Nome Scuola":"Carducci"},{"id_scuola":"Carducci-Volta-Pacinotti (Piombino)","Nome Scuola":"Carducci-Volta-Pacinotti"},{"id_scuola":"Cartesio (Giugliano in Campania)","Nome Scuola":"Cartesio"},{"id_scuola":"Casaletto (Roma)","Nome Scuola":"Casaletto"},{"id_scuola":"Cassini (Genova)","Nome Scuola":"Cassini"},{"id_scuola":"Cassini [F] (Genova)","Nome Scuola":"Cassini [F]"},{"id_scuola":"Castelli (Brescia)","Nome Scuola":"Castelli"},{"id_scuola":"Castelnuovo (Firenze)","Nome Scuola":"Castelnuovo"},{"id_scuola":"Cattaneo (Follonica)","Nome Scuola":"Cattaneo"},{"id_scuola":"Cattaneo (Torino)","Nome Scuola":"Cattaneo"},{"id_scuola":"Cattaneo-Dall'Aglio (Castelnovo ne' Monti)","Nome Scuola":"Cattaneo-Dall'Aglio"},{"id_scuola":"Cavalieri (Verbania)","Nome Scuola":"Cavalieri"},{"id_scuola":"Cavour (Roma)","Nome Scuola":"Cavour"},{"id_scuola":"Cavour (Torino)","Nome Scuola":"Cavour"},{"id_scuola":"Ceccano (Ceccano)","Nome Scuola":"Ceccano"},{"id_scuola":"Cecioni (Livorno)","Nome Scuola":"Cecioni"},{"id_scuola":"Celeri (Lovere)","Nome Scuola":"Celeri"},{"id_scuola":"Cerebotani (Lonato del Garda)","Nome Scuola":"Cerebotani"},{"id_scuola":"Chilesotti (Thiene)","Nome Scuola":"Chilesotti"},{"id_scuola":"Citta' di Piero (Sansepolcro)","Nome Scuola":"Citta' di Piero"},{"id_scuola":"Citt\u00e0 di Piero (Sansepolcro)","Nome Scuola":"Citt\u00e0 di Piero"},{"id_scuola":"Ciusa (Nuoro)","Nome Scuola":"Ciusa"},{"id_scuola":"Cobetti (Torino)","Nome Scuola":"Cobetti"},{"id_scuola":"Cobianchi (Verbania)","Nome Scuola":"Cobianchi"},{"id_scuola":"Colle dei frati (Zagarolo)","Nome Scuola":"Colle dei frati"},{"id_scuola":"Colombini (Piacenza)","Nome Scuola":"Colombini"},{"id_scuola":"Convitto Nazionale (Cividale del Friuli)","Nome Scuola":"Convitto Nazionale"},{"id_scuola":"Convitto Nazionale Emanuele Ii (Roma)","Nome Scuola":"Convitto Nazionale Emanuele Ii"},{"id_scuola":"Copernico (Bologna)","Nome Scuola":"Copernico"},{"id_scuola":"Copernico (Brescia)","Nome Scuola":"Copernico"},{"id_scuola":"Copernico (Prato)","Nome Scuola":"Copernico"},{"id_scuola":"Copernico (Torino)","Nome Scuola":"Copernico"},{"id_scuola":"Copernico (Udine)","Nome Scuola":"Copernico"},{"id_scuola":"Copernico (Verona)","Nome Scuola":"Copernico"},{"id_scuola":"Copernico [F] (Prato)","Nome Scuola":"Copernico [F]"},{"id_scuola":"Copernico-Luxemburg (Torino)","Nome Scuola":"Copernico-Luxemburg"},{"id_scuola":"Corbino (Siracusa)","Nome Scuola":"Corbino"},{"id_scuola":"Corni (Modena)","Nome Scuola":"Corni"},{"id_scuola":"Corradini (Thiene)","Nome Scuola":"Corradini"},{"id_scuola":"Corridoni-Campana (Osimo)","Nome Scuola":"Corridoni-Campana"},{"id_scuola":"Corso (Correggio)","Nome Scuola":"Corso"},{"id_scuola":"Costa-Azara (Sorgono)","Nome Scuola":"Costa-Azara"},{"id_scuola":"Croce (Roma)","Nome Scuola":"Croce"},{"id_scuola":"Croce - Aleramo (Roma)","Nome Scuola":"Croce - Aleramo"},{"id_scuola":"Croce-Aleramo (Roma)","Nome Scuola":"Croce-Aleramo"},{"id_scuola":"Curcio (Ispica)","Nome Scuola":"Curcio"},{"id_scuola":"Curie (Giulianova)","Nome Scuola":"Curie"},{"id_scuola":"Curie (Pinerolo)","Nome Scuola":"Curie"},{"id_scuola":"Curie (Savignano Sul Rubicone)","Nome Scuola":"Curie"},{"id_scuola":"Curie (Tradate)","Nome Scuola":"Curie"},{"id_scuola":"Cutelli (Catania)","Nome Scuola":"Cutelli"},{"id_scuola":"D'Arzo (Montecchio Emilia)","Nome Scuola":"D'Arzo"},{"id_scuola":"Da Procida (Salerno)","Nome Scuola":"Da Procida"},{"id_scuola":"Da Vinci (Arzignano)","Nome Scuola":"Da Vinci"},{"id_scuola":"Da Vinci (Cesenatico)","Nome Scuola":"Da Vinci"},{"id_scuola":"Da Vinci (Jesi)","Nome Scuola":"Da Vinci"},{"id_scuola":"Da Vinci (Maglie)","Nome Scuola":"Da Vinci"},{"id_scuola":"Da Vinci (Reggio Calabria)","Nome Scuola":"Da Vinci"},{"id_scuola":"Da Vinci (Salerno)","Nome Scuola":"Da Vinci"},{"id_scuola":"Da Vinci (Sora)","Nome Scuola":"Da Vinci"},{"id_scuola":"Da Vinci (Terracina)","Nome Scuola":"Da Vinci"},{"id_scuola":"Da Vinci (Trento)","Nome Scuola":"Da Vinci"},{"id_scuola":"Da Vinci (Treviso)","Nome Scuola":"Da Vinci"},{"id_scuola":"Da Vinci [F] (Treviso)","Nome Scuola":"Da Vinci [F]"},{"id_scuola":"Da Vinci-Pascoli (Gallarate)","Nome Scuola":"Da Vinci-Pascoli"},{"id_scuola":"Dal Piaz (Feltre)","Nome Scuola":"Dal Piaz"},{"id_scuola":"Dante Alighieri (Roma)","Nome Scuola":"Dante Alighieri"},{"id_scuola":"Darwin (Rivoli)","Nome Scuola":"Darwin"},{"id_scuola":"De Giorgi (Lecce)","Nome Scuola":"De Giorgi"},{"id_scuola":"De Pretto (Schio)","Nome Scuola":"De Pretto"},{"id_scuola":"De Ruggieri (Massafra)","Nome Scuola":"De Ruggieri"},{"id_scuola":"De Sanctis-Galilei (Manduria)","Nome Scuola":"De Sanctis-Galilei"},{"id_scuola":"De' Liguori (Sant'Agata de' Goti)","Nome Scuola":"De' Liguori"},{"id_scuola":"Del Prete-Falcone (Sava)","Nome Scuola":"Del Prete-Falcone"},{"id_scuola":"Democrito (Roma)","Nome Scuola":"Democrito"},{"id_scuola":"Des Ambrois (Oulx)","Nome Scuola":"Des Ambrois"},{"id_scuola":"Dettori (Tempio Pausania)","Nome Scuola":"Dettori"},{"id_scuola":"Di Napoli (Assisi)","Nome Scuola":"Di Napoli"},{"id_scuola":"Di Savoia (Ancona)","Nome Scuola":"Di Savoia"},{"id_scuola":"Di Savoia-Benincasa (Ancona)","Nome Scuola":"Di Savoia-Benincasa"},{"id_scuola":"Dini (Pisa)","Nome Scuola":"Dini"},{"id_scuola":"Don Bosco (Catania)","Nome Scuola":"Don Bosco"},{"id_scuola":"Don Bosco (Milano)","Nome Scuola":"Don Bosco"},{"id_scuola":"Don Milani (Montichiari)","Nome Scuola":"Don Milani"},{"id_scuola":"Donatelli (Terni)","Nome Scuola":"Donatelli"},{"id_scuola":"Dorgali (Dorgali)","Nome Scuola":"Dorgali"},{"id_scuola":"Douhet (Firenze)","Nome Scuola":"Douhet"},{"id_scuola":"Duca degli Abruzzi (Gorizia)","Nome Scuola":"Duca degli Abruzzi"},{"id_scuola":"Duca degli Abruzzi-Alighieri (Gorizia)","Nome Scuola":"Duca degli Abruzzi-Alighieri"},{"id_scuola":"Einaudi (Siracusa)","Nome Scuola":"Einaudi"},{"id_scuola":"Einstein (Cerignola)","Nome Scuola":"Einstein"},{"id_scuola":"Einstein (Cervignano del Friuli)","Nome Scuola":"Einstein"},{"id_scuola":"Einstein (Milano)","Nome Scuola":"Einstein"},{"id_scuola":"Einstein (Palermo)","Nome Scuola":"Einstein"},{"id_scuola":"Einstein (Piove di Sacco)","Nome Scuola":"Einstein"},{"id_scuola":"Einstein (Teramo)","Nome Scuola":"Einstein"},{"id_scuola":"Einstein (Torino)","Nome Scuola":"Einstein"},{"id_scuola":"Enriques (Castelfiorentino)","Nome Scuola":"Enriques"},{"id_scuola":"Enriques (Livorno)","Nome Scuola":"Enriques"},{"id_scuola":"Enriques Agnoletti (Sesto Fiorentino)","Nome Scuola":"Enriques Agnoletti"},{"id_scuola":"Euclide (Cagliari)","Nome Scuola":"Euclide"},{"id_scuola":"Europa Unita (Lissone)","Nome Scuola":"Europa Unita"},{"id_scuola":"Failla Tedaldi (Castelbuono)","Nome Scuola":"Failla Tedaldi"},{"id_scuola":"Falcone (Asola)","Nome Scuola":"Falcone"},{"id_scuola":"Falcone (Barrafranca)","Nome Scuola":"Falcone"},{"id_scuola":"Fanti (Carpi)","Nome Scuola":"Fanti"},{"id_scuola":"Farinato (Enna)","Nome Scuola":"Farinato"},{"id_scuola":"Farnesina (Roma)","Nome Scuola":"Farnesina"},{"id_scuola":"Fermi (Alghero)","Nome Scuola":"Fermi"},{"id_scuola":"Fermi (Bologna)","Nome Scuola":"Fermi"},{"id_scuola":"Fermi (Brindisi)","Nome Scuola":"Fermi"},{"id_scuola":"Fermi (Cant\u00f9)","Nome Scuola":"Fermi"},{"id_scuola":"Fermi (Cosenza)","Nome Scuola":"Fermi"},{"id_scuola":"Fermi (Genova)","Nome Scuola":"Fermi"},{"id_scuola":"Fermi (Lucca)","Nome Scuola":"Fermi"},{"id_scuola":"Fermi (Mantova)","Nome Scuola":"Fermi"},{"id_scuola":"Fermi (Massa)","Nome Scuola":"Fermi"},{"id_scuola":"Fermi (Modena)","Nome Scuola":"Fermi"},{"id_scuola":"Fermi (Montesarchio)","Nome Scuola":"Fermi"},{"id_scuola":"Fermi (Nuoro)","Nome Scuola":"Fermi"},{"id_scuola":"Fermi (Padova)","Nome Scuola":"Fermi"},{"id_scuola":"Fermi (Patern\u00f2)","Nome Scuola":"Fermi"},{"id_scuola":"Fermi-Giorgi (Lucca)","Nome Scuola":"Fermi-Giorgi"},{"id_scuola":"Fermi-Monticelli (Brindisi)","Nome Scuola":"Fermi-Monticelli"},{"id_scuola":"Ferraris (San Giovanni Valdarno)","Nome Scuola":"Ferraris"},{"id_scuola":"Ferraris (Torino)","Nome Scuola":"Ferraris"},{"id_scuola":"Ferraris [F] (Torino)","Nome Scuola":"Ferraris [F]"},{"id_scuola":"Filolao (Crotone)","Nome Scuola":"Filolao"},{"id_scuola":"Flaminio (Vittorio Veneto)","Nome Scuola":"Flaminio"},{"id_scuola":"Focaccia (Salerno)","Nome Scuola":"Focaccia"},{"id_scuola":"Fogazzaro (Vicenza)","Nome Scuola":"Fogazzaro"},{"id_scuola":"Foresi (Portoferraio)","Nome Scuola":"Foresi"},{"id_scuola":"Formiggini (Sassuolo)","Nome Scuola":"Formiggini"},{"id_scuola":"Forteguerri (Pistoia)","Nome Scuola":"Forteguerri"},{"id_scuola":"Foscolo (Albano Laziale)","Nome Scuola":"Foscolo"},{"id_scuola":"Fracastoro (Verona)","Nome Scuola":"Fracastoro"},{"id_scuola":"Francesco D'Assisi (Roma)","Nome Scuola":"Francesco D'Assisi"},{"id_scuola":"Francesco Redi (Arezzo)","Nome Scuola":"Francesco Redi"},{"id_scuola":"Frisi (Monza)","Nome Scuola":"Frisi"},{"id_scuola":"Galilei (Adria)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Alessandria)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Ancona)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Arezzo)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Belluno)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Bitonto)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Caravaggio)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Castelnuovo di Garfagnana)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Catania)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Civitavecchia)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Crema)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Dolo)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Erba)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Lanciano)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Legnano)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Macerata)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Macomer)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Manfredonia)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Mirandola)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Palermo)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Perugia)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Pescara)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Riccia)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Siena)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Terni)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Trento)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Trieste)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei (Verona)","Nome Scuola":"Galilei"},{"id_scuola":"Galilei-Campailla (Modica)","Nome Scuola":"Galilei-Campailla"},{"id_scuola":"Galilei-Moro (Manfredonia)","Nome Scuola":"Galilei-Moro"},{"id_scuola":"Galilei-Tiziano (Belluno)","Nome Scuola":"Galilei-Tiziano"},{"id_scuola":"Gallotta (Eboli)","Nome Scuola":"Gallotta"},{"id_scuola":"Galvani (Bologna)","Nome Scuola":"Galvani"},{"id_scuola":"Gandhi (Narni)","Nome Scuola":"Gandhi"},{"id_scuola":"Gandini (Lodi)","Nome Scuola":"Gandini"},{"id_scuola":"Genoino (Cava De' Tirreni)","Nome Scuola":"Genoino"},{"id_scuola":"Genoino (Cava de' Tirreni)","Nome Scuola":"Genoino"},{"id_scuola":"Giannone (Benevento)","Nome Scuola":"Giannone"},{"id_scuola":"Giannone (San Marco In Lamis)","Nome Scuola":"Giannone"},{"id_scuola":"Gioia (Piacenza)","Nome Scuola":"Gioia"},{"id_scuola":"Giordano (Venafro)","Nome Scuola":"Giordano"},{"id_scuola":"Giordano Bruno (Torino)","Nome Scuola":"Giordano Bruno"},{"id_scuola":"Giorgi (Brindisi)","Nome Scuola":"Giorgi"},{"id_scuola":"Giovanni Da Procida (Salerno)","Nome Scuola":"Giovanni Da Procida"},{"id_scuola":"Gobetti (Torino)","Nome Scuola":"Gobetti"},{"id_scuola":"Golgi (Breno)","Nome Scuola":"Golgi"},{"id_scuola":"Gramsci (Firenze)","Nome Scuola":"Gramsci"},{"id_scuola":"Grassi (Latina)","Nome Scuola":"Grassi"},{"id_scuola":"Grassi (Lecco)","Nome Scuola":"Grassi"},{"id_scuola":"Grassi (Saronno)","Nome Scuola":"Grassi"},{"id_scuola":"Grassi (Savona)","Nome Scuola":"Grassi"},{"id_scuola":"Grassi (atina)","Nome Scuola":"Grassi"},{"id_scuola":"Grassi [F] (Latina)","Nome Scuola":"Grassi [F]"},{"id_scuola":"Grigoletti (Pordenone)","Nome Scuola":"Grigoletti"},{"id_scuola":"Guetti (Tione di Trento)","Nome Scuola":"Guetti"},{"id_scuola":"Gullace (Roma)","Nome Scuola":"Gullace"},{"id_scuola":"ISIS della Bassa Friulana (Cervignano del Friuli)","Nome Scuola":"ISIS della Bassa Friulana"},{"id_scuola":"Il Pontormo (Empoli)","Nome Scuola":"Il Pontormo"},{"id_scuola":"Innocenzo XII (Anzio)","Nome Scuola":"Innocenzo XII"},{"id_scuola":"Ippolito Nievo (Padova)","Nome Scuola":"Ippolito Nievo"},{"id_scuola":"Jacopo da Ponte (Bassano del Grappa)","Nome Scuola":"Jacopo da Ponte"},{"id_scuola":"Jacopone da Todi (Todi)","Nome Scuola":"Jacopone da Todi"},{"id_scuola":"Juvarra (Venaria Reale)","Nome Scuola":"Juvarra"},{"id_scuola":"Kennedy (Pordenone)","Nome Scuola":"Kennedy"},{"id_scuola":"Kennedy (Roma)","Nome Scuola":"Kennedy"},{"id_scuola":"King (Genova)","Nome Scuola":"King"},{"id_scuola":"Labriola (Roma)","Nome Scuola":"Labriola"},{"id_scuola":"Landi (Velletri)","Nome Scuola":"Landi"},{"id_scuola":"Lanfranconi (Genova)","Nome Scuola":"Lanfranconi"},{"id_scuola":"Le Filandiere (San Vito al Tagliamento)","Nome Scuola":"Le Filandiere"},{"id_scuola":"Leonardo (Brescia)","Nome Scuola":"Leonardo"},{"id_scuola":"Leonardo (Giarre)","Nome Scuola":"Leonardo"},{"id_scuola":"Leonardo Da Vinci (Cerea)","Nome Scuola":"Leonardo Da Vinci"},{"id_scuola":"Leonardo Da Vinci (Genova)","Nome Scuola":"Leonardo Da Vinci"},{"id_scuola":"Leonardo da Vinci (Firenze)","Nome Scuola":"Leonardo da Vinci"},{"id_scuola":"Leonardo da Vinci (Milano)","Nome Scuola":"Leonardo da Vinci"},{"id_scuola":"Leopardi (Recanati)","Nome Scuola":"Leopardi"},{"id_scuola":"Leopardi-Majorana (Pordenone)","Nome Scuola":"Leopardi-Majorana"},{"id_scuola":"Levi (Montebelluna)","Nome Scuola":"Levi"},{"id_scuola":"Levi-Civita (Roma)","Nome Scuola":"Levi-Civita"},{"id_scuola":"Liceo (Cesena)","Nome Scuola":"Liceo"},{"id_scuola":"Liceo (Vittoria)","Nome Scuola":"Liceo"},{"id_scuola":"Liceo Scientifico (Ceccano)","Nome Scuola":"Liceo Scientifico"},{"id_scuola":"Liceo di Faenza (Faenza)","Nome Scuola":"Liceo di Faenza"},{"id_scuola":"Lioy (Vicenza)","Nome Scuola":"Lioy"},{"id_scuola":"Lorenzini (Pescia)","Nome Scuola":"Lorenzini"},{"id_scuola":"Lucrezio Caro (Cittadella)","Nome Scuola":"Lucrezio Caro"},{"id_scuola":"Lussana (Bergamo)","Nome Scuola":"Lussana"},{"id_scuola":"Lussu (Sant'Antioco)","Nome Scuola":"Lussu"},{"id_scuola":"Maffei (Riva Del Garda)","Nome Scuola":"Maffei"},{"id_scuola":"Maffei (Riva del Garda)","Nome Scuola":"Maffei"},{"id_scuola":"Magrini-Marchetti (Gemona Del Friuli)","Nome Scuola":"Magrini-Marchetti"},{"id_scuola":"Magrini-Marchetti (Gemona del Friuli)","Nome Scuola":"Magrini-Marchetti"},{"id_scuola":"Majorana (Brindisi)","Nome Scuola":"Majorana"},{"id_scuola":"Majorana (Caltagirone)","Nome Scuola":"Majorana"},{"id_scuola":"Majorana (Desio)","Nome Scuola":"Majorana"},{"id_scuola":"Majorana (Isernia)","Nome Scuola":"Majorana"},{"id_scuola":"Majorana (Latina)","Nome Scuola":"Majorana"},{"id_scuola":"Majorana (Mirano)","Nome Scuola":"Majorana"},{"id_scuola":"Majorana (Rho)","Nome Scuola":"Majorana"},{"id_scuola":"Majorana (San Giovanni La Punta)","Nome Scuola":"Majorana"},{"id_scuola":"Majorana (Torino)","Nome Scuola":"Majorana"},{"id_scuola":"Majorana-Arcoleo (Caltagirone)","Nome Scuola":"Majorana-Arcoleo"},{"id_scuola":"Majorana-Corner (Mirano)","Nome Scuola":"Majorana-Corner"},{"id_scuola":"Majorana-Fascitelli (Isernia)","Nome Scuola":"Majorana-Fascitelli"},{"id_scuola":"Maldi (Novi Ligure)","Nome Scuola":"Maldi"},{"id_scuola":"Malignani (Cervignano del Friuli)","Nome Scuola":"Malignani"},{"id_scuola":"Malignani (Udine)","Nome Scuola":"Malignani"},{"id_scuola":"Malpighi (Roma)","Nome Scuola":"Malpighi"},{"id_scuola":"Mamiani (Roma)","Nome Scuola":"Mamiani"},{"id_scuola":"Mancini (Avellino)","Nome Scuola":"Mancini"},{"id_scuola":"Mangino (Pagani)","Nome Scuola":"Mangino"},{"id_scuola":"Marchesi (Mascalucia)","Nome Scuola":"Marchesi"},{"id_scuola":"Marconi (Campobasso)","Nome Scuola":"Marconi"},{"id_scuola":"Marconi (Carrara)","Nome Scuola":"Marconi"},{"id_scuola":"Marconi (Chiavari)","Nome Scuola":"Marconi"},{"id_scuola":"Marconi (Conegliano)","Nome Scuola":"Marconi"},{"id_scuola":"Marconi (Foggia)","Nome Scuola":"Marconi"},{"id_scuola":"Marconi (Foligno)","Nome Scuola":"Marconi"},{"id_scuola":"Marconi (Parma)","Nome Scuola":"Marconi"},{"id_scuola":"Marconi (San Miniato)","Nome Scuola":"Marconi"},{"id_scuola":"Marconi [F] (Carrara)","Nome Scuola":"Marconi [F]"},{"id_scuola":"Marconi-Delpino (Chiavari)","Nome Scuola":"Marconi-Delpino"},{"id_scuola":"Maria Ausiliatrice (Caltagirone)","Nome Scuola":"Maria Ausiliatrice"},{"id_scuola":"Mariano IV (Oristano)","Nome Scuola":"Mariano IV"},{"id_scuola":"Marinelli (Udine)","Nome Scuola":"Marinelli"},{"id_scuola":"Marinelli [F] (Udine)","Nome Scuola":"Marinelli [F]"},{"id_scuola":"Marini-Gioia (Amalfi)","Nome Scuola":"Marini-Gioia"},{"id_scuola":"Martin L. King (Genova)","Nome Scuola":"Martin L. King"},{"id_scuola":"Marymount (Roma)","Nome Scuola":"Marymount"},{"id_scuola":"Marzoli (Palazzolo sull'Oglio)","Nome Scuola":"Marzoli"},{"id_scuola":"Mascheroni (Bergamo)","Nome Scuola":"Mascheroni"},{"id_scuola":"Masci (Chieti)","Nome Scuola":"Masci"},{"id_scuola":"Masotto (Noventa Vicentina)","Nome Scuola":"Masotto"},{"id_scuola":"Mattei (Urbino)","Nome Scuola":"Mattei"},{"id_scuola":"Mattioli (Vasto)","Nome Scuola":"Mattioli"},{"id_scuola":"Mazzini (Napoli)","Nome Scuola":"Mazzini"},{"id_scuola":"Mazzini (Vittoria)","Nome Scuola":"Mazzini"},{"id_scuola":"Mazzone (Roccella ionica)","Nome Scuola":"Mazzone"},{"id_scuola":"Medi (Villafranca di Verona)","Nome Scuola":"Medi"},{"id_scuola":"Megara (Augusta)","Nome Scuola":"Megara"},{"id_scuola":"Meneghini (Edolo)","Nome Scuola":"Meneghini"},{"id_scuola":"Mercalli (Napoli)","Nome Scuola":"Mercalli"},{"id_scuola":"Messadaglia [F] (Verona)","Nome Scuola":"Messadaglia [F]"},{"id_scuola":"Messedaglia (Verona)","Nome Scuola":"Messedaglia"},{"id_scuola":"Meucci (Aprilia)","Nome Scuola":"Meucci"},{"id_scuola":"Meucci (Firenze)","Nome Scuola":"Meucci"},{"id_scuola":"Michelangelo (Cagliari)","Nome Scuola":"Michelangelo"},{"id_scuola":"Milani (Montichiari)","Nome Scuola":"Milani"},{"id_scuola":"Montale (Roma)","Nome Scuola":"Montale"},{"id_scuola":"Monti (Chieri)","Nome Scuola":"Monti"},{"id_scuola":"Moretti (Gardone Val Trompia)","Nome Scuola":"Moretti"},{"id_scuola":"Moretti-Eeretta (Gardone Val Trompia)","Nome Scuola":"Moretti-Eeretta"},{"id_scuola":"Morgagni (Roma)","Nome Scuola":"Morgagni"},{"id_scuola":"Moro (Reggio Emilia)","Nome Scuola":"Moro"},{"id_scuola":"Natta (Bergamo)","Nome Scuola":"Natta"},{"id_scuola":"Newton (Camposampiero)","Nome Scuola":"Newton"},{"id_scuola":"Newton (Chivasso)","Nome Scuola":"Newton"},{"id_scuola":"Newton (Roma)","Nome Scuola":"Newton"},{"id_scuola":"Nicoloso (Recco)","Nome Scuola":"Nicoloso"},{"id_scuola":"Nicoloso Da Recco (Recco)","Nome Scuola":"Nicoloso Da Recco"},{"id_scuola":"Nicoloso da Recco (Recco)","Nome Scuola":"Nicoloso da Recco"},{"id_scuola":"Nievo (Padova)","Nome Scuola":"Nievo"},{"id_scuola":"Nievo [F] (Padova)","Nome Scuola":"Nievo [F]"},{"id_scuola":"Nobili-Lombardini (Reggio Emilia)","Nome Scuola":"Nobili-Lombardini"},{"id_scuola":"Nomentano (Roma)","Nome Scuola":"Nomentano"},{"id_scuola":"Oberdan (Trieste)","Nome Scuola":"Oberdan"},{"id_scuola":"Oliveti (Locri)","Nome Scuola":"Oliveti"},{"id_scuola":"Oliveti [F] (Locri)","Nome Scuola":"Oliveti [F]"},{"id_scuola":"Orazio (Roma)","Nome Scuola":"Orazio"},{"id_scuola":"Orsini-Licini (Ascoli Piceno)","Nome Scuola":"Orsini-Licini"},{"id_scuola":"Pacini (Pistoia)","Nome Scuola":"Pacini"},{"id_scuola":"Pacinotti (Cagliari)","Nome Scuola":"Pacinotti"},{"id_scuola":"Pacinotti (La Spezia)","Nome Scuola":"Pacinotti"},{"id_scuola":"Pacinotti (la Spezia)","Nome Scuola":"Pacinotti"},{"id_scuola":"Pagano (Campobasso)","Nome Scuola":"Pagano"},{"id_scuola":"Paleocapa (Rovigo)","Nome Scuola":"Paleocapa"},{"id_scuola":"Palmeri (Termini Imerese)","Nome Scuola":"Palmeri"},{"id_scuola":"Paradisi (Vignola)","Nome Scuola":"Paradisi"},{"id_scuola":"Parentuccelli (Sarzana)","Nome Scuola":"Parentuccelli"},{"id_scuola":"Parentucelli (Sarzana)","Nome Scuola":"Parentucelli"},{"id_scuola":"Parodi (Acqui Terme)","Nome Scuola":"Parodi"},{"id_scuola":"Pascal (Giaveno)","Nome Scuola":"Pascal"},{"id_scuola":"Pascal (Pomezia)","Nome Scuola":"Pascal"},{"id_scuola":"Pascal (Reggio Emilia)","Nome Scuola":"Pascal"},{"id_scuola":"Pascal-Mazzolari (Manerbio)","Nome Scuola":"Pascal-Mazzolari"},{"id_scuola":"Paschini (Tolmezzo)","Nome Scuola":"Paschini"},{"id_scuola":"Paschini-Linussio (Tolmezzo)","Nome Scuola":"Paschini-Linussio"},{"id_scuola":"Paschini-Linussio [F] (Tolmezzo)","Nome Scuola":"Paschini-Linussio [F]"},{"id_scuola":"Patini (Castel di Sangro)","Nome Scuola":"Patini"},{"id_scuola":"Paulucci di Calboli (Forl\u00ec)","Nome Scuola":"Paulucci di Calboli"},{"id_scuola":"Peano (Monterotondo)","Nome Scuola":"Peano"},{"id_scuola":"Peano (Roma)","Nome Scuola":"Peano"},{"id_scuola":"Peano (Tortona)","Nome Scuola":"Peano"},{"id_scuola":"Peano-Pellico (Cuneo)","Nome Scuola":"Peano-Pellico"},{"id_scuola":"Pellati (Nizza Monferrato)","Nome Scuola":"Pellati"},{"id_scuola":"Pepe-Calamo (Ostuni)","Nome Scuola":"Pepe-Calamo"},{"id_scuola":"Petrarca (Arezzo)","Nome Scuola":"Petrarca"},{"id_scuola":"Piana di Lucca (Porcari)","Nome Scuola":"Piana di Lucca"},{"id_scuola":"Pigafetta (Vicenza)","Nome Scuola":"Pigafetta"},{"id_scuola":"Pininfarina (Moncalieri)","Nome Scuola":"Pininfarina"},{"id_scuola":"Pio XI (Roma)","Nome Scuola":"Pio XI"},{"id_scuola":"Pira (Bitti)","Nome Scuola":"Pira"},{"id_scuola":"Planck (Villorba)","Nome Scuola":"Planck"},{"id_scuola":"Plinio Seniore (Roma)","Nome Scuola":"Plinio Seniore"},{"id_scuola":"Plinio Seniore [F] (Roma)","Nome Scuola":"Plinio Seniore [F]"},{"id_scuola":"Plinio il Giovane (Citt\u00e0 di Castello)","Nome Scuola":"Plinio il Giovane"},{"id_scuola":"Poliziano (Montepulciano)","Nome Scuola":"Poliziano"},{"id_scuola":"Polo Liceale (Gorizia)","Nome Scuola":"Polo Liceale"},{"id_scuola":"Polo liceale (Gorizia)","Nome Scuola":"Polo liceale"},{"id_scuola":"Pontormo (Empoli)","Nome Scuola":"Pontormo"},{"id_scuola":"Primo Levi (San Donato Milanese)","Nome Scuola":"Primo Levi"},{"id_scuola":"Principe Di Napoli (Assisi)","Nome Scuola":"Principe Di Napoli"},{"id_scuola":"Principe Umberto (Catania)","Nome Scuola":"Principe Umberto"},{"id_scuola":"Principe di Napoli (Assisi)","Nome Scuola":"Principe di Napoli"},{"id_scuola":"Principe di Napoli [F] (Assisi)","Nome Scuola":"Principe di Napoli [F]"},{"id_scuola":"Quadri (Vicenza)","Nome Scuola":"Quadri"},{"id_scuola":"Ramad\u00f9 (Cisterna di Latina)","Nome Scuola":"Ramad\u00f9"},{"id_scuola":"Rambaldi-Valeriani (Imola)","Nome Scuola":"Rambaldi-Valeriani"},{"id_scuola":"Redi (Arezzo)","Nome Scuola":"Redi"},{"id_scuola":"Respighi (Piacenza)","Nome Scuola":"Respighi"},{"id_scuola":"Ribezzo (Francavilla Fontana)","Nome Scuola":"Ribezzo"},{"id_scuola":"Righi (Bologna)","Nome Scuola":"Righi"},{"id_scuola":"Righi (Cesena)","Nome Scuola":"Righi"},{"id_scuola":"Righi (Roma)","Nome Scuola":"Righi"},{"id_scuola":"Righi [F] (Roma)","Nome Scuola":"Righi [F]"},{"id_scuola":"Rinaldo Corso (Correggio)","Nome Scuola":"Rinaldo Corso"},{"id_scuola":"Rispoli (San Severo)","Nome Scuola":"Rispoli"},{"id_scuola":"Roiti (Ferrara)","Nome Scuola":"Roiti"},{"id_scuola":"Romita (Campobasso)","Nome Scuola":"Romita"},{"id_scuola":"Romita [F] (Campobasso)","Nome Scuola":"Romita [F]"},{"id_scuola":"Rosa (Bussoleno)","Nome Scuola":"Rosa"},{"id_scuola":"Rosetti (San Benedetto Del Tronto)","Nome Scuola":"Rosetti"},{"id_scuola":"Rosetti (San Benedetto del Tronto)","Nome Scuola":"Rosetti"},{"id_scuola":"Rosmini (Rovereto)","Nome Scuola":"Rosmini"},{"id_scuola":"Rossi (Massa)","Nome Scuola":"Rossi"},{"id_scuola":"Rossi (Vicenza)","Nome Scuola":"Rossi"},{"id_scuola":"Ruffini (Viterbo)","Nome Scuola":"Ruffini"},{"id_scuola":"Rummo (Benevento)","Nome Scuola":"Rummo"},{"id_scuola":"Russell (Cles)","Nome Scuola":"Russell"},{"id_scuola":"Russell (Guastalla)","Nome Scuola":"Russell"},{"id_scuola":"Russell (Roma)","Nome Scuola":"Russell"},{"id_scuola":"Russell-Newton (Scandicci)","Nome Scuola":"Russell-Newton"},{"id_scuola":"S. Cannizzaro (Palermo)","Nome Scuola":"S. Cannizzaro"},{"id_scuola":"S. Giuseppe (Torino)","Nome Scuola":"S. Giuseppe"},{"id_scuola":"Saffo (Roseto degli Abruzzi)","Nome Scuola":"Saffo"},{"id_scuola":"Salutati (Montecatini-Terme)","Nome Scuola":"Salutati"},{"id_scuola":"Salvemini (Sorrento)","Nome Scuola":"Salvemini"},{"id_scuola":"Salvini (Roma)","Nome Scuola":"Salvini"},{"id_scuola":"Sannazaro (Napoli)","Nome Scuola":"Sannazaro"},{"id_scuola":"Sansi-Leonardi-Volta (Spoleto)","Nome Scuola":"Sansi-Leonardi-Volta"},{"id_scuola":"Sarocchi (Siena)","Nome Scuola":"Sarocchi"},{"id_scuola":"Sarpi (Bergamo)","Nome Scuola":"Sarpi"},{"id_scuola":"Sbordone (Napoli)","Nome Scuola":"Sbordone"},{"id_scuola":"Scacchi (Bari)","Nome Scuola":"Scacchi"},{"id_scuola":"Scarano (Trivento)","Nome Scuola":"Scarano"},{"id_scuola":"Scarpa (Motta Di Livenza)","Nome Scuola":"Scarpa"},{"id_scuola":"Scarpa (Motta di Livenza)","Nome Scuola":"Scarpa"},{"id_scuola":"Scuola Secondaria Superiore (Repubblica San Marino)","Nome Scuola":"Scuola Secondaria Superiore"},{"id_scuola":"Seneca (Roma)","Nome Scuola":"Seneca"},{"id_scuola":"Severi (Frosinone)","Nome Scuola":"Severi"},{"id_scuola":"Severi (Montecorvino Rovella)","Nome Scuola":"Severi"},{"id_scuola":"Severi (Padova)","Nome Scuola":"Severi"},{"id_scuola":"Severi (Salerno)","Nome Scuola":"Severi"},{"id_scuola":"Siniscola (Siniscola)","Nome Scuola":"Siniscola"},{"id_scuola":"Sobrero (Casale Monferrato)","Nome Scuola":"Sobrero"},{"id_scuola":"Socrate (Roma)","Nome Scuola":"Socrate"},{"id_scuola":"Solari (Tolmezzo)","Nome Scuola":"Solari"},{"id_scuola":"Spallanzani (Reggio Emilia)","Nome Scuola":"Spallanzani"},{"id_scuola":"Spallanzani (Tivoli)","Nome Scuola":"Spallanzani"},{"id_scuola":"Spano (Sassari)","Nome Scuola":"Spano"},{"id_scuola":"Spinelli (Torino)","Nome Scuola":"Spinelli"},{"id_scuola":"Stampacchia (Tricase)","Nome Scuola":"Stampacchia"},{"id_scuola":"Stellini (Udine)","Nome Scuola":"Stellini"},{"id_scuola":"Tacito (Terni)","Nome Scuola":"Tacito"},{"id_scuola":"Talete (Roma)","Nome Scuola":"Talete"},{"id_scuola":"Taramelli (Pavia)","Nome Scuola":"Taramelli"},{"id_scuola":"Taramelli-Foscolo (Pavia)","Nome Scuola":"Taramelli-Foscolo"},{"id_scuola":"Tasso (Roma)","Nome Scuola":"Tasso"},{"id_scuola":"Tassoni (Modena)","Nome Scuola":"Tassoni"},{"id_scuola":"Tedone (Ruvo Di Puglia)","Nome Scuola":"Tedone"},{"id_scuola":"Tedone (Ruvo di Puglia)","Nome Scuola":"Tedone"},{"id_scuola":"Telesi@ (Telese Terme)","Nome Scuola":"Telesi@"},{"id_scuola":"Tito Livio (Martina Franca)","Nome Scuola":"Tito Livio"},{"id_scuola":"Torquato Tasso (Salerno)","Nome Scuola":"Torquato Tasso"},{"id_scuola":"Torricelli (Faenza)","Nome Scuola":"Torricelli"},{"id_scuola":"Torricelli (Maniago)","Nome Scuola":"Torricelli"},{"id_scuola":"Torricelli (Roma)","Nome Scuola":"Torricelli"},{"id_scuola":"Torricelli [F] (Faenza)","Nome Scuola":"Torricelli [F]"},{"id_scuola":"Torricelli-Ballardini (Faenza)","Nome Scuola":"Torricelli-Ballardini"},{"id_scuola":"Tortoli (Tortol\u00ec)","Nome Scuola":"Tortoli"},{"id_scuola":"Toscanelli (Roma)","Nome Scuola":"Toscanelli"},{"id_scuola":"Touschek (Grottaferrata)","Nome Scuola":"Touschek"},{"id_scuola":"Trissino (Valdagno)","Nome Scuola":"Trissino"},{"id_scuola":"Tron (Schio)","Nome Scuola":"Tron"},{"id_scuola":"Tron-Zanella (Schio)","Nome Scuola":"Tron-Zanella"},{"id_scuola":"Ulivi (Parma)","Nome Scuola":"Ulivi"},{"id_scuola":"Umberto Di Savoia (Catania)","Nome Scuola":"Umberto Di Savoia"},{"id_scuola":"United World College of the Adriatic (Duino Aurisina)","Nome Scuola":"United World College of the Adriatic"},{"id_scuola":"Vaccarini (Catania)","Nome Scuola":"Vaccarini"},{"id_scuola":"Vallisneri (Lucca)","Nome Scuola":"Vallisneri"},{"id_scuola":"Valsalice (Torino)","Nome Scuola":"Valsalice"},{"id_scuola":"Varchi (Montevarchi)","Nome Scuola":"Varchi"},{"id_scuola":"Vercelli (Asti)","Nome Scuola":"Vercelli"},{"id_scuola":"Verga (Adrano)","Nome Scuola":"Verga"},{"id_scuola":"Veronese (Chioggia)","Nome Scuola":"Veronese"},{"id_scuola":"Vian (Bracciano)","Nome Scuola":"Vian"},{"id_scuola":"Viola (Rovigo)","Nome Scuola":"Viola"},{"id_scuola":"Virgilio (Roma)","Nome Scuola":"Virgilio"},{"id_scuola":"Vittorini (Milano)","Nome Scuola":"Vittorini"},{"id_scuola":"Vittorio Emanuele II-Ruffini (Genova)","Nome Scuola":"Vittorio Emanuele II-Ruffini"},{"id_scuola":"Volta (Caltanissetta)","Nome Scuola":"Volta"},{"id_scuola":"Volta (Colle Di Val D'Elsa)","Nome Scuola":"Volta"},{"id_scuola":"Volta (Colle Val d'Elsa)","Nome Scuola":"Volta"},{"id_scuola":"Volta (Colle di Val d'Elsa)","Nome Scuola":"Volta"},{"id_scuola":"Volta (Foggia)","Nome Scuola":"Volta"},{"id_scuola":"Volta (Milano)","Nome Scuola":"Volta"},{"id_scuola":"Volta (Sassuolo)","Nome Scuola":"Volta"},{"id_scuola":"Volta-Sansi-Leonardi (Spoleto)","Nome Scuola":"Volta-Sansi-Leonardi"},{"id_scuola":"Volterra (Ciampino)","Nome Scuola":"Volterra"},{"id_scuola":"Volterra-Elia (Ancona)","Nome Scuola":"Volterra-Elia"},{"id_scuola":"Wiligelmo (Modena)","Nome Scuola":"Wiligelmo"},{"id_scuola":"Zanelli (Reggio Emilia)","Nome Scuola":"Zanelli"},{"id_scuola":"il Pontormo (Empoli)","Nome Scuola":"il Pontormo"}]
+[
+  {
+    "id_scuola":"Agnelli (Torino)",
+    "Nome Scuola":"Agnelli"
+  },
+  {
+    "id_scuola":"Agnesi (Merate)",
+    "Nome Scuola":"Agnesi"
+  },
+  {
+    "id_scuola":"Alberghetti (Imola)",
+    "Nome Scuola":"Alberghetti"
+  },
+  {
+    "id_scuola":"Alberti (Benevento)",
+    "Nome Scuola":"Alberti"
+  },
+  {
+    "id_scuola":"Alberti (Cagliari)",
+    "Nome Scuola":"Alberti"
+  },
+  {
+    "id_scuola":"Aldi (Grosseto)",
+    "Nome Scuola":"Aldi"
+  },
+  {
+    "id_scuola":"Alessi (Perugia)",
+    "Nome Scuola":"Alessi"
+  },
+  {
+    "id_scuola":"Alfano da Termoli (Termoli)",
+    "Nome Scuola":"Alfano da Termoli"
+  },
+  {
+    "id_scuola":"Alfano da Termoli [F] (Termoli)",
+    "Nome Scuola":"Alfano da Termoli [F]"
+  },
+  {
+    "id_scuola":"Alighieri (Gorizia)",
+    "Nome Scuola":"Alighieri"
+  },
+  {
+    "id_scuola":"Alighieri (Roma)",
+    "Nome Scuola":"Alighieri"
+  },
+  {
+    "id_scuola":"Allievi-Sangallo (Terni)",
+    "Nome Scuola":"Allievi-Sangallo"
+  },
+  {
+    "id_scuola":"Amaldi (Alzano Lombardo)",
+    "Nome Scuola":"Amaldi"
+  },
+  {
+    "id_scuola":"Amaldi (Carbonia)",
+    "Nome Scuola":"Amaldi"
+  },
+  {
+    "id_scuola":"Amaldi (Novi Ligure)",
+    "Nome Scuola":"Amaldi"
+  },
+  {
+    "id_scuola":"Amedeo di Savoia (Pistoia)",
+    "Nome Scuola":"Amedeo di Savoia"
+  },
+  {
+    "id_scuola":"Angioi (Sassari)",
+    "Nome Scuola":"Angioi"
+  },
+  {
+    "id_scuola":"Angioy (Sassari)",
+    "Nome Scuola":"Angioy"
+  },
+  {
+    "id_scuola":"Antonietti (Iseo)",
+    "Nome Scuola":"Antonietti"
+  },
+  {
+    "id_scuola":"Apollinare (Roma)",
+    "Nome Scuola":"Apollinare"
+  },
+  {
+    "id_scuola":"Aprosio (Ventimiglia)",
+    "Nome Scuola":"Aprosio"
+  },
+  {
+    "id_scuola":"Archimede (Acireale)",
+    "Nome Scuola":"Archimede"
+  },
+  {
+    "id_scuola":"Archimede (Roma)",
+    "Nome Scuola":"Archimede"
+  },
+  {
+    "id_scuola":"Arcivescovile (Trento)",
+    "Nome Scuola":"Arcivescovile"
+  },
+  {
+    "id_scuola":"Ariosto-Spallanzani (Reggio Emilia)",
+    "Nome Scuola":"Ariosto-Spallanzani"
+  },
+  {
+    "id_scuola":"Ariosto-Spallanzani [F] (Reggio Emilia)",
+    "Nome Scuola":"Ariosto-Spallanzani [F]"
+  },
+  {
+    "id_scuola":"Aristotele (Roma)",
+    "Nome Scuola":"Aristotele"
+  },
+  {
+    "id_scuola":"Artom (Asti)",
+    "Nome Scuola":"Artom"
+  },
+  {
+    "id_scuola":"Ascanio (Montesilvano)",
+    "Nome Scuola":"Ascanio"
+  },
+  {
+    "id_scuola":"Aselli (Cremona)",
+    "Nome Scuola":"Aselli"
+  },
+  {
+    "id_scuola":"Asproni (Nuoro)",
+    "Nome Scuola":"Asproni"
+  },
+  {
+    "id_scuola":"Avogadro (Roma)",
+    "Nome Scuola":"Avogadro"
+  },
+  {
+    "id_scuola":"Avogadro (Torino)",
+    "Nome Scuola":"Avogadro"
+  },
+  {
+    "id_scuola":"Bagatta (Desenzano del Garda)",
+    "Nome Scuola":"Bagatta"
+  },
+  {
+    "id_scuola":"Balbo (Casale Monferrato)",
+    "Nome Scuola":"Balbo"
+  },
+  {
+    "id_scuola":"Balbo-Palli (Casale Monferrato)",
+    "Nome Scuola":"Balbo-Palli"
+  },
+  {
+    "id_scuola":"Balzan (Badia Polesine)",
+    "Nome Scuola":"Balzan"
+  },
+  {
+    "id_scuola":"Banfi (Vimercate)",
+    "Nome Scuola":"Banfi"
+  },
+  {
+    "id_scuola":"Banzi Bazoli (Lecce)",
+    "Nome Scuola":"Banzi Bazoli"
+  },
+  {
+    "id_scuola":"Baracca (Forl\u00ec)",
+    "Nome Scuola":"Baracca"
+  },
+  {
+    "id_scuola":"Barsanti e Matteucci (Viareggio)",
+    "Nome Scuola":"Barsanti e Matteucci"
+  },
+  {
+    "id_scuola":"Bassa Friulana (Cervignano del Friuli)",
+    "Nome Scuola":"Bassa Friulana"
+  },
+  {
+    "id_scuola":"Battaglini (Taranto)",
+    "Nome Scuola":"Battaglini"
+  },
+  {
+    "id_scuola":"Battaglini [F] (Taranto)",
+    "Nome Scuola":"Battaglini [F]"
+  },
+  {
+    "id_scuola":"Belfiore (Mantova)",
+    "Nome Scuola":"Belfiore"
+  },
+  {
+    "id_scuola":"Benincasa (Ancona)",
+    "Nome Scuola":"Benincasa"
+  },
+  {
+    "id_scuola":"Berard (Aosta)",
+    "Nome Scuola":"Berard"
+  },
+  {
+    "id_scuola":"Berenini (Fidenza)",
+    "Nome Scuola":"Berenini"
+  },
+  {
+    "id_scuola":"Beretta (Gardone Val Trompia)",
+    "Nome Scuola":"Beretta"
+  },
+  {
+    "id_scuola":"Berto (Mogliano Veneto)",
+    "Nome Scuola":"Berto"
+  },
+  {
+    "id_scuola":"Bertolucci (Parma)",
+    "Nome Scuola":"Bertolucci"
+  },
+  {
+    "id_scuola":"Bertoni (Udine)",
+    "Nome Scuola":"Bertoni"
+  },
+  {
+    "id_scuola":"Bocchi-Galilei (Adria)",
+    "Nome Scuola":"Bocchi-Galilei"
+  },
+  {
+    "id_scuola":"Boggio Lera (Catania)",
+    "Nome Scuola":"Boggio Lera"
+  },
+  {
+    "id_scuola":"Bonghi-Rosmini (Lucera)",
+    "Nome Scuola":"Bonghi-Rosmini"
+  },
+  {
+    "id_scuola":"Borsellino-Falcone (Zagarolo)",
+    "Nome Scuola":"Borsellino-Falcone"
+  },
+  {
+    "id_scuola":"Botta (Ivrea)",
+    "Nome Scuola":"Botta"
+  },
+  {
+    "id_scuola":"Brignoli-Einaudi-Marconi (Gradisca D'Isonzo)",
+    "Nome Scuola":"Brignoli-Einaudi-Marconi"
+  },
+  {
+    "id_scuola":"Brotzu (Quartu)",
+    "Nome Scuola":"Brotzu"
+  },
+  {
+    "id_scuola":"Bruno (Torino)",
+    "Nome Scuola":"Bruno"
+  },
+  {
+    "id_scuola":"Bruno-Franchetti (Venezia)",
+    "Nome Scuola":"Bruno-Franchetti"
+  },
+  {
+    "id_scuola":"Buonarroti (Pisa)",
+    "Nome Scuola":"Buonarroti"
+  },
+  {
+    "id_scuola":"Buzzi (Prato)",
+    "Nome Scuola":"Buzzi"
+  },
+  {
+    "id_scuola":"Cairoli (Vigevano)",
+    "Nome Scuola":"Cairoli"
+  },
+  {
+    "id_scuola":"Calabrese-Levi (San Pietro In Cariano)",
+    "Nome Scuola":"Calabrese-Levi"
+  },
+  {
+    "id_scuola":"Calasanzio (Carcare)",
+    "Nome Scuola":"Calasanzio"
+  },
+  {
+    "id_scuola":"Calini (Brescia)",
+    "Nome Scuola":"Calini"
+  },
+  {
+    "id_scuola":"Calini [F] (Brescia)",
+    "Nome Scuola":"Calini [F]"
+  },
+  {
+    "id_scuola":"Calvino (Citt\u00e0 della Pieve)",
+    "Nome Scuola":"Calvino"
+  },
+  {
+    "id_scuola":"Campana (Osimo)",
+    "Nome Scuola":"Campana"
+  },
+  {
+    "id_scuola":"Cannizzaro (Palermo)",
+    "Nome Scuola":"Cannizzaro"
+  },
+  {
+    "id_scuola":"Cannizzaro (Roma)",
+    "Nome Scuola":"Cannizzaro"
+  },
+  {
+    "id_scuola":"Cannizzaro (Vittoria)",
+    "Nome Scuola":"Cannizzaro"
+  },
+  {
+    "id_scuola":"Capirola (Leno)",
+    "Nome Scuola":"Capirola"
+  },
+  {
+    "id_scuola":"Capizzi (Bronte)",
+    "Nome Scuola":"Capizzi"
+  },
+  {
+    "id_scuola":"Carducci (Volterra)",
+    "Nome Scuola":"Carducci"
+  },
+  {
+    "id_scuola":"Carducci-Volta-Pacinotti (Piombino)",
+    "Nome Scuola":"Carducci-Volta-Pacinotti"
+  },
+  {
+    "id_scuola":"Cartesio (Giugliano in Campania)",
+    "Nome Scuola":"Cartesio"
+  },
+  {
+    "id_scuola":"Casaletto (Roma)",
+    "Nome Scuola":"Casaletto"
+  },
+  {
+    "id_scuola":"Cassini (Genova)",
+    "Nome Scuola":"Cassini"
+  },
+  {
+    "id_scuola":"Cassini [F] (Genova)",
+    "Nome Scuola":"Cassini [F]"
+  },
+  {
+    "id_scuola":"Castelli (Brescia)",
+    "Nome Scuola":"Castelli"
+  },
+  {
+    "id_scuola":"Castelnuovo (Firenze)",
+    "Nome Scuola":"Castelnuovo"
+  },
+  {
+    "id_scuola":"Cattaneo (Follonica)",
+    "Nome Scuola":"Cattaneo"
+  },
+  {
+    "id_scuola":"Cattaneo (Torino)",
+    "Nome Scuola":"Cattaneo"
+  },
+  {
+    "id_scuola":"Cattaneo-Dall'Aglio (Castelnovo ne' Monti)",
+    "Nome Scuola":"Cattaneo-Dall'Aglio"
+  },
+  {
+    "id_scuola":"Cavalieri (Verbania)",
+    "Nome Scuola":"Cavalieri"
+  },
+  {
+    "id_scuola":"Cavour (Roma)",
+    "Nome Scuola":"Cavour"
+  },
+  {
+    "id_scuola":"Cavour (Torino)",
+    "Nome Scuola":"Cavour"
+  },
+  {
+    "id_scuola":"Ceccano (Ceccano)",
+    "Nome Scuola":"Ceccano"
+  },
+  {
+    "id_scuola":"Cecioni (Livorno)",
+    "Nome Scuola":"Cecioni"
+  },
+  {
+    "id_scuola":"Celeri (Lovere)",
+    "Nome Scuola":"Celeri"
+  },
+  {
+    "id_scuola":"Cerebotani (Lonato del Garda)",
+    "Nome Scuola":"Cerebotani"
+  },
+  {
+    "id_scuola":"Chilesotti (Thiene)",
+    "Nome Scuola":"Chilesotti"
+  },
+  {
+    "id_scuola":"Citta' di Piero (Sansepolcro)",
+    "Nome Scuola":"Citta' di Piero"
+  },
+  {
+    "id_scuola":"Citt\u00e0 di Piero (Sansepolcro)",
+    "Nome Scuola":"Citt\u00e0 di Piero"
+  },
+  {
+    "id_scuola":"Ciusa (Nuoro)",
+    "Nome Scuola":"Ciusa"
+  },
+  {
+    "id_scuola":"Cobetti (Torino)",
+    "Nome Scuola":"Cobetti"
+  },
+  {
+    "id_scuola":"Cobianchi (Verbania)",
+    "Nome Scuola":"Cobianchi"
+  },
+  {
+    "id_scuola":"Colle dei frati (Zagarolo)",
+    "Nome Scuola":"Colle dei frati"
+  },
+  {
+    "id_scuola":"Colombini (Piacenza)",
+    "Nome Scuola":"Colombini"
+  },
+  {
+    "id_scuola":"Convitto Nazionale (Cividale del Friuli)",
+    "Nome Scuola":"Convitto Nazionale"
+  },
+  {
+    "id_scuola":"Convitto Nazionale Emanuele Ii (Roma)",
+    "Nome Scuola":"Convitto Nazionale Emanuele Ii"
+  },
+  {
+    "id_scuola":"Copernico (Bologna)",
+    "Nome Scuola":"Copernico"
+  },
+  {
+    "id_scuola":"Copernico (Brescia)",
+    "Nome Scuola":"Copernico"
+  },
+  {
+    "id_scuola":"Copernico (Prato)",
+    "Nome Scuola":"Copernico"
+  },
+  {
+    "id_scuola":"Copernico (Torino)",
+    "Nome Scuola":"Copernico"
+  },
+  {
+    "id_scuola":"Copernico (Udine)",
+    "Nome Scuola":"Copernico"
+  },
+  {
+    "id_scuola":"Copernico (Verona)",
+    "Nome Scuola":"Copernico"
+  },
+  {
+    "id_scuola":"Copernico [F] (Prato)",
+    "Nome Scuola":"Copernico [F]"
+  },
+  {
+    "id_scuola":"Copernico-Luxemburg (Torino)",
+    "Nome Scuola":"Copernico-Luxemburg"
+  },
+  {
+    "id_scuola":"Corbino (Siracusa)",
+    "Nome Scuola":"Corbino"
+  },
+  {
+    "id_scuola":"Corni (Modena)",
+    "Nome Scuola":"Corni"
+  },
+  {
+    "id_scuola":"Corradini (Thiene)",
+    "Nome Scuola":"Corradini"
+  },
+  {
+    "id_scuola":"Corridoni-Campana (Osimo)",
+    "Nome Scuola":"Corridoni-Campana"
+  },
+  {
+    "id_scuola":"Corso (Correggio)",
+    "Nome Scuola":"Corso"
+  },
+  {
+    "id_scuola":"Costa-Azara (Sorgono)",
+    "Nome Scuola":"Costa-Azara"
+  },
+  {
+    "id_scuola":"Croce (Roma)",
+    "Nome Scuola":"Croce"
+  },
+  {
+    "id_scuola":"Croce - Aleramo (Roma)",
+    "Nome Scuola":"Croce - Aleramo"
+  },
+  {
+    "id_scuola":"Croce-Aleramo (Roma)",
+    "Nome Scuola":"Croce-Aleramo"
+  },
+  {
+    "id_scuola":"Curcio (Ispica)",
+    "Nome Scuola":"Curcio"
+  },
+  {
+    "id_scuola":"Curie (Giulianova)",
+    "Nome Scuola":"Curie"
+  },
+  {
+    "id_scuola":"Curie (Pinerolo)",
+    "Nome Scuola":"Curie"
+  },
+  {
+    "id_scuola":"Curie (Savignano Sul Rubicone)",
+    "Nome Scuola":"Curie"
+  },
+  {
+    "id_scuola":"Curie (Tradate)",
+    "Nome Scuola":"Curie"
+  },
+  {
+    "id_scuola":"Cutelli (Catania)",
+    "Nome Scuola":"Cutelli"
+  },
+  {
+    "id_scuola":"D'Arzo (Montecchio Emilia)",
+    "Nome Scuola":"D'Arzo"
+  },
+  {
+    "id_scuola":"Da Procida (Salerno)",
+    "Nome Scuola":"Da Procida"
+  },
+  {
+    "id_scuola":"Da Vinci (Arzignano)",
+    "Nome Scuola":"Da Vinci"
+  },
+  {
+    "id_scuola":"Da Vinci (Cesenatico)",
+    "Nome Scuola":"Da Vinci"
+  },
+  {
+    "id_scuola":"Da Vinci (Jesi)",
+    "Nome Scuola":"Da Vinci"
+  },
+  {
+    "id_scuola":"Da Vinci (Maglie)",
+    "Nome Scuola":"Da Vinci"
+  },
+  {
+    "id_scuola":"Da Vinci (Reggio Calabria)",
+    "Nome Scuola":"Da Vinci"
+  },
+  {
+    "id_scuola":"Da Vinci (Salerno)",
+    "Nome Scuola":"Da Vinci"
+  },
+  {
+    "id_scuola":"Da Vinci (Sora)",
+    "Nome Scuola":"Da Vinci"
+  },
+  {
+    "id_scuola":"Da Vinci (Terracina)",
+    "Nome Scuola":"Da Vinci"
+  },
+  {
+    "id_scuola":"Da Vinci (Trento)",
+    "Nome Scuola":"Da Vinci"
+  },
+  {
+    "id_scuola":"Da Vinci (Treviso)",
+    "Nome Scuola":"Da Vinci"
+  },
+  {
+    "id_scuola":"Da Vinci [F] (Treviso)",
+    "Nome Scuola":"Da Vinci [F]"
+  },
+  {
+    "id_scuola":"Da Vinci-Pascoli (Gallarate)",
+    "Nome Scuola":"Da Vinci-Pascoli"
+  },
+  {
+    "id_scuola":"Dal Piaz (Feltre)",
+    "Nome Scuola":"Dal Piaz"
+  },
+  {
+    "id_scuola":"Dante Alighieri (Roma)",
+    "Nome Scuola":"Dante Alighieri"
+  },
+  {
+    "id_scuola":"Darwin (Rivoli)",
+    "Nome Scuola":"Darwin"
+  },
+  {
+    "id_scuola":"De Giorgi (Lecce)",
+    "Nome Scuola":"De Giorgi"
+  },
+  {
+    "id_scuola":"De Pretto (Schio)",
+    "Nome Scuola":"De Pretto"
+  },
+  {
+    "id_scuola":"De Ruggieri (Massafra)",
+    "Nome Scuola":"De Ruggieri"
+  },
+  {
+    "id_scuola":"De Sanctis-Galilei (Manduria)",
+    "Nome Scuola":"De Sanctis-Galilei"
+  },
+  {
+    "id_scuola":"De' Liguori (Sant'Agata de' Goti)",
+    "Nome Scuola":"De' Liguori"
+  },
+  {
+    "id_scuola":"Del Prete-Falcone (Sava)",
+    "Nome Scuola":"Del Prete-Falcone"
+  },
+  {
+    "id_scuola":"Democrito (Roma)",
+    "Nome Scuola":"Democrito"
+  },
+  {
+    "id_scuola":"Des Ambrois (Oulx)",
+    "Nome Scuola":"Des Ambrois"
+  },
+  {
+    "id_scuola":"Dettori (Tempio Pausania)",
+    "Nome Scuola":"Dettori"
+  },
+  {
+    "id_scuola":"Di Napoli (Assisi)",
+    "Nome Scuola":"Di Napoli"
+  },
+  {
+    "id_scuola":"Di Savoia (Ancona)",
+    "Nome Scuola":"Di Savoia"
+  },
+  {
+    "id_scuola":"Di Savoia-Benincasa (Ancona)",
+    "Nome Scuola":"Di Savoia-Benincasa"
+  },
+  {
+    "id_scuola":"Dini (Pisa)",
+    "Nome Scuola":"Dini"
+  },
+  {
+    "id_scuola":"Don Bosco (Catania)",
+    "Nome Scuola":"Don Bosco"
+  },
+  {
+    "id_scuola":"Don Bosco (Milano)",
+    "Nome Scuola":"Don Bosco"
+  },
+  {
+    "id_scuola":"Don Milani (Montichiari)",
+    "Nome Scuola":"Don Milani"
+  },
+  {
+    "id_scuola":"Donatelli (Terni)",
+    "Nome Scuola":"Donatelli"
+  },
+  {
+    "id_scuola":"Dorgali (Dorgali)",
+    "Nome Scuola":"Dorgali"
+  },
+  {
+    "id_scuola":"Douhet (Firenze)",
+    "Nome Scuola":"Douhet"
+  },
+  {
+    "id_scuola":"Duca degli Abruzzi (Gorizia)",
+    "Nome Scuola":"Duca degli Abruzzi"
+  },
+  {
+    "id_scuola":"Duca degli Abruzzi-Alighieri (Gorizia)",
+    "Nome Scuola":"Duca degli Abruzzi-Alighieri"
+  },
+  {
+    "id_scuola":"Einaudi (Siracusa)",
+    "Nome Scuola":"Einaudi"
+  },
+  {
+    "id_scuola":"Einstein (Cerignola)",
+    "Nome Scuola":"Einstein"
+  },
+  {
+    "id_scuola":"Einstein (Cervignano del Friuli)",
+    "Nome Scuola":"Einstein"
+  },
+  {
+    "id_scuola":"Einstein (Milano)",
+    "Nome Scuola":"Einstein"
+  },
+  {
+    "id_scuola":"Einstein (Palermo)",
+    "Nome Scuola":"Einstein"
+  },
+  {
+    "id_scuola":"Einstein (Piove di Sacco)",
+    "Nome Scuola":"Einstein"
+  },
+  {
+    "id_scuola":"Einstein (Teramo)",
+    "Nome Scuola":"Einstein"
+  },
+  {
+    "id_scuola":"Einstein (Torino)",
+    "Nome Scuola":"Einstein"
+  },
+  {
+    "id_scuola":"Enriques (Castelfiorentino)",
+    "Nome Scuola":"Enriques"
+  },
+  {
+    "id_scuola":"Enriques (Livorno)",
+    "Nome Scuola":"Enriques"
+  },
+  {
+    "id_scuola":"Enriques Agnoletti (Sesto Fiorentino)",
+    "Nome Scuola":"Enriques Agnoletti"
+  },
+  {
+    "id_scuola":"Euclide (Cagliari)",
+    "Nome Scuola":"Euclide"
+  },
+  {
+    "id_scuola":"Europa Unita (Lissone)",
+    "Nome Scuola":"Europa Unita"
+  },
+  {
+    "id_scuola":"Failla Tedaldi (Castelbuono)",
+    "Nome Scuola":"Failla Tedaldi"
+  },
+  {
+    "id_scuola":"Falcone (Asola)",
+    "Nome Scuola":"Falcone"
+  },
+  {
+    "id_scuola":"Falcone (Barrafranca)",
+    "Nome Scuola":"Falcone"
+  },
+  {
+    "id_scuola":"Fanti (Carpi)",
+    "Nome Scuola":"Fanti"
+  },
+  {
+    "id_scuola":"Farinato (Enna)",
+    "Nome Scuola":"Farinato"
+  },
+  {
+    "id_scuola":"Farnesina (Roma)",
+    "Nome Scuola":"Farnesina"
+  },
+  {
+    "id_scuola":"Fermi (Alghero)",
+    "Nome Scuola":"Fermi"
+  },
+  {
+    "id_scuola":"Fermi (Bologna)",
+    "Nome Scuola":"Fermi"
+  },
+  {
+    "id_scuola":"Fermi (Brindisi)",
+    "Nome Scuola":"Fermi"
+  },
+  {
+    "id_scuola":"Fermi (Cant\u00f9)",
+    "Nome Scuola":"Fermi"
+  },
+  {
+    "id_scuola":"Fermi (Cosenza)",
+    "Nome Scuola":"Fermi"
+  },
+  {
+    "id_scuola":"Fermi (Genova)",
+    "Nome Scuola":"Fermi"
+  },
+  {
+    "id_scuola":"Fermi (Lucca)",
+    "Nome Scuola":"Fermi"
+  },
+  {
+    "id_scuola":"Fermi (Mantova)",
+    "Nome Scuola":"Fermi"
+  },
+  {
+    "id_scuola":"Fermi (Massa)",
+    "Nome Scuola":"Fermi"
+  },
+  {
+    "id_scuola":"Fermi (Modena)",
+    "Nome Scuola":"Fermi"
+  },
+  {
+    "id_scuola":"Fermi (Montesarchio)",
+    "Nome Scuola":"Fermi"
+  },
+  {
+    "id_scuola":"Fermi (Nuoro)",
+    "Nome Scuola":"Fermi"
+  },
+  {
+    "id_scuola":"Fermi (Padova)",
+    "Nome Scuola":"Fermi"
+  },
+  {
+    "id_scuola":"Fermi (Patern\u00f2)",
+    "Nome Scuola":"Fermi"
+  },
+  {
+    "id_scuola":"Fermi-Giorgi (Lucca)",
+    "Nome Scuola":"Fermi-Giorgi"
+  },
+  {
+    "id_scuola":"Fermi-Monticelli (Brindisi)",
+    "Nome Scuola":"Fermi-Monticelli"
+  },
+  {
+    "id_scuola":"Ferraris (San Giovanni Valdarno)",
+    "Nome Scuola":"Ferraris"
+  },
+  {
+    "id_scuola":"Ferraris (Torino)",
+    "Nome Scuola":"Ferraris"
+  },
+  {
+    "id_scuola":"Ferraris [F] (Torino)",
+    "Nome Scuola":"Ferraris [F]"
+  },
+  {
+    "id_scuola":"Filolao (Crotone)",
+    "Nome Scuola":"Filolao"
+  },
+  {
+    "id_scuola":"Flaminio (Vittorio Veneto)",
+    "Nome Scuola":"Flaminio"
+  },
+  {
+    "id_scuola":"Focaccia (Salerno)",
+    "Nome Scuola":"Focaccia"
+  },
+  {
+    "id_scuola":"Fogazzaro (Vicenza)",
+    "Nome Scuola":"Fogazzaro"
+  },
+  {
+    "id_scuola":"Foresi (Portoferraio)",
+    "Nome Scuola":"Foresi"
+  },
+  {
+    "id_scuola":"Formiggini (Sassuolo)",
+    "Nome Scuola":"Formiggini"
+  },
+  {
+    "id_scuola":"Forteguerri (Pistoia)",
+    "Nome Scuola":"Forteguerri"
+  },
+  {
+    "id_scuola":"Foscolo (Albano Laziale)",
+    "Nome Scuola":"Foscolo"
+  },
+  {
+    "id_scuola":"Fracastoro (Verona)",
+    "Nome Scuola":"Fracastoro"
+  },
+  {
+    "id_scuola":"Francesco D'Assisi (Roma)",
+    "Nome Scuola":"Francesco D'Assisi"
+  },
+  {
+    "id_scuola":"Francesco Redi (Arezzo)",
+    "Nome Scuola":"Francesco Redi"
+  },
+  {
+    "id_scuola":"Frisi (Monza)",
+    "Nome Scuola":"Frisi"
+  },
+  {
+    "id_scuola":"Galilei (Adria)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Alessandria)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Ancona)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Arezzo)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Belluno)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Bitonto)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Caravaggio)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Castelnuovo di Garfagnana)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Catania)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Civitavecchia)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Crema)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Dolo)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Erba)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Lanciano)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Legnano)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Macerata)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Macomer)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Manfredonia)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Mirandola)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Palermo)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Perugia)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Pescara)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Riccia)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Siena)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Terni)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Trento)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Trieste)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei (Verona)",
+    "Nome Scuola":"Galilei"
+  },
+  {
+    "id_scuola":"Galilei-Campailla (Modica)",
+    "Nome Scuola":"Galilei-Campailla"
+  },
+  {
+    "id_scuola":"Galilei-Moro (Manfredonia)",
+    "Nome Scuola":"Galilei-Moro"
+  },
+  {
+    "id_scuola":"Galilei-Tiziano (Belluno)",
+    "Nome Scuola":"Galilei-Tiziano"
+  },
+  {
+    "id_scuola":"Gallotta (Eboli)",
+    "Nome Scuola":"Gallotta"
+  },
+  {
+    "id_scuola":"Galvani (Bologna)",
+    "Nome Scuola":"Galvani"
+  },
+  {
+    "id_scuola":"Gandhi (Narni)",
+    "Nome Scuola":"Gandhi"
+  },
+  {
+    "id_scuola":"Gandini (Lodi)",
+    "Nome Scuola":"Gandini"
+  },
+  {
+    "id_scuola":"Genoino (Cava De' Tirreni)",
+    "Nome Scuola":"Genoino"
+  },
+  {
+    "id_scuola":"Genoino (Cava de' Tirreni)",
+    "Nome Scuola":"Genoino"
+  },
+  {
+    "id_scuola":"Giannone (Benevento)",
+    "Nome Scuola":"Giannone"
+  },
+  {
+    "id_scuola":"Giannone (San Marco In Lamis)",
+    "Nome Scuola":"Giannone"
+  },
+  {
+    "id_scuola":"Gioia (Piacenza)",
+    "Nome Scuola":"Gioia"
+  },
+  {
+    "id_scuola":"Giordano (Venafro)",
+    "Nome Scuola":"Giordano"
+  },
+  {
+    "id_scuola":"Giordano Bruno (Torino)",
+    "Nome Scuola":"Giordano Bruno"
+  },
+  {
+    "id_scuola":"Giorgi (Brindisi)",
+    "Nome Scuola":"Giorgi"
+  },
+  {
+    "id_scuola":"Giovanni Da Procida (Salerno)",
+    "Nome Scuola":"Giovanni Da Procida"
+  },
+  {
+    "id_scuola":"Gobetti (Torino)",
+    "Nome Scuola":"Gobetti"
+  },
+  {
+    "id_scuola":"Golgi (Breno)",
+    "Nome Scuola":"Golgi"
+  },
+  {
+    "id_scuola":"Gramsci (Firenze)",
+    "Nome Scuola":"Gramsci"
+  },
+  {
+    "id_scuola":"Grassi (Latina)",
+    "Nome Scuola":"Grassi"
+  },
+  {
+    "id_scuola":"Grassi (Lecco)",
+    "Nome Scuola":"Grassi"
+  },
+  {
+    "id_scuola":"Grassi (Saronno)",
+    "Nome Scuola":"Grassi"
+  },
+  {
+    "id_scuola":"Grassi (Savona)",
+    "Nome Scuola":"Grassi"
+  },
+  {
+    "id_scuola":"Grassi (atina)",
+    "Nome Scuola":"Grassi"
+  },
+  {
+    "id_scuola":"Grassi [F] (Latina)",
+    "Nome Scuola":"Grassi [F]"
+  },
+  {
+    "id_scuola":"Grigoletti (Pordenone)",
+    "Nome Scuola":"Grigoletti"
+  },
+  {
+    "id_scuola":"Guetti (Tione di Trento)",
+    "Nome Scuola":"Guetti"
+  },
+  {
+    "id_scuola":"Gullace (Roma)",
+    "Nome Scuola":"Gullace"
+  },
+  {
+    "id_scuola":"ISIS della Bassa Friulana (Cervignano del Friuli)",
+    "Nome Scuola":"ISIS della Bassa Friulana"
+  },
+  {
+    "id_scuola":"Il Pontormo (Empoli)",
+    "Nome Scuola":"Il Pontormo"
+  },
+  {
+    "id_scuola":"Innocenzo XII (Anzio)",
+    "Nome Scuola":"Innocenzo XII"
+  },
+  {
+    "id_scuola":"Ippolito Nievo (Padova)",
+    "Nome Scuola":"Ippolito Nievo"
+  },
+  {
+    "id_scuola":"Jacopo da Ponte (Bassano del Grappa)",
+    "Nome Scuola":"Jacopo da Ponte"
+  },
+  {
+    "id_scuola":"Jacopone da Todi (Todi)",
+    "Nome Scuola":"Jacopone da Todi"
+  },
+  {
+    "id_scuola":"Juvarra (Venaria Reale)",
+    "Nome Scuola":"Juvarra"
+  },
+  {
+    "id_scuola":"Kennedy (Pordenone)",
+    "Nome Scuola":"Kennedy"
+  },
+  {
+    "id_scuola":"Kennedy (Roma)",
+    "Nome Scuola":"Kennedy"
+  },
+  {
+    "id_scuola":"King (Genova)",
+    "Nome Scuola":"King"
+  },
+  {
+    "id_scuola":"Labriola (Roma)",
+    "Nome Scuola":"Labriola"
+  },
+  {
+    "id_scuola":"Landi (Velletri)",
+    "Nome Scuola":"Landi"
+  },
+  {
+    "id_scuola":"Lanfranconi (Genova)",
+    "Nome Scuola":"Lanfranconi"
+  },
+  {
+    "id_scuola":"Le Filandiere (San Vito al Tagliamento)",
+    "Nome Scuola":"Le Filandiere"
+  },
+  {
+    "id_scuola":"Leonardo (Brescia)",
+    "Nome Scuola":"Leonardo"
+  },
+  {
+    "id_scuola":"Leonardo (Giarre)",
+    "Nome Scuola":"Leonardo"
+  },
+  {
+    "id_scuola":"Leonardo Da Vinci (Cerea)",
+    "Nome Scuola":"Leonardo Da Vinci"
+  },
+  {
+    "id_scuola":"Leonardo Da Vinci (Genova)",
+    "Nome Scuola":"Leonardo Da Vinci"
+  },
+  {
+    "id_scuola":"Leonardo da Vinci (Firenze)",
+    "Nome Scuola":"Leonardo da Vinci"
+  },
+  {
+    "id_scuola":"Leonardo da Vinci (Milano)",
+    "Nome Scuola":"Leonardo da Vinci"
+  },
+  {
+    "id_scuola":"Leopardi (Recanati)",
+    "Nome Scuola":"Leopardi"
+  },
+  {
+    "id_scuola":"Leopardi-Majorana (Pordenone)",
+    "Nome Scuola":"Leopardi-Majorana"
+  },
+  {
+    "id_scuola":"Levi (Montebelluna)",
+    "Nome Scuola":"Levi"
+  },
+  {
+    "id_scuola":"Levi-Civita (Roma)",
+    "Nome Scuola":"Levi-Civita"
+  },
+  {
+    "id_scuola":"Liceo (Cesena)",
+    "Nome Scuola":"Liceo"
+  },
+  {
+    "id_scuola":"Liceo (Vittoria)",
+    "Nome Scuola":"Liceo"
+  },
+  {
+    "id_scuola":"Liceo Scientifico (Ceccano)",
+    "Nome Scuola":"Liceo Scientifico"
+  },
+  {
+    "id_scuola":"Liceo di Faenza (Faenza)",
+    "Nome Scuola":"Liceo di Faenza"
+  },
+  {
+    "id_scuola":"Lioy (Vicenza)",
+    "Nome Scuola":"Lioy"
+  },
+  {
+    "id_scuola":"Lorenzini (Pescia)",
+    "Nome Scuola":"Lorenzini"
+  },
+  {
+    "id_scuola":"Lucrezio Caro (Cittadella)",
+    "Nome Scuola":"Lucrezio Caro"
+  },
+  {
+    "id_scuola":"Lussana (Bergamo)",
+    "Nome Scuola":"Lussana"
+  },
+  {
+    "id_scuola":"Lussu (Sant'Antioco)",
+    "Nome Scuola":"Lussu"
+  },
+  {
+    "id_scuola":"Maffei (Riva Del Garda)",
+    "Nome Scuola":"Maffei"
+  },
+  {
+    "id_scuola":"Maffei (Riva del Garda)",
+    "Nome Scuola":"Maffei"
+  },
+  {
+    "id_scuola":"Magrini-Marchetti (Gemona Del Friuli)",
+    "Nome Scuola":"Magrini-Marchetti"
+  },
+  {
+    "id_scuola":"Magrini-Marchetti (Gemona del Friuli)",
+    "Nome Scuola":"Magrini-Marchetti"
+  },
+  {
+    "id_scuola":"Majorana (Brindisi)",
+    "Nome Scuola":"Majorana"
+  },
+  {
+    "id_scuola":"Majorana (Caltagirone)",
+    "Nome Scuola":"Majorana"
+  },
+  {
+    "id_scuola":"Majorana (Desio)",
+    "Nome Scuola":"Majorana"
+  },
+  {
+    "id_scuola":"Majorana (Isernia)",
+    "Nome Scuola":"Majorana"
+  },
+  {
+    "id_scuola":"Majorana (Latina)",
+    "Nome Scuola":"Majorana"
+  },
+  {
+    "id_scuola":"Majorana (Mirano)",
+    "Nome Scuola":"Majorana"
+  },
+  {
+    "id_scuola":"Majorana (Rho)",
+    "Nome Scuola":"Majorana"
+  },
+  {
+    "id_scuola":"Majorana (San Giovanni La Punta)",
+    "Nome Scuola":"Majorana"
+  },
+  {
+    "id_scuola":"Majorana (Torino)",
+    "Nome Scuola":"Majorana"
+  },
+  {
+    "id_scuola":"Majorana-Arcoleo (Caltagirone)",
+    "Nome Scuola":"Majorana-Arcoleo"
+  },
+  {
+    "id_scuola":"Majorana-Corner (Mirano)",
+    "Nome Scuola":"Majorana-Corner"
+  },
+  {
+    "id_scuola":"Majorana-Fascitelli (Isernia)",
+    "Nome Scuola":"Majorana-Fascitelli"
+  },
+  {
+    "id_scuola":"Maldi (Novi Ligure)",
+    "Nome Scuola":"Maldi"
+  },
+  {
+    "id_scuola":"Malignani (Cervignano del Friuli)",
+    "Nome Scuola":"Malignani"
+  },
+  {
+    "id_scuola":"Malignani (Udine)",
+    "Nome Scuola":"Malignani"
+  },
+  {
+    "id_scuola":"Malpighi (Roma)",
+    "Nome Scuola":"Malpighi"
+  },
+  {
+    "id_scuola":"Mamiani (Roma)",
+    "Nome Scuola":"Mamiani"
+  },
+  {
+    "id_scuola":"Mancini (Avellino)",
+    "Nome Scuola":"Mancini"
+  },
+  {
+    "id_scuola":"Mangino (Pagani)",
+    "Nome Scuola":"Mangino"
+  },
+  {
+    "id_scuola":"Marchesi (Mascalucia)",
+    "Nome Scuola":"Marchesi"
+  },
+  {
+    "id_scuola":"Marconi (Campobasso)",
+    "Nome Scuola":"Marconi"
+  },
+  {
+    "id_scuola":"Marconi (Carrara)",
+    "Nome Scuola":"Marconi"
+  },
+  {
+    "id_scuola":"Marconi (Chiavari)",
+    "Nome Scuola":"Marconi"
+  },
+  {
+    "id_scuola":"Marconi (Conegliano)",
+    "Nome Scuola":"Marconi"
+  },
+  {
+    "id_scuola":"Marconi (Foggia)",
+    "Nome Scuola":"Marconi"
+  },
+  {
+    "id_scuola":"Marconi (Foligno)",
+    "Nome Scuola":"Marconi"
+  },
+  {
+    "id_scuola":"Marconi (Parma)",
+    "Nome Scuola":"Marconi"
+  },
+  {
+    "id_scuola":"Marconi (San Miniato)",
+    "Nome Scuola":"Marconi"
+  },
+  {
+    "id_scuola":"Marconi [F] (Carrara)",
+    "Nome Scuola":"Marconi [F]"
+  },
+  {
+    "id_scuola":"Marconi-Delpino (Chiavari)",
+    "Nome Scuola":"Marconi-Delpino"
+  },
+  {
+    "id_scuola":"Maria Ausiliatrice (Caltagirone)",
+    "Nome Scuola":"Maria Ausiliatrice"
+  },
+  {
+    "id_scuola":"Mariano IV (Oristano)",
+    "Nome Scuola":"Mariano IV"
+  },
+  {
+    "id_scuola":"Marinelli (Udine)",
+    "Nome Scuola":"Marinelli"
+  },
+  {
+    "id_scuola":"Marinelli [F] (Udine)",
+    "Nome Scuola":"Marinelli [F]"
+  },
+  {
+    "id_scuola":"Marini-Gioia (Amalfi)",
+    "Nome Scuola":"Marini-Gioia"
+  },
+  {
+    "id_scuola":"Martin L. King (Genova)",
+    "Nome Scuola":"Martin L. King"
+  },
+  {
+    "id_scuola":"Marymount (Roma)",
+    "Nome Scuola":"Marymount"
+  },
+  {
+    "id_scuola":"Marzoli (Palazzolo sull'Oglio)",
+    "Nome Scuola":"Marzoli"
+  },
+  {
+    "id_scuola":"Mascheroni (Bergamo)",
+    "Nome Scuola":"Mascheroni"
+  },
+  {
+    "id_scuola":"Masci (Chieti)",
+    "Nome Scuola":"Masci"
+  },
+  {
+    "id_scuola":"Masotto (Noventa Vicentina)",
+    "Nome Scuola":"Masotto"
+  },
+  {
+    "id_scuola":"Mattei (Urbino)",
+    "Nome Scuola":"Mattei"
+  },
+  {
+    "id_scuola":"Mattioli (Vasto)",
+    "Nome Scuola":"Mattioli"
+  },
+  {
+    "id_scuola":"Mazzini (Napoli)",
+    "Nome Scuola":"Mazzini"
+  },
+  {
+    "id_scuola":"Mazzini (Vittoria)",
+    "Nome Scuola":"Mazzini"
+  },
+  {
+    "id_scuola":"Mazzone (Roccella ionica)",
+    "Nome Scuola":"Mazzone"
+  },
+  {
+    "id_scuola":"Medi (Villafranca di Verona)",
+    "Nome Scuola":"Medi"
+  },
+  {
+    "id_scuola":"Megara (Augusta)",
+    "Nome Scuola":"Megara"
+  },
+  {
+    "id_scuola":"Meneghini (Edolo)",
+    "Nome Scuola":"Meneghini"
+  },
+  {
+    "id_scuola":"Mercalli (Napoli)",
+    "Nome Scuola":"Mercalli"
+  },
+  {
+    "id_scuola":"Messadaglia [F] (Verona)",
+    "Nome Scuola":"Messadaglia [F]"
+  },
+  {
+    "id_scuola":"Messedaglia (Verona)",
+    "Nome Scuola":"Messedaglia"
+  },
+  {
+    "id_scuola":"Meucci (Aprilia)",
+    "Nome Scuola":"Meucci"
+  },
+  {
+    "id_scuola":"Meucci (Firenze)",
+    "Nome Scuola":"Meucci"
+  },
+  {
+    "id_scuola":"Michelangelo (Cagliari)",
+    "Nome Scuola":"Michelangelo"
+  },
+  {
+    "id_scuola":"Milani (Montichiari)",
+    "Nome Scuola":"Milani"
+  },
+  {
+    "id_scuola":"Montale (Roma)",
+    "Nome Scuola":"Montale"
+  },
+  {
+    "id_scuola":"Monti (Chieri)",
+    "Nome Scuola":"Monti"
+  },
+  {
+    "id_scuola":"Moretti (Gardone Val Trompia)",
+    "Nome Scuola":"Moretti"
+  },
+  {
+    "id_scuola":"Moretti-Eeretta (Gardone Val Trompia)",
+    "Nome Scuola":"Moretti-Eeretta"
+  },
+  {
+    "id_scuola":"Morgagni (Roma)",
+    "Nome Scuola":"Morgagni"
+  },
+  {
+    "id_scuola":"Moro (Reggio Emilia)",
+    "Nome Scuola":"Moro"
+  },
+  {
+    "id_scuola":"Natta (Bergamo)",
+    "Nome Scuola":"Natta"
+  },
+  {
+    "id_scuola":"Newton (Camposampiero)",
+    "Nome Scuola":"Newton"
+  },
+  {
+    "id_scuola":"Newton (Chivasso)",
+    "Nome Scuola":"Newton"
+  },
+  {
+    "id_scuola":"Newton (Roma)",
+    "Nome Scuola":"Newton"
+  },
+  {
+    "id_scuola":"Nicoloso (Recco)",
+    "Nome Scuola":"Nicoloso"
+  },
+  {
+    "id_scuola":"Nicoloso Da Recco (Recco)",
+    "Nome Scuola":"Nicoloso Da Recco"
+  },
+  {
+    "id_scuola":"Nicoloso da Recco (Recco)",
+    "Nome Scuola":"Nicoloso da Recco"
+  },
+  {
+    "id_scuola":"Nievo (Padova)",
+    "Nome Scuola":"Nievo"
+  },
+  {
+    "id_scuola":"Nievo [F] (Padova)",
+    "Nome Scuola":"Nievo [F]"
+  },
+  {
+    "id_scuola":"Nobili-Lombardini (Reggio Emilia)",
+    "Nome Scuola":"Nobili-Lombardini"
+  },
+  {
+    "id_scuola":"Nomentano (Roma)",
+    "Nome Scuola":"Nomentano"
+  },
+  {
+    "id_scuola":"Oberdan (Trieste)",
+    "Nome Scuola":"Oberdan"
+  },
+  {
+    "id_scuola":"Oliveti (Locri)",
+    "Nome Scuola":"Oliveti"
+  },
+  {
+    "id_scuola":"Oliveti [F] (Locri)",
+    "Nome Scuola":"Oliveti [F]"
+  },
+  {
+    "id_scuola":"Orazio (Roma)",
+    "Nome Scuola":"Orazio"
+  },
+  {
+    "id_scuola":"Orsini-Licini (Ascoli Piceno)",
+    "Nome Scuola":"Orsini-Licini"
+  },
+  {
+    "id_scuola":"Pacini (Pistoia)",
+    "Nome Scuola":"Pacini"
+  },
+  {
+    "id_scuola":"Pacinotti (Cagliari)",
+    "Nome Scuola":"Pacinotti"
+  },
+  {
+    "id_scuola":"Pacinotti (La Spezia)",
+    "Nome Scuola":"Pacinotti"
+  },
+  {
+    "id_scuola":"Pacinotti (la Spezia)",
+    "Nome Scuola":"Pacinotti"
+  },
+  {
+    "id_scuola":"Pagano (Campobasso)",
+    "Nome Scuola":"Pagano"
+  },
+  {
+    "id_scuola":"Paleocapa (Rovigo)",
+    "Nome Scuola":"Paleocapa"
+  },
+  {
+    "id_scuola":"Palmeri (Termini Imerese)",
+    "Nome Scuola":"Palmeri"
+  },
+  {
+    "id_scuola":"Paradisi (Vignola)",
+    "Nome Scuola":"Paradisi"
+  },
+  {
+    "id_scuola":"Parentuccelli (Sarzana)",
+    "Nome Scuola":"Parentuccelli"
+  },
+  {
+    "id_scuola":"Parentucelli (Sarzana)",
+    "Nome Scuola":"Parentucelli"
+  },
+  {
+    "id_scuola":"Parodi (Acqui Terme)",
+    "Nome Scuola":"Parodi"
+  },
+  {
+    "id_scuola":"Pascal (Giaveno)",
+    "Nome Scuola":"Pascal"
+  },
+  {
+    "id_scuola":"Pascal (Pomezia)",
+    "Nome Scuola":"Pascal"
+  },
+  {
+    "id_scuola":"Pascal (Reggio Emilia)",
+    "Nome Scuola":"Pascal"
+  },
+  {
+    "id_scuola":"Pascal-Mazzolari (Manerbio)",
+    "Nome Scuola":"Pascal-Mazzolari"
+  },
+  {
+    "id_scuola":"Paschini (Tolmezzo)",
+    "Nome Scuola":"Paschini"
+  },
+  {
+    "id_scuola":"Paschini-Linussio (Tolmezzo)",
+    "Nome Scuola":"Paschini-Linussio"
+  },
+  {
+    "id_scuola":"Paschini-Linussio [F] (Tolmezzo)",
+    "Nome Scuola":"Paschini-Linussio [F]"
+  },
+  {
+    "id_scuola":"Patini (Castel di Sangro)",
+    "Nome Scuola":"Patini"
+  },
+  {
+    "id_scuola":"Paulucci di Calboli (Forl\u00ec)",
+    "Nome Scuola":"Paulucci di Calboli"
+  },
+  {
+    "id_scuola":"Peano (Monterotondo)",
+    "Nome Scuola":"Peano"
+  },
+  {
+    "id_scuola":"Peano (Roma)",
+    "Nome Scuola":"Peano"
+  },
+  {
+    "id_scuola":"Peano (Tortona)",
+    "Nome Scuola":"Peano"
+  },
+  {
+    "id_scuola":"Peano-Pellico (Cuneo)",
+    "Nome Scuola":"Peano-Pellico"
+  },
+  {
+    "id_scuola":"Pellati (Nizza Monferrato)",
+    "Nome Scuola":"Pellati"
+  },
+  {
+    "id_scuola":"Pepe-Calamo (Ostuni)",
+    "Nome Scuola":"Pepe-Calamo"
+  },
+  {
+    "id_scuola":"Petrarca (Arezzo)",
+    "Nome Scuola":"Petrarca"
+  },
+  {
+    "id_scuola":"Piana di Lucca (Porcari)",
+    "Nome Scuola":"Piana di Lucca"
+  },
+  {
+    "id_scuola":"Pigafetta (Vicenza)",
+    "Nome Scuola":"Pigafetta"
+  },
+  {
+    "id_scuola":"Pininfarina (Moncalieri)",
+    "Nome Scuola":"Pininfarina"
+  },
+  {
+    "id_scuola":"Pio XI (Roma)",
+    "Nome Scuola":"Pio XI"
+  },
+  {
+    "id_scuola":"Pira (Bitti)",
+    "Nome Scuola":"Pira"
+  },
+  {
+    "id_scuola":"Planck (Villorba)",
+    "Nome Scuola":"Planck"
+  },
+  {
+    "id_scuola":"Plinio Seniore (Roma)",
+    "Nome Scuola":"Plinio Seniore"
+  },
+  {
+    "id_scuola":"Plinio Seniore [F] (Roma)",
+    "Nome Scuola":"Plinio Seniore [F]"
+  },
+  {
+    "id_scuola":"Plinio il Giovane (Citt\u00e0 di Castello)",
+    "Nome Scuola":"Plinio il Giovane"
+  },
+  {
+    "id_scuola":"Poliziano (Montepulciano)",
+    "Nome Scuola":"Poliziano"
+  },
+  {
+    "id_scuola":"Polo Liceale (Gorizia)",
+    "Nome Scuola":"Polo Liceale"
+  },
+  {
+    "id_scuola":"Polo liceale (Gorizia)",
+    "Nome Scuola":"Polo liceale"
+  },
+  {
+    "id_scuola":"Pontormo (Empoli)",
+    "Nome Scuola":"Pontormo"
+  },
+  {
+    "id_scuola":"Primo Levi (San Donato Milanese)",
+    "Nome Scuola":"Primo Levi"
+  },
+  {
+    "id_scuola":"Principe Di Napoli (Assisi)",
+    "Nome Scuola":"Principe Di Napoli"
+  },
+  {
+    "id_scuola":"Principe Umberto (Catania)",
+    "Nome Scuola":"Principe Umberto"
+  },
+  {
+    "id_scuola":"Principe di Napoli (Assisi)",
+    "Nome Scuola":"Principe di Napoli"
+  },
+  {
+    "id_scuola":"Principe di Napoli [F] (Assisi)",
+    "Nome Scuola":"Principe di Napoli [F]"
+  },
+  {
+    "id_scuola":"Quadri (Vicenza)",
+    "Nome Scuola":"Quadri"
+  },
+  {
+    "id_scuola":"Ramad\u00f9 (Cisterna di Latina)",
+    "Nome Scuola":"Ramad\u00f9"
+  },
+  {
+    "id_scuola":"Rambaldi-Valeriani (Imola)",
+    "Nome Scuola":"Rambaldi-Valeriani"
+  },
+  {
+    "id_scuola":"Redi (Arezzo)",
+    "Nome Scuola":"Redi"
+  },
+  {
+    "id_scuola":"Respighi (Piacenza)",
+    "Nome Scuola":"Respighi"
+  },
+  {
+    "id_scuola":"Ribezzo (Francavilla Fontana)",
+    "Nome Scuola":"Ribezzo"
+  },
+  {
+    "id_scuola":"Righi (Bologna)",
+    "Nome Scuola":"Righi"
+  },
+  {
+    "id_scuola":"Righi (Cesena)",
+    "Nome Scuola":"Righi"
+  },
+  {
+    "id_scuola":"Righi (Roma)",
+    "Nome Scuola":"Righi"
+  },
+  {
+    "id_scuola":"Righi [F] (Roma)",
+    "Nome Scuola":"Righi [F]"
+  },
+  {
+    "id_scuola":"Rinaldo Corso (Correggio)",
+    "Nome Scuola":"Rinaldo Corso"
+  },
+  {
+    "id_scuola":"Rispoli (San Severo)",
+    "Nome Scuola":"Rispoli"
+  },
+  {
+    "id_scuola":"Roiti (Ferrara)",
+    "Nome Scuola":"Roiti"
+  },
+  {
+    "id_scuola":"Romita (Campobasso)",
+    "Nome Scuola":"Romita"
+  },
+  {
+    "id_scuola":"Romita [F] (Campobasso)",
+    "Nome Scuola":"Romita [F]"
+  },
+  {
+    "id_scuola":"Rosa (Bussoleno)",
+    "Nome Scuola":"Rosa"
+  },
+  {
+    "id_scuola":"Rosetti (San Benedetto Del Tronto)",
+    "Nome Scuola":"Rosetti"
+  },
+  {
+    "id_scuola":"Rosetti (San Benedetto del Tronto)",
+    "Nome Scuola":"Rosetti"
+  },
+  {
+    "id_scuola":"Rosmini (Rovereto)",
+    "Nome Scuola":"Rosmini"
+  },
+  {
+    "id_scuola":"Rossi (Massa)",
+    "Nome Scuola":"Rossi"
+  },
+  {
+    "id_scuola":"Rossi (Vicenza)",
+    "Nome Scuola":"Rossi"
+  },
+  {
+    "id_scuola":"Ruffini (Viterbo)",
+    "Nome Scuola":"Ruffini"
+  },
+  {
+    "id_scuola":"Rummo (Benevento)",
+    "Nome Scuola":"Rummo"
+  },
+  {
+    "id_scuola":"Russell (Cles)",
+    "Nome Scuola":"Russell"
+  },
+  {
+    "id_scuola":"Russell (Guastalla)",
+    "Nome Scuola":"Russell"
+  },
+  {
+    "id_scuola":"Russell (Roma)",
+    "Nome Scuola":"Russell"
+  },
+  {
+    "id_scuola":"Russell-Newton (Scandicci)",
+    "Nome Scuola":"Russell-Newton"
+  },
+  {
+    "id_scuola":"S. Cannizzaro (Palermo)",
+    "Nome Scuola":"S. Cannizzaro"
+  },
+  {
+    "id_scuola":"S. Giuseppe (Torino)",
+    "Nome Scuola":"S. Giuseppe"
+  },
+  {
+    "id_scuola":"Saffo (Roseto degli Abruzzi)",
+    "Nome Scuola":"Saffo"
+  },
+  {
+    "id_scuola":"Salutati (Montecatini-Terme)",
+    "Nome Scuola":"Salutati"
+  },
+  {
+    "id_scuola":"Salvemini (Sorrento)",
+    "Nome Scuola":"Salvemini"
+  },
+  {
+    "id_scuola":"Salvini (Roma)",
+    "Nome Scuola":"Salvini"
+  },
+  {
+    "id_scuola":"Sannazaro (Napoli)",
+    "Nome Scuola":"Sannazaro"
+  },
+  {
+    "id_scuola":"Sansi-Leonardi-Volta (Spoleto)",
+    "Nome Scuola":"Sansi-Leonardi-Volta"
+  },
+  {
+    "id_scuola":"Sarocchi (Siena)",
+    "Nome Scuola":"Sarocchi"
+  },
+  {
+    "id_scuola":"Sarpi (Bergamo)",
+    "Nome Scuola":"Sarpi"
+  },
+  {
+    "id_scuola":"Sbordone (Napoli)",
+    "Nome Scuola":"Sbordone"
+  },
+  {
+    "id_scuola":"Scacchi (Bari)",
+    "Nome Scuola":"Scacchi"
+  },
+  {
+    "id_scuola":"Scarano (Trivento)",
+    "Nome Scuola":"Scarano"
+  },
+  {
+    "id_scuola":"Scarpa (Motta Di Livenza)",
+    "Nome Scuola":"Scarpa"
+  },
+  {
+    "id_scuola":"Scarpa (Motta di Livenza)",
+    "Nome Scuola":"Scarpa"
+  },
+  {
+    "id_scuola":"Scuola Secondaria Superiore (Repubblica San Marino)",
+    "Nome Scuola":"Scuola Secondaria Superiore"
+  },
+  {
+    "id_scuola":"Seneca (Roma)",
+    "Nome Scuola":"Seneca"
+  },
+  {
+    "id_scuola":"Severi (Frosinone)",
+    "Nome Scuola":"Severi"
+  },
+  {
+    "id_scuola":"Severi (Montecorvino Rovella)",
+    "Nome Scuola":"Severi"
+  },
+  {
+    "id_scuola":"Severi (Padova)",
+    "Nome Scuola":"Severi"
+  },
+  {
+    "id_scuola":"Severi (Salerno)",
+    "Nome Scuola":"Severi"
+  },
+  {
+    "id_scuola":"Siniscola (Siniscola)",
+    "Nome Scuola":"Siniscola"
+  },
+  {
+    "id_scuola":"Sobrero (Casale Monferrato)",
+    "Nome Scuola":"Sobrero"
+  },
+  {
+    "id_scuola":"Socrate (Roma)",
+    "Nome Scuola":"Socrate"
+  },
+  {
+    "id_scuola":"Solari (Tolmezzo)",
+    "Nome Scuola":"Solari"
+  },
+  {
+    "id_scuola":"Spallanzani (Reggio Emilia)",
+    "Nome Scuola":"Spallanzani"
+  },
+  {
+    "id_scuola":"Spallanzani (Tivoli)",
+    "Nome Scuola":"Spallanzani"
+  },
+  {
+    "id_scuola":"Spano (Sassari)",
+    "Nome Scuola":"Spano"
+  },
+  {
+    "id_scuola":"Spinelli (Torino)",
+    "Nome Scuola":"Spinelli"
+  },
+  {
+    "id_scuola":"Stampacchia (Tricase)",
+    "Nome Scuola":"Stampacchia"
+  },
+  {
+    "id_scuola":"Stellini (Udine)",
+    "Nome Scuola":"Stellini"
+  },
+  {
+    "id_scuola":"Tacito (Terni)",
+    "Nome Scuola":"Tacito"
+  },
+  {
+    "id_scuola":"Talete (Roma)",
+    "Nome Scuola":"Talete"
+  },
+  {
+    "id_scuola":"Taramelli (Pavia)",
+    "Nome Scuola":"Taramelli"
+  },
+  {
+    "id_scuola":"Taramelli-Foscolo (Pavia)",
+    "Nome Scuola":"Taramelli-Foscolo"
+  },
+  {
+    "id_scuola":"Tasso (Roma)",
+    "Nome Scuola":"Tasso"
+  },
+  {
+    "id_scuola":"Tassoni (Modena)",
+    "Nome Scuola":"Tassoni"
+  },
+  {
+    "id_scuola":"Tedone (Ruvo Di Puglia)",
+    "Nome Scuola":"Tedone"
+  },
+  {
+    "id_scuola":"Tedone (Ruvo di Puglia)",
+    "Nome Scuola":"Tedone"
+  },
+  {
+    "id_scuola":"Telesi@ (Telese Terme)",
+    "Nome Scuola":"Telesi@"
+  },
+  {
+    "id_scuola":"Tito Livio (Martina Franca)",
+    "Nome Scuola":"Tito Livio"
+  },
+  {
+    "id_scuola":"Torquato Tasso (Salerno)",
+    "Nome Scuola":"Torquato Tasso"
+  },
+  {
+    "id_scuola":"Torricelli (Faenza)",
+    "Nome Scuola":"Torricelli"
+  },
+  {
+    "id_scuola":"Torricelli (Maniago)",
+    "Nome Scuola":"Torricelli"
+  },
+  {
+    "id_scuola":"Torricelli (Roma)",
+    "Nome Scuola":"Torricelli"
+  },
+  {
+    "id_scuola":"Torricelli [F] (Faenza)",
+    "Nome Scuola":"Torricelli [F]"
+  },
+  {
+    "id_scuola":"Torricelli-Ballardini (Faenza)",
+    "Nome Scuola":"Torricelli-Ballardini"
+  },
+  {
+    "id_scuola":"Tortoli (Tortol\u00ec)",
+    "Nome Scuola":"Tortoli"
+  },
+  {
+    "id_scuola":"Toscanelli (Roma)",
+    "Nome Scuola":"Toscanelli"
+  },
+  {
+    "id_scuola":"Touschek (Grottaferrata)",
+    "Nome Scuola":"Touschek"
+  },
+  {
+    "id_scuola":"Trissino (Valdagno)",
+    "Nome Scuola":"Trissino"
+  },
+  {
+    "id_scuola":"Tron (Schio)",
+    "Nome Scuola":"Tron"
+  },
+  {
+    "id_scuola":"Tron-Zanella (Schio)",
+    "Nome Scuola":"Tron-Zanella"
+  },
+  {
+    "id_scuola":"Ulivi (Parma)",
+    "Nome Scuola":"Ulivi"
+  },
+  {
+    "id_scuola":"Umberto Di Savoia (Catania)",
+    "Nome Scuola":"Umberto Di Savoia"
+  },
+  {
+    "id_scuola":"United World College of the Adriatic (Duino Aurisina)",
+    "Nome Scuola":"United World College of the Adriatic"
+  },
+  {
+    "id_scuola":"Vaccarini (Catania)",
+    "Nome Scuola":"Vaccarini"
+  },
+  {
+    "id_scuola":"Vallisneri (Lucca)",
+    "Nome Scuola":"Vallisneri"
+  },
+  {
+    "id_scuola":"Valsalice (Torino)",
+    "Nome Scuola":"Valsalice"
+  },
+  {
+    "id_scuola":"Varchi (Montevarchi)",
+    "Nome Scuola":"Varchi"
+  },
+  {
+    "id_scuola":"Vercelli (Asti)",
+    "Nome Scuola":"Vercelli"
+  },
+  {
+    "id_scuola":"Verga (Adrano)",
+    "Nome Scuola":"Verga"
+  },
+  {
+    "id_scuola":"Veronese (Chioggia)",
+    "Nome Scuola":"Veronese"
+  },
+  {
+    "id_scuola":"Vian (Bracciano)",
+    "Nome Scuola":"Vian"
+  },
+  {
+    "id_scuola":"Viola (Rovigo)",
+    "Nome Scuola":"Viola"
+  },
+  {
+    "id_scuola":"Virgilio (Roma)",
+    "Nome Scuola":"Virgilio"
+  },
+  {
+    "id_scuola":"Vittorini (Milano)",
+    "Nome Scuola":"Vittorini"
+  },
+  {
+    "id_scuola":"Vittorio Emanuele II-Ruffini (Genova)",
+    "Nome Scuola":"Vittorio Emanuele II-Ruffini"
+  },
+  {
+    "id_scuola":"Volta (Caltanissetta)",
+    "Nome Scuola":"Volta"
+  },
+  {
+    "id_scuola":"Volta (Colle Di Val D'Elsa)",
+    "Nome Scuola":"Volta"
+  },
+  {
+    "id_scuola":"Volta (Colle Val d'Elsa)",
+    "Nome Scuola":"Volta"
+  },
+  {
+    "id_scuola":"Volta (Colle di Val d'Elsa)",
+    "Nome Scuola":"Volta"
+  },
+  {
+    "id_scuola":"Volta (Foggia)",
+    "Nome Scuola":"Volta"
+  },
+  {
+    "id_scuola":"Volta (Milano)",
+    "Nome Scuola":"Volta"
+  },
+  {
+    "id_scuola":"Volta (Sassuolo)",
+    "Nome Scuola":"Volta"
+  },
+  {
+    "id_scuola":"Volta-Sansi-Leonardi (Spoleto)",
+    "Nome Scuola":"Volta-Sansi-Leonardi"
+  },
+  {
+    "id_scuola":"Volterra (Ciampino)",
+    "Nome Scuola":"Volterra"
+  },
+  {
+    "id_scuola":"Volterra-Elia (Ancona)",
+    "Nome Scuola":"Volterra-Elia"
+  },
+  {
+    "id_scuola":"Wiligelmo (Modena)",
+    "Nome Scuola":"Wiligelmo"
+  },
+  {
+    "id_scuola":"Zanelli (Reggio Emilia)",
+    "Nome Scuola":"Zanelli"
+  },
+  {
+    "id_scuola":"il Pontormo (Empoli)",
+    "Nome Scuola":"il Pontormo"
+  }
+]

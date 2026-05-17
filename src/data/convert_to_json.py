@@ -86,10 +86,10 @@ def prepara_dati_gas_completo():
     dati_albo = { "mista": albo_mista, "femminile": albo_femminile, "medagliere": list(medagliere.values()) }
 
     # Salvataggio File
-    with open('profili_scuole.json', 'w', encoding='utf-8') as f: json.dump(storia_scuole, f, ensure_ascii=False)
-    elenco_scuole.to_json('elenco_scuole.json', orient='records')
-    with open('classifiche_annuali.json', 'w', encoding='utf-8') as f: json.dump(classifiche, f, ensure_ascii=False)
-    with open('albo_medagliere.json', 'w', encoding='utf-8') as f: json.dump(dati_albo, f, ensure_ascii=False)
+    with open('profili_scuole.json', 'w', encoding='utf-8') as f: json.dump(storia_scuole, f, ensure_ascii=False, indent=2)
+    elenco_scuole.to_json('elenco_scuole.json', orient='records', indent=2)
+    with open('classifiche_annuali.json', 'w', encoding='utf-8') as f: json.dump(classifiche, f, ensure_ascii=False, indent=2)
+    with open('albo_medagliere.json', 'w', encoding='utf-8') as f: json.dump(dati_albo, f, ensure_ascii=False, indent=2)
     print("Completato! Sposta i 4 file JSON in src/data/")
 
 if __name__ == "__main__":
