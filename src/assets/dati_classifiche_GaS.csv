@@ -102,11 +102,11 @@ Anno;Gara;Nome Scuola;Comune;Punti;posizione;Provincia
 2018;SemiD;Principe di Napoli;Assisi;555;9;PG
 2019;SemiB;Principe di Napoli;Assisi;498;7;PG
 2019;Finale;Principe di Napoli;Assisi;385;22;PG
-2020;SemiD;Principe Di Napoli;Assisi;511;12;PG
+2020;SemiD;Principe di Napoli;Assisi;511;12;PG
 2021;SemiE;Principe di Napoli;Assisi;1055;3;PG
 2021;Finale;Principe di Napoli;Assisi;378;41;PG
-2022;SemiD;Principe Di Napoli;Assisi;597;9;PG
-2022;FinaleF;Principe Di Napoli;Assisi;337;20;PG
+2022;SemiD;Principe di Napoli;Assisi;597;9;PG
+2022;FinaleF;Principe di Napoli;Assisi;337;20;PG
 2023;SemiB;Principe di Napoli;Assisi;688;5;PG
 2023;FinaleF;Principe di Napoli;Assisi;508;16;PG
 2023;Finale;Principe di Napoli;Assisi;657;15;PG
@@ -729,7 +729,7 @@ Anno;Gara;Nome Scuola;Comune;Punti;posizione;Provincia
 2026;SemiB;Boggio Lera;Catania;200;30;CT
 2026;SemiA;Galilei;Catania;815;8;CT
 2026;Finale;Galilei;Catania;859;21;CT
-2017;SemiA;Genoino;Cava De' Tirreni;251;22;SA
+2017;SemiA;Genoino;Cava de' Tirreni;251;22;SA
 2019;SemiA;Genoino;Cava de' Tirreni;311;19;SA
 2013;SemiD;Liceo Scientifico;Ceccano;191;23;FR
 2021;SemiA;Ceccano;Ceccano;376;26;FR
@@ -839,11 +839,11 @@ Anno;Gara;Nome Scuola;Comune;Punti;posizione;Provincia
 2019;SemiA;Russell;Cles;91;28;TN
 2022;SemiB;Russell;Cles;374;10;TN
 2023;SemiC;Russell;Cles;275;24;TN
-2010;SemiA;Volta;Colle Di Val D'Elsa;342;26;SI
-2011;SemiC;Volta;Colle di Val d'Elsa;457;13;SI
-2013;SemiA;Volta;Colle di Val d'Elsa;448;12;SI
-2014;SemiD;Volta;Colle di Val d'Elsa;580;12;SI
-2014;Finale;Volta;Colle di Val d'Elsa;612;16;SI
+2010;SemiA;Volta;Colle Val d'Elsa;342;26;SI
+2011;SemiC;Volta;Colle Val d'Elsa;457;13;SI
+2013;SemiA;Volta;Colle Val d'Elsa;448;12;SI
+2014;SemiD;Volta;Colle Val d'Elsa;580;12;SI
+2014;Finale;Volta;Colle Val d'Elsa;612;16;SI
 2015;SemiBL;Volta;Colle Val d'Elsa;815;5;SI
 2015;Finale;Volta;Colle Val d'Elsa;630;28;SI
 2016;SemiB;Volta;Colle Val d'Elsa;532;8;SI
@@ -950,8 +950,8 @@ Anno;Gara;Nome Scuola;Comune;Punti;posizione;Provincia
 2021;FinaleF;United World College of the Adriatic;Duino Aurisina;217;26;TS
 2015;SemiB;Gallotta;Eboli;379;21;SA
 2021;SemiB;Meneghini;Edolo;227;35;BS
-2019;SemiB;il Pontormo;Empoli;71;26;FI
-2020;SemiD;Il Pontormo;Empoli;193;26;FI
+2019;SemiB;Pontormo;Empoli;71;26;FI
+2020;SemiD;Pontormo;Empoli;193;26;FI
 2022;SemiA;Pontormo;Empoli;16;25;FI
 2023;SemiD;Pontormo;Empoli;326;19;FI
 2024;SemiA;Pontormo;Empoli;595;19;FI
@@ -1128,8 +1128,8 @@ Anno;Gara;Nome Scuola;Comune;Punti;posizione;Provincia
 2015;SemiB;Moretti;Gardone Val Trompia;696;6;BS
 2015;Finale;Moretti;Gardone Val Trompia;838;14;BS
 2017;SemiA;Moretti;Gardone Val Trompia;232;25;BS
-2010;SemiA;Magrini-Marchetti;Gemona Del Friuli;559;12;UD
-2010;Finale;Magrini-Marchetti;Gemona Del Friuli;686;11;UD
+2010;SemiA;Magrini-Marchetti;Gemona del Friuli;559;12;UD
+2010;Finale;Magrini-Marchetti;Gemona del Friuli;686;11;UD
 2015;SemiAL;Magrini-Marchetti;Gemona del Friuli;283;23;UD
 2018;SemiC;Magrini-Marchetti;Gemona del Friuli;412;22;UD
 2019;SemiA;Magrini-Marchetti;Gemona del Friuli;193;24;UD
@@ -1255,7 +1255,7 @@ Anno;Gara;Nome Scuola;Comune;Punti;posizione;Provincia
 2016;SemiA;Curie;Giulianova;256;27;TE
 2017;SemiA;Curie;Giulianova;214;27;TE
 2007;SemiB;Polo liceale;Gorizia;615;4;GO
-2007;Finale;Polo Liceale;Gorizia;661;10;GO
+2007;Finale;Polo liceale;Gorizia;661;10;GO
 2008;SemiA;Duca degli Abruzzi;Gorizia;403;23;GO
 2014;SemiB;Alighieri;Gorizia;402;17;GO
 2015;SemiB;Duca degli Abruzzi-Alighieri;Gorizia;603;10;GO
@@ -1317,7 +1317,7 @@ Anno;Gara;Nome Scuola;Comune;Punti;posizione;Provincia
 2011;SemiC;Pacinotti;La Spezia;316;22;SP
 2012;SemiB;Pacinotti;La Spezia;585;8;SP
 2012;Finale;Pacinotti;La Spezia;565;17;SP
-2014;SemiC;Pacinotti;la Spezia;770;3;SP
+2014;SemiC;Pacinotti;La Spezia;770;3;SP
 2014;Finale;Pacinotti;La Spezia;413;31;SP
 2015;SemiB;Pacinotti;La Spezia;675;7;SP
 2015;Finale;Pacinotti;La Spezia;863;10;SP
@@ -1694,7 +1694,7 @@ Anno;Gara;Nome Scuola;Comune;Punti;posizione;Provincia
 2019;SemiC;Scarpa;Motta di Livenza;218;18;TV
 2020;SemiC;Scarpa;Motta di Livenza;577;10;TV
 2021;SemiE;Scarpa;Motta di Livenza;528;20;TV
-2022;SemiD;Scarpa;Motta Di Livenza;534;11;TV
+2022;SemiD;Scarpa;Motta di Livenza;534;11;TV
 2022;FinaleF;Scarpa;Motta di Livenza;504;17;TV
 2024;SemiD;Scarpa;Motta di Livenza;644;16;TV
 2016;SemiD;Sannazaro;Napoli;284;20;NA
@@ -2202,9 +2202,9 @@ Anno;Gara;Nome Scuola;Comune;Punti;posizione;Provincia
 2021;Finale;Leopardi;Recanati;317;46;MC
 2004;Finale;Nicoloso da Recco;Recco;722;6;GE
 2005;SemiA;Nicoloso da Recco;Recco;90;21;GE
-2007;SemiA;Nicoloso;Recco;292;25;GE
-2018;SemiA;Nicoloso Da Recco;Recco;310;25;GE
-2026;SemiD;Nicoloso;Recco;813;10;GE
+2007;SemiA;Nicoloso da Recco;Recco;292;25;GE
+2018;SemiA;Nicoloso da Recco;Recco;310;25;GE
+2026;SemiD;Nicoloso da Recco;Recco;813;10;GE
 2016;SemiA;Da Vinci;Reggio Calabria;133;29;RC
 2021;SemiC;Da Vinci;Reggio Calabria;454;20;RC
 2022;SemiA;Da Vinci;Reggio Calabria;220;22;RC
@@ -2285,7 +2285,7 @@ Anno;Gara;Nome Scuola;Comune;Punti;posizione;Provincia
 2007;SemiA;Galilei;Riccia;172;32;CB
 2008;SemiB;Galilei;Riccia;369;27;CB
 2009;SemiA;Galilei;Riccia;322;29;CB
-2017;SemiB;Maffei;Riva Del Garda;318;22;TN
+2017;SemiB;Maffei;Riva del Garda;318;22;TN
 2020;FinaleF;Maffei;Riva del Garda;245;23;TN
 2021;SemiF;Maffei;Riva del Garda;546;16;TN
 2016;SemiD;Darwin;Rivoli;223;25;TO
@@ -2512,7 +2512,7 @@ Anno;Gara;Nome Scuola;Comune;Punti;posizione;Provincia
 2023;SemiC;Paleocapa;Rovigo;322;22;RO
 2026;SemiC;Paleocapa;Rovigo;645;15;RO
 2011;SemiC;Tedone;Ruvo di Puglia;133;31;BA
-2016;SemiD;Tedone;Ruvo Di Puglia;238;24;BA
+2016;SemiD;Tedone;Ruvo di Puglia;238;24;BA
 2005;SemiB;Focaccia;Salerno;50;24;SA
 2006;SemiB;Da Procida;Salerno;248;19;SA
 2006;SemiA;Torquato Tasso;Salerno;76;31;SA
@@ -2529,9 +2529,9 @@ Anno;Gara;Nome Scuola;Comune;Punti;posizione;Provincia
 2009;SemiA;Giovanni Da Procida;Salerno;316;30;SA
 2016;SemiA;Rosetti;San Benedetto del Tronto;403;18;AP
 2017;SemiC;Rosetti;San Benedetto del Tronto;239;26;AP
-2018;SemiC;Rosetti;San Benedetto Del Tronto;327;25;AP
-2019;SemiB;Rosetti;San Benedetto Del Tronto;403;10;AP
-2023;SemiA;Rosetti;San Benedetto Del Tronto;414;18;AP
+2018;SemiC;Rosetti;San Benedetto del Tronto;327;25;AP
+2019;SemiB;Rosetti;San Benedetto del Tronto;403;10;AP
+2023;SemiA;Rosetti;San Benedetto del Tronto;414;18;AP
 2025;SemiB;Rosetti;San Benedetto del Tronto;323;28;AP
 2026;FinaleF;Rosetti;San Benedetto del Tronto;581;31;AP
 2020;SemiA;Primo Levi;San Donato Milanese;523;13;MI
