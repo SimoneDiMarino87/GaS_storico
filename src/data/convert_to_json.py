@@ -3,7 +3,7 @@ import json
 
 def prepara_dati_gas_completo():
     print("Elaborazione dati in corso...")
-    df = pd.read_csv('dati_classifiche_GaS.csv', sep=';')
+    df = pd.read_csv('../assets/dati_classifiche_GaS.csv', sep=';')
     df = df.fillna("N/D")
     
     def categorizza_gara(gara):
