@@ -1,0 +1,3266 @@
+Anno;Gara;Nome Scuola;Comune;Punti;posizione;Provincia
+2007;SemiB;Archimede;Acireale;265;28;CT
+2012;SemiA;Archimede;Acireale;153;29;CT
+2015;SemiB;Archimede;Acireale;395;19;CT
+2021;SemiD;Archimede;Acireale;499;19;CT
+2025;SemiA;Archimede;Acireale;182;31;CT
+2012;SemiC;Parodi;Acqui Terme;469;13;AL
+2013;SemiC;Parodi;Acqui Terme;306;20;AL
+2014;SemiB;Parodi;Acqui Terme;456;13;AL
+2015;SemiB;Parodi;Acqui Terme;329;23;AL
+2021;SemiF;Parodi;Acqui Terme;180;36;AL
+2019;SemiB;Verga;Adrano;212;21;CT
+2021;SemiE;Verga;Adrano;187;36;CT
+2022;SemiD;Verga;Adrano;299;19;CT
+2023;SemiB;Verga;Adrano;441;14;CT
+2026;SemiD;Verga;Adrano;526;20;CT
+2014;SemiA;Bocchi-Galilei;Adria;499;16;RO
+2021;SemiE;Galilei;Adria;288;30;RO
+2008;SemiB;Foscolo;Albano Laziale;401;21;RM
+2010;SemiB;Galilei;Alessandria;570;11;AL
+2010;Finale;Galilei;Alessandria;522;28;AL
+2011;SemiA;Galilei;Alessandria;530;12;AL
+2012;SemiC;Galilei;Alessandria;336;26;AL
+2014;SemiD;Galilei;Alessandria;538;14;AL
+2017;SemiB;Galilei;Alessandria;525;12;AL
+2019;SemiB;Galilei;Alessandria;246;18;AL
+2010;SemiA;Fermi;Alghero;391;24;SS
+2020;SemiD;Fermi;Alghero;60;28;SS
+2021;SemiA;Amaldi;Alzano Lombardo;306;32;BG
+2018;SemiA;Marini-Gioia;Amalfi;254;27;SA
+2020;SemiC;Marini-Gioia;Amalfi;459;18;SA
+2016;SemiD;Di Savoia-Benincasa;Ancona;215;26;AN
+2017;SemiD;Di Savoia-Benincasa;Ancona;542;7;AN
+2017;Finale;Di Savoia-Benincasa;Ancona;406;29;AN
+2018;SemiB;Di Savoia-Benincasa;Ancona;228;27;AN
+2019;SemiA;Di Savoia-Benincasa;Ancona;360;14;AN
+2021;SemiF;Di Savoia-Benincasa;Ancona;405;24;AN
+2021;SemiA;Di Savoia;Ancona;180;40;AN
+2022;FinaleF;Di Savoia-Benincasa;Ancona;330;21;AN
+2023;SemiD;Di Savoia-Benincasa;Ancona;303;23;AN
+2024;SemiC;Di Savoia-Benincasa;Ancona;609;24;AN
+2025;SemiD;Di Savoia-Benincasa;Ancona;802;6;AN
+2025;Finale;Di Savoia-Benincasa;Ancona;741;19;AN
+2016;SemiB;Volterra-Elia;Ancona;239;27;AN
+2019;SemiC;Galilei;Ancona;120;23;AN
+2020;SemiC;Galilei;Ancona;515;14;AN
+2021;SemiD;Benincasa;Ancona;180;41;AN
+2024;SemiB;Galilei;Ancona;391;28;AN
+2013;SemiB;Innocenzo XII;Anzio;209;24;RM
+2021;SemiC;Innocenzo XII;Anzio;444;22;RM
+2025;SemiD;Innocenzo XII;Anzio;478;20;RM
+2019;SemiB;Berard;Aosta;32;28;AO
+2020;SemiC;Berard;Aosta;196;26;AO
+2021;SemiA;Berard;Aosta;371;27;AO
+2023;SemiA;Berard;Aosta;509;9;AO
+2024;SemiA;Berard;Aosta;763;10;AO
+2025;SemiC;Berard;Aosta;1005;4;AO
+2025;Finale;Berard;Aosta;688;25;AO
+2025;SemiD;Meucci;Aprilia;439;22;LT
+2026;SemiB;Meucci;Aprilia;601;20;LT
+2004;Finale;Redi;Arezzo;752;3;AR
+2005;SemiA;Redi;Arezzo;15;23;AR
+2006;SemiB;Redi;Arezzo;227;22;AR
+2007;SemiA;Redi;Arezzo;451;14;AR
+2008;SemiB;Francesco Redi;Arezzo;486;14;AR
+2008;Finale;Redi;Arezzo;461;24;AR
+2009;SemiB;Redi;Arezzo;310;27;AR
+2010;SemiA;Redi;Arezzo;238;30;AR
+2012;SemiB;Redi;Arezzo;369;22;AR
+2013;SemiC;Redi;Arezzo;584;5;AR
+2013;Finale;Redi;Arezzo;437;21;AR
+2014;SemiB;Petrarca;Arezzo;287;24;AR
+2014;SemiA;Redi;Arezzo;398;18;AR
+2015;SemiBL;Petrarca;Arezzo;574;12;AR
+2015;SemiAL;Redi;Arezzo;702;1;AR
+2015;Finale;Redi;Arezzo;507;30;AR
+2016;SemiD;Redi;Arezzo;285;19;AR
+2016;SemiC;Galilei;Arezzo;256;26;AR
+2017;SemiB;Redi;Arezzo;605;10;AR
+2018;SemiC;Redi;Arezzo;374;23;AR
+2019;SemiC;Galilei;Arezzo;270;13;AR
+2020;FinaleF;Redi;Arezzo;1289;6;AR
+2021;SemiC;Galilei;Arezzo;536;13;AR
+2021;SemiA;Redi;Arezzo;734;9;AR
+2021;FinaleF;Redi;Arezzo;901;7;AR
+2022;SemiC;Redi;Arezzo;208;19;AR
+2022;FinaleF;Redi;Arezzo;528;14;AR
+2023;SemiA;Redi;Arezzo;486;11;AR
+2023;FinaleF;Redi;Arezzo;252;23;AR
+2024;SemiD;Redi;Arezzo;905;7;AR
+2024;Finale;Redi;Arezzo;539;31;AR
+2025;SemiD;Redi;Arezzo;592;15;AR
+2020;SemiC;Da Vinci;Arzignano;460;17;VI
+2021;SemiB;Da Vinci;Arzignano;534;17;VI
+2023;SemiB;Da Vinci;Arzignano;279;26;VI
+2026;SemiD;Orsini-Licini;Ascoli Piceno;542;18;AP
+2005;SemiA;Falcone;Asola;256;5;MN
+2005;Finale;Falcone;Asola;302;16;MN
+2008;SemiA;Falcone;Asola;577;7;MN
+2008;Finale;Falcone;Asola;485;21;MN
+2017;SemiB;Principe di Napoli [F];Assisi;260;24;PG
+2018;SemiD;Principe di Napoli;Assisi;555;9;PG
+2019;SemiB;Principe di Napoli;Assisi;498;7;PG
+2019;Finale;Principe di Napoli;Assisi;385;22;PG
+2020;SemiD;Principe di Napoli;Assisi;511;12;PG
+2021;SemiE;Principe di Napoli;Assisi;1055;3;PG
+2021;Finale;Principe di Napoli;Assisi;378;41;PG
+2022;SemiD;Principe di Napoli;Assisi;597;9;PG
+2022;FinaleF;Principe di Napoli;Assisi;337;20;PG
+2023;SemiB;Principe di Napoli;Assisi;688;5;PG
+2023;FinaleF;Principe di Napoli;Assisi;508;16;PG
+2023;Finale;Principe di Napoli;Assisi;657;15;PG
+2024;SemiD;Principe di Napoli;Assisi;754;11;PG
+2024;FinaleF;Principe di Napoli;Assisi;709;17;PG
+2025;SemiC;Principe di Napoli;Assisi;561;18;PG
+2026;SemiD;Di Napoli;Assisi;450;26;PG
+2026;FinaleF;Principe di Napoli;Assisi;881;21;PG
+2005;SemiA;Artom;Asti;226;10;AT
+2005;Finale;Artom;Asti;222;19;AT
+2006;SemiB;Vercelli;Asti;594;3;AT
+2006;Finale;Vercelli;Asti;548;11;AT
+2007;SemiA;Vercelli;Asti;559;2;AT
+2007;Finale;Vercelli;Asti;514;18;AT
+2009;SemiA;Vercelli;Asti;836;1;AT
+2009;Finale;Vercelli;Asti;367;28;AT
+2010;SemiB;Vercelli;Asti;837;3;AT
+2010;Finale;Vercelli;Asti;605;19;AT
+2011;SemiB;Vercelli;Asti;624;8;AT
+2011;Finale;Vercelli;Asti;512;24;AT
+2012;SemiB;Vercelli;Asti;620;7;AT
+2012;Finale;Vercelli;Asti;407;26;AT
+2013;SemiB;Vercelli;Asti;347;19;AT
+2014;SemiD;Vercelli;Asti;849;3;AT
+2014;Finale;Vercelli;Asti;450;27;AT
+2016;SemiD;Vercelli;Asti;392;14;AT
+2017;SemiB;Vercelli;Asti;349;21;AT
+2018;SemiB;Vercelli;Asti;310;24;AT
+2019;SemiA;Vercelli;Asti;231;21;AT
+2020;SemiC;Vercelli;Asti;196;25;AT
+2021;SemiF;Vercelli;Asti;409;23;AT
+2024;SemiB;Vercelli;Asti;669;14;AT
+2023;SemiA;Grassi;atina;454;15;FR
+2010;SemiA;Megara;Augusta;303;28;SR
+2013;SemiD;Megara;Augusta;294;17;SR
+2015;SemiB;Mancini;Avellino;606;9;AV
+2016;SemiC;Mancini;Avellino;196;28;AV
+2024;SemiC;Mancini;Avellino;655;20;AV
+2025;SemiA;Mancini;Avellino;696;14;AV
+2012;SemiA;Balzan;Badia Polesine;295;24;RO
+2020;SemiA;Scacchi;Bari;161;27;BA
+2021;SemiE;Scacchi;Bari;836;6;BA
+2021;Finale;Scacchi;Bari;573;25;BA
+2023;SemiC;Scacchi;Bari;371;18;BA
+2024;SemiC;Scacchi;Bari;928;6;BA
+2024;Finale;Scacchi;Bari;693;24;BA
+2025;SemiB;Scacchi;Bari;977;4;BA
+2025;Finale;Scacchi;Bari;894;13;BA
+2026;SemiB;Scacchi;Bari;982;4;BA
+2026;Finale;Scacchi;Bari;678;31;BA
+2007;SemiA;Falcone;Barrafranca;324;21;EN
+2011;SemiB;Falcone;Barrafranca;432;21;EN
+2012;SemiA;Falcone;Barrafranca;200;28;EN
+2011;SemiC;Jacopo da Ponte;Bassano del Grappa;642;2;VI
+2011;Finale;Jacopo da Ponte;Bassano del Grappa;540;22;VI
+2012;SemiC;Jacopo da Ponte;Bassano del Grappa;388;20;VI
+2013;SemiB;Jacopo da Ponte;Bassano del Grappa;143;26;VI
+2014;SemiA;Jacopo da Ponte;Bassano del Grappa;810;2;VI
+2014;Finale;Jacopo da Ponte;Bassano del Grappa;621;15;VI
+2018;SemiD;Jacopo da Ponte;Bassano del Grappa;497;14;VI
+2018;FinaleF;Jacopo da Ponte;Bassano del Grappa;794;9;VI
+2019;SemiB;Jacopo da Ponte;Bassano del Grappa;742;2;VI
+2019;Finale;Jacopo da Ponte;Bassano del Grappa;391;21;VI
+2020;SemiB;Jacopo da Ponte;Bassano del Grappa;1080;2;VI
+2020;Finale;Jacopo da Ponte;Bassano del Grappa;1367;1;VI
+2021;SemiF;Jacopo da Ponte;Bassano del Grappa;1472;1;VI
+2021;Finale;Jacopo da Ponte;Bassano del Grappa;786;9;VI
+2022;SemiB;Jacopo da Ponte;Bassano del Grappa;234;21;VI
+2023;SemiB;Jacopo da Ponte;Bassano del Grappa;1242;1;VI
+2023;Finale;Jacopo da Ponte;Bassano del Grappa;733;11;VI
+2024;SemiA;Jacopo da Ponte;Bassano del Grappa;1228;1;VI
+2024;Finale;Jacopo da Ponte;Bassano del Grappa;1060;10;VI
+2025;SemiD;Jacopo da Ponte;Bassano del Grappa;646;11;VI
+2007;SemiB;Galilei;Belluno;403;17;BL
+2009;SemiB;Galilei;Belluno;491;15;BL
+2009;Finale;Galilei;Belluno;600;17;BL
+2011;SemiB;Galilei;Belluno;485;14;BL
+2012;SemiC;Galilei;Belluno;629;5;BL
+2012;Finale;Galilei;Belluno;579;13;BL
+2013;SemiA;Galilei;Belluno;342;19;BL
+2018;SemiA;Galilei-Tiziano;Belluno;335;22;BL
+2025;SemiC;Galilei-Tiziano;Belluno;380;26;BL
+2026;SemiD;Galilei-Tiziano;Belluno;398;28;BL
+2005;SemiB;Rummo;Benevento;206;8;BN
+2005;SemiA;Giannone;Benevento;320;1;BN
+2005;Finale;Rummo;Benevento;481;9;BN
+2005;Finale;Giannone;Benevento;110;23;BN
+2006;SemiB;Rummo;Benevento;395;12;BN
+2006;SemiA;Giannone;Benevento;202;25;BN
+2006;Finale;Rummo;Benevento;409;25;BN
+2007;SemiB;Rummo;Benevento;554;5;BN
+2007;SemiB;Giannone;Benevento;260;29;BN
+2007;Finale;Rummo;Benevento;649;12;BN
+2008;SemiB;Rummo;Benevento;359;28;BN
+2008;SemiB;Giannone;Benevento;204;34;BN
+2009;SemiA;Rummo;Benevento;575;4;BN
+2009;Finale;Rummo;Benevento;454;21;BN
+2011;SemiA;Rummo;Benevento;276;30;BN
+2012;SemiB;Alberti;Benevento;373;21;BN
+2012;SemiA;Rummo;Benevento;332;20;BN
+2013;SemiB;Rummo;Benevento;357;18;BN
+2014;SemiB;Rummo;Benevento;476;12;BN
+2015;SemiA;Rummo;Benevento;881;4;BN
+2015;Finale;Rummo;Benevento;719;22;BN
+2016;SemiD;Rummo;Benevento;277;21;BN
+2017;SemiA;Rummo;Benevento;253;21;BN
+2019;SemiD;Rummo;Benevento;127;25;BN
+2022;SemiD;Rummo;Benevento;621;8;BN
+2023;SemiA;Rummo;Benevento;472;14;BN
+2026;SemiC;Rummo;Benevento;355;28;BN
+2010;SemiB;Mascheroni;Bergamo;592;10;BG
+2010;Finale;Mascheroni;Bergamo;616;17;BG
+2011;SemiA;Mascheroni;Bergamo;765;3;BG
+2011;Finale;Mascheroni;Bergamo;939;4;BG
+2012;SemiB;Mascheroni;Bergamo;422;18;BG
+2013;SemiC;Mascheroni;Bergamo;877;1;BG
+2013;Finale;Mascheroni;Bergamo;1150;2;BG
+2014;SemiC;Mascheroni;Bergamo;605;11;BG
+2014;Finale;Mascheroni;Bergamo;645;13;BG
+2017;SemiA;Mascheroni;Bergamo;317;18;BG
+2018;SemiD;Mascheroni;Bergamo;494;15;BG
+2019;SemiD;Mascheroni;Bergamo;-30;28;BG
+2020;SemiD;Mascheroni;Bergamo;795;4;BG
+2020;Finale;Mascheroni;Bergamo;820;8;BG
+2021;SemiF;Mascheroni;Bergamo;1285;3;BG
+2021;Finale;Mascheroni;Bergamo;817;7;BG
+2022;SemiC;Mascheroni;Bergamo;860;3;BG
+2022;Finale;Mascheroni;Bergamo;418;17;BG
+2023;SemiB;Mascheroni;Bergamo;708;3;BG
+2023;Finale;Mascheroni;Bergamo;602;21;BG
+2024;SemiB;Mascheroni;Bergamo;795;9;BG
+2025;SemiD;Mascheroni;Bergamo;765;8;BG
+2025;Finale;Mascheroni;Bergamo;897;12;BG
+2026;SemiC;Mascheroni;Bergamo;625;16;BG
+2015;SemiAL;Lussana;Bergamo;591;3;BG
+2015;Finale;Lussana;Bergamo;474;31;BG
+2016;SemiC;Lussana;Bergamo;451;16;BG
+2017;SemiA;Lussana;Bergamo;316;19;BG
+2018;SemiD;Lussana;Bergamo;360;22;BG
+2019;SemiA;Lussana;Bergamo;458;10;BG
+2020;SemiA;Lussana;Bergamo;327;21;BG
+2020;FinaleF;Lussana;Bergamo;1112;8;BG
+2021;SemiC;Sarpi;Bergamo;466;18;BG
+2021;SemiA;Natta;Bergamo;796;5;BG
+2021;SemiA;Lussana;Bergamo;568;17;BG
+2021;Finale;Natta;Bergamo;249;48;BG
+2022;SemiA;Lussana;Bergamo;140;24;BG
+2024;SemiB;Lussana;Bergamo;847;7;BG
+2024;Finale;Lussana;Bergamo;1009;13;BG
+2025;SemiD;Lussana;Bergamo;766;7;BG
+2025;Finale;Lussana;Bergamo;545;33;BG
+2026;SemiC;Lussana;Bergamo;705;11;BG
+2026;SemiA;Sarpi;Bergamo;386;26;BG
+2024;SemiD;Galilei;Bitonto;647;15;BA
+2025;SemiC;Galilei;Bitonto;464;25;BA
+2021;SemiA;Pira;Bitti;181;37;NU
+2008;SemiA;Fermi;Bologna;446;20;BO
+2009;SemiA;Fermi;Bologna;473;10;BO
+2009;Finale;Fermi;Bologna;399;27;BO
+2011;SemiA;Copernico;Bologna;353;25;BO
+2013;SemiA;Copernico;Bologna;397;15;BO
+2015;SemiB;Copernico;Bologna;449;15;BO
+2017;SemiC;Copernico;Bologna;295;21;BO
+2021;SemiC;Copernico;Bologna;370;26;BO
+2025;SemiD;Copernico;Bologna;590;16;BO
+2026;SemiD;Copernico;Bologna;514;21;BO
+2026;FinaleF;Copernico;Bologna;544;33;BO
+2011;SemiA;Righi;Bologna;412;18;BO
+2014;SemiA;Fermi;Bologna;603;8;BO
+2023;SemiD;Fermi;Bologna;413;17;BO
+2024;SemiD;Fermi;Bologna;617;18;BO
+2024;SemiA;Galvani;Bologna;434;28;BO
+2025;SemiC;Fermi;Bologna;998;5;BO
+2025;SemiB;Galvani;Bologna;898;6;BO
+2025;Finale;Galvani;Bologna;723;21;BO
+2025;Finale;Fermi;Bologna;720;22;BO
+2026;SemiD;Galvani;Bologna;514;22;BO
+2026;SemiC;Righi;Bologna;655;14;BO
+2026;SemiB;Fermi;Bologna;946;7;BO
+2026;Finale;Fermi;Bologna;930;19;BO
+2010;SemiA;Vian;Bracciano;411;21;RM
+2011;SemiC;Vian;Bracciano;464;11;RM
+2012;SemiB;Vian;Bracciano;786;4;RM
+2012;Finale;Vian;Bracciano;445;23;RM
+2013;SemiC;Vian;Bracciano;457;12;RM
+2014;SemiB;Vian;Bracciano;395;19;RM
+2013;SemiD;Golgi;Breno;541;5;BS
+2013;Finale;Golgi;Breno;473;20;BS
+2014;SemiA;Golgi;Breno;893;1;BS
+2014;Finale;Golgi;Breno;755;7;BS
+2015;SemiBL;Golgi;Breno;758;6;BS
+2015;Finale;Golgi;Breno;685;25;BS
+2016;SemiB;Golgi;Breno;539;7;BS
+2016;Finale;Golgi;Breno;840;5;BS
+2017;SemiD;Golgi;Breno;670;3;BS
+2017;Finale;Golgi;Breno;556;16;BS
+2018;SemiB;Golgi;Breno;656;4;BS
+2018;FinaleF;Golgi;Breno;1155;1;BS
+2018;Finale;Golgi;Breno;539;20;BS
+2019;SemiC;Golgi;Breno;668;2;BS
+2019;Finale;Golgi;Breno;687;7;BS
+2020;SemiD;Golgi;Breno;755;5;BS
+2020;FinaleF;Golgi;Breno;1294;5;BS
+2020;Finale;Golgi;Breno;938;6;BS
+2021;SemiA;Golgi;Breno;1270;1;BS
+2021;FinaleF;Golgi;Breno;644;16;BS
+2021;Finale;Golgi;Breno;704;14;BS
+2022;SemiA;Golgi;Breno;967;1;BS
+2022;Finale;Golgi;Breno;324;20;BS
+2023;SemiB;Golgi;Breno;578;7;BS
+2023;FinaleF;Golgi;Breno;438;19;BS
+2023;Finale;Golgi;Breno;645;18;BS
+2024;SemiD;Golgi;Breno;933;5;BS
+2024;FinaleF;Golgi;Breno;744;16;BS
+2024;Finale;Golgi;Breno;853;18;BS
+2025;FinaleF;Golgi;Breno;524;26;BS
+2026;SemiA;Golgi;Breno;519;23;BS
+2026;FinaleF;Golgi;Breno;1007;16;BS
+2004;Finale;Leonardo;Brescia;840;1;BS
+2005;SemiB;Leonardo;Brescia;362;3;BS
+2006;SemiB;Castelli;Brescia;246;20;BS
+2005;Finale;Leonardo;Brescia;568;4;BS
+2006;SemiA;Calini;Brescia;305;14;BS
+2006;SemiB;Leonardo;Brescia;682;1;BS
+2006;Finale;Leonardo;Brescia;673;2;BS
+2007;SemiA;Leonardo;Brescia;790;1;BS
+2007;Finale;Leonardo;Brescia;899;3;BS
+2007;SemiA;Calini;Brescia;489;9;BS
+2008;SemiA;Leonardo;Brescia;844;2;BS
+2008;Finale;Leonardo;Brescia;892;4;BS
+2009;SemiA;Leonardo;Brescia;487;9;BS
+2007;Finale;Calini;Brescia;419;23;BS
+2009;Finale;Leonardo;Brescia;426;25;BS
+2010;SemiA;Leonardo;Brescia;700;5;BS
+2008;SemiB;Calini;Brescia;348;29;BS
+2010;Finale;Leonardo;Brescia;692;10;BS
+2011;SemiC;Leonardo;Brescia;594;4;BS
+2011;Finale;Leonardo;Brescia;641;19;BS
+2012;SemiC;Leonardo;Brescia;683;3;BS
+2012;Finale;Leonardo;Brescia;435;24;BS
+2013;SemiD;Leonardo;Brescia;438;10;BS
+2014;SemiD;Leonardo;Brescia;891;1;BS
+2014;Finale;Leonardo;Brescia;747;9;BS
+2015;SemiBL;Leonardo;Brescia;1052;1;BS
+2015;Finale;Leonardo;Brescia;812;15;BS
+2009;SemiA;Calini;Brescia;454;12;BS
+2016;SemiD;Leonardo;Brescia;1058;2;BS
+2016;Finale;Leonardo;Brescia;1144;1;BS
+2017;SemiD;Leonardo;Brescia;893;1;BS
+2017;Finale;Leonardo;Brescia;1113;1;BS
+2009;Finale;Calini;Brescia;437;22;BS
+2018;SemiC;Leonardo;Brescia;671;4;BS
+2018;FinaleF;Leonardo;Brescia;637;14;BS
+2018;Finale;Leonardo;Brescia;984;4;BS
+2019;SemiD;Leonardo;Brescia;907;1;BS
+2019;Finale;Leonardo;Brescia;759;5;BS
+2020;SemiB;Leonardo;Brescia;730;4;BS
+2020;FinaleF;Leonardo;Brescia;1382;4;BS
+2020;Finale;Leonardo;Brescia;798;9;BS
+2021;SemiC;Leonardo;Brescia;1193;2;BS
+2005;SemiA;Copernico;Brescia;40;22;BS
+2011;SemiB;Calini;Brescia;686;5;BS
+2021;FinaleF;Leonardo;Brescia;901;8;BS
+2021;Finale;Leonardo;Brescia;632;19;BS
+2022;SemiC;Leonardo;Brescia;630;4;BS
+2022;FinaleF;Leonardo;Brescia;1194;1;BS
+2006;SemiA;Copernico;Brescia;337;12;BS
+2022;Finale;Leonardo;Brescia;226;23;BS
+2023;SemiC;Leonardo;Brescia;656;3;BS
+2006;Finale;Copernico;Brescia;455;20;BS
+2023;FinaleF;Leonardo;Brescia;903;2;BS
+2011;Finale;Calini;Brescia;969;2;BS
+2007;SemiB;Copernico;Brescia;647;2;BS
+2007;Finale;Copernico;Brescia;690;9;BS
+2023;Finale;Leonardo;Brescia;766;9;BS
+2008;SemiA;Copernico;Brescia;341;30;BS
+2024;SemiC;Leonardo;Brescia;700;16;BS
+2025;SemiA;Leonardo;Brescia;921;4;BS
+2025;Finale;Leonardo;Brescia;595;30;BS
+2026;SemiD;Leonardo;Brescia;918;7;BS
+2009;SemiB;Copernico;Brescia;589;7;BS
+2009;Finale;Copernico;Brescia;647;11;BS
+2010;SemiB;Copernico;Brescia;976;1;BS
+2012;SemiA;Calini;Brescia;746;3;BS
+2010;Finale;Copernico;Brescia;913;2;BS
+2026;Finale;Leonardo;Brescia;857;22;BS
+2011;SemiC;Copernico;Brescia;607;3;BS
+2011;Finale;Copernico;Brescia;742;14;BS
+2012;SemiA;Copernico;Brescia;757;2;BS
+2012;Finale;Calini;Brescia;718;9;BS
+2013;SemiD;Calini;Brescia;791;1;BS
+2012;Finale;Copernico;Brescia;1359;1;BS
+2013;SemiB;Copernico;Brescia;1076;1;BS
+2013;Finale;Copernico;Brescia;1562;1;BS
+2014;SemiC;Copernico;Brescia;1159;1;BS
+2014;Finale;Copernico;Brescia;1277;1;BS
+2015;SemiA;Copernico;Brescia;1202;1;BS
+2015;Finale;Copernico;Brescia;1520;1;BS
+2016;SemiA;Copernico;Brescia;614;4;BS
+2016;Finale;Copernico;Brescia;1131;2;BS
+2017;SemiA;Copernico;Brescia;726;5;BS
+2017;Finale;Copernico;Brescia;652;13;BS
+2018;SemiC;Copernico;Brescia;778;2;BS
+2018;Finale;Copernico;Brescia;971;5;BS
+2013;Finale;Calini;Brescia;874;7;BS
+2019;SemiA;Copernico;Brescia;743;2;BS
+2019;Finale;Copernico;Brescia;597;13;BS
+2020;SemiA;Copernico;Brescia;812;3;BS
+2020;FinaleF;Copernico;Brescia;765;16;BS
+2020;Finale;Copernico;Brescia;767;11;BS
+2021;SemiD;Copernico;Brescia;1312;2;BS
+2021;Finale;Copernico;Brescia;756;11;BS
+2014;SemiB;Calini;Brescia;626;6;BS
+2022;SemiD;Copernico;Brescia;844;3;BS
+2022;Finale;Copernico;Brescia;245;22;BS
+2023;SemiD;Copernico;Brescia;893;2;BS
+2023;Finale;Copernico;Brescia;853;5;BS
+2024;SemiB;Copernico;Brescia;600;18;BS
+2014;Finale;Calini;Brescia;574;21;BS
+2025;SemiB;Copernico;Brescia;929;5;BS
+2025;Finale;Copernico;Brescia;909;11;BS
+2026;SemiA;Copernico;Brescia;768;12;BS
+2026;FinaleF;Copernico;Brescia;913;19;BS
+2015;SemiA;Calini;Brescia;682;9;BS
+2015;Finale;Calini;Brescia;789;17;BS
+2016;SemiD;Calini;Brescia;730;4;BS
+2016;Finale;Calini;Brescia;778;8;BS
+2017;SemiC;Calini;Brescia;537;10;BS
+2017;SemiA;Calini [F];Brescia;232;26;BS
+2017;Finale;Calini;Brescia;466;25;BS
+2018;SemiA;Calini;Brescia;610;6;BS
+2018;FinaleF;Calini;Brescia;818;8;BS
+2018;Finale;Calini;Brescia;608;14;BS
+2019;SemiD;Castelli;Brescia;320;12;BS
+2019;SemiD;Calini;Brescia;262;16;BS
+2020;SemiC;Calini;Brescia;976;1;BS
+2020;FinaleF;Calini;Brescia;1013;10;BS
+2020;Finale;Calini;Brescia;588;17;BS
+2021;SemiB;Calini;Brescia;853;6;BS
+2021;FinaleF;Calini;Brescia;675;14;BS
+2021;Finale;Calini;Brescia;799;8;BS
+2022;SemiC;Calini;Brescia;963;2;BS
+2022;Finale;Calini;Brescia;568;10;BS
+2023;SemiC;Calini;Brescia;730;1;BS
+2023;FinaleF;Calini;Brescia;568;13;BS
+2023;Finale;Calini;Brescia;991;2;BS
+2024;SemiA;Calini;Brescia;1210;2;BS
+2024;FinaleF;Calini;Brescia;1327;3;BS
+2024;Finale;Calini;Brescia;1313;3;BS
+2025;SemiD;Calini;Brescia;1106;2;BS
+2025;FinaleF;Calini;Brescia;763;17;BS
+2025;Finale;Calini;Brescia;1092;9;BS
+2026;SemiC;Calini;Brescia;1133;3;BS
+2026;FinaleF;Calini;Brescia;1205;8;BS
+2026;Finale;Calini;Brescia;1007;13;BS
+2010;SemiA;Majorana;Brindisi;212;32;BR
+2011;SemiC;Majorana;Brindisi;358;19;BR
+2012;SemiC;Fermi;Brindisi;50;32;BR
+2012;SemiA;Majorana;Brindisi;591;10;BR
+2012;Finale;Majorana;Brindisi;185;29;BR
+2013;SemiB;Majorana;Brindisi;628;2;BR
+2013;SemiA;Fermi;Brindisi;281;17;BR
+2013;Finale;Majorana;Brindisi;639;13;BR
+2014;SemiD;Fermi-Monticelli;Brindisi;441;19;BR
+2014;SemiC;Majorana;Brindisi;728;5;BR
+2014;Finale;Majorana;Brindisi;572;22;BR
+2015;SemiBL;Fermi-Monticelli;Brindisi;394;19;BR
+2015;SemiB;Majorana;Brindisi;781;2;BR
+2015;Finale;Majorana;Brindisi;726;21;BR
+2016;SemiC;Fermi-Monticelli;Brindisi;268;25;BR
+2017;SemiC;Majorana;Brindisi;461;11;BR
+2018;SemiA;Majorana;Brindisi;578;8;BR
+2018;Finale;Majorana;Brindisi;416;27;BR
+2019;SemiB;Majorana;Brindisi;81;25;BR
+2019;SemiA;Giorgi;Brindisi;129;26;BR
+2020;SemiC;Majorana;Brindisi;689;6;BR
+2020;Finale;Majorana;Brindisi;510;19;BR
+2021;SemiE;Fermi-Monticelli;Brindisi;406;26;BR
+2021;SemiB;Majorana;Brindisi;367;29;BR
+2023;SemiC;Majorana;Brindisi;229;29;BR
+2026;SemiA;Majorana;Brindisi;354;27;BR
+2026;FinaleF;Majorana;Brindisi;1389;3;BR
+2011;SemiA;Capizzi;Bronte;260;31;CT
+2006;SemiA;Rosa;Bussoleno;267;19;TO
+2008;SemiB;Rosa;Bussoleno;293;33;TO
+2015;SemiAL;Rosa;Bussoleno;245;24;TO
+2011;SemiC;Pacinotti;Cagliari;457;12;CA
+2012;SemiC;Pacinotti;Cagliari;481;11;CA
+2012;SemiB;Alberti;Cagliari;260;29;CA
+2013;SemiB;Alberti;Cagliari;438;15;CA
+2013;SemiA;Pacinotti;Cagliari;234;27;CA
+2014;SemiD;Pacinotti;Cagliari;436;20;CA
+2015;SemiAL;Euclide;Cagliari;135;29;CA
+2015;SemiA;Pacinotti;Cagliari;440;16;CA
+2016;SemiB;Michelangelo;Cagliari;363;14;CA
+2016;SemiA;Alberti;Cagliari;309;24;CA
+2017;SemiC;Michelangelo;Cagliari;411;14;CA
+2017;SemiB;Pacinotti;Cagliari;459;14;CA
+2018;SemiD;Pacinotti;Cagliari;515;11;CA
+2018;SemiC;Alberti;Cagliari;280;26;CA
+2019;SemiC;Pacinotti;Cagliari;101;25;CA
+2020;SemiD;Pacinotti;Cagliari;435;15;CA
+2020;FinaleF;Pacinotti;Cagliari;258;22;CA
+2021;SemiC;Pacinotti;Cagliari;460;19;CA
+2021;SemiB;Alberti;Cagliari;484;21;CA
+2022;SemiD;Alberti;Cagliari;100;26;CA
+2022;SemiA;Pacinotti;Cagliari;251;21;CA
+2023;SemiB;Pacinotti;Cagliari;332;20;CA
+2024;SemiB;Pacinotti;Cagliari;815;8;CA
+2024;SemiA;Alberti;Cagliari;349;30;CA
+2024;Finale;Pacinotti;Cagliari;786;22;CA
+2025;SemiD;Alberti;Cagliari;312;27;CA
+2025;SemiB;Pacinotti;Cagliari;665;13;CA
+2025;FinaleF;Pacinotti;Cagliari;490;27;CA
+2026;SemiA;Pacinotti;Cagliari;321;29;CA
+2014;SemiB;Maria Ausiliatrice;Caltagirone;162;29;CT
+2015;SemiA;Majorana;Caltagirone;372;21;CT
+2017;SemiA;Majorana-Arcoleo;Caltagirone;243;23;CT
+2018;SemiD;Majorana;Caltagirone;502;12;CT
+2019;SemiD;Majorana;Caltagirone;215;22;CT
+2021;SemiA;Majorana;Caltagirone;331;30;CT
+2006;SemiB;Volta;Caltanissetta;147;30;CL
+2007;SemiB;Volta;Caltanissetta;372;23;CL
+2008;SemiA;Volta;Caltanissetta;377;26;CL
+2009;SemiA;Volta;Caltanissetta;386;24;CL
+2010;SemiB;Volta;Caltanissetta;312;29;CL
+2011;SemiC;Volta;Caltanissetta;439;14;CL
+2005;SemiB;Romita;Campobasso;102;19;CB
+2006;SemiA;Romita;Campobasso;360;10;CB
+2006;Finale;Romita;Campobasso;522;14;CB
+2007;SemiA;Romita;Campobasso;502;7;CB
+2007;Finale;Romita;Campobasso;598;15;CB
+2008;SemiB;Romita;Campobasso;382;22;CB
+2009;SemiB;Romita;Campobasso;523;9;CB
+2009;Finale;Romita;Campobasso;429;24;CB
+2010;SemiA;Romita;Campobasso;502;15;CB
+2010;Finale;Romita;Campobasso;467;32;CB
+2011;SemiB;Romita;Campobasso;537;12;CB
+2012;SemiC;Romita;Campobasso;686;2;CB
+2012;Finale;Romita;Campobasso;555;18;CB
+2013;SemiD;Pagano;Campobasso;315;16;CB
+2013;SemiB;Romita;Campobasso;467;12;CB
+2014;SemiB;Romita;Campobasso;275;27;CB
+2015;SemiAL;Romita;Campobasso;523;8;CB
+2015;Finale;Romita;Campobasso;684;26;CB
+2016;SemiC;Romita;Campobasso;598;10;CB
+2016;SemiB;Marconi;Campobasso;269;23;CB
+2017;SemiD;Romita;Campobasso;467;10;CB
+2017;SemiB;Romita [F];Campobasso;127;30;CB
+2018;SemiA;Romita;Campobasso;547;10;CB
+2018;FinaleF;Romita;Campobasso;436;20;CB
+2019;SemiD;Romita;Campobasso;231;21;CB
+2020;SemiC;Romita;Campobasso;565;11;CB
+2021;SemiD;Romita;Campobasso;732;8;CB
+2021;FinaleF;Romita;Campobasso;1001;4;CB
+2021;Finale;Romita;Campobasso;632;18;CB
+2022;SemiC;Romita;Campobasso;140;24;CB
+2023;SemiC;Romita;Campobasso;375;17;CB
+2023;FinaleF;Romita;Campobasso;200;24;CB
+2024;SemiA;Romita;Campobasso;647;16;CB
+2024;FinaleF;Romita;Campobasso;489;25;CB
+2025;SemiA;Romita;Campobasso;710;12;CB
+2025;FinaleF;Romita;Campobasso;551;24;CB
+2026;SemiB;Romita;Campobasso;624;19;CB
+2026;FinaleF;Romita;Campobasso;646;28;CB
+2007;SemiB;Newton;Camposampiero;365;24;PD
+2014;SemiD;Fermi;Cantù;690;5;CO
+2014;Finale;Fermi;Cantù;448;28;CO
+2016;SemiC;Fermi;Cantù;835;2;CO
+2016;Finale;Fermi;Cantù;656;14;CO
+2017;SemiC;Fermi;Cantù;590;4;CO
+2017;Finale;Fermi;Cantù;823;6;CO
+2018;SemiA;Fermi;Cantù;618;5;CO
+2018;Finale;Fermi;Cantù;470;25;CO
+2019;SemiD;Fermi;Cantù;370;10;CO
+2020;SemiA;Fermi;Cantù;508;15;CO
+2021;SemiC;Fermi;Cantù;624;8;CO
+2021;Finale;Fermi;Cantù;379;40;CO
+2022;SemiB;Fermi;Cantù;771;3;CO
+2022;Finale;Fermi;Cantù;634;8;CO
+2023;SemiC;Fermi;Cantù;706;2;CO
+2023;Finale;Fermi;Cantù;934;4;CO
+2024;SemiD;Fermi;Cantù;920;6;CO
+2024;Finale;Fermi;Cantù;997;14;CO
+2025;SemiA;Fermi;Cantù;632;17;CO
+2026;SemiA;Fermi;Cantù;1043;4;CO
+2026;FinaleF;Fermi;Cantù;1192;9;CO
+2026;Finale;Fermi;Cantù;1051;10;CO
+2024;SemiC;Galilei;Caravaggio;546;25;BG
+2025;SemiD;Galilei;Caravaggio;888;5;BG
+2025;Finale;Galilei;Caravaggio;443;34;BG
+2021;SemiF;Amaldi;Carbonia;180;40;SU
+2023;SemiD;Amaldi;Carbonia;149;28;SU
+2025;SemiD;Amaldi;Carbonia;489;19;SU
+2021;SemiE;Calasanzio;Carcare;199;35;SV
+2005;SemiA;Fanti;Carpi;132;17;MO
+2007;SemiA;Fanti;Carpi;470;12;MO
+2007;Finale;Fanti;Carpi;465;21;MO
+2008;SemiA;Fanti;Carpi;564;9;MO
+2008;Finale;Fanti;Carpi;562;14;MO
+2009;SemiB;Fanti;Carpi;232;33;MO
+2010;SemiB;Fanti;Carpi;436;18;MO
+2011;SemiB;Fanti;Carpi;442;20;MO
+2016;SemiB;Fanti;Carpi;327;20;MO
+2018;SemiD;Fanti;Carpi;421;17;MO
+2020;SemiD;Fanti;Carpi;396;20;MO
+2021;SemiD;Fanti;Carpi;777;7;MO
+2021;FinaleF;Fanti;Carpi;698;13;MO
+2021;Finale;Fanti;Carpi;322;45;MO
+2022;SemiB;Fanti;Carpi;309;17;MO
+2022;FinaleF;Fanti;Carpi;283;23;MO
+2023;SemiC;Fanti;Carpi;564;6;MO
+2023;Finale;Fanti;Carpi;722;12;MO
+2024;FinaleF;Fanti;Carpi;881;14;MO
+2025;SemiD;Fanti;Carpi;430;23;MO
+2025;FinaleF;Fanti;Carpi;1042;10;MO
+2007;SemiA;Marconi;Carrara;517;6;MS
+2007;Finale;Marconi;Carrara;854;4;MS
+2008;SemiB;Marconi;Carrara;832;1;MS
+2008;Finale;Marconi;Carrara;1431;1;MS
+2009;SemiB;Marconi;Carrara;929;1;MS
+2009;Finale;Marconi;Carrara;807;6;MS
+2010;SemiA;Marconi;Carrara;756;3;MS
+2010;Finale;Marconi;Carrara;871;3;MS
+2011;SemiB;Marconi;Carrara;719;2;MS
+2011;Finale;Marconi;Carrara;891;7;MS
+2012;SemiB;Marconi;Carrara;1084;2;MS
+2012;Finale;Marconi;Carrara;572;15;MS
+2013;SemiC;Marconi;Carrara;820;2;MS
+2013;Finale;Marconi;Carrara;926;6;MS
+2014;SemiB;Marconi;Carrara;889;1;MS
+2014;Finale;Marconi;Carrara;1028;2;MS
+2015;SemiAL;Marconi;Carrara;455;18;MS
+2016;SemiC;Marconi;Carrara;884;1;MS
+2016;Finale;Marconi;Carrara;679;13;MS
+2017;SemiD;Marconi [F];Carrara;331;18;MS
+2017;SemiB;Marconi;Carrara;898;1;MS
+2017;Finale;Marconi;Carrara;921;2;MS
+2018;SemiB;Marconi;Carrara;718;3;MS
+2018;FinaleF;Marconi;Carrara;1125;2;MS
+2018;Finale;Marconi;Carrara;918;6;MS
+2019;SemiA;Marconi;Carrara;811;1;MS
+2019;Finale;Marconi;Carrara;711;6;MS
+2020;SemiB;Marconi;Carrara;1101;1;MS
+2020;FinaleF;Marconi;Carrara;1559;1;MS
+2020;Finale;Marconi;Carrara;1308;3;MS
+2021;SemiE;Marconi;Carrara;1214;1;MS
+2021;FinaleF;Marconi;Carrara;854;9;MS
+2021;Finale;Marconi;Carrara;779;10;MS
+2022;SemiB;Marconi;Carrara;869;2;MS
+2022;FinaleF;Marconi;Carrara;813;5;MS
+2022;Finale;Marconi;Carrara;693;7;MS
+2023;SemiD;Marconi;Carrara;835;4;MS
+2023;FinaleF;Marconi;Carrara;916;1;MS
+2023;Finale;Marconi;Carrara;753;10;MS
+2024;SemiC;Marconi;Carrara;1542;1;MS
+2024;FinaleF;Marconi;Carrara;1396;2;MS
+2024;Finale;Marconi;Carrara;1281;4;MS
+2025;SemiC;Marconi;Carrara;1243;2;MS
+2025;FinaleF;Marconi;Carrara;1314;2;MS
+2025;Finale;Marconi;Carrara;1235;5;MS
+2026;SemiC;Marconi;Carrara;1226;2;MS
+2026;FinaleF;Marconi;Carrara;1112;13;MS
+2026;Finale;Marconi;Carrara;1487;2;MS
+2005;SemiB;Balbo-Palli;Casale Monferrato;391;2;AL
+2005;Finale;Balbo-Palli;Casale Monferrato;270;17;AL
+2006;SemiB;Balbo;Casale Monferrato;406;10;AL
+2006;Finale;Balbo;Casale Monferrato;552;10;AL
+2011;SemiB;Balbo;Casale Monferrato;366;23;AL
+2011;SemiA;Sobrero;Casale Monferrato;363;24;AL
+2013;SemiB;Sobrero;Casale Monferrato;403;16;AL
+2019;SemiC;Sobrero;Casale Monferrato;190;20;AL
+2020;SemiB;Sobrero;Casale Monferrato;587;8;AL
+2021;SemiB;Sobrero;Casale Monferrato;519;18;AL
+2024;SemiD;Sobrero;Casale Monferrato;530;21;AL
+2025;SemiC;Sobrero;Casale Monferrato;632;15;AL
+2021;SemiC;Patini;Castel di Sangro;471;16;AQ
+2022;SemiD;Patini;Castel di Sangro;288;20;AQ
+2009;SemiB;Failla Tedaldi;Castelbuono;454;19;PA
+2010;SemiB;Failla Tedaldi;Castelbuono;480;16;PA
+2010;Finale;Failla Tedaldi;Castelbuono;553;25;PA
+2021;SemiF;Enriques;Castelfiorentino;272;33;FI
+2015;SemiAL;Cattaneo-Dall'Aglio;Castelnovo ne' Monti;410;20;RE
+2021;SemiF;Cattaneo-Dall'Aglio;Castelnovo ne' Monti;180;35;RE
+2023;SemiD;Cattaneo-Dall'Aglio;Castelnovo ne' Monti;290;24;RE
+2021;SemiF;Galilei;Castelnuovo di Garfagnana;528;19;LU
+2006;SemiB;Principe Umberto;Catania;241;21;CT
+2006;SemiA;Cutelli;Catania;299;16;CT
+2007;SemiA;Principe Umberto;Catania;260;30;CT
+2008;SemiA;Galilei;Catania;364;27;CT
+2009;SemiB;Cutelli;Catania;251;32;CT
+2010;SemiB;Galilei;Catania;276;31;CT
+2011;SemiC;Galilei;Catania;232;26;CT
+2012;SemiB;Cutelli;Catania;383;19;CT
+2013;SemiB;Cutelli;Catania;104;27;CT
+2013;SemiA;Galilei;Catania;632;4;CT
+2013;Finale;Galilei;Catania;486;19;CT
+2015;SemiAL;Galilei;Catania;477;14;CT
+2016;SemiA;Galilei;Catania;437;13;CT
+2017;SemiB;Galilei;Catania;671;7;CT
+2017;Finale;Galilei;Catania;530;20;CT
+2018;SemiD;Galilei;Catania;631;7;CT
+2018;SemiC;Don Bosco;Catania;464;18;CT
+2018;Finale;Galilei;Catania;706;12;CT
+2019;SemiC;Galilei;Catania;474;7;CT
+2019;Finale;Galilei;Catania;610;12;CT
+2020;SemiD;Galilei;Catania;695;8;CT
+2020;SemiA;Umberto Di Savoia;Catania;516;14;CT
+2021;SemiF;Umberto Di Savoia;Catania;320;32;CT
+2021;SemiE;Galilei;Catania;912;5;CT
+2021;SemiE;Boggio Lera;Catania;459;22;CT
+2021;SemiE;Vaccarini;Catania;180;39;CT
+2021;Finale;Galilei;Catania;588;23;CT
+2022;SemiC;Galilei;Catania;629;5;CT
+2022;Finale;Galilei;Catania;434;16;CT
+2023;SemiD;Galilei;Catania;556;10;CT
+2024;SemiD;Galilei;Catania;826;9;CT
+2025;SemiD;Galilei;Catania;546;18;CT
+2025;SemiB;Boggio Lera;Catania;236;30;CT
+2026;SemiB;Boggio Lera;Catania;200;30;CT
+2026;SemiA;Galilei;Catania;815;8;CT
+2026;Finale;Galilei;Catania;859;21;CT
+2017;SemiA;Genoino;Cava de' Tirreni;251;22;SA
+2019;SemiA;Genoino;Cava de' Tirreni;311;19;SA
+2013;SemiD;Liceo Scientifico;Ceccano;191;23;FR
+2021;SemiA;Ceccano;Ceccano;376;26;FR
+2026;FinaleF;Leonardo Da Vinci;Cerea;630;30;VR
+2025;SemiA;Einstein;Cerignola;525;22;FG
+2008;SemiB;Einstein;Cervignano del Friuli;413;19;UD
+2014;SemiB;Malignani;Cervignano del Friuli;422;15;UD
+2016;SemiC;ISIS della Bassa Friulana;Cervignano del Friuli;480;14;UD
+2017;SemiB;Bassa Friulana;Cervignano del Friuli;364;20;UD
+2018;SemiB;Bassa Friulana;Cervignano del Friuli;288;25;UD
+2019;SemiC;Bassa Friulana;Cervignano del Friuli;152;21;UD
+2020;SemiC;Bassa Friulana;Cervignano del Friuli;222;24;UD
+2021;SemiE;Bassa Friulana;Cervignano del Friuli;549;18;UD
+2022;SemiD;Bassa Friulana;Cervignano del Friuli;508;12;UD
+2023;SemiB;Bassa Friulana;Cervignano del Friuli;436;15;UD
+2025;SemiC;Bassa Friulana;Cervignano del Friuli;579;17;UD
+2026;SemiC;Bassa Friulana;Cervignano del Friuli;575;20;UD
+2007;SemiA;Liceo;Cesena;266;29;FC
+2009;SemiA;Righi;Cesena;449;14;FC
+2009;Finale;Righi;Cesena;674;10;FC
+2010;SemiA;Righi;Cesena;396;23;FC
+2015;SemiB;Righi;Cesena;256;26;FC
+2017;SemiD;Righi;Cesena;250;24;FC
+2018;SemiD;Righi;Cesena;398;18;FC
+2019;SemiC;Righi;Cesena;293;12;FC
+2020;SemiA;Righi;Cesena;549;12;FC
+2021;SemiB;Righi;Cesena;446;24;FC
+2024;SemiC;Righi;Cesena;479;27;FC
+2025;SemiA;Righi;Cesena;697;13;FC
+2010;SemiB;Da Vinci;Cesenatico;433;20;FC
+2011;SemiC;Marconi;Chiavari;215;29;GE
+2012;SemiA;Marconi;Chiavari;322;21;GE
+2014;SemiC;Marconi;Chiavari;396;22;GE
+2015;SemiB;Marconi-Delpino;Chiavari;526;12;GE
+2016;SemiB;Marconi-Delpino;Chiavari;562;4;GE
+2016;Finale;Marconi-Delpino;Chiavari;599;18;GE
+2017;SemiC;Marconi-Delpino;Chiavari;444;12;GE
+2019;SemiB;Marconi-Delpino;Chiavari;341;11;GE
+2014;SemiB;Monti;Chieri;541;9;TO
+2014;Finale;Monti;Chieri;639;14;TO
+2019;SemiD;Monti;Chieri;178;24;TO
+2021;SemiD;Monti;Chieri;309;32;TO
+2011;SemiB;Masci;Chieti;292;27;CH
+2013;SemiD;Masci;Chieti;235;20;CH
+2020;SemiD;Masci;Chieti;332;21;CH
+2021;SemiA;Masci;Chieti;443;23;CH
+2015;SemiBL;Veronese;Chioggia;489;17;VE
+2016;SemiB;Veronese;Chioggia;327;19;VE
+2021;SemiC;Veronese;Chioggia;66;42;VE
+2005;SemiB;Newton;Chivasso;188;11;TO
+2005;Finale;Newton;Chivasso;448;11;TO
+2007;SemiB;Newton;Chivasso;184;32;TO
+2011;SemiB;Newton;Chivasso;696;3;TO
+2011;Finale;Newton;Chivasso;653;17;TO
+2012;SemiB;Newton;Chivasso;476;13;TO
+2013;SemiB;Newton;Chivasso;528;9;TO
+2014;SemiB;Newton;Chivasso;718;4;TO
+2014;Finale;Newton;Chivasso;645;12;TO
+2015;SemiAL;Newton;Chivasso;579;6;TO
+2015;Finale;Newton;Chivasso;921;7;TO
+2016;SemiA;Newton;Chivasso;374;20;TO
+2021;SemiF;Newton;Chivasso;601;12;TO
+2022;SemiA;Newton;Chivasso;430;12;TO
+2023;SemiC;Newton;Chivasso;574;5;TO
+2023;Finale;Newton;Chivasso;460;29;TO
+2024;SemiB;Newton;Chivasso;441;25;TO
+2026;SemiB;Newton;Chivasso;835;12;TO
+2012;SemiC;Volterra;Ciampino;512;9;RM
+2012;Finale;Volterra;Ciampino;495;20;RM
+2020;SemiD;Volterra;Ciampino;230;25;RM
+2021;SemiC;Volterra;Ciampino;582;11;RM
+2023;SemiD;Volterra;Ciampino;197;26;RM
+2025;SemiA;Volterra;Ciampino;760;8;RM
+2025;FinaleF;Volterra;Ciampino;809;15;RM
+2025;Finale;Volterra;Ciampino;419;35;RM
+2026;SemiB;Volterra;Ciampino;697;17;RM
+2026;FinaleF;Volterra;Ciampino;656;27;RM
+2022;SemiD;Ramadù;Cisterna di Latina;166;24;LT
+2023;SemiC;Calvino;Città della Pieve;242;25;PG
+2024;SemiB;Calvino;Città della Pieve;336;31;PG
+2016;SemiB;Plinio il Giovane;Città di Castello;117;29;PG
+2008;SemiA;Lucrezio Caro;Cittadella;517;14;PD
+2008;Finale;Lucrezio Caro;Cittadella;273;30;PD
+2011;SemiB;Lucrezio Caro;Cittadella;461;15;PD
+2013;SemiD;Lucrezio Caro;Cittadella;493;7;PD
+2013;Finale;Lucrezio Caro;Cittadella;275;28;PD
+2014;SemiB;Lucrezio Caro;Cittadella;410;16;PD
+2015;SemiAL;Lucrezio Caro;Cittadella;425;19;PD
+2019;SemiD;Lucrezio Caro;Cittadella;249;17;PD
+2021;SemiC;Lucrezio Caro;Cittadella;237;33;PD
+2017;SemiA;Convitto Nazionale;Cividale del Friuli;181;30;UD
+2025;SemiA;Convitto Nazionale;Cividale del Friuli;375;29;UD
+2018;SemiB;Galilei;Civitavecchia;533;8;RM
+2018;Finale;Galilei;Civitavecchia;604;15;RM
+2019;SemiC;Galilei;Civitavecchia;92;26;RM
+2020;SemiA;Galilei;Civitavecchia;1028;1;RM
+2020;Finale;Galilei;Civitavecchia;1117;4;RM
+2021;SemiA;Galilei;Civitavecchia;1064;2;RM
+2021;Finale;Galilei;Civitavecchia;906;5;RM
+2022;SemiA;Galilei;Civitavecchia;769;3;RM
+2022;Finale;Galilei;Civitavecchia;780;4;RM
+2023;SemiD;Galilei;Civitavecchia;443;15;RM
+2005;SemiA;Russell;Cles;137;15;TN
+2006;SemiA;Russell;Cles;246;21;TN
+2007;SemiB;Russell;Cles;395;20;TN
+2014;SemiD;Russell;Cles;383;23;TN
+2019;SemiA;Russell;Cles;91;28;TN
+2022;SemiB;Russell;Cles;374;10;TN
+2023;SemiC;Russell;Cles;275;24;TN
+2010;SemiA;Volta;Colle Val d'Elsa;342;26;SI
+2011;SemiC;Volta;Colle Val d'Elsa;457;13;SI
+2013;SemiA;Volta;Colle Val d'Elsa;448;12;SI
+2014;SemiD;Volta;Colle Val d'Elsa;580;12;SI
+2014;Finale;Volta;Colle Val d'Elsa;612;16;SI
+2015;SemiBL;Volta;Colle Val d'Elsa;815;5;SI
+2015;Finale;Volta;Colle Val d'Elsa;630;28;SI
+2016;SemiB;Volta;Colle Val d'Elsa;532;8;SI
+2016;Finale;Volta;Colle Val d'Elsa;233;32;SI
+2017;SemiC;Volta;Colle Val d'Elsa;226;27;SI
+2021;SemiD;Volta;Colle Val d'Elsa;485;21;SI
+2022;SemiB;Volta;Colle Val d'Elsa;126;24;SI
+2006;SemiA;Marconi;Conegliano;403;6;TV
+2006;Finale;Marconi;Conegliano;734;1;TV
+2007;SemiA;Marconi;Conegliano;528;5;TV
+2007;Finale;Marconi;Conegliano;643;13;TV
+2008;SemiA;Marconi;Conegliano;622;4;TV
+2008;Finale;Marconi;Conegliano;705;8;TV
+2009;SemiB;Marconi;Conegliano;475;17;TV
+2009;Finale;Marconi;Conegliano;713;7;TV
+2010;SemiB;Marconi;Conegliano;360;25;TV
+2011;SemiA;Marconi;Conegliano;638;4;TV
+2011;Finale;Marconi;Conegliano;646;18;TV
+2012;SemiA;Marconi;Conegliano;739;4;TV
+2012;Finale;Marconi;Conegliano;574;14;TV
+2013;SemiC;Marconi;Conegliano;717;3;TV
+2013;Finale;Marconi;Conegliano;753;11;TV
+2014;SemiA;Marconi;Conegliano;712;7;TV
+2014;Finale;Marconi;Conegliano;982;3;TV
+2015;SemiA;Marconi;Conegliano;938;2;TV
+2015;Finale;Marconi;Conegliano;383;32;TV
+2016;SemiB;Marconi;Conegliano;362;15;TV
+2017;SemiB;Marconi;Conegliano;455;15;TV
+2020;SemiA;Marconi;Conegliano;446;18;TV
+2021;SemiC;Marconi;Conegliano;529;14;TV
+2022;SemiD;Marconi;Conegliano;362;16;TV
+2022;FinaleF;Marconi;Conegliano;683;8;TV
+2023;SemiA;Marconi;Conegliano;737;2;TV
+2023;Finale;Marconi;Conegliano;540;22;TV
+2024;SemiD;Marconi;Conegliano;764;10;TV
+2026;SemiA;Marconi;Conegliano;534;22;TV
+2014;SemiC;Rinaldo Corso;Correggio;423;20;RE
+2019;SemiC;Corso;Correggio;267;14;RE
+2020;SemiB;Corso;Correggio;378;17;RE
+2021;SemiA;Corso;Correggio;335;29;RE
+2013;SemiB;Fermi;Cosenza;2;28;CS
+2014;SemiA;Fermi;Cosenza;147;29;CS
+2015;SemiBL;Fermi;Cosenza;262;28;CS
+2018;SemiC;Fermi;Cosenza;469;17;CS
+2020;SemiB;Fermi;Cosenza;224;23;CS
+2005;SemiA;Galilei;Crema;96;19;CR
+2006;SemiB;Galilei;Crema;259;18;CR
+2009;SemiA;Galilei;Crema;416;20;CR
+2012;SemiB;Galilei;Crema;104;31;CR
+2015;SemiB;Galilei;Crema;738;3;CR
+2015;Finale;Galilei;Crema;766;18;CR
+2016;SemiA;Galilei;Crema;259;26;CR
+2017;SemiD;Galilei;Crema;249;25;CR
+2021;SemiD;Galilei;Crema;698;10;CR
+2022;SemiB;Galilei;Crema;342;15;CR
+2025;SemiA;Galilei;Crema;723;11;CR
+2026;FinaleF;Galilei;Crema;719;26;CR
+2015;SemiAL;Aselli;Cremona;192;26;CR
+2016;SemiB;Aselli;Cremona;522;9;CR
+2016;Finale;Aselli;Cremona;449;24;CR
+2025;SemiA;Aselli;Cremona;473;25;CR
+2026;SemiD;Aselli;Cremona;587;16;CR
+2026;FinaleF;Aselli;Cremona;577;32;CR
+2019;SemiB;Filolao;Crotone;60;27;KR
+2017;SemiD;Peano-Pellico;Cuneo;260;22;CN
+2018;SemiB;Peano-Pellico;Cuneo;465;12;CN
+2019;SemiD;Peano-Pellico;Cuneo;379;9;CN
+2020;SemiB;Peano-Pellico;Cuneo;356;18;CN
+2021;SemiC;Peano-Pellico;Cuneo;407;24;CN
+2022;SemiC;Peano-Pellico;Cuneo;244;17;CN
+2006;SemiA;Bagatta;Desenzano del Garda;280;17;BS
+2008;SemiA;Bagatta;Desenzano del Garda;488;17;BS
+2012;SemiB;Bagatta;Desenzano del Garda;351;23;BS
+2014;SemiA;Bagatta;Desenzano del Garda;250;27;BS
+2015;SemiBL;Bagatta;Desenzano del Garda;732;7;BS
+2015;Finale;Bagatta;Desenzano del Garda;184;36;BS
+2016;SemiC;Bagatta;Desenzano del Garda;569;12;BS
+2018;SemiA;Bagatta;Desenzano del Garda;329;24;BS
+2019;SemiA;Bagatta;Desenzano del Garda;406;12;BS
+2021;SemiC;Bagatta;Desenzano del Garda;141;39;BS
+2023;SemiB;Bagatta;Desenzano del Garda;574;8;BS
+2023;Finale;Bagatta;Desenzano del Garda;235;32;BS
+2024;SemiB;Bagatta;Desenzano del Garda;568;20;BS
+2018;SemiD;Majorana;Desio;682;4;MB
+2018;Finale;Majorana;Desio;515;22;MB
+2019;SemiA;Majorana;Desio;480;7;MB
+2019;Finale;Majorana;Desio;367;23;MB
+2020;SemiC;Majorana;Desio;750;5;MB
+2020;Finale;Majorana;Desio;762;12;MB
+2021;SemiB;Majorana;Desio;653;11;MB
+2022;SemiC;Majorana;Desio;157;22;MB
+2023;SemiA;Majorana;Desio;608;8;MB
+2023;Finale;Majorana;Desio;538;23;MB
+2024;SemiC;Majorana;Desio;764;13;MB
+2025;SemiB;Majorana;Desio;538;21;MB
+2026;SemiB;Majorana;Desio;467;23;MB
+2005;SemiB;Galilei;Dolo;194;9;VE
+2005;Finale;Galilei;Dolo;485;8;VE
+2006;SemiB;Galilei;Dolo;681;2;VE
+2006;Finale;Galilei;Dolo;439;21;VE
+2007;SemiB;Galilei;Dolo;463;13;VE
+2021;SemiD;Dorgali;Dorgali;180;42;NU
+2021;SemiB;United World College of the Adriatic;Duino Aurisina;55;42;TS
+2021;FinaleF;United World College of the Adriatic;Duino Aurisina;217;26;TS
+2015;SemiB;Gallotta;Eboli;379;21;SA
+2021;SemiB;Meneghini;Edolo;227;35;BS
+2019;SemiB;Pontormo;Empoli;71;26;FI
+2020;SemiD;Pontormo;Empoli;193;26;FI
+2022;SemiA;Pontormo;Empoli;16;25;FI
+2023;SemiD;Pontormo;Empoli;326;19;FI
+2024;SemiA;Pontormo;Empoli;595;19;FI
+2025;SemiD;Pontormo;Empoli;598;14;FI
+2008;SemiA;Farinato;Enna;541;11;EN
+2008;Finale;Farinato;Enna;470;22;EN
+2009;SemiB;Farinato;Enna;567;8;EN
+2009;Finale;Farinato;Enna;861;5;EN
+2011;SemiB;Farinato;Enna;652;7;EN
+2011;Finale;Farinato;Enna;314;28;EN
+2012;SemiA;Farinato;Enna;466;13;EN
+2014;SemiC;Farinato;Enna;374;24;EN
+2015;SemiAL;Farinato;Enna;190;27;EN
+2016;SemiB;Farinato;Enna;328;18;EN
+2024;SemiD;Galilei;Erba;469;26;CO
+2025;FinaleF;Galilei;Erba;666;21;CO
+2026;SemiD;Galilei;Erba;1139;4;CO
+2026;Finale;Galilei;Erba;714;29;CO
+2012;SemiB;Torricelli;Faenza;449;16;RA
+2013;SemiB;Torricelli;Faenza;516;11;RA
+2015;SemiAL;Liceo di Faenza;Faenza;482;12;RA
+2017;SemiB;Torricelli [F];Faenza;229;26;RA
+2018;SemiB;Torricelli-Ballardini;Faenza;402;19;RA
+2019;SemiB;Torricelli-Ballardini;Faenza;469;8;RA
+2019;Finale;Torricelli-Ballardini;Faenza;278;28;RA
+2020;SemiD;Torricelli-Ballardini;Faenza;399;19;RA
+2021;SemiF;Torricelli-Ballardini;Faenza;707;9;RA
+2021;FinaleF;Torricelli-Ballardini;Faenza;396;25;RA
+2024;SemiB;Torricelli-Ballardini;Faenza;427;26;RA
+2025;SemiC;Torricelli-Ballardini;Faenza;946;7;RA
+2025;Finale;Torricelli-Ballardini;Faenza;686;26;RA
+2016;SemiD;Dal Piaz;Feltre;353;15;BL
+2021;SemiF;Dal Piaz;Feltre;390;27;BL
+2022;SemiC;Dal Piaz;Feltre;325;14;BL
+2023;SemiB;Dal Piaz;Feltre;300;23;BL
+2013;SemiA;Roiti;Ferrara;263;24;FE
+2021;SemiF;Roiti;Ferrara;387;28;FE
+2022;SemiB;Roiti;Ferrara;431;9;FE
+2023;SemiA;Roiti;Ferrara;677;5;FE
+2023;Finale;Roiti;Ferrara;776;8;FE
+2024;SemiD;Roiti;Ferrara;443;28;FE
+2025;SemiB;Roiti;Ferrara;599;17;FE
+2026;SemiB;Roiti;Ferrara;440;25;FE
+2010;SemiA;Berenini;Fidenza;192;33;PR
+2007;SemiB;Castelnuovo;Firenze;395;21;FI
+2010;SemiB;Castelnuovo;Firenze;332;26;FI
+2011;SemiA;Castelnuovo;Firenze;321;28;FI
+2012;SemiC;Castelnuovo;Firenze;371;22;FI
+2012;SemiB;Douhet;Firenze;349;24;FI
+2007;SemiA;Leonardo da Vinci;Firenze;285;26;FI
+2008;SemiA;Leonardo da Vinci;Firenze;434;21;FI
+2009;SemiA;Leonardo da Vinci;Firenze;560;5;FI
+2009;Finale;Leonardo da Vinci;Firenze;297;33;FI
+2011;SemiB;Leonardo da Vinci;Firenze;228;31;FI
+2013;SemiB;Douhet;Firenze;601;5;FI
+2012;SemiC;Leonardo da Vinci;Firenze;582;6;FI
+2013;Finale;Douhet;Firenze;202;29;FI
+2012;Finale;Leonardo da Vinci;Firenze;571;16;FI
+2013;SemiC;Leonardo da Vinci;Firenze;506;9;FI
+2014;SemiD;Douhet;Firenze;641;9;FI
+2014;SemiC;Leonardo da Vinci;Firenze;631;10;FI
+2014;SemiB;Castelnuovo;Firenze;279;26;FI
+2014;Finale;Leonardo da Vinci;Firenze;273;40;FI
+2015;SemiBL;Leonardo da Vinci;Firenze;372;22;FI
+2016;SemiB;Leonardo da Vinci;Firenze;167;28;FI
+2014;Finale;Douhet;Firenze;601;18;FI
+2017;SemiC;Leonardo da Vinci;Firenze;570;6;FI
+2017;Finale;Leonardo da Vinci;Firenze;511;21;FI
+2020;SemiB;Leonardo da Vinci;Firenze;601;7;FI
+2021;SemiF;Leonardo da Vinci;Firenze;619;11;FI
+2015;SemiA;Douhet;Firenze;427;17;FI
+2022;SemiD;Leonardo da Vinci;Firenze;258;22;FI
+2023;SemiB;Leonardo da Vinci;Firenze;282;25;FI
+2024;SemiD;Leonardo da Vinci;Firenze;650;14;FI
+2016;SemiD;Gramsci;Firenze;401;13;FI
+2025;SemiB;Leonardo da Vinci;Firenze;651;14;FI
+2026;SemiB;Leonardo da Vinci;Firenze;736;15;FI
+2016;SemiA;Douhet;Firenze;408;17;FI
+2017;SemiA;Gramsci;Firenze;170;31;FI
+2018;SemiA;Castelnuovo;Firenze;705;4;FI
+2018;Finale;Castelnuovo;Firenze;495;23;FI
+2019;SemiB;Gramsci;Firenze;289;12;FI
+2019;SemiA;Castelnuovo;Firenze;321;18;FI
+2020;SemiC;Gramsci;Firenze;534;13;FI
+2020;SemiA;Castelnuovo;Firenze;273;22;FI
+2021;SemiF;Castelnuovo;Firenze;779;5;FI
+2021;SemiA;Meucci;Firenze;160;42;FI
+2021;Finale;Castelnuovo;Firenze;436;38;FI
+2022;SemiC;Castelnuovo;Firenze;102;25;FI
+2023;SemiD;Castelnuovo;Firenze;599;7;FI
+2023;Finale;Castelnuovo;Firenze;507;27;FI
+2024;SemiA;Castelnuovo;Firenze;1082;3;FI
+2024;Finale;Castelnuovo;Firenze;968;15;FI
+2025;SemiD;Castelnuovo;Firenze;1046;3;FI
+2025;FinaleF;Castelnuovo;Firenze;536;25;FI
+2025;Finale;Castelnuovo;Firenze;696;24;FI
+2026;SemiD;Castelnuovo;Firenze;1378;1;FI
+2026;SemiD;Gramsci;Firenze;502;25;FI
+2026;SemiC;Meucci;Firenze;817;9;FI
+2026;Finale;Castelnuovo;Firenze;1044;11;FI
+2026;Finale;Meucci;Firenze;485;36;FI
+2008;SemiA;Volta;Foggia;508;16;FG
+2008;Finale;Volta;Foggia;366;27;FG
+2013;SemiC;Volta;Foggia;441;15;FG
+2014;SemiA;Volta;Foggia;598;9;FG
+2015;SemiA;Volta;Foggia;381;19;FG
+2017;SemiC;Marconi;Foggia;343;18;FG
+2018;SemiB;Marconi;Foggia;433;17;FG
+2018;FinaleF;Marconi;Foggia;567;16;FG
+2019;SemiC;Marconi;Foggia;133;22;FG
+2020;SemiA;Volta;Foggia;693;5;FG
+2020;SemiA;Marconi;Foggia;374;19;FG
+2020;Finale;Volta;Foggia;506;20;FG
+2021;SemiC;Volta;Foggia;744;5;FG
+2021;SemiC;Marconi;Foggia;488;15;FG
+2021;FinaleF;Volta;Foggia;799;10;FG
+2021;Finale;Volta;Foggia;344;44;FG
+2022;SemiC;Volta;Foggia;547;6;FG
+2022;FinaleF;Volta;Foggia;613;12;FG
+2022;Finale;Volta;Foggia;204;24;FG
+2024;SemiA;Volta;Foggia;470;24;FG
+2026;SemiC;Marconi;Foggia;352;29;FG
+2026;SemiA;Volta;Foggia;223;30;FG
+2016;SemiB;Marconi;Foligno;343;16;PG
+2017;SemiB;Marconi;Foligno;419;17;PG
+2018;SemiA;Marconi;Foligno;604;7;PG
+2018;Finale;Marconi;Foligno;711;11;PG
+2019;SemiD;Marconi;Foligno;873;2;PG
+2019;Finale;Marconi;Foligno;352;24;PG
+2020;SemiC;Marconi;Foligno;655;8;PG
+2021;SemiE;Marconi;Foligno;702;10;PG
+2023;SemiD;Marconi;Foligno;320;21;PG
+2024;SemiC;Marconi;Foligno;669;18;PG
+2025;SemiA;Marconi;Foligno;631;18;PG
+2026;SemiB;Marconi;Foligno;792;13;PG
+2005;SemiA;Cattaneo;Follonica;214;11;GR
+2005;Finale;Cattaneo;Follonica;179;22;GR
+2007;SemiA;Cattaneo;Follonica;381;17;GR
+2008;SemiA;Paulucci di Calboli;Forlì;400;24;FC
+2010;SemiB;Paulucci di Calboli;Forlì;518;13;FC
+2010;Finale;Paulucci di Calboli;Forlì;498;29;FC
+2011;SemiB;Baracca;Forlì;121;32;FC
+2011;SemiA;Paulucci di Calboli;Forlì;518;13;FC
+2012;SemiC;Paulucci di Calboli;Forlì;549;7;FC
+2012;Finale;Paulucci di Calboli;Forlì;491;21;FC
+2014;SemiC;Paulucci di Calboli;Forlì;293;28;FC
+2016;SemiC;Paulucci di Calboli;Forlì;338;24;FC
+2013;SemiC;Ribezzo;Francavilla Fontana;525;7;BR
+2013;Finale;Ribezzo;Francavilla Fontana;492;18;BR
+2015;SemiAL;Ribezzo;Francavilla Fontana;463;15;BR
+2016;SemiA;Ribezzo;Francavilla Fontana;569;8;BR
+2016;Finale;Ribezzo;Francavilla Fontana;509;21;BR
+2017;SemiD;Ribezzo;Francavilla Fontana;381;14;BR
+2021;SemiC;Ribezzo;Francavilla Fontana;320;29;BR
+2022;SemiB;Ribezzo;Francavilla Fontana;475;7;BR
+2023;SemiA;Ribezzo;Francavilla Fontana;374;20;BR
+2025;SemiC;Ribezzo;Francavilla Fontana;520;22;BR
+2009;SemiA;Severi;Frosinone;428;18;FR
+2013;SemiA;Severi;Frosinone;334;20;FR
+2021;SemiA;Severi;Frosinone;358;28;FR
+2023;SemiB;Severi;Frosinone;108;29;FR
+2024;SemiA;Severi;Frosinone;561;22;FR
+2026;SemiA;Severi;Frosinone;558;21;FR
+2023;SemiD;Da Vinci-Pascoli;Gallarate;520;11;VA
+2024;SemiB;Da Vinci-Pascoli;Gallarate;780;11;VA
+2025;SemiC;Da Vinci-Pascoli;Gallarate;956;6;VA
+2025;FinaleF;Da Vinci-Pascoli;Gallarate;709;20;VA
+2025;Finale;Da Vinci-Pascoli;Gallarate;717;23;VA
+2006;SemiA;Moretti;Gardone Val Trompia;305;15;BS
+2007;SemiA;Moretti;Gardone Val Trompia;327;20;BS
+2009;SemiB;Beretta;Gardone Val Trompia;395;21;BS
+2011;SemiC;Moretti;Gardone Val Trompia;338;20;BS
+2014;SemiC;Moretti-Eeretta;Gardone Val Trompia;565;12;BS
+2015;SemiB;Moretti;Gardone Val Trompia;696;6;BS
+2015;Finale;Moretti;Gardone Val Trompia;838;14;BS
+2017;SemiA;Moretti;Gardone Val Trompia;232;25;BS
+2010;SemiA;Magrini-Marchetti;Gemona del Friuli;559;12;UD
+2010;Finale;Magrini-Marchetti;Gemona del Friuli;686;11;UD
+2015;SemiAL;Magrini-Marchetti;Gemona del Friuli;283;23;UD
+2018;SemiC;Magrini-Marchetti;Gemona del Friuli;412;22;UD
+2019;SemiA;Magrini-Marchetti;Gemona del Friuli;193;24;UD
+2020;SemiA;Magrini-Marchetti;Gemona del Friuli;856;2;UD
+2020;FinaleF;Magrini-Marchetti;Gemona del Friuli;1387;3;UD
+2020;Finale;Magrini-Marchetti;Gemona del Friuli;772;10;UD
+2021;SemiC;Magrini-Marchetti;Gemona del Friuli;588;10;UD
+2021;FinaleF;Magrini-Marchetti;Gemona del Friuli;1328;1;UD
+2022;SemiA;Magrini-Marchetti;Gemona del Friuli;184;23;UD
+2022;FinaleF;Magrini-Marchetti;Gemona del Friuli;1129;2;UD
+2023;SemiA;Magrini-Marchetti;Gemona del Friuli;719;4;UD
+2023;FinaleF;Magrini-Marchetti;Gemona del Friuli;866;3;UD
+2023;Finale;Magrini-Marchetti;Gemona del Friuli;504;28;UD
+2024;SemiA;Magrini-Marchetti;Gemona del Friuli;884;6;UD
+2024;FinaleF;Magrini-Marchetti;Gemona del Friuli;528;23;UD
+2024;Finale;Magrini-Marchetti;Gemona del Friuli;775;23;UD
+2026;SemiA;Magrini-Marchetti;Gemona del Friuli;753;15;UD
+2026;FinaleF;Magrini-Marchetti;Gemona del Friuli;352;39;UD
+2005;SemiB;King;Genova;266;5;GE
+2005;SemiB;Lanfranconi;Genova;199;20;GE
+2005;SemiA;Cassini;Genova;259;4;GE
+2005;SemiA;Vittorio Emanuele II-Ruffini;Genova;10;24;GE
+2005;Finale;Cassini;Genova;598;3;GE
+2005;Finale;King;Genova;408;14;GE
+2006;SemiB;Cassini;Genova;448;6;GE
+2006;SemiA;King;Genova;514;3;GE
+2006;Finale;King;Genova;669;3;GE
+2006;Finale;Cassini;Genova;574;9;GE
+2007;SemiB;Cassini;Genova;438;15;GE
+2007;SemiB;King;Genova;225;31;GE
+2008;SemiB;Martin L. King;Genova;584;7;GE
+2008;SemiB;Lanfranconi;Genova;557;9;GE
+2008;SemiA;Cassini;Genova;689;3;GE
+2008;Finale;Lanfranconi;Genova;795;5;GE
+2008;Finale;Cassini;Genova;586;12;GE
+2008;Finale;King;Genova;523;19;GE
+2009;SemiB;Cassini;Genova;647;5;GE
+2009;SemiA;Lanfranconi;Genova;443;15;GE
+2009;Finale;Cassini;Genova;680;9;GE
+2009;Finale;Lanfranconi;Genova;625;14;GE
+2010;SemiA;Lanfranconi;Genova;651;7;GE
+2010;Finale;Lanfranconi;Genova;308;34;GE
+2011;SemiA;Cassini;Genova;804;2;GE
+2011;Finale;Cassini;Genova;944;3;GE
+2012;SemiC;Lanfranconi;Genova;357;23;GE
+2012;SemiB;Cassini;Genova;815;3;GE
+2012;Finale;Cassini;Genova;940;4;GE
+2013;SemiA;Cassini;Genova;767;1;GE
+2013;SemiA;Lanfranconi;Genova;455;11;GE
+2013;Finale;Cassini;Genova;996;4;GE
+2014;SemiD;Cassini;Genova;646;8;GE
+2014;SemiC;King;Genova;313;25;GE
+2014;Finale;Cassini;Genova;931;4;GE
+2015;SemiBL;Cassini;Genova;1007;2;GE
+2015;SemiAL;King;Genova;479;13;GE
+2015;Finale;Cassini;Genova;1048;3;GE
+2016;SemiC;King;Genova;361;22;GE
+2016;SemiB;Cassini;Genova;460;10;GE
+2016;SemiA;Fermi;Genova;320;23;GE
+2017;SemiD;Cassini [F];Genova;121;29;GE
+2007;SemiA;Leonardo Da Vinci;Genova;350;18;GE
+2017;SemiC;Fermi;Genova;414;13;GE
+2017;SemiB;Cassini;Genova;681;5;GE
+2008;SemiB;Leonardo Da Vinci;Genova;586;6;GE
+2008;Finale;Leonardo Da Vinci;Genova;546;18;GE
+2021;SemiD;Leonardo Da Vinci;Genova;402;28;GE
+2024;SemiC;Leonardo Da Vinci;Genova;693;17;GE
+2017;Finale;Cassini;Genova;446;27;GE
+2026;SemiD;Leonardo Da Vinci;Genova;875;8;GE
+2026;Finale;Leonardo Da Vinci;Genova;1332;4;GE
+2018;SemiA;Cassini;Genova;492;13;GE
+2018;FinaleF;Cassini;Genova;847;6;GE
+2019;SemiC;Cassini;Genova;645;3;GE
+2019;Finale;Cassini;Genova;590;14;GE
+2020;SemiA;Cassini;Genova;232;25;GE
+2020;FinaleF;Cassini;Genova;859;14;GE
+2021;SemiE;Fermi;Genova;262;32;GE
+2021;SemiC;Lanfranconi;Genova;635;7;GE
+2021;SemiA;Cassini;Genova;738;8;GE
+2021;SemiA;King;Genova;451;22;GE
+2021;Finale;Cassini;Genova;630;20;GE
+2021;Finale;Lanfranconi;Genova;565;26;GE
+2022;SemiA;Cassini;Genova;934;2;GE
+2022;FinaleF;Cassini;Genova;697;7;GE
+2022;Finale;Cassini;Genova;734;5;GE
+2023;SemiD;Lanfranconi;Genova;318;22;GE
+2023;SemiB;Cassini;Genova;691;4;GE
+2023;FinaleF;Cassini;Genova;696;6;GE
+2023;Finale;Cassini;Genova;608;20;GE
+2024;SemiC;Cassini;Genova;1097;3;GE
+2024;SemiC;Lanfranconi;Genova;737;14;GE
+2024;FinaleF;Cassini;Genova;1105;8;GE
+2024;Finale;Cassini;Genova;1269;5;GE
+2025;SemiD;Cassini;Genova;1124;1;GE
+2025;SemiB;Lanfranconi;Genova;462;25;GE
+2025;FinaleF;Cassini;Genova;1092;7;GE
+2025;Finale;Cassini;Genova;1681;1;GE
+2026;SemiB;Cassini;Genova;1121;2;GE
+2026;SemiB;Lanfranconi;Genova;725;16;GE
+2026;FinaleF;Cassini;Genova;1281;6;GE
+2026;Finale;Cassini;Genova;773;27;GE
+2008;SemiB;Leonardo;Giarre;485;15;CT
+2008;Finale;Leonardo;Giarre;576;13;CT
+2009;SemiA;Leonardo;Giarre;421;19;CT
+2010;SemiA;Leonardo;Giarre;146;34;CT
+2011;SemiA;Leonardo;Giarre;398;19;CT
+2012;SemiC;Leonardo;Giarre;418;16;CT
+2013;SemiC;Leonardo;Giarre;252;23;CT
+2014;SemiA;Leonardo;Giarre;290;24;CT
+2016;SemiD;Leonardo;Giarre;330;17;CT
+2017;SemiA;Leonardo;Giarre;343;15;CT
+2026;SemiC;Leonardo;Giarre;296;30;CT
+2005;SemiA;Pascal;Giaveno;205;12;TO
+2005;Finale;Pascal;Giaveno;507;6;TO
+2006;SemiA;Pascal;Giaveno;491;4;TO
+2006;Finale;Pascal;Giaveno;608;8;TO
+2015;SemiA;Pascal;Giaveno;340;24;TO
+2019;SemiB;Pascal;Giaveno;438;9;TO
+2021;SemiB;Pascal;Giaveno;582;15;TO
+2021;SemiB;Cartesio;Giugliano in Campania;233;34;NA
+2015;SemiAL;Curie;Giulianova;647;2;TE
+2015;Finale;Curie;Giulianova;368;33;TE
+2016;SemiA;Curie;Giulianova;256;27;TE
+2017;SemiA;Curie;Giulianova;214;27;TE
+2007;SemiB;Polo liceale;Gorizia;615;4;GO
+2007;Finale;Polo liceale;Gorizia;661;10;GO
+2008;SemiA;Duca degli Abruzzi;Gorizia;403;23;GO
+2014;SemiB;Alighieri;Gorizia;402;17;GO
+2015;SemiB;Duca degli Abruzzi-Alighieri;Gorizia;603;10;GO
+2016;SemiA;Duca degli Abruzzi-Alighieri;Gorizia;376;19;GO
+2021;SemiF;Duca degli Abruzzi-Alighieri;Gorizia;189;34;GO
+2022;SemiA;Alighieri;Gorizia;294;17;GO
+2025;SemiD;Alighieri;Gorizia;391;24;GO
+2021;SemiF;Brignoli-Einaudi-Marconi;Gradisca D'Isonzo;180;37;GO
+2008;SemiA;Aldi;Grosseto;536;12;GR
+2008;Finale;Aldi;Grosseto;332;29;GR
+2009;SemiB;Aldi;Grosseto;323;26;GR
+2010;SemiB;Aldi;Grosseto;504;14;GR
+2010;Finale;Aldi;Grosseto;631;16;GR
+2011;SemiB;Aldi;Grosseto;456;16;GR
+2012;SemiC;Aldi;Grosseto;353;24;GR
+2013;SemiB;Aldi;Grosseto;214;23;GR
+2021;SemiE;Touschek;Grottaferrata;338;27;RM
+2023;SemiA;Touschek;Grottaferrata;342;21;RM
+2009;SemiA;Russell;Guastalla;516;6;RE
+2009;Finale;Russell;Guastalla;340;31;RE
+2014;SemiB;Russell;Guastalla;392;20;RE
+2012;SemiA;Rambaldi-Valeriani;Imola;278;25;BO
+2013;SemiC;Rambaldi-Valeriani;Imola;275;21;BO
+2014;SemiB;Rambaldi-Valeriani;Imola;560;7;BO
+2014;Finale;Rambaldi-Valeriani;Imola;275;39;BO
+2020;SemiB;Rambaldi-Valeriani;Imola;167;25;BO
+2023;SemiA;Rambaldi-Valeriani;Imola;185;28;BO
+2024;SemiB;Rambaldi-Valeriani;Imola;383;29;BO
+2019;SemiD;Alberghetti;Imola;62;26;BO
+2021;SemiB;Alberghetti;Imola;591;14;BO
+2022;FinaleF;Alberghetti;Imola;511;16;BO
+2023;SemiC;Alberghetti;Imola;385;16;BO
+2024;SemiA;Alberghetti;Imola;902;5;BO
+2024;Finale;Alberghetti;Imola;786;21;BO
+2016;SemiC;Antonietti;Iseo;356;23;BS
+2017;SemiD;Antonietti;Iseo;433;11;BS
+2020;SemiD;Antonietti;Iseo;492;13;BS
+2021;SemiC;Antonietti;Iseo;602;9;BS
+2023;SemiC;Antonietti;Iseo;194;30;BS
+2008;SemiA;Majorana;Isernia;578;6;IS
+2008;Finale;Majorana;Isernia;213;32;IS
+2009;SemiA;Majorana;Isernia;403;22;IS
+2010;SemiB;Majorana;Isernia;435;19;IS
+2012;SemiB;Majorana;Isernia;441;17;IS
+2013;SemiC;Majorana;Isernia;398;18;IS
+2014;SemiA;Majorana;Isernia;502;14;IS
+2018;SemiB;Majorana-Fascitelli;Isernia;488;10;IS
+2021;SemiE;Majorana-Fascitelli;Isernia;597;16;IS
+2025;SemiC;Majorana-Fascitelli;Isernia;190;30;IS
+2026;SemiC;Majorana-Fascitelli;Isernia;434;25;IS
+2021;SemiA;Curcio;Ispica;326;31;RG
+2025;SemiD;Curcio;Ispica;265;29;RG
+2009;SemiB;Botta;Ivrea;335;24;TO
+2010;SemiB;Botta;Ivrea;201;35;TO
+2022;SemiA;Da Vinci;Jesi;363;13;AN
+2023;FinaleF;Da Vinci;Jesi;576;11;AN
+2026;SemiA;Da Vinci;Jesi;684;17;AN
+2009;SemiA;Pacinotti;La Spezia;246;32;SP
+2011;SemiC;Pacinotti;La Spezia;316;22;SP
+2012;SemiB;Pacinotti;La Spezia;585;8;SP
+2012;Finale;Pacinotti;La Spezia;565;17;SP
+2014;SemiC;Pacinotti;La Spezia;770;3;SP
+2014;Finale;Pacinotti;La Spezia;413;31;SP
+2015;SemiB;Pacinotti;La Spezia;675;7;SP
+2015;Finale;Pacinotti;La Spezia;863;10;SP
+2016;SemiD;Pacinotti;La Spezia;411;12;SP
+2017;SemiA;Pacinotti;La Spezia;320;17;SP
+2019;SemiA;Pacinotti;La Spezia;472;9;SP
+2020;SemiB;Pacinotti;La Spezia;429;15;SP
+2021;SemiF;Pacinotti;La Spezia;591;13;SP
+2021;SemiB;Galilei;Lanciano;626;12;CH
+2011;SemiC;Majorana;Latina;311;23;LT
+2014;SemiD;Majorana;Latina;329;27;LT
+2017;SemiB;Grassi [F];Latina;117;31;LT
+2018;SemiA;Majorana;Latina;467;14;LT
+2021;SemiE;Majorana;Latina;586;17;LT
+2021;SemiB;Grassi;Latina;450;23;LT
+2022;SemiC;Grassi;Latina;145;23;LT
+2022;FinaleF;Grassi;Latina;290;22;LT
+2024;SemiC;Grassi;Latina;615;23;LT
+2024;FinaleF;Grassi;Latina;695;18;LT
+2025;FinaleF;Grassi;Latina;653;22;LT
+2008;SemiA;Banzi Bazoli;Lecce;364;28;LE
+2010;SemiB;Banzi Bazoli;Lecce;603;8;LE
+2010;Finale;Banzi Bazoli;Lecce;476;31;LE
+2011;SemiA;Banzi Bazoli;Lecce;599;8;LE
+2011;Finale;Banzi Bazoli;Lecce;601;20;LE
+2012;SemiA;Banzi Bazoli;Lecce;596;8;LE
+2012;Finale;Banzi Bazoli;Lecce;806;6;LE
+2014;SemiD;Banzi Bazoli;Lecce;422;21;LE
+2016;SemiA;Banzi Bazoli;Lecce;571;7;LE
+2016;Finale;Banzi Bazoli;Lecce;397;28;LE
+2017;SemiB;De Giorgi;Lecce;443;16;LE
+2018;SemiB;De Giorgi;Lecce;444;16;LE
+2018;SemiA;Banzi Bazoli;Lecce;548;9;LE
+2019;SemiA;Banzi Bazoli;Lecce;404;13;LE
+2020;SemiD;Banzi Bazoli;Lecce;425;16;LE
+2020;SemiB;De Giorgi;Lecce;538;9;LE
+2021;SemiF;De Giorgi;Lecce;755;6;LE
+2021;SemiB;Banzi Bazoli;Lecce;850;7;LE
+2021;FinaleF;De Giorgi;Lecce;627;17;LE
+2021;Finale;Banzi Bazoli;Lecce;688;15;LE
+2021;Finale;De Giorgi;Lecce;481;35;LE
+2022;SemiB;Banzi Bazoli;Lecce;177;23;LE
+2022;SemiA;De Giorgi;Lecce;557;6;LE
+2022;FinaleF;De Giorgi;Lecce;635;10;LE
+2022;Finale;De Giorgi;Lecce;451;14;LE
+2023;SemiD;Banzi Bazoli;Lecce;822;5;LE
+2023;SemiB;De Giorgi;Lecce;307;22;LE
+2023;FinaleF;De Giorgi;Lecce;597;10;LE
+2023;Finale;Banzi Bazoli;Lecce;310;31;LE
+2024;SemiC;De Giorgi;Lecce;1086;4;LE
+2024;FinaleF;De Giorgi;Lecce;898;13;LE
+2024;Finale;De Giorgi;Lecce;1059;11;LE
+2025;SemiC;De Giorgi;Lecce;802;11;LE
+2025;FinaleF;De Giorgi;Lecce;1088;8;LE
+2026;SemiB;De Giorgi;Lecce;1341;1;LE
+2026;FinaleF;De Giorgi;Lecce;1253;7;LE
+2026;Finale;De Giorgi;Lecce;796;25;LE
+2008;SemiB;Grassi;Lecco;373;26;LC
+2009;SemiA;Grassi;Lecco;351;26;LC
+2010;SemiA;Grassi;Lecco;314;27;LC
+2013;SemiD;Grassi;Lecco;651;3;LC
+2013;Finale;Grassi;Lecco;290;27;LC
+2014;SemiA;Grassi;Lecco;715;5;LC
+2014;Finale;Grassi;Lecco;413;32;LC
+2015;SemiBL;Grassi;Lecco;573;13;LC
+2016;SemiA;Grassi;Lecco;578;6;LC
+2016;Finale;Grassi;Lecco;466;23;LC
+2018;SemiD;Grassi;Lecco;633;6;LC
+2018;Finale;Grassi;Lecco;324;31;LC
+2019;SemiD;Grassi;Lecco;507;7;LC
+2019;Finale;Grassi;Lecco;584;15;LC
+2020;SemiC;Grassi;Lecco;480;16;LC
+2021;SemiD;Grassi;Lecco;464;24;LC
+2025;SemiA;Grassi;Lecco;961;3;LC
+2025;Finale;Grassi;Lecco;733;20;LC
+2026;SemiD;Grassi;Lecco;1161;3;LC
+2026;Finale;Grassi;Lecco;560;34;LC
+2021;SemiA;Galilei;Legnano;460;21;MI
+2026;SemiA;Galilei;Legnano;396;25;MI
+2026;FinaleF;Galilei;Legnano;413;36;MI
+2015;SemiA;Capirola;Leno;717;7;BS
+2015;Finale;Capirola;Leno;758;19;BS
+2016;SemiB;Capirola;Leno;255;25;BS
+2017;SemiC;Capirola;Leno;570;5;BS
+2017;Finale;Capirola;Leno;678;11;BS
+2018;SemiB;Capirola;Leno;590;6;BS
+2018;Finale;Capirola;Leno;478;24;BS
+2022;FinaleF;Capirola;Leno;228;25;BS
+2024;SemiA;Europa Unita;Lissone;406;29;MB
+2011;SemiC;Cecioni;Livorno;511;9;LI
+2011;Finale;Cecioni;Livorno;730;15;LI
+2015;SemiBL;Cecioni;Livorno;295;23;LI
+2016;SemiC;Enriques;Livorno;407;19;LI
+2017;SemiB;Enriques;Livorno;254;25;LI
+2021;SemiC;Enriques;Livorno;328;28;LI
+2023;SemiD;Enriques;Livorno;155;27;LI
+2013;SemiD;Oliveti;Locri;137;24;RC
+2014;SemiC;Oliveti;Locri;378;23;RC
+2015;SemiA;Oliveti;Locri;93;29;RC
+2016;SemiC;Oliveti;Locri;411;18;RC
+2017;SemiD;Oliveti;Locri;269;20;RC
+2017;SemiB;Oliveti [F];Locri;130;29;RC
+2013;SemiC;Gandini;Lodi;443;14;LO
+2015;SemiA;Gandini;Lodi;708;8;LO
+2015;Finale;Gandini;Lodi;840;13;LO
+2024;SemiD;Gandini;Lodi;599;19;LO
+2021;SemiC;Cerebotani;Lonato del Garda;428;23;BS
+2026;SemiB;Celeri;Lovere;756;14;BG
+2007;SemiA;Vallisneri;Lucca;328;19;LU
+2008;SemiA;Vallisneri;Lucca;415;22;LU
+2010;SemiB;Vallisneri;Lucca;389;24;LU
+2011;SemiC;Fermi;Lucca;294;24;LU
+2011;SemiB;Vallisneri;Lucca;607;9;LU
+2011;Finale;Vallisneri;Lucca;504;25;LU
+2012;SemiB;Vallisneri;Lucca;286;27;LU
+2013;SemiD;Vallisneri;Lucca;200;22;LU
+2014;SemiB;Vallisneri;Lucca;636;5;LU
+2014;Finale;Vallisneri;Lucca;430;29;LU
+2015;SemiA;Fermi-Giorgi;Lucca;279;26;LU
+2018;SemiA;Fermi-Giorgi;Lucca;332;23;LU
+2021;SemiE;Vallisneri;Lucca;320;28;LU
+2021;SemiE;Fermi-Giorgi;Lucca;304;29;LU
+2023;SemiC;Fermi-Giorgi;Lucca;448;12;LU
+2023;SemiB;Vallisneri;Lucca;392;18;LU
+2024;SemiD;Vallisneri;Lucca;479;24;LU
+2026;SemiD;Vallisneri;Lucca;422;27;LU
+2013;SemiA;Bonghi-Rosmini;Lucera;237;26;FG
+2012;SemiC;Galilei;Macerata;308;27;MC
+2013;SemiC;Galilei;Macerata;136;27;MC
+2014;SemiB;Galilei;Macerata;347;21;MC
+2015;SemiA;Galilei;Macerata;371;22;MC
+2021;SemiD;Galilei;Macomer;180;38;NU
+2009;SemiB;Da Vinci;Maglie;297;29;LE
+2011;SemiB;Da Vinci;Maglie;451;17;LE
+2025;SemiC;Da Vinci;Maglie;827;10;LE
+2026;SemiC;Da Vinci;Maglie;415;26;LE
+2021;SemiF;De Sanctis-Galilei;Manduria;462;20;TA
+2022;SemiD;De Sanctis-Galilei;Manduria;150;25;TA
+2019;SemiA;Pascal-Mazzolari;Manerbio;328;17;BS
+2020;SemiD;Pascal-Mazzolari;Manerbio;271;23;BS
+2021;SemiE;Pascal-Mazzolari;Manerbio;746;8;BS
+2021;Finale;Pascal-Mazzolari;Manerbio;563;27;BS
+2023;SemiD;Pascal-Mazzolari;Manerbio;323;20;BS
+2024;SemiC;Pascal-Mazzolari;Manerbio;390;28;BS
+2026;SemiC;Pascal-Mazzolari;Manerbio;616;17;BS
+2009;SemiA;Galilei;Manfredonia;201;34;FG
+2010;SemiB;Galilei;Manfredonia;599;9;FG
+2010;Finale;Galilei;Manfredonia;616;18;FG
+2011;SemiB;Galilei;Manfredonia;596;10;FG
+2012;SemiC;Galilei;Manfredonia;397;17;FG
+2013;SemiD;Galilei;Manfredonia;376;14;FG
+2014;SemiC;Galilei;Manfredonia;295;27;FG
+2020;SemiB;Galilei-Moro;Manfredonia;651;5;FG
+2020;Finale;Galilei-Moro;Manfredonia;404;22;FG
+2021;SemiD;Galilei-Moro;Manfredonia;790;5;FG
+2021;Finale;Galilei-Moro;Manfredonia;546;28;FG
+2021;SemiC;Torricelli;Maniago;192;34;PN
+2006;SemiA;Belfiore;Mantova;319;13;MN
+2006;Finale;Belfiore;Mantova;455;19;MN
+2007;SemiB;Belfiore;Mantova;525;6;MN
+2007;Finale;Belfiore;Mantova;374;24;MN
+2008;SemiB;Belfiore;Mantova;335;31;MN
+2010;SemiB;Belfiore;Mantova;503;15;MN
+2010;Finale;Belfiore;Mantova;713;8;MN
+2011;SemiB;Belfiore;Mantova;505;13;MN
+2012;SemiB;Belfiore;Mantova;711;5;MN
+2012;Finale;Belfiore;Mantova;464;22;MN
+2013;SemiC;Belfiore;Mantova;538;6;MN
+2013;Finale;Belfiore;Mantova;764;10;MN
+2014;SemiA;Belfiore;Mantova;737;20;MN
+2016;SemiA;Belfiore;Mantova;434;14;MN
+2017;SemiD;Belfiore;Mantova;107;30;MN
+2019;SemiB;Belfiore;Mantova;268;14;MN
+2021;SemiE;Belfiore;Mantova;616;13;MN
+2025;SemiA;Fermi;Mantova;506;23;MN
+2016;SemiD;Tito Livio;Martina Franca;125;29;TA
+2025;SemiB;Marchesi;Mascalucia;306;29;CT
+2026;SemiD;Marchesi;Mascalucia;725;14;CT
+2011;SemiB;Fermi;Massa;346;24;MS
+2012;SemiB;Fermi;Massa;344;25;MS
+2013;SemiA;Rossi;Massa;598;5;MS
+2013;Finale;Rossi;Massa;422;22;MS
+2021;SemiF;Fermi;Massa;394;26;MS
+2022;SemiC;Fermi;Massa;209;18;MS
+2013;SemiA;De Ruggieri;Massafra;240;25;TA
+2008;SemiA;Agnesi;Merate;534;13;LC
+2008;Finale;Agnesi;Merate;468;23;LC
+2009;SemiB;Agnesi;Merate;487;16;LC
+2009;Finale;Agnesi;Merate;562;19;LC
+2011;SemiA;Agnesi;Merate;386;22;LC
+2012;SemiB;Agnesi;Merate;468;14;LC
+2014;SemiC;Agnesi;Merate;437;19;LC
+2015;SemiA;Agnesi;Merate;241;28;LC
+2016;SemiA;Agnesi;Merate;482;10;LC
+2017;SemiD;Agnesi;Merate;337;17;LC
+2018;SemiC;Agnesi;Merate;601;8;LC
+2018;Finale;Agnesi;Merate;429;26;LC
+2020;SemiD;Agnesi;Merate;678;9;LC
+2021;SemiE;Agnesi;Merate;1063;2;LC
+2021;Finale;Agnesi;Merate;488;34;LC
+2022;SemiA;Agnesi;Merate;479;9;LC
+2023;SemiC;Agnesi;Merate;297;23;LC
+2015;SemiAL;Volta;Milano;508;11;MI
+2015;Finale;Volta;Milano;848;12;MI
+2016;SemiA;Volta;Milano;763;1;MI
+2016;Finale;Volta;Milano;553;19;MI
+2017;SemiA;Volta;Milano;876;2;MI
+2017;SemiA;Don Bosco;Milano;323;16;MI
+2017;Finale;Volta;Milano;552;17;MI
+2018;SemiC;Volta;Milano;872;1;MI
+2018;SemiA;Don Bosco;Milano;369;20;MI
+2018;Finale;Volta;Milano;1190;1;MI
+2019;SemiC;Volta;Milano;1107;1;MI
+2019;Finale;Volta;Milano;1134;1;MI
+2020;SemiD;Volta;Milano;926;1;MI
+2020;Finale;Volta;Milano;1309;2;MI
+2009;SemiA;Leonardo da Vinci;Milano;434;17;MI
+2009;Finale;Leonardo da Vinci;Milano;575;18;MI
+2020;SemiB;Leonardo da Vinci;Milano;625;6;MI
+2020;Finale;Leonardo da Vinci;Milano;353;23;MI
+2021;SemiD;Leonardo da Vinci;Milano;789;6;MI
+2021;Finale;Leonardo da Vinci;Milano;360;43;MI
+2024;SemiA;Leonardo da Vinci;Milano;732;11;MI
+2025;SemiC;Leonardo da Vinci;Milano;554;19;MI
+2021;SemiB;Volta;Milano;1525;1;MI
+2026;SemiC;Leonardo da Vinci;Milano;751;10;MI
+2021;SemiA;Vittorini;Milano;291;34;MI
+2021;Finale;Volta;Milano;1373;1;MI
+2022;SemiD;Vittorini;Milano;273;21;MI
+2022;SemiA;Volta;Milano;270;20;MI
+2022;FinaleF;Volta;Milano;455;19;MI
+2023;SemiC;Volta;Milano;970;7;MI
+2023;FinaleF;Volta;Milano;736;4;MI
+2023;FinaleF;Vittorini;Milano;520;14;MI
+2023;Finale;Volta;Milano;786;7;MI
+2024;SemiC;Volta;Milano;1415;2;MI
+2024;FinaleF;Volta;Milano;1897;1;MI
+2024;Finale;Volta;Milano;1488;1;MI
+2025;SemiC;Volta;Milano;1061;3;MI
+2025;FinaleF;Volta;Milano;1780;1;MI
+2025;Finale;Volta;Milano;1518;2;MI
+2026;SemiB;Einstein;Milano;419;26;MI
+2026;SemiA;Volta;Milano;1544;1;MI
+2026;FinaleF;Volta;Milano;1101;14;MI
+2026;Finale;Volta;Milano;1219;6;MI
+2006;SemiB;Galilei;Mirandola;174;26;MO
+2008;SemiB;Majorana-Corner;Mirano;430;17;VE
+2009;SemiB;Majorana;Mirano;353;23;VE
+2011;SemiA;Majorana;Mirano;377;23;VE
+2012;SemiC;Majorana;Mirano;471;12;VE
+2013;SemiC;Majorana;Mirano;491;10;VE
+2015;SemiBL;Majorana;Mirano;604;10;VE
+2017;SemiA;Majorana;Mirano;422;11;VE
+2018;SemiB;Majorana;Mirano;329;23;VE
+2019;SemiB;Majorana;Mirano;523;5;VE
+2019;Finale;Majorana;Mirano;309;26;VE
+2005;SemiB;Wiligelmo;Modena;310;4;MO
+2005;Finale;Wiligelmo;Modena;211;20;MO
+2006;SemiB;Fermi;Modena;167;28;MO
+2007;SemiB;Tassoni;Modena;504;8;MO
+2007;Finale;Tassoni;Modena;588;16;MO
+2008;SemiB;Tassoni;Modena;719;2;MO
+2008;Finale;Tassoni;Modena;556;16;MO
+2009;SemiA;Tassoni;Modena;344;27;MO
+2010;SemiA;Fermi;Modena;437;20;MO
+2012;SemiC;Fermi;Modena;426;15;MO
+2013;SemiB;Corni;Modena;400;17;MO
+2014;SemiB;Corni;Modena;773;3;MO
+2014;Finale;Corni;Modena;724;11;MO
+2015;SemiBL;Tassoni;Modena;509;16;MO
+2015;SemiB;Corni;Modena;242;28;MO
+2017;SemiD;Tassoni;Modena;199;26;MO
+2017;SemiB;Corni;Modena;583;11;MO
+2018;SemiC;Corni;Modena;544;13;MO
+2018;SemiA;Tassoni;Modena;419;18;MO
+2019;SemiD;Tassoni;Modena;711;4;MO
+2019;Finale;Tassoni;Modena;645;9;MO
+2020;SemiC;Tassoni;Modena;838;3;MO
+2020;SemiC;Corni;Modena;284;21;MO
+2020;SemiB;Fermi;Modena;406;16;MO
+2020;Finale;Tassoni;Modena;316;24;MO
+2021;SemiE;Wiligelmo;Modena;456;23;MO
+2021;SemiD;Corni;Modena;670;12;MO
+2021;SemiD;Fermi;Modena;331;31;MO
+2021;SemiB;Tassoni;Modena;665;10;MO
+2022;SemiD;Tassoni;Modena;416;14;MO
+2022;SemiC;Corni;Modena;512;7;MO
+2023;SemiB;Tassoni;Modena;497;11;MO
+2023;SemiB;Corni;Modena;373;19;MO
+2023;SemiB;Wiligelmo;Modena;172;28;MO
+2024;SemiC;Tassoni;Modena;941;5;MO
+2024;Finale;Tassoni;Modena;612;29;MO
+2025;SemiB;Tassoni;Modena;800;9;MO
+2025;SemiA;Fermi;Modena;502;24;MO
+2025;Finale;Tassoni;Modena;849;16;MO
+2026;SemiC;Wiligelmo;Modena;604;18;MO
+2026;SemiB;Tassoni;Modena;681;18;MO
+2021;SemiF;Galilei-Campailla;Modica;123;41;RG
+2023;SemiD;Galilei-Campailla;Modica;110;29;RG
+2025;SemiB;Galilei-Campailla;Modica;681;12;RG
+2013;SemiD;Berto;Mogliano Veneto;275;18;TV
+2014;SemiD;Berto;Mogliano Veneto;415;22;TV
+2015;SemiBL;Berto;Mogliano Veneto;551;14;TV
+2016;SemiC;Berto;Mogliano Veneto;680;7;TV
+2016;Finale;Berto;Mogliano Veneto;528;20;TV
+2017;SemiD;Berto;Mogliano Veneto;254;23;TV
+2018;SemiA;Berto;Mogliano Veneto;436;15;TV
+2021;SemiA;Berto;Mogliano Veneto;531;18;TV
+2021;SemiA;Pininfarina;Moncalieri;625;15;TO
+2005;SemiA;Levi;Montebelluna;191;13;TV
+2010;SemiA;Levi;Montebelluna;350;25;TV
+2012;SemiB;Levi;Montebelluna;282;28;TV
+2013;SemiC;Levi;Montebelluna;482;11;TV
+2014;SemiD;Levi;Montebelluna;530;15;TV
+2023;SemiA;Levi;Montebelluna;213;25;TV
+2024;SemiA;Levi;Montebelluna;600;18;TV
+2024;FinaleF;Levi;Montebelluna;1260;4;TV
+2026;SemiC;Levi;Montebelluna;1039;6;TV
+2026;Finale;Levi;Montebelluna;837;24;TV
+2016;SemiC;Salutati;Montecatini-Terme;172;29;PT
+2013;SemiA;D'Arzo;Montecchio Emilia;641;2;RE
+2013;Finale;D'Arzo;Montecchio Emilia;507;17;RE
+2005;SemiA;Severi;Montecorvino Rovella;90;20;SA
+2008;SemiB;Poliziano;Montepulciano;319;32;SI
+2017;SemiB;Poliziano;Montepulciano;167;28;SI
+2026;SemiB;Poliziano;Montepulciano;338;28;SI
+2018;SemiD;Peano;Monterotondo;553;10;RM
+2019;SemiA;Peano;Monterotondo;536;4;RM
+2019;Finale;Peano;Monterotondo;394;19;RM
+2021;SemiD;Peano;Monterotondo;478;22;RM
+2022;SemiA;Peano;Monterotondo;554;7;RM
+2023;SemiC;Peano;Monterotondo;333;21;RM
+2024;SemiD;Peano;Monterotondo;451;27;RM
+2025;SemiD;Peano;Monterotondo;643;12;RM
+2025;FinaleF;Peano;Monterotondo;285;36;RM
+2009;SemiB;Fermi;Montesarchio;591;6;BN
+2009;Finale;Fermi;Montesarchio;323;32;BN
+2010;SemiB;Fermi;Montesarchio;223;33;BN
+2013;SemiC;Fermi;Montesarchio;310;19;BN
+2014;SemiA;Fermi;Montesarchio;240;28;BN
+2018;SemiA;Ascanio;Montesilvano;340;21;PE
+2012;SemiA;Varchi;Montevarchi;123;32;AR
+2013;SemiD;Varchi;Montevarchi;216;21;AR
+2013;SemiA;Milani;Montichiari;520;10;BS
+2017;SemiD;Don Milani;Montichiari;574;6;BS
+2017;Finale;Don Milani;Montichiari;223;32;BS
+2018;SemiB;Don Milani;Montichiari;342;21;BS
+2018;FinaleF;Don Milani;Montichiari;604;15;BS
+2020;SemiA;Don Milani;Montichiari;262;23;BS
+2021;SemiA;Don Milani;Montichiari;749;7;BS
+2021;FinaleF;Don Milani;Montichiari;463;23;BS
+2021;Finale;Don Milani;Montichiari;289;47;BS
+2022;SemiD;Don Milani;Montichiari;647;7;BS
+2014;SemiD;Frisi;Monza;696;4;MB
+2014;Finale;Frisi;Monza;753;8;MB
+2015;SemiBL;Frisi;Monza;543;15;MB
+2016;SemiA;Frisi;Monza;433;15;MB
+2017;SemiD;Frisi;Monza;789;2;MB
+2017;Finale;Frisi;Monza;717;10;MB
+2018;SemiB;Frisi;Monza;337;22;MB
+2019;SemiA;Frisi;Monza;299;20;MB
+2020;SemiB;Frisi;Monza;99;27;MB
+2020;FinaleF;Frisi;Monza;697;17;MB
+2021;SemiB;Frisi;Monza;509;19;MB
+2022;SemiA;Frisi;Monza;341;15;MB
+2024;SemiB;Frisi;Monza;631;15;MB
+2025;SemiD;Frisi;Monza;934;4;MB
+2025;Finale;Frisi;Monza;577;31;MB
+2026;SemiD;Frisi;Monza;804;11;MB
+2012;SemiA;Scarpa;Motta di Livenza;297;23;TV
+2014;SemiA;Scarpa;Motta di Livenza;373;21;TV
+2015;SemiB;Scarpa;Motta di Livenza;451;14;TV
+2018;SemiD;Scarpa;Motta di Livenza;374;20;TV
+2019;SemiC;Scarpa;Motta di Livenza;218;18;TV
+2020;SemiC;Scarpa;Motta di Livenza;577;10;TV
+2021;SemiE;Scarpa;Motta di Livenza;528;20;TV
+2022;SemiD;Scarpa;Motta di Livenza;534;11;TV
+2022;FinaleF;Scarpa;Motta di Livenza;504;17;TV
+2024;SemiD;Scarpa;Motta di Livenza;644;16;TV
+2016;SemiD;Sannazaro;Napoli;284;20;NA
+2016;SemiA;Mercalli;Napoli;518;9;NA
+2017;SemiC;Mazzini;Napoli;307;20;NA
+2017;SemiB;Mercalli;Napoli;207;27;NA
+2017;SemiA;Sbordone;Napoli;141;32;NA
+2018;SemiD;Sbordone;Napoli;302;27;NA
+2018;SemiA;Mercalli;Napoli;421;17;NA
+2019;SemiD;Mercalli;Napoli;515;6;NA
+2019;Finale;Mercalli;Napoli;344;25;NA
+2020;SemiD;Mercalli;Napoli;453;14;NA
+2020;SemiA;Sannazaro;Napoli;166;26;NA
+2021;SemiC;Sannazaro;Napoli;447;21;NA
+2021;SemiB;Mercalli;Napoli;555;16;NA
+2022;SemiB;Mercalli;Napoli;298;19;NA
+2023;SemiA;Sbordone;Napoli;122;30;NA
+2024;SemiB;Sbordone;Napoli;177;32;NA
+2025;SemiC;Sbordone;Napoli;375;27;NA
+2026;SemiD;Mercalli;Napoli;502;24;NA
+2008;SemiB;Gandhi;Narni;163;35;TR
+2009;SemiB;Gandhi;Narni;495;14;TR
+2009;Finale;Gandhi;Narni;502;20;TR
+2010;SemiB;Gandhi;Narni;315;28;TR
+2011;SemiA;Gandhi;Narni;397;20;TR
+2012;SemiC;Gandhi;Narni;394;18;TR
+2013;SemiB;Gandhi;Narni;228;22;TR
+2014;SemiC;Gandhi;Narni;653;9;TR
+2014;Finale;Gandhi;Narni;366;35;TR
+2021;SemiE;Gandhi;Narni;286;31;TR
+2023;SemiB;Gandhi;Narni;406;17;TR
+2024;SemiA;Gandhi;Narni;307;32;TR
+2025;SemiA;Gandhi;Narni;575;19;TR
+2026;SemiB;Gandhi;Narni;545;22;TR
+2015;SemiA;Pellati;Nizza Monferrato;645;11;AT
+2017;SemiA;Pellati;Nizza Monferrato;534;7;AT
+2017;Finale;Pellati;Nizza Monferrato;549;18;AT
+2021;SemiD;Pellati;Nizza Monferrato;535;15;AT
+2022;SemiD;Pellati;Nizza Monferrato;325;17;AT
+2023;SemiC;Pellati;Nizza Monferrato;429;14;AT
+2010;SemiA;Masotto;Noventa Vicentina;480;17;VI
+2010;Finale;Masotto;Noventa Vicentina;464;33;VI
+2011;SemiA;Masotto;Noventa Vicentina;257;32;VI
+2012;SemiA;Masotto;Noventa Vicentina;696;5;VI
+2012;Finale;Masotto;Noventa Vicentina;774;8;VI
+2010;SemiB;Maldi;Novi Ligure;603;7;AL
+2010;Finale;Amaldi;Novi Ligure;820;6;AL
+2013;SemiA;Amaldi;Novi Ligure;572;8;AL
+2013;Finale;Amaldi;Novi Ligure;303;26;AL
+2009;SemiA;Fermi;Nuoro;267;31;NU
+2010;SemiB;Fermi;Nuoro;215;34;NU
+2011;SemiC;Fermi;Nuoro;369;17;NU
+2012;SemiB;Asproni;Nuoro;233;30;NU
+2013;SemiD;Asproni;Nuoro;97;27;NU
+2013;SemiC;Fermi;Nuoro;227;25;NU
+2014;SemiA;Fermi;Nuoro;377;19;NU
+2015;SemiB;Fermi;Nuoro;302;24;NU
+2016;SemiB;Fermi;Nuoro;255;26;NU
+2017;SemiD;Fermi;Nuoro;267;21;NU
+2018;SemiB;Fermi;Nuoro;451;14;NU
+2019;SemiC;Fermi;Nuoro;30;28;NU
+2020;SemiB;Fermi;Nuoro;147;26;NU
+2021;SemiF;Ciusa;Nuoro;180;38;NU
+2021;SemiC;Fermi;Nuoro;405;25;NU
+2024;SemiD;Fermi;Nuoro;356;30;NU
+2025;SemiA;Fermi;Nuoro;427;27;NU
+2025;FinaleF;Fermi;Nuoro;430;29;NU
+2009;SemiB;Mariano IV;Oristano;229;34;OR
+2011;SemiA;Mariano IV;Oristano;330;26;OR
+2012;SemiA;Mariano IV;Oristano;297;22;OR
+2014;SemiC;Mariano IV;Oristano;299;26;OR
+2013;SemiA;Corridoni-Campana;Osimo;25;29;AN
+2014;SemiB;Corridoni-Campana;Osimo;272;28;AN
+2015;SemiB;Corridoni-Campana;Osimo;484;13;AN
+2016;SemiC;Campana;Osimo;400;21;AN
+2018;SemiB;Corridoni-Campana;Osimo;445;15;AN
+2021;SemiF;Corridoni-Campana;Osimo;180;39;AN
+2021;SemiE;Campana;Osimo;153;42;AN
+2021;SemiF;Pepe-Calamo;Ostuni;363;29;BR
+2012;SemiA;Des Ambrois;Oulx;352;16;TO
+2006;SemiB;Ippolito Nievo;Padova;218;24;PD
+2009;SemiA;Severi;Padova;383;25;PD
+2010;SemiA;Nievo;Padova;668;6;PD
+2010;Finale;Nievo;Padova;867;4;PD
+2011;SemiA;Nievo;Padova;586;9;PD
+2011;SemiA;Severi;Padova;438;17;PD
+2011;Finale;Nievo;Padova;881;9;PD
+2012;SemiC;Fermi;Padova;540;8;PD
+2012;SemiC;Nievo;Padova;388;19;PD
+2012;Finale;Fermi;Padova;356;28;PD
+2013;SemiA;Fermi;Padova;382;16;PD
+2015;SemiAL;Nievo;Padova;319;22;PD
+2017;SemiD;Nievo [F];Padova;174;27;PD
+2017;SemiB;Nievo;Padova;870;2;PD
+2017;Finale;Nievo;Padova;800;7;PD
+2018;SemiD;Nievo;Padova;606;8;PD
+2018;SemiD;Fermi;Padova;365;21;PD
+2018;Finale;Nievo;Padova;597;17;PD
+2019;SemiD;Nievo;Padova;242;19;PD
+2019;SemiB;Fermi;Padova;772;1;PD
+2019;Finale;Fermi;Padova;774;4;PD
+2020;SemiD;Nievo;Padova;799;3;PD
+2020;SemiA;Fermi;Padova;719;4;PD
+2020;Finale;Fermi;Padova;899;7;PD
+2020;Finale;Nievo;Padova;652;16;PD
+2021;SemiE;Nievo;Padova;533;19;PD
+2021;SemiB;Fermi;Padova;1036;3;PD
+2021;FinaleF;Nievo;Padova;585;20;PD
+2021;Finale;Fermi;Padova;1133;3;PD
+2022;SemiD;Fermi;Padova;695;4;PD
+2022;SemiB;Nievo;Padova;677;4;PD
+2022;Finale;Fermi;Padova;886;3;PD
+2022;Finale;Nievo;Padova;259;21;PD
+2023;SemiC;Nievo;Padova;235;27;PD
+2023;SemiA;Fermi;Padova;668;6;PD
+2023;Finale;Fermi;Padova;434;30;PD
+2024;SemiD;Nievo;Padova;1006;4;PD
+2024;SemiA;Fermi;Padova;924;4;PD
+2024;FinaleF;Nievo;Padova;538;22;PD
+2024;Finale;Nievo;Padova;929;16;PD
+2024;Finale;Fermi;Padova;838;19;PD
+2025;SemiD;Nievo;Padova;732;9;PD
+2025;FinaleF;Nievo;Padova;386;32;PD
+2025;Finale;Nievo;Padova;571;32;PD
+2026;SemiB;Nievo;Padova;950;6;PD
+2026;SemiB;Fermi;Padova;896;9;PD
+2026;FinaleF;Nievo;Padova;1155;11;PD
+2026;Finale;Fermi;Padova;1042;12;PD
+2026;Finale;Nievo;Padova;676;32;PD
+2007;SemiA;Mangino;Pagani;277;27;SA
+2007;SemiB;Marzoli;Palazzolo sull'Oglio;257;30;BS
+2013;SemiB;Marzoli;Palazzolo sull'Oglio;453;14;BS
+2015;SemiB;Marzoli;Palazzolo sull'Oglio;278;25;BS
+2016;SemiD;Marzoli;Palazzolo sull'Oglio;189;28;BS
+2017;SemiA;Marzoli;Palazzolo sull'Oglio;454;10;BS
+2018;SemiA;Marzoli;Palazzolo sull'Oglio;408;19;BS
+2019;SemiC;Marzoli;Palazzolo sull'Oglio;455;8;BS
+2019;Finale;Marzoli;Palazzolo sull'Oglio;255;30;BS
+2020;SemiA;Marzoli;Palazzolo sull'Oglio;634;10;BS
+2021;SemiE;Marzoli;Palazzolo sull'Oglio;729;9;BS
+2021;FinaleF;Marzoli;Palazzolo sull'Oglio;415;24;BS
+2022;SemiC;Marzoli;Palazzolo sull'Oglio;375;13;BS
+2023;SemiD;Marzoli;Palazzolo sull'Oglio;414;16;BS
+2024;SemiD;Marzoli;Palazzolo sull'Oglio;359;29;BS
+2006;SemiB;Einstein;Palermo;220;23;PA
+2007;SemiB;Cannizzaro;Palermo;399;19;PA
+2008;SemiB;Cannizzaro;Palermo;419;18;PA
+2011;SemiC;Galilei;Palermo;422;16;PA
+2012;SemiB;Galilei;Palermo;103;32;PA
+2013;SemiB;Galilei;Palermo;528;10;PA
+2013;SemiA;Cannizzaro;Palermo;271;23;PA
+2014;SemiC;Cannizzaro;Palermo;399;21;PA
+2014;SemiB;Einstein;Palermo;308;22;PA
+2015;SemiBL;Einstein;Palermo;270;27;PA
+2016;SemiD;Cannizzaro;Palermo;505;10;PA
+2017;SemiC;Einstein;Palermo;537;9;PA
+2017;Finale;Einstein;Palermo;322;30;PA
+2018;SemiC;Einstein;Palermo;512;16;PA
+2019;SemiB;Einstein;Palermo;258;16;PA
+2020;SemiA;S. Cannizzaro;Palermo;373;20;PA
+2021;SemiF;S. Cannizzaro;Palermo;555;15;PA
+2005;SemiA;Marconi;Parma;228;9;PR
+2005;Finale;Marconi;Parma;413;13;PR
+2007;SemiA;Marconi;Parma;549;3;PR
+2007;SemiA;Ulivi;Parma;398;15;PR
+2007;Finale;Marconi;Parma;849;5;PR
+2008;SemiB;Marconi;Parma;683;3;PR
+2008;SemiB;Ulivi;Parma;575;8;PR
+2008;Finale;Marconi;Parma;557;15;PR
+2008;Finale;Ulivi;Parma;447;25;PR
+2009;SemiB;Ulivi;Parma;470;18;PR
+2010;SemiB;Marconi;Parma;519;12;PR
+2010;SemiA;Ulivi;Parma;505;14;PR
+2010;Finale;Marconi;Parma;670;13;PR
+2010;Finale;Ulivi;Parma;576;22;PR
+2011;SemiC;Ulivi;Parma;515;8;PR
+2011;SemiB;Marconi;Parma;444;19;PR
+2011;Finale;Ulivi;Parma;800;10;PR
+2012;SemiA;Marconi;Parma;487;12;PR
+2012;SemiA;Ulivi;Parma;388;14;PR
+2013;SemiB;Marconi;Parma;321;20;PR
+2013;SemiB;Ulivi;Parma;205;25;PR
+2014;SemiD;Ulivi;Parma;370;25;PR
+2014;SemiC;Marconi;Parma;471;16;PR
+2016;SemiD;Ulivi;Parma;302;18;PR
+2017;SemiD;Ulivi;Parma;431;12;PR
+2019;SemiB;Ulivi;Parma;253;17;PR
+2020;FinaleF;Marconi;Parma;624;19;PR
+2021;SemiF;Marconi;Parma;332;31;PR
+2021;SemiB;Ulivi;Parma;428;26;PR
+2021;SemiB;Bertolucci;Parma;180;41;PR
+2021;FinaleF;Marconi;Parma;617;18;PR
+2022;SemiA;Marconi;Parma;272;19;PR
+2023;SemiA;Ulivi;Parma;145;29;PR
+2025;SemiA;Bertolucci;Parma;446;26;PR
+2025;FinaleF;Marconi;Parma;457;28;PR
+2026;SemiC;Bertolucci;Parma;450;23;PR
+2024;SemiA;Fermi;Paternò;712;12;CT
+2025;SemiD;Fermi;Paternò;289;28;CT
+2015;SemiAL;Taramelli;Pavia;510;10;PV
+2015;Finale;Taramelli;Pavia;241;35;PV
+2016;SemiC;Taramelli;Pavia;401;20;PV
+2017;SemiB;Taramelli;Pavia;380;19;PV
+2018;SemiB;Taramelli-Foscolo;Pavia;275;26;PV
+2019;SemiC;Taramelli-Foscolo;Pavia;433;10;PV
+2020;SemiA;Taramelli-Foscolo;Pavia;677;8;PV
+2021;SemiE;Taramelli-Foscolo;Pavia;917;4;PV
+2021;Finale;Taramelli-Foscolo;Pavia;460;36;PV
+2022;SemiA;Taramelli-Foscolo;Pavia;693;5;PV
+2022;Finale;Taramelli-Foscolo;Pavia;411;18;PV
+2023;SemiC;Taramelli-Foscolo;Pavia;579;4;PV
+2023;FinaleF;Taramelli-Foscolo;Pavia;254;22;PV
+2023;Finale;Taramelli-Foscolo;Pavia;526;24;PV
+2024;SemiC;Taramelli-Foscolo;Pavia;862;7;PV
+2024;Finale;Taramelli-Foscolo;Pavia;837;20;PV
+2026;SemiC;Taramelli-Foscolo;Pavia;538;21;PV
+2026;FinaleF;Taramelli-Foscolo;Pavia;1169;10;PV
+2005;SemiB;Alessi;Perugia;127;17;PG
+2006;SemiB;Galilei;Perugia;170;27;PG
+2006;SemiA;Alessi;Perugia;359;11;PG
+2006;Finale;Alessi;Perugia;414;24;PG
+2007;SemiB;Alessi;Perugia;482;10;PG
+2007;SemiB;Galilei;Perugia;453;14;PG
+2007;Finale;Alessi;Perugia;1014;1;PG
+2008;SemiB;Alessi;Perugia;630;4;PG
+2008;Finale;Alessi;Perugia;654;9;PG
+2009;SemiB;Galilei;Perugia;223;35;PG
+2009;SemiA;Alessi;Perugia;694;3;PG
+2009;Finale;Alessi;Perugia;920;3;PG
+2010;SemiA;Alessi;Perugia;622;8;PG
+2010;SemiA;Galilei;Perugia;590;9;PG
+2010;Finale;Alessi;Perugia;584;21;PG
+2010;Finale;Galilei;Perugia;559;24;PG
+2011;SemiC;Galilei;Perugia;431;15;PG
+2011;SemiA;Alessi;Perugia;611;7;PG
+2011;Finale;Alessi;Perugia;881;8;PG
+2012;SemiA;Alessi;Perugia;692;6;PG
+2012;Finale;Alessi;Perugia;656;12;PG
+2013;SemiD;Galilei;Perugia;482;9;PG
+2013;SemiA;Alessi;Perugia;640;3;PG
+2013;Finale;Alessi;Perugia;719;12;PG
+2014;SemiD;Alessi;Perugia;597;11;PG
+2014;Finale;Alessi;Perugia;587;19;PG
+2015;SemiA;Alessi;Perugia;463;14;PG
+2016;SemiD;Galilei;Perugia;520;9;PG
+2016;SemiC;Alessi;Perugia;794;3;PG
+2016;Finale;Alessi;Perugia;852;4;PG
+2017;SemiD;Galilei;Perugia;600;4;PG
+2017;SemiA;Alessi;Perugia;787;4;PG
+2017;Finale;Alessi;Perugia;785;8;PG
+2017;Finale;Galilei;Perugia;543;19;PG
+2018;SemiD;Alessi;Perugia;345;24;PG
+2019;SemiC;Alessi;Perugia;437;9;PG
+2019;SemiA;Galilei;Perugia;514;5;PG
+2019;Finale;Galilei;Perugia;236;31;PG
+2020;SemiD;Alessi;Perugia;621;10;PG
+2020;SemiC;Galilei;Perugia;595;9;PG
+2021;SemiF;Alessi;Perugia;740;8;PG
+2021;SemiB;Galilei;Perugia;874;5;PG
+2021;FinaleF;Galilei;Perugia;556;21;PG
+2021;Finale;Galilei;Perugia;507;30;PG
+2021;Finale;Alessi;Perugia;489;33;PG
+2022;SemiC;Alessi;Perugia;249;16;PG
+2022;SemiB;Galilei;Perugia;338;16;PG
+2023;SemiD;Alessi;Perugia;454;14;PG
+2023;FinaleF;Alessi;Perugia;719;5;PG
+2024;SemiC;Galilei;Perugia;798;10;PG
+2024;SemiB;Alessi;Perugia;783;10;PG
+2024;FinaleF;Alessi;Perugia;1171;7;PG
+2025;SemiC;Alessi;Perugia;906;8;PG
+2025;SemiA;Galilei;Perugia;833;6;PG
+2025;FinaleF;Alessi;Perugia;1173;4;PG
+2025;FinaleF;Galilei;Perugia;276;37;PG
+2025;Finale;Alessi;Perugia;835;17;PG
+2025;Finale;Galilei;Perugia;269;36;PG
+2026;SemiD;Galilei;Perugia;766;12;PG
+2026;FinaleF;Alessi;Perugia;454;35;PG
+2012;SemiB;Galilei;Pescara;551;10;PE
+2012;Finale;Galilei;Pescara;379;27;PE
+2013;SemiC;Galilei;Pescara;405;17;PE
+2016;SemiA;Galilei;Pescara;584;5;PE
+2016;Finale;Galilei;Pescara;375;30;PE
+2017;SemiC;Galilei;Pescara;118;30;PE
+2018;SemiC;Galilei;Pescara;541;14;PE
+2019;SemiD;Galilei;Pescara;422;8;PE
+2019;Finale;Galilei;Pescara;287;27;PE
+2020;SemiB;Galilei;Pescara;321;20;PE
+2021;SemiD;Galilei;Pescara;690;11;PE
+2022;SemiB;Galilei;Pescara;304;18;PE
+2023;SemiC;Galilei;Pescara;492;10;PE
+2024;SemiB;Galilei;Pescara;969;5;PE
+2024;Finale;Galilei;Pescara;680;25;PE
+2025;SemiB;Galilei;Pescara;797;10;PE
+2026;SemiB;Galilei;Pescara;1037;3;PE
+2026;Finale;Galilei;Pescara;1215;7;PE
+2018;SemiC;Lorenzini;Pescia;164;28;PT
+2020;SemiC;Lorenzini;Pescia;485;15;PT
+2021;SemiC;Lorenzini;Pescia;729;6;PT
+2021;Finale;Lorenzini;Pescia;651;16;PT
+2022;SemiC;Lorenzini;Pescia;505;8;PT
+2023;SemiD;Lorenzini;Pescia;876;3;PT
+2023;Finale;Lorenzini;Pescia;692;13;PT
+2004;Finale;Gioia;Piacenza;807;2;PC
+2005;SemiA;Gioia;Piacenza;268;3;PC
+2005;Finale;Gioia;Piacenza;326;15;PC
+2006;SemiA;Gioia;Piacenza;263;20;PC
+2011;SemiB;Respighi;Piacenza;327;26;PC
+2012;SemiC;Respighi;Piacenza;638;4;PC
+2012;Finale;Respighi;Piacenza;547;19;PC
+2013;SemiD;Respighi;Piacenza;390;13;PC
+2013;SemiA;Gioia;Piacenza;418;14;PC
+2014;SemiD;Gioia;Piacenza;443;18;PC
+2015;SemiBL;Gioia;Piacenza;618;9;PC
+2016;SemiB;Colombini;Piacenza;323;21;PC
+2016;SemiB;Respighi;Piacenza;264;24;PC
+2018;SemiD;Respighi;Piacenza;497;13;PC
+2019;SemiA;Respighi;Piacenza;483;6;PC
+2019;Finale;Respighi;Piacenza;392;20;PC
+2020;SemiB;Respighi;Piacenza;339;19;PC
+2020;FinaleF;Respighi;Piacenza;1017;9;PC
+2021;SemiF;Respighi;Piacenza;579;14;PC
+2021;SemiF;Colombini;Piacenza;348;30;PC
+2021;FinaleF;Respighi;Piacenza;738;12;PC
+2022;SemiD;Respighi;Piacenza;380;15;PC
+2022;SemiD;Gioia;Piacenza;248;23;PC
+2023;SemiA;Respighi;Piacenza;483;12;PC
+2023;SemiA;Colombini;Piacenza;481;13;PC
+2024;FinaleF;Respighi;Piacenza;622;20;PC
+2025;SemiB;Respighi;Piacenza;579;19;PC
+2026;SemiD;Respighi;Piacenza;748;13;PC
+2026;SemiC;Gioia;Piacenza;586;19;PC
+2011;SemiB;Curie;Pinerolo;377;22;TO
+2013;SemiD;Curie;Pinerolo;412;12;TO
+2015;SemiA;Curie;Pinerolo;267;27;TO
+2016;SemiB;Curie;Pinerolo;339;17;TO
+2017;SemiB;Curie;Pinerolo;772;3;TO
+2017;Finale;Curie;Pinerolo;667;12;TO
+2018;SemiA;Curie;Pinerolo;422;16;TO
+2021;SemiC;Curie;Pinerolo;317;30;TO
+2015;SemiAL;Carducci-Volta-Pacinotti;Piombino;322;21;LI
+2016;SemiA;Carducci-Volta-Pacinotti;Piombino;177;28;LI
+2021;SemiA;Carducci-Volta-Pacinotti;Piombino;257;35;LI
+2022;SemiC;Carducci-Volta-Pacinotti;Piombino;303;15;LI
+2004;Finale;Einstein;Piove di Sacco;732;4;PD
+2005;SemiA;Einstein;Piove di Sacco;298;2;PD
+2005;Finale;Einstein;Piove di Sacco;598;2;PD
+2006;SemiA;Einstein;Piove di Sacco;367;9;PD
+2006;Finale;Einstein;Piove di Sacco;457;18;PD
+2007;SemiA;Einstein;Piove di Sacco;484;11;PD
+2008;SemiB;Einstein;Piove di Sacco;546;12;PD
+2008;Finale;Einstein;Piove di Sacco;387;26;PD
+2005;SemiB;Dini;Pisa;160;14;PI
+2006;SemiA;Dini;Pisa;854;1;PI
+2006;Finale;Dini;Pisa;508;15;PI
+2007;SemiB;Dini;Pisa;497;9;PI
+2007;Finale;Dini;Pisa;483;20;PI
+2009;SemiB;Dini;Pisa;504;13;PI
+2009;Finale;Dini;Pisa;137;34;PI
+2010;SemiB;Dini;Pisa;894;2;PI
+2010;Finale;Dini;Pisa;545;26;PI
+2011;SemiC;Dini;Pisa;521;7;PI
+2011;Finale;Dini;Pisa;924;5;PI
+2012;SemiC;Dini;Pisa;338;25;PI
+2013;SemiC;Dini;Pisa;600;4;PI
+2013;Finale;Dini;Pisa;539;15;PI
+2014;SemiB;Dini;Pisa;401;18;PI
+2016;SemiD;Dini;Pisa;539;8;PI
+2018;SemiB;Dini;Pisa;735;2;PI
+2018;Finale;Dini;Pisa;680;13;PI
+2019;SemiD;Dini;Pisa;290;14;PI
+2020;SemiC;Dini;Pisa;919;2;PI
+2020;Finale;Dini;Pisa;699;15;PI
+2021;SemiF;Dini;Pisa;1320;2;PI
+2021;FinaleF;Dini;Pisa;1022;2;PI
+2021;Finale;Dini;Pisa;1195;2;PI
+2022;SemiB;Dini;Pisa;1159;1;PI
+2022;FinaleF;Dini;Pisa;991;3;PI
+2022;Finale;Dini;Pisa;1232;2;PI
+2023;SemiA;Dini;Pisa;1089;1;PI
+2023;FinaleF;Dini;Pisa;638;8;PI
+2023;Finale;Dini;Pisa;523;25;PI
+2024;SemiB;Dini;Pisa;1017;3;PI
+2024;SemiA;Buonarroti;Pisa;345;31;PI
+2024;FinaleF;Dini;Pisa;939;11;PI
+2024;Finale;Dini;Pisa;1154;7;PI
+2025;SemiB;Dini;Pisa;1408;1;PI
+2025;SemiB;Buonarroti;Pisa;563;20;PI
+2025;FinaleF;Dini;Pisa;1159;6;PI
+2025;Finale;Dini;Pisa;1212;6;PI
+2026;SemiC;Dini;Pisa;1066;5;PI
+2026;Finale;Dini;Pisa;1408;3;PI
+2009;SemiA;Amedeo di Savoia;Pistoia;407;21;PT
+2014;SemiD;Amedeo di Savoia;Pistoia;544;13;PT
+2015;SemiB;Amedeo di Savoia;Pistoia;403;18;PT
+2016;SemiB;Amedeo di Savoia;Pistoia;560;5;PT
+2016;Finale;Amedeo di Savoia;Pistoia;398;27;PT
+2017;SemiD;Amedeo di Savoia;Pistoia;385;13;PT
+2018;SemiA;Amedeo di Savoia;Pistoia;708;3;PT
+2018;Finale;Amedeo di Savoia;Pistoia;389;29;PT
+2019;SemiC;Amedeo di Savoia;Pistoia;252;15;PT
+2020;SemiC;Amedeo di Savoia;Pistoia;537;12;PT
+2021;SemiF;Amedeo di Savoia;Pistoia;692;10;PT
+2010;SemiA;Amedeo di Savoia;Pistoia;579;11;PT
+2010;Finale;Amedeo di Savoia;Pistoia;560;23;PT
+2013;SemiD;Amedeo di Savoia;Pistoia;419;11;PT
+2026;SemiA;Amedeo di Savoia;Pistoia;940;5;PT
+2026;Finale;Amedeo di Savoia;Pistoia;570;33;PT
+2022;SemiB;Amedeo di Savoia;Pistoia;600;6;PT
+2022;Finale;Amedeo di Savoia;Pistoia;500;12;PT
+2023;SemiB;Amedeo di Savoia;Pistoia;527;9;PT
+2023;FinaleF;Amedeo di Savoia;Pistoia;401;21;PT
+2024;SemiB;Amedeo di Savoia;Pistoia;691;12;PT
+2025;SemiB;Amedeo di Savoia;Pistoia;1168;2;PT
+2025;Finale;Amedeo di Savoia;Pistoia;632;28;PT
+2026;FinaleF;Amedeo di Savoia;Pistoia;800;25;PT
+2018;SemiB;Forteguerri;Pistoia;493;9;PT
+2024;SemiC;Pacini;Pistoia;378;29;PT
+2025;SemiA;Pacini;Pistoia;743;9;PT
+2025;Finale;Pacini;Pistoia;602;29;PT
+2021;SemiE;Pascal;Pomezia;180;40;RM
+2026;SemiB;Piana di Lucca;Porcari;450;24;LU
+2005;SemiB;Grigoletti;Pordenone;220;6;PN
+2005;Finale;Grigoletti;Pordenone;458;10;PN
+2006;SemiA;Grigoletti;Pordenone;424;5;PN
+2006;Finale;Grigoletti;Pordenone;468;17;PN
+2007;SemiA;Grigoletti;Pordenone;500;8;PN
+2007;Finale;Grigoletti;Pordenone;542;17;PN
+2008;SemiB;Grigoletti;Pordenone;615;5;PN
+2008;Finale;Grigoletti;Pordenone;485;20;PN
+2009;SemiB;Leopardi-Majorana;Pordenone;293;30;PN
+2009;SemiA;Grigoletti;Pordenone;216;33;PN
+2011;SemiA;Grigoletti;Pordenone;544;11;PN
+2013;SemiC;Grigoletti;Pordenone;197;26;PN
+2014;SemiD;Leopardi-Majorana;Pordenone;655;6;PN
+2014;Finale;Leopardi-Majorana;Pordenone;417;30;PN
+2015;SemiBL;Grigoletti;Pordenone;840;4;PN
+2015;Finale;Grigoletti;Pordenone;793;16;PN
+2016;SemiC;Grigoletti;Pordenone;738;4;PN
+2016;SemiB;Kennedy;Pordenone;307;22;PN
+2016;Finale;Grigoletti;Pordenone;656;15;PN
+2017;SemiD;Grigoletti;Pordenone;298;19;PN
+2018;SemiC;Leopardi-Majorana;Pordenone;539;15;PN
+2018;SemiB;Grigoletti;Pordenone;385;20;PN
+2019;SemiD;Kennedy;Pordenone;314;13;PN
+2019;SemiD;Leopardi-Majorana;Pordenone;246;18;PN
+2019;SemiA;Grigoletti;Pordenone;349;15;PN
+2020;SemiD;Leopardi-Majorana;Pordenone;718;6;PN
+2020;FinaleF;Grigoletti;Pordenone;870;13;PN
+2020;Finale;Leopardi-Majorana;Pordenone;746;13;PN
+2021;SemiD;Leopardi-Majorana;Pordenone;1089;3;PN
+2021;SemiA;Grigoletti;Pordenone;505;20;PN
+2021;FinaleF;Grigoletti;Pordenone;747;11;PN
+2021;Finale;Leopardi-Majorana;Pordenone;495;31;PN
+2022;SemiB;Grigoletti;Pordenone;372;12;PN
+2022;FinaleF;Grigoletti;Pordenone;613;11;PN
+2023;SemiC;Grigoletti;Pordenone;367;20;PN
+2024;SemiD;Kennedy;Pordenone;516;22;PN
+2024;SemiB;Grigoletti;Pordenone;689;13;PN
+2025;SemiB;Grigoletti;Pordenone;794;11;PN
+2025;FinaleF;Grigoletti;Pordenone;604;23;PN
+2026;SemiC;Grigoletti;Pordenone;839;8;PN
+2026;SemiB;Leopardi-Majorana;Pordenone;399;27;PN
+2026;FinaleF;Grigoletti;Pordenone;891;20;PN
+2026;Finale;Grigoletti;Pordenone;939;18;PN
+2023;SemiB;Foresi;Portoferraio;307;21;LI
+2013;SemiA;Buzzi;Prato;279;21;PO
+2017;SemiD;Copernico [F];Prato;97;31;PO
+2008;SemiB;Copernico;Prato;407;20;PO
+2013;SemiB;Copernico;Prato;462;13;PO
+2015;SemiA;Copernico;Prato;681;10;PO
+2015;Finale;Copernico;Prato;688;24;PO
+2016;SemiA;Copernico;Prato;359;21;PO
+2017;SemiB;Copernico;Prato;516;13;PO
+2018;SemiB;Copernico;Prato;459;13;PO
+2018;FinaleF;Copernico;Prato;1044;3;PO
+2019;SemiB;Copernico;Prato;531;4;PO
+2019;Finale;Copernico;Prato;637;10;PO
+2020;SemiB;Copernico;Prato;997;3;PO
+2020;FinaleF;Copernico;Prato;1495;2;PO
+2020;Finale;Copernico;Prato;719;14;PO
+2021;SemiD;Copernico;Prato;1054;4;PO
+2021;Finale;Copernico;Prato;715;13;PO
+2022;SemiC;Copernico;Prato;421;10;PO
+2022;FinaleF;Copernico;Prato;512;15;PO
+2023;SemiB;Copernico;Prato;423;16;PO
+2024;SemiB;Copernico;Prato;885;6;PO
+2024;Finale;Copernico;Prato;1079;9;PO
+2025;SemiB;Copernico;Prato;592;18;PO
+2026;SemiC;Copernico;Prato;869;7;PO
+2026;FinaleF;Copernico;Prato;845;22;PO
+2026;Finale;Copernico;Prato;973;16;PO
+2019;SemiB;Brotzu;Quartu;174;22;CA
+2021;SemiD;Brotzu;Quartu;225;35;CA
+2014;SemiC;Leopardi;Recanati;491;15;MC
+2015;SemiBL;Leopardi;Recanati;623;8;MC
+2016;SemiC;Leopardi;Recanati;710;5;MC
+2016;Finale;Leopardi;Recanati;826;6;MC
+2017;SemiA;Leopardi;Recanati;714;6;MC
+2017;Finale;Leopardi;Recanati;753;9;MC
+2018;SemiD;Leopardi;Recanati;668;5;MC
+2018;Finale;Leopardi;Recanati;1070;3;MC
+2019;SemiD;Leopardi;Recanati;332;11;MC
+2020;SemiB;Leopardi;Recanati;251;22;MC
+2021;SemiF;Leopardi;Recanati;752;7;MC
+2021;Finale;Leopardi;Recanati;317;46;MC
+2004;Finale;Nicoloso da Recco;Recco;722;6;GE
+2005;SemiA;Nicoloso da Recco;Recco;90;21;GE
+2007;SemiA;Nicoloso da Recco;Recco;292;25;GE
+2018;SemiA;Nicoloso da Recco;Recco;310;25;GE
+2026;SemiD;Nicoloso da Recco;Recco;813;10;GE
+2016;SemiA;Da Vinci;Reggio Calabria;133;29;RC
+2021;SemiC;Da Vinci;Reggio Calabria;454;20;RC
+2022;SemiA;Da Vinci;Reggio Calabria;220;22;RC
+2004;Finale;Moro;Reggio Emilia;668;8;RE
+2005;SemiB;Moro;Reggio Emilia;429;1;RE
+2005;Finale;Moro;Reggio Emilia;520;5;RE
+2006;SemiB;Moro;Reggio Emilia;415;9;RE
+2006;Finale;Moro;Reggio Emilia;384;26;RE
+2007;SemiB;Moro;Reggio Emilia;737;1;RE
+2007;Finale;Moro;Reggio Emilia;980;2;RE
+2009;SemiB;Moro;Reggio Emilia;749;3;RE
+2009;Finale;Moro;Reggio Emilia;875;4;RE
+2010;SemiA;Moro;Reggio Emilia;587;10;RE
+2010;Finale;Moro;Reggio Emilia;531;27;RE
+2011;SemiC;Spallanzani;Reggio Emilia;365;18;RE
+2011;SemiB;Moro;Reggio Emilia;978;1;RE
+2011;SemiA;Zanelli;Reggio Emilia;330;27;RE
+2011;Finale;Moro;Reggio Emilia;525;23;RE
+2012;SemiC;Spallanzani;Reggio Emilia;501;10;RE
+2012;SemiC;Nobili-Lombardini;Reggio Emilia;164;30;RE
+2012;SemiA;Moro;Reggio Emilia;594;9;RE
+2012;Finale;Moro;Reggio Emilia;855;5;RE
+2013;SemiD;Spallanzani;Reggio Emilia;249;19;RE
+2013;SemiC;Moro;Reggio Emilia;509;8;RE
+2013;SemiA;Zanelli;Reggio Emilia;372;18;RE
+2014;SemiD;Spallanzani;Reggio Emilia;652;7;RE
+2014;SemiA;Moro;Reggio Emilia;761;3;RE
+2014;SemiA;Zanelli;Reggio Emilia;271;26;RE
+2014;Finale;Moro;Reggio Emilia;579;20;RE
+2014;Finale;Spallanzani;Reggio Emilia;454;26;RE
+2015;SemiAL;Moro;Reggio Emilia;586;4;RE
+2015;SemiA;Ariosto-Spallanzani;Reggio Emilia;845;6;RE
+2015;Finale;Ariosto-Spallanzani;Reggio Emilia;880;9;RE
+2015;Finale;Moro;Reggio Emilia;852;11;RE
+2016;SemiD;Ariosto-Spallanzani;Reggio Emilia;1089;1;RE
+2016;SemiC;Moro;Reggio Emilia;688;6;RE
+2016;SemiA;Zanelli;Reggio Emilia;427;16;RE
+2016;Finale;Ariosto-Spallanzani;Reggio Emilia;1093;3;RE
+2016;Finale;Moro;Reggio Emilia;705;11;RE
+2017;SemiD;Moro;Reggio Emilia;502;9;RE
+2017;SemiC;Ariosto-Spallanzani;Reggio Emilia;601;3;RE
+2017;SemiA;Zanelli;Reggio Emilia;469;8;RE
+2017;SemiA;Ariosto-Spallanzani [F];Reggio Emilia;257;20;RE
+2017;Finale;Ariosto-Spallanzani;Reggio Emilia;593;15;RE
+2018;SemiC;Ariosto-Spallanzani;Reggio Emilia;606;7;RE
+2018;SemiC;Moro;Reggio Emilia;565;12;RE
+2018;SemiB;Zanelli;Reggio Emilia;411;18;RE
+2018;FinaleF;Ariosto-Spallanzani;Reggio Emilia;887;5;RE
+2018;FinaleF;Moro;Reggio Emilia;837;7;RE
+2018;Finale;Ariosto-Spallanzani;Reggio Emilia;833;7;RE
+2019;SemiC;Moro;Reggio Emilia;385;11;RE
+2020;FinaleF;Moro;Reggio Emilia;1217;7;RE
+2021;SemiE;Ariosto-Spallanzani;Reggio Emilia;813;7;RE
+2021;SemiD;Moro;Reggio Emilia;493;20;RE
+2021;Finale;Ariosto-Spallanzani;Reggio Emilia;441;37;RE
+2022;SemiB;Ariosto-Spallanzani;Reggio Emilia;233;22;RE
+2023;SemiD;Moro;Reggio Emilia;85;30;RE
+2017;SemiC;Pascal;Reggio Emilia;247;25;RE
+2020;SemiA;Pascal;Reggio Emilia;483;17;RE
+2021;SemiD;Pascal;Reggio Emilia;511;17;RE
+2022;SemiB;Pascal;Reggio Emilia;373;11;RE
+2023;SemiA;Pascal;Reggio Emilia;318;23;RE
+2023;SemiB;Ariosto-Spallanzani;Reggio Emilia;866;2;RE
+2025;FinaleF;Pascal;Reggio Emilia;355;34;RE
+2026;SemiC;Pascal;Reggio Emilia;365;27;RE
+2023;Finale;Ariosto-Spallanzani;Reggio Emilia;630;19;RE
+2024;SemiD;Zanelli;Reggio Emilia;546;20;RE
+2024;SemiA;Ariosto-Spallanzani;Reggio Emilia;677;14;RE
+2025;FinaleF;Ariosto-Spallanzani;Reggio Emilia;847;13;RE
+2026;SemiD;Moro;Reggio Emilia;826;9;RE
+2026;SemiA;Ariosto-Spallanzani;Reggio Emilia;748;16;RE
+2026;FinaleF;Ariosto-Spallanzani;Reggio Emilia;962;18;RE
+2026;Finale;Moro;Reggio Emilia;992;15;RE
+2016;SemiD;Scuola Secondaria Superiore;Repubblica San Marino;267;22;RSM
+2021;SemiB;Scuola Secondaria Superiore;Repubblica San Marino;317;32;RSM
+2006;SemiA;Majorana;Rho;218;24;MI
+2006;SemiB;Galilei;Riccia;267;16;CB
+2007;SemiA;Galilei;Riccia;172;32;CB
+2008;SemiB;Galilei;Riccia;369;27;CB
+2009;SemiA;Galilei;Riccia;322;29;CB
+2017;SemiB;Maffei;Riva del Garda;318;22;TN
+2020;FinaleF;Maffei;Riva del Garda;245;23;TN
+2021;SemiF;Maffei;Riva del Garda;546;16;TN
+2016;SemiD;Darwin;Rivoli;223;25;TO
+2015;SemiAL;Mazzone;Roccella ionica;182;28;RC
+2004;Finale;Righi;Roma;665;9;RM
+2004;Finale;Avogadro;Roma;637;10;RM
+2005;SemiB;Avogadro;Roma;110;18;RM
+2005;SemiA;Righi;Roma;177;14;RM
+2005;SemiA;Labriola;Roma;136;16;RM
+2006;SemiA;Righi;Roma;384;8;RM
+2006;SemiA;Aristotele;Roma;121;30;RM
+2006;Finale;Righi;Roma;619;7;RM
+2007;SemiB;Tasso;Roma;389;22;RM
+2007;SemiB;Righi;Roma;333;26;RM
+2007;SemiA;Aristotele;Roma;537;4;RM
+2007;SemiA;Malpighi;Roma;228;31;RM
+2007;Finale;Aristotele;Roma;633;14;RM
+2008;SemiB;Avogadro;Roma;550;10;RM
+2008;SemiA;Newton;Roma;570;8;RM
+2008;Finale;Avogadro;Roma;910;3;RM
+2008;Finale;Newton;Roma;753;6;RM
+2009;SemiB;Dante Alighieri;Roma;523;10;RM
+2009;SemiB;Righi;Roma;411;20;RM
+2009;SemiA;Newton;Roma;434;16;RM
+2009;Finale;Dante Alighieri;Roma;935;2;RM
+2009;Finale;Newton;Roma;400;26;RM
+2010;SemiB;Labriola;Roma;626;6;RM
+2010;SemiB;Righi;Roma;474;17;RM
+2010;SemiB;Avogadro;Roma;328;27;RM
+2010;SemiA;Cavour;Roma;528;13;RM
+2010;SemiA;Newton;Roma;47;35;RM
+2010;Finale;Righi;Roma;672;12;RM
+2010;Finale;Labriola;Roma;634;15;RM
+2010;Finale;Cavour;Roma;599;20;RM
+2011;SemiB;Farnesina;Roma;256;28;RM
+2011;SemiA;Righi;Roma;627;6;RM
+2011;SemiA;Tasso;Roma;397;21;RM
+2011;Finale;Righi;Roma;796;11;RM
+2012;SemiB;Montale;Roma;311;26;RM
+2012;SemiA;Righi;Roma;629;7;RM
+2012;Finale;Righi;Roma;1065;3;RM
+2013;SemiD;Righi;Roma;771;2;RM
+2013;SemiA;Newton;Roma;584;7;RM
+2013;Finale;Righi;Roma;1041;3;RM
+2013;Finale;Newton;Roma;400;23;RM
+2014;SemiC;Righi;Roma;682;7;RM
+2014;SemiB;Cannizzaro;Roma;510;11;RM
+2014;SemiA;Newton;Roma;286;25;RM
+2014;Finale;Righi;Roma;335;37;RM
+2015;SemiBL;Peano;Roma;276;24;RM
+2015;SemiAL;Nomentano;Roma;575;7;RM
+2015;SemiA;Righi;Roma;850;5;RM
+2015;SemiA;Croce;Roma;375;20;RM
+2015;Finale;Righi;Roma;1117;2;RM
+2015;Finale;Nomentano;Roma;364;34;RM
+2016;SemiD;Nomentano;Roma;858;3;RM
+2016;SemiC;Gullace;Roma;587;11;RM
+2016;SemiB;Righi;Roma;656;2;RM
+2016;SemiB;Croce;Roma;631;3;RM
+2016;Finale;Nomentano;Roma;742;9;RM
+2016;Finale;Righi;Roma;735;10;RM
+2016;Finale;Croce;Roma;407;26;RM
+2017;SemiD;Nomentano;Roma;595;5;RM
+2017;SemiD;Righi [F];Roma;130;28;RM
+2017;SemiC;Plinio Seniore [F];Roma;90;32;RM
+2017;SemiB;Righi;Roma;642;9;RM
+2017;Finale;Nomentano;Roma;493;23;RM
+2018;SemiD;Avogadro;Roma;271;28;RM
+2018;SemiC;Plinio Seniore;Roma;659;5;RM
+2018;SemiB;Nomentano;Roma;756;1;RM
+2018;SemiA;Righi;Roma;975;1;RM
+2018;FinaleF;Kennedy;Roma;550;18;RM
+2018;Finale;Righi;Roma;1149;2;RM
+2018;Finale;Nomentano;Roma;773;10;RM
+2018;Finale;Plinio Seniore;Roma;517;21;RM
+2019;SemiD;Plinio Seniore;Roma;604;5;RM
+2019;SemiD;Aristotele;Roma;20;27;RM
+2019;SemiB;Righi;Roma;567;3;RM
+2019;SemiB;Nomentano;Roma;517;6;RM
+2019;SemiA;Gullace;Roma;216;23;RM
+2019;Finale;Plinio Seniore;Roma;573;16;RM
+2019;Finale;Righi;Roma;512;17;RM
+2019;Finale;Nomentano;Roma;274;29;RM
+2020;SemiD;Convitto Nazionale Emanuele Ii;Roma;575;11;RM
+2020;SemiC;Mamiani;Roma;251;23;RM
+2020;SemiB;Gullace;Roma;442;14;RM
+2020;SemiA;Righi;Roma;496;16;RM
+2020;SemiA;Nomentano;Roma;257;24;RM
+2020;FinaleF;Righi;Roma;769;15;RM
+2021;SemiF;Aristotele;Roma;829;4;RM
+2021;SemiF;Gullace;Roma;442;21;RM
+2021;SemiF;Pio XI;Roma;404;25;RM
+2021;SemiE;Mamiani;Roma;607;15;RM
+2021;SemiD;Apollinare;Roma;662;13;RM
+2021;SemiD;Nomentano;Roma;436;26;RM
+2021;SemiD;Labriola;Roma;428;27;RM
+2021;SemiD;Torricelli;Roma;233;34;RM
+2021;SemiD;Democrito;Roma;180;36;RM
+2021;SemiD;Toscanelli;Roma;180;39;RM
+2021;SemiD;Casaletto;Roma;180;40;RM
+2021;SemiC;Righi;Roma;1219;1;RM
+2021;SemiC;Avogadro;Roma;249;32;RM
+2021;SemiC;Newton;Roma;180;38;RM
+2021;SemiB;Kennedy;Roma;385;28;RM
+2021;SemiB;Socrate;Roma;318;31;RM
+2021;SemiB;Francesco D'Assisi;Roma;312;33;RM
+2021;SemiB;Alighieri;Roma;180;39;RM
+2021;SemiA;Plinio Seniore;Roma;678;11;RM
+2021;SemiA;Cavour;Roma;659;12;RM
+2021;SemiA;Salvini;Roma;301;33;RM
+2021;SemiA;Orazio;Roma;253;36;RM
+2021;Finale;Righi;Roma;966;4;RM
+2021;Finale;Aristotele;Roma;362;42;RM
+2022;SemiC;Aristotele;Roma;401;11;RM
+2022;SemiC;Virgilio;Roma;387;12;RM
+2022;SemiB;Nomentano;Roma;41;25;RM
+2022;SemiA;Righi;Roma;465;10;RM
+2022;FinaleF;Righi;Roma;651;9;RM
+2023;SemiC;Righi;Roma;873;8;RM
+2023;SemiC;Nomentano;Roma;395;15;RM
+2006;SemiB;Levi-Civita;Roma;337;13;RM
+2023;SemiB;Francesco D'Assisi;Roma;68;30;RM
+2023;SemiA;Apollinare;Roma;722;3;RM
+2006;Finale;Levi-Civita;Roma;627;6;RM
+2021;SemiD;Levi-Civita;Roma;511;18;RM
+2021;SemiD;Russell;Roma;370;30;RM
+2023;SemiA;Plinio Seniore;Roma;405;19;RM
+2022;SemiA;Levi-Civita;Roma;319;16;RM
+2023;SemiC;Levi-Civita;Roma;544;9;RM
+2023;SemiC;Russell;Roma;370;19;RM
+2024;SemiA;Levi-Civita;Roma;852;7;RM
+2023;FinaleF;Righi;Roma;669;7;RM
+2024;Finale;Levi-Civita;Roma;424;32;RM
+2025;SemiA;Levi-Civita;Roma;527;21;RM
+2023;Finale;Righi;Roma;977;3;RM
+2026;SemiD;Russell;Roma;507;23;RM
+2023;Finale;Apollinare;Roma;647;16;RM
+2024;SemiD;Plinio Seniore;Roma;672;12;RM
+2024;SemiD;Croce-Aleramo;Roma;619;17;RM
+2024;SemiD;Talete;Roma;483;23;RM
+2024;SemiC;Aristotele;Roma;728;15;RM
+2024;SemiC;Morgagni;Roma;371;30;RM
+2024;SemiB;Righi;Roma;1170;2;RM
+2024;SemiB;Cavour;Roma;623;16;RM
+2024;SemiB;Nomentano;Roma;536;21;RM
+2024;SemiA;Archimede;Roma;582;20;RM
+2024;SemiA;Avogadro;Roma;439;27;RM
+2024;FinaleF;Righi;Roma;1056;9;RM
+2024;FinaleF;Croce-Aleramo;Roma;830;15;RM
+2024;FinaleF;Morgagni;Roma;526;24;RM
+2024;Finale;Righi;Roma;865;17;RM
+2025;SemiD;Aristotele;Roma;389;25;RM
+2025;SemiD;Socrate;Roma;387;26;RM
+2025;SemiD;Seneca;Roma;209;30;RM
+2025;SemiC;Avogadro;Roma;883;9;RM
+2025;SemiC;Morgagni;Roma;501;23;RM
+2025;SemiB;Croce-Aleramo;Roma;620;15;RM
+2025;SemiB;Cavour;Roma;614;16;RM
+2025;SemiB;Talete;Roma;497;24;RM
+2025;SemiB;Francesco D'Assisi;Roma;434;27;RM
+2025;SemiA;Righi;Roma;1510;1;RM
+2025;SemiA;Plinio Seniore;Roma;384;28;RM
+2025;FinaleF;Croce-Aleramo;Roma;1164;5;RM
+2025;FinaleF;Righi;Roma;753;18;RM
+2025;FinaleF;Morgagni;Roma;749;19;RM
+2025;FinaleF;Salvini;Roma;11;38;RM
+2025;Finale;Righi;Roma;1184;7;RM
+2025;Finale;Avogadro;Roma;651;27;RM
+2026;SemiD;Socrate;Roma;311;29;RM
+2026;SemiC;Morgagni;Roma;660;13;RM
+2026;SemiC;Cavour;Roma;527;22;RM
+2026;SemiC;Democrito;Roma;438;24;RM
+2026;SemiB;Aristotele;Roma;308;29;RM
+2026;SemiA;Righi;Roma;1051;3;RM
+2026;SemiA;Avogadro;Roma;815;9;RM
+2026;FinaleF;Righi;Roma;1337;4;RM
+2026;FinaleF;Morgagni;Roma;1075;15;RM
+2026;FinaleF;Plinio Seniore;Roma;813;24;RM
+2026;FinaleF;Croce - Aleramo;Roma;385;37;RM
+2026;FinaleF;Marymount;Roma;382;38;RM
+2026;Finale;Righi;Roma;1232;5;RM
+2026;Finale;Avogadro;Roma;1149;8;RM
+2011;SemiC;Saffo;Roseto degli Abruzzi;229;27;TE
+2012;SemiA;Saffo;Roseto degli Abruzzi;129;30;TE
+2013;SemiC;Saffo;Roseto degli Abruzzi;234;24;TE
+2014;SemiC;Saffo;Roseto degli Abruzzi;438;18;TE
+2015;SemiBL;Saffo;Roseto degli Abruzzi;273;26;TE
+2019;SemiC;Saffo;Roseto degli Abruzzi;115;24;TE
+2020;SemiD;Saffo;Roseto degli Abruzzi;97;27;TE
+2021;SemiD;Saffo;Roseto degli Abruzzi;523;16;TE
+2022;SemiC;Saffo;Roseto degli Abruzzi;171;21;TE
+2023;SemiC;Saffo;Roseto degli Abruzzi;230;28;TE
+2007;SemiB;Rosmini;Rovereto;520;7;TN
+2007;Finale;Rosmini;Rovereto;493;19;TN
+2008;SemiA;Rosmini;Rovereto;473;18;TN
+2014;SemiA;Rosmini;Rovereto;583;10;TN
+2015;SemiBL;Rosmini;Rovereto;603;11;TN
+2016;SemiC;Rosmini;Rovereto;529;13;TN
+2018;SemiD;Rosmini;Rovereto;702;3;TN
+2018;Finale;Rosmini;Rovereto;328;30;TN
+2020;SemiB;Rosmini;Rovereto;500;13;TN
+2021;SemiB;Rosmini;Rovereto;920;4;TN
+2021;Finale;Rosmini;Rovereto;600;21;TN
+2022;SemiA;Rosmini;Rovereto;741;4;TN
+2022;Finale;Rosmini;Rovereto;445;15;TN
+2023;SemiA;Rosmini;Rovereto;417;17;TN
+2024;SemiD;Rosmini;Rovereto;1079;2;TN
+2024;Finale;Rosmini;Rovereto;1035;12;TN
+2025;SemiC;Rosmini;Rovereto;761;13;TN
+2026;SemiB;Rosmini;Rovereto;555;21;TN
+2008;SemiB;Paleocapa;Rovigo;377;25;RO
+2009;SemiA;Paleocapa;Rovigo;390;23;RO
+2010;SemiB;Viola;Rovigo;236;32;RO
+2010;SemiA;Paleocapa;Rovigo;402;22;RO
+2016;SemiC;Paleocapa;Rovigo;667;8;RO
+2016;Finale;Paleocapa;Rovigo;640;16;RO
+2017;SemiC;Paleocapa;Rovigo;379;15;RO
+2018;SemiC;Paleocapa;Rovigo;592;10;RO
+2018;FinaleF;Paleocapa;Rovigo;727;12;RO
+2019;SemiA;Paleocapa;Rovigo;219;22;RO
+2020;SemiD;Paleocapa;Rovigo;267;24;RO
+2021;SemiE;Paleocapa;Rovigo;454;24;RO
+2022;SemiB;Paleocapa;Rovigo;261;20;RO
+2023;SemiC;Paleocapa;Rovigo;322;22;RO
+2026;SemiC;Paleocapa;Rovigo;645;15;RO
+2011;SemiC;Tedone;Ruvo di Puglia;133;31;BA
+2016;SemiD;Tedone;Ruvo di Puglia;238;24;BA
+2005;SemiB;Focaccia;Salerno;50;24;SA
+2006;SemiB;Da Procida;Salerno;248;19;SA
+2006;SemiA;Torquato Tasso;Salerno;76;31;SA
+2008;SemiA;Da Procida;Salerno;357;29;SA
+2010;SemiA;Da Procida;Salerno;449;18;SA
+2011;SemiA;Da Procida;Salerno;453;16;SA
+2013;SemiC;Da Procida;Salerno;131;28;SA
+2013;SemiB;Severi;Salerno;246;21;SA
+2014;SemiD;Severi;Salerno;303;29;SA
+2016;SemiA;Severi;Salerno;307;25;SA
+2011;SemiB;Da Vinci;Salerno;567;11;SA
+2012;SemiA;Da Vinci;Salerno;335;19;SA
+2007;SemiA;Giovanni Da Procida;Salerno;309;24;SA
+2009;SemiA;Giovanni Da Procida;Salerno;316;30;SA
+2016;SemiA;Rosetti;San Benedetto del Tronto;403;18;AP
+2017;SemiC;Rosetti;San Benedetto del Tronto;239;26;AP
+2018;SemiC;Rosetti;San Benedetto del Tronto;327;25;AP
+2019;SemiB;Rosetti;San Benedetto del Tronto;403;10;AP
+2023;SemiA;Rosetti;San Benedetto del Tronto;414;18;AP
+2025;SemiB;Rosetti;San Benedetto del Tronto;323;28;AP
+2026;FinaleF;Rosetti;San Benedetto del Tronto;581;31;AP
+2020;SemiA;Primo Levi;San Donato Milanese;523;13;MI
+2021;SemiE;Primo Levi;San Donato Milanese;436;25;MI
+2021;SemiB;Majorana;San Giovanni La Punta;180;40;CT
+2026;SemiA;Majorana;San Giovanni La Punta;321;28;CT
+2011;SemiC;Ferraris;San Giovanni Valdarno;146;30;AR
+2026;SemiD;Giannone;San Marco In Lamis;271;30;FG
+2025;SemiD;Marconi;San Miniato;562;17;PI
+2013;SemiC;Calabrese-Levi;San Pietro In Cariano;268;22;VR
+2025;SemiC;Rispoli;San Severo;371;28;FG
+2017;SemiC;Le Filandiere;San Vito al Tagliamento;113;31;PN
+2024;SemiB;Le Filandiere;San Vito al Tagliamento;404;27;PN
+2025;SemiA;Le Filandiere;San Vito al Tagliamento;663;16;PN
+2005;SemiB;Città di Piero;Sansepolcro;146;16;AR
+2006;SemiB;Città di Piero;Sansepolcro;263;17;AR
+2012;SemiC;Città di Piero;Sansepolcro;158;31;AR
+2015;SemiA;Città di Piero;Sansepolcro;457;15;AR
+2017;SemiC;Citta' di Piero;Sansepolcro;168;28;AR
+2010;SemiA;De' Liguori;Sant'Agata de' Goti;295;29;BN
+2011;SemiB;De' Liguori;Sant'Agata de' Goti;241;29;BN
+2018;SemiD;De' Liguori;Sant'Agata de' Goti;306;26;BN
+2018;SemiC;De' Liguori;Sant'Agata de' Goti;265;27;BN
+2021;SemiC;Lussu;Sant'Antioco;120;40;SU
+2021;SemiA;Grassi;Saronno;691;10;VA
+2022;SemiD;Grassi;Saronno;681;5;VA
+2022;Finale;Grassi;Saronno;488;13;VA
+2023;SemiD;Grassi;Saronno;244;25;VA
+2024;SemiA;Grassi;Saronno;778;9;VA
+2025;SemiD;Grassi;Saronno;606;13;VA
+2025;FinaleF;Grassi;Saronno;355;33;VA
+2026;SemiB;Grassi;Saronno;860;11;VA
+2006;SemiA;Parentucelli;Sarzana;178;27;SP
+2011;SemiC;Parentucelli;Sarzana;536;6;SP
+2011;Finale;Parentucelli;Sarzana;287;29;SP
+2015;SemiA;Parentuccelli;Sarzana;348;23;SP
+2025;SemiC;Parentucelli;Sarzana;582;16;SP
+2026;SemiA;Parentucelli;Sarzana;811;10;SP
+2026;FinaleF;Parentucelli;Sarzana;632;29;SP
+2008;SemiA;Angioy;Sassari;225;33;SS
+2009;SemiA;Angioy;Sassari;114;36;SS
+2010;SemiB;Spano;Sassari;305;30;SS
+2011;SemiB;Angioi;Sassari;235;30;SS
+2011;SemiA;Spano;Sassari;291;29;SS
+2012;SemiC;Spano;Sassari;464;14;SS
+2013;SemiD;Spano;Sassari;99;26;SS
+2014;SemiA;Spano;Sassari;571;11;SS
+2015;SemiB;Spano;Sassari;435;16;SS
+2016;SemiD;Spano;Sassari;248;23;SS
+2016;SemiC;Angioy;Sassari;220;27;SS
+2017;SemiB;Spano;Sassari;650;8;SS
+2018;SemiD;Spano;Sassari;311;25;SS
+2019;SemiD;Spano;Sassari;837;3;SS
+2019;Finale;Spano;Sassari;182;32;SS
+2020;SemiC;Spano;Sassari;787;4;SS
+2020;Finale;Spano;Sassari;471;21;SS
+2021;SemiA;Spano;Sassari;643;13;SS
+2021;FinaleF;Spano;Sassari;982;5;SS
+2026;SemiD;Spano;Sassari;536;19;SS
+2009;SemiA;Volta;Sassuolo;456;11;MO
+2009;Finale;Volta;Sassuolo;436;23;MO
+2016;SemiD;Volta;Sassuolo;212;27;MO
+2025;SemiC;Formiggini;Sassuolo;487;24;MO
+2021;SemiB;Del Prete-Falcone;Sava;472;22;TA
+2018;SemiA;Curie;Savignano Sul Rubicone;292;26;FC
+2008;SemiB;Grassi;Savona;342;30;SV
+2011;SemiC;Russell-Newton;Scandicci;223;28;FI
+2012;SemiA;Russell-Newton;Scandicci;205;27;FI
+2017;SemiD;Russell-Newton;Scandicci;363;15;FI
+2018;SemiD;Russell-Newton;Scandicci;349;23;FI
+2019;SemiD;Russell-Newton;Scandicci;239;20;FI
+2021;SemiA;Russell-Newton;Scandicci;402;25;FI
+2014;SemiC;Tron;Schio;528;13;VI
+2016;SemiD;Tron;Schio;353;16;VI
+2017;SemiB;Tron;Schio;672;6;VI
+2017;Finale;Tron;Schio;597;14;VI
+2018;SemiC;Tron;Schio;728;3;VI
+2018;Finale;Tron;Schio;573;18;VI
+2019;SemiD;De Pretto;Schio;194;23;VI
+2019;SemiC;Tron;Schio;224;16;VI
+2020;SemiB;Tron-Zanella;Schio;519;11;VI
+2021;SemiD;Tron-Zanella;Schio;469;23;VI
+2021;FinaleF;Tron-Zanella;Schio;537;22;VI
+2022;SemiB;Tron-Zanella;Schio;473;8;VI
+2022;FinaleF;Tron-Zanella;Schio;922;4;VI
+2023;SemiD;Tron-Zanella;Schio;586;8;VI
+2023;Finale;Tron-Zanella;Schio;671;14;VI
+2024;SemiC;Tron-Zanella;Schio;777;12;VI
+2024;FinaleF;Tron-Zanella;Schio;907;12;VI
+2025;SemiA;Tron-Zanella;Schio;736;10;VI
+2025;FinaleF;Tron-Zanella;Schio;801;16;VI
+2026;SemiB;Tron-Zanella;Schio;882;10;VI
+2026;FinaleF;Tron-Zanella;Schio;984;17;VI
+2026;SemiA;Enriques Agnoletti;Sesto Fiorentino;644;18;FI
+2006;SemiA;Sarocchi;Siena;167;28;SI
+2008;SemiB;Galilei;Siena;379;23;SI
+2021;SemiE;Siniscola;Siniscola;180;38;NU
+2013;SemiA;Corbino;Siracusa;273;22;SR
+2014;SemiB;Corbino;Siracusa;559;8;SR
+2014;SemiA;Einaudi;Siracusa;346;22;SR
+2014;Finale;Corbino;Siracusa;483;25;SR
+2015;SemiB;Corbino;Siracusa;160;29;SR
+2017;SemiC;Corbino;Siracusa;288;22;SR
+2018;SemiC;Corbino;Siracusa;431;19;SR
+2019;SemiB;Corbino;Siracusa;265;15;SR
+2024;FinaleF;Einaudi;Siracusa;616;21;SR
+2025;FinaleF;Einaudi;Siracusa;1014;11;SR
+2026;SemiA;Einaudi;Siracusa;597;20;SR
+2009;SemiB;Da Vinci;Sora;305;28;FR
+2011;SemiB;Da Vinci;Sora;338;25;FR
+2021;SemiE;Costa-Azara;Sorgono;180;41;NU
+2019;SemiA;Salvemini;Sorrento;129;27;NA
+2014;SemiB;Volta-Sansi-Leonardi;Spoleto;300;23;PG
+2015;SemiB;Sansi-Leonardi-Volta;Spoleto;547;11;PG
+2021;SemiA;Sansi-Leonardi-Volta;Spoleto;180;41;PG
+2025;SemiC;Sansi-Leonardi-Volta;Spoleto;363;29;PG
+2007;SemiB;Battaglini;Taranto;403;18;TA
+2008;SemiB;Battaglini;Taranto;379;24;TA
+2009;SemiA;Battaglini;Taranto;144;35;TA
+2010;SemiA;Battaglini;Taranto;232;31;TA
+2011;SemiB;Battaglini;Taranto;448;18;TA
+2012;SemiA;Battaglini;Taranto;336;18;TA
+2013;SemiD;Battaglini;Taranto;482;8;TA
+2014;SemiC;Battaglini;Taranto;508;14;TA
+2015;SemiAL;Battaglini;Taranto;579;5;TA
+2015;Finale;Battaglini;Taranto;592;29;TA
+2016;SemiD;Battaglini;Taranto;559;7;TA
+2016;Finale;Battaglini;Taranto;384;29;TA
+2017;SemiC;Battaglini;Taranto;547;8;TA
+2017;SemiA;Battaglini [F];Taranto;184;28;TA
+2017;Finale;Battaglini;Taranto;498;22;TA
+2018;SemiA;Battaglini;Taranto;502;12;TA
+2018;FinaleF;Battaglini;Taranto;561;17;TA
+2019;SemiB;Battaglini;Taranto;273;13;TA
+2020;SemiC;Battaglini;Taranto;128;27;TA
+2020;FinaleF;Battaglini;Taranto;479;20;TA
+2021;SemiB;Battaglini;Taranto;760;8;TA
+2021;FinaleF;Battaglini;Taranto;656;15;TA
+2021;Finale;Battaglini;Taranto;635;17;TA
+2022;SemiB;Battaglini;Taranto;369;13;TA
+2023;SemiB;Battaglini;Taranto;526;10;TA
+2023;FinaleF;Battaglini;Taranto;634;9;TA
+2024;SemiC;Battaglini;Taranto;778;11;TA
+2025;SemiA;Battaglini;Taranto;898;5;TA
+2025;Finale;Battaglini;Taranto;891;15;TA
+2026;SemiA;Battaglini;Taranto;770;11;TA
+2012;SemiC;Telesi@;Telese Terme;222;29;BN
+2014;SemiA;Telesi@;Telese Terme;549;12;BN
+2015;SemiB;Telesi@;Telese Terme;250;27;BN
+2021;SemiE;Telesi@;Telese Terme;180;37;BN
+2021;SemiC;Telesi@;Telese Terme;115;41;BN
+2023;SemiA;Telesi@;Telese Terme;215;24;BN
+2023;SemiA;Dettori;Tempio Pausania;334;22;SS
+2011;SemiA;Einstein;Teramo;508;14;TE
+2012;SemiA;Einstein;Teramo;489;11;TE
+2013;SemiB;Einstein;Teramo;579;7;TE
+2013;Finale;Einstein;Teramo;513;16;TE
+2014;SemiD;Einstein;Teramo;613;10;TE
+2014;Finale;Einstein;Teramo;726;10;TE
+2015;SemiA;Einstein;Teramo;424;18;TE
+2017;SemiD;Einstein;Teramo;356;16;TE
+2024;SemiC;Einstein;Teramo;496;26;TE
+2025;SemiC;Einstein;Teramo;541;21;TE
+2008;SemiA;Palmeri;Termini Imerese;110;35;PA
+2006;SemiA;Alfano da Termoli;Termoli;194;26;CB
+2010;SemiB;Alfano da Termoli;Termoli;389;23;CB
+2011;SemiC;Alfano da Termoli;Termoli;330;21;CB
+2014;SemiD;Alfano da Termoli;Termoli;346;26;CB
+2015;SemiBL;Alfano da Termoli;Termoli;387;20;CB
+2017;SemiC;Alfano da Termoli [F];Termoli;261;24;CB
+2019;SemiC;Alfano da Termoli;Termoli;204;19;CB
+2020;SemiC;Alfano da Termoli;Termoli;402;19;CB
+2021;SemiD;Alfano da Termoli;Termoli;547;14;CB
+2021;FinaleF;Alfano da Termoli;Termoli;1013;3;CB
+2005;SemiB;Galilei;Terni;162;13;TR
+2006;SemiA;Donatelli;Terni;398;7;TR
+2006;Finale;Donatelli;Terni;286;27;TR
+2007;SemiB;Donatelli;Terni;475;12;TR
+2007;Finale;Donatelli;Terni;449;22;TR
+2015;SemiAL;Donatelli;Terni;222;25;TR
+2018;SemiC;Donatelli;Terni;416;21;TR
+2019;SemiB;Donatelli;Terni;149;23;TR
+2020;SemiB;Donatelli;Terni;514;12;TR
+2021;SemiC;Tacito;Terni;180;37;TR
+2021;SemiB;Galilei;Terni;509;20;TR
+2021;SemiB;Allievi-Sangallo;Terni;184;36;TR
+2021;SemiA;Donatelli;Terni;761;6;TR
+2021;Finale;Donatelli;Terni;592;22;TR
+2021;SemiD;Da Vinci;Terracina;462;25;LT
+2022;SemiC;Da Vinci;Terracina;500;9;LT
+2014;SemiA;Corradini;Thiene;545;13;VI
+2015;SemiBL;Chilesotti;Thiene;378;21;VI
+2016;SemiB;Chilesotti;Thiene;408;12;VI
+2016;SemiB;Corradini;Thiene;379;13;VI
+2017;SemiC;Corradini;Thiene;909;2;VI
+2017;Finale;Corradini;Thiene;838;5;VI
+2018;SemiA;Corradini;Thiene;735;2;VI
+2018;Finale;Corradini;Thiene;547;19;VI
+2020;SemiD;Chilesotti;Thiene;707;7;VI
+2021;SemiB;Chilesotti;Thiene;599;13;VI
+2023;SemiB;Corradini;Thiene;284;24;VI
+2024;SemiC;Corradini;Thiene;844;8;VI
+2024;Finale;Corradini;Thiene;641;26;VI
+2024;SemiA;Guetti;Tione di Trento;530;23;TN
+2008;SemiA;Spallanzani;Tivoli;219;34;RM
+2006;SemiB;Jacopone da Todi;Todi;157;29;PG
+2007;SemiA;Jacopone da Todi;Todi;277;28;PG
+2008;SemiA;Jacopone da Todi;Todi;276;32;PG
+2013;SemiA;Paschini;Tolmezzo;433;13;UD
+2014;SemiA;Paschini;Tolmezzo;714;6;UD
+2014;Finale;Paschini;Tolmezzo;319;38;UD
+2015;SemiA;Paschini;Tolmezzo;601;12;UD
+2016;SemiD;Paschini;Tolmezzo;601;5;UD
+2016;Finale;Paschini;Tolmezzo;483;22;UD
+2017;SemiC;Paschini-Linussio;Tolmezzo;346;17;UD
+2017;SemiA;Paschini-Linussio [F];Tolmezzo;353;13;UD
+2018;FinaleF;Paschini-Linussio;Tolmezzo;931;4;UD
+2019;SemiC;Paschini-Linussio;Tolmezzo;224;17;UD
+2020;SemiB;Paschini-Linussio;Tolmezzo;180;24;UD
+2021;SemiE;Solari;Tolmezzo;217;33;UD
+2021;SemiA;Paschini;Tolmezzo;430;24;UD
+2021;SemiE;Paschini-Linussio;Tolmezzo;201;34;UD
+2023;SemiC;Paschini-Linussio;Tolmezzo;429;13;UD
+2024;SemiB;Paschini-Linussio;Tolmezzo;585;19;UD
+2005;SemiB;Ferraris;Torino;60;23;TO
+2006;SemiB;Ferraris;Torino;442;7;TO
+2006;SemiB;Cattaneo;Torino;400;11;TO
+2006;SemiA;Gobetti;Torino;225;23;TO
+2006;Finale;Ferraris;Torino;496;16;TO
+2006;Finale;Cattaneo;Torino;-1;28;TO
+2007;SemiB;Cattaneo;Torino;407;16;TO
+2007;SemiA;Ferraris;Torino;385;16;TO
+2007;SemiA;Cavour;Torino;319;22;TO
+2008;SemiB;Spinelli;Torino;479;16;TO
+2008;SemiA;Cavour;Torino;514;15;TO
+2008;SemiA;Cattaneo;Torino;468;19;TO
+2008;SemiA;Giordano Bruno;Torino;385;25;TO
+2008;Finale;Cavour;Torino;599;11;TO
+2008;Finale;Spinelli;Torino;548;17;TO
+2009;SemiB;Cavour;Torino;511;12;TO
+2009;SemiA;Ferraris;Torino;450;13;TO
+2009;Finale;Ferraris;Torino;700;8;TO
+2009;Finale;Cavour;Torino;343;30;TO
+2010;SemiA;Cattaneo;Torino;904;2;TO
+2010;SemiA;Ferraris;Torino;731;4;TO
+2010;Finale;Cattaneo;Torino;983;1;TO
+2010;Finale;Ferraris;Torino;638;14;TO
+2011;SemiC;Cattaneo;Torino;564;5;TO
+2011;SemiC;Bruno;Torino;491;10;TO
+2011;SemiA;Ferraris;Torino;574;10;TO
+2011;Finale;Cattaneo;Torino;687;16;TO
+2011;Finale;Bruno;Torino;590;21;TO
+2011;Finale;Ferraris;Torino;412;27;TO
+2012;SemiB;Cattaneo;Torino;707;6;TO
+2012;SemiB;Ferraris;Torino;582;9;TO
+2012;SemiA;Spinelli;Torino;277;26;TO
+2012;Finale;Cattaneo;Torino;783;7;TO
+2012;Finale;Ferraris;Torino;411;25;TO
+2013;SemiC;Ferraris;Torino;452;13;TO
+2013;SemiA;Cattaneo;Torino;584;6;TO
+2013;Finale;Cattaneo;Torino;858;8;TO
+2014;SemiC;Cattaneo;Torino;821;2;TO
+2014;SemiC;Ferraris;Torino;703;6;TO
+2014;SemiA;Spinelli;Torino;333;23;TO
+2014;Finale;Ferraris;Torino;763;6;TO
+2014;Finale;Cattaneo;Torino;366;34;TO
+2015;SemiB;Cattaneo;Torino;1121;1;TO
+2015;SemiB;Ferraris;Torino;355;22;TO
+2015;Finale;Cattaneo;Torino;1026;4;TO
+2016;SemiD;Ferraris;Torino;573;6;TO
+2016;SemiC;Cattaneo;Torino;641;9;TO
+2016;Finale;Ferraris;Torino;688;12;TO
+2017;SemiC;Ferraris;Torino;911;1;TO
+2017;SemiB;Gobetti;Torino;297;23;TO
+2017;SemiA;Ferraris [F];Torino;456;9;TO
+2017;Finale;Ferraris;Torino;849;4;TO
+2018;SemiD;Ferraris;Torino;890;1;TO
+2018;SemiB;Cobetti;Torino;566;7;TO
+2018;SemiA;Majorana;Torino;517;11;TO
+2018;FinaleF;Gobetti;Torino;792;10;TO
+2018;FinaleF;Majorana;Torino;790;11;TO
+2018;FinaleF;Ferraris;Torino;647;13;TO
+2018;Finale;Ferraris;Torino;798;8;TO
+2018;Finale;Gobetti;Torino;390;28;TO
+2019;SemiC;Cattaneo;Torino;636;4;TO
+2019;SemiA;Ferraris;Torino;712;3;TO
+2019;Finale;Ferraris;Torino;1006;2;TO
+2019;Finale;Cattaneo;Torino;674;8;TO
+2020;SemiD;Ferraris;Torino;912;2;TO
+2020;SemiD;Gobetti;Torino;419;17;TO
+2020;SemiA;Cattaneo;Torino;693;6;TO
+2020;FinaleF;Ferraris;Torino;473;21;TO
+2020;Finale;Ferraris;Torino;1104;5;TO
+2020;Finale;Cattaneo;Torino;520;18;TO
+2021;SemiD;Ferraris;Torino;1519;1;TO
+2021;SemiD;S. Giuseppe;Torino;180;37;TO
+2021;SemiC;Avogadro;Torino;561;12;TO
+2021;SemiC;Cavour;Torino;305;31;TO
+2021;SemiC;Agnelli;Torino;180;35;TO
+2021;SemiB;Gobetti;Torino;421;27;TO
+2021;SemiB;Majorana;Torino;344;30;TO
+2021;SemiA;Cattaneo;Torino;833;4;TO
+2021;Finale;Ferraris;Torino;849;6;TO
+2021;Finale;Cattaneo;Torino;418;39;TO
+2022;SemiD;Cattaneo;Torino;655;6;TO
+2022;SemiD;Gobetti;Torino;308;18;TO
+2022;SemiC;Ferraris;Torino;1498;1;TO
+2022;Finale;Ferraris;Torino;1305;1;TO
+2022;Finale;Cattaneo;Torino;608;9;TO
+2023;SemiD;Ferraris;Torino;969;1;TO
+2023;SemiD;Gobetti;Torino;459;13;TO
+2023;SemiD;Cattaneo;Torino;406;18;TO
+2023;SemiB;Majorana;Torino;212;27;TO
+2023;FinaleF;Ferraris;Torino;574;12;TO
+2023;FinaleF;Cattaneo;Torino;200;25;TO
+2023;Finale;Ferraris;Torino;1410;1;TO
+2024;SemiD;Cattaneo;Torino;1040;3;TO
+2024;SemiD;Einstein;Torino;475;25;TO
+2024;SemiC;Majorana;Torino;647;21;TO
+2024;SemiB;Ferraris;Torino;1394;1;TO
+2008;SemiA;Copernico;Torino;293;31;TO
+2009;SemiA;Copernico;Torino;513;7;TO
+2009;Finale;Copernico;Torino;646;12;TO
+2010;SemiA;Copernico;Torino;437;19;TO
+2013;SemiC;Copernico;Torino;423;16;TO
+2014;SemiC;Copernico;Torino;665;8;TO
+2014;Finale;Copernico;Torino;338;36;TO
+2015;SemiBL;Copernico;Torino;486;18;TO
+2017;SemiA;Copernico-Luxemburg;Torino;241;24;TO
+2024;SemiA;Valsalice;Torino;617;17;TO
+2021;SemiB;Copernico-Luxemburg;Torino;180;38;TO
+2024;SemiA;Gobetti;Torino;453;26;TO
+2022;SemiC;Copernico-Luxemburg;Torino;197;20;TO
+2024;FinaleF;Ferraris;Torino;1210;5;TO
+2023;SemiB;Copernico-Luxemburg;Torino;486;12;TO
+2024;SemiC;Copernico-Luxemburg;Torino;247;31;TO
+2024;Finale;Ferraris;Torino;1321;2;TO
+2025;SemiA;Copernico-Luxemburg;Torino;683;15;TO
+2024;Finale;Cattaneo;Torino;612;28;TO
+2025;SemiC;Cattaneo;Torino;1394;1;TO
+2025;SemiA;Ferraris;Torino;1276;2;TO
+2025;FinaleF;Ferraris;Torino;1055;9;TO
+2025;FinaleF;Majorana;Torino;403;30;TO
+2025;Finale;Cattaneo;Torino;1392;3;TO
+2025;Finale;Ferraris;Torino;1352;4;TO
+2026;SemiD;Cattaneo;Torino;1323;2;TO
+2026;SemiC;Ferraris;Torino;1600;1;TO
+2026;SemiA;Majorana;Torino;815;7;TO
+2026;SemiA;Avogadro;Torino;439;24;TO
+2026;FinaleF;Ferraris;Torino;1308;5;TO
+2026;FinaleF;Cattaneo;Torino;843;23;TO
+2026;Finale;Ferraris;Torino;1493;1;TO
+2026;Finale;Cattaneo;Torino;764;28;TO
+2026;Finale;Majorana;Torino;522;35;TO
+2021;SemiA;Tortoli;Tortolì;180;39;NU
+2012;SemiA;Peano;Tortona;370;15;AL
+2021;SemiC;Curie;Tradate;468;17;VA
+2005;SemiB;Galilei;Trento;183;12;TN
+2006;SemiB;Galilei;Trento;310;15;TN
+2006;Finale;Galilei;Trento;541;12;TN
+2008;SemiB;Arcivescovile;Trento;547;11;TN
+2008;Finale;Arcivescovile;Trento;738;7;TN
+2009;SemiB;Galilei;Trento;334;25;TN
+2010;SemiA;Galilei;Trento;482;16;TN
+2010;Finale;Galilei;Trento;484;30;TN
+2011;SemiA;Galilei;Trento;499;15;TN
+2012;SemiB;Galilei;Trento;516;11;TN
+2013;SemiA;Galilei;Trento;536;9;TN
+2014;SemiB;Galilei;Trento;530;10;TN
+2014;Finale;Galilei;Trento;605;17;TN
+2015;SemiAL;Galilei;Trento;458;16;TN
+2016;SemiB;Galilei;Trento;871;1;TN
+2016;Finale;Galilei;Trento;330;31;TN
+2017;SemiD;Galilei;Trento;539;8;TN
+2017;Finale;Galilei;Trento;463;26;TN
+2018;SemiB;Galilei;Trento;653;5;TN
+2018;Finale;Galilei;Trento;272;32;TN
+2019;SemiC;Galilei;Trento;575;6;TN
+2019;Finale;Galilei;Trento;401;18;TN
+2020;SemiA;Galilei;Trento;678;7;TN
+2021;SemiA;Galilei;Trento;854;3;TN
+2021;Finale;Galilei;Trento;576;24;TN
+2022;SemiB;Galilei;Trento;636;5;TN
+2004;Finale;Da Vinci;Trento;723;5;TN
+2019;SemiB;Da Vinci;Trento;234;20;TN
+2020;SemiC;Da Vinci;Trento;267;22;TN
+2021;SemiE;Da Vinci;Trento;486;21;TN
+2022;Finale;Galilei;Trento;390;19;TN
+2023;SemiA;Galilei;Trento;429;16;TN
+2024;SemiC;Galilei;Trento;842;9;TN
+2024;FinaleF;Galilei;Trento;1177;6;TN
+2025;SemiA;Galilei;Trento;788;7;TN
+2025;FinaleF;Galilei;Trento;1251;3;TN
+2025;Finale;Galilei;Trento;892;14;TN
+2026;SemiC;Galilei;Trento;1116;4;TN
+2026;FinaleF;Galilei;Trento;1610;1;TN
+2026;Finale;Galilei;Trento;796;26;TN
+2017;SemiC;Da Vinci [F];Treviso;356;16;TV
+2006;SemiA;Da Vinci;Treviso;598;2;TV
+2006;Finale;Da Vinci;Treviso;529;13;TV
+2007;SemiB;Da Vinci;Treviso;334;25;TV
+2009;SemiB;Da Vinci;Treviso;681;4;TV
+2009;Finale;Da Vinci;Treviso;981;1;TV
+2010;SemiA;Da Vinci;Treviso;915;1;TV
+2010;Finale;Da Vinci;Treviso;838;5;TV
+2011;SemiA;Da Vinci;Treviso;627;5;TV
+2011;Finale;Da Vinci;Treviso;1103;1;TV
+2012;SemiB;Da Vinci;Treviso;1217;1;TV
+2012;Finale;Da Vinci;Treviso;1169;2;TV
+2013;SemiB;Da Vinci;Treviso;606;4;TV
+2013;Finale;Da Vinci;Treviso;993;5;TV
+2014;SemiD;Da Vinci;Treviso;868;2;TV
+2014;Finale;Da Vinci;Treviso;876;5;TV
+2015;SemiBL;Da Vinci;Treviso;892;3;TV
+2015;Finale;Da Vinci;Treviso;694;23;TV
+2016;SemiB;Da Vinci;Treviso;550;6;TV
+2016;Finale;Da Vinci;Treviso;638;17;TV
+2017;SemiA;Da Vinci;Treviso;856;3;TV
+2017;Finale;Da Vinci;Treviso;308;31;TV
+2018;SemiC;Da Vinci;Treviso;613;6;TV
+2018;Finale;Da Vinci;Treviso;599;16;TV
+2019;SemiB;Da Vinci;Treviso;238;19;TV
+2020;SemiD;Da Vinci;Treviso;403;18;TV
+2020;FinaleF;Da Vinci;Treviso;693;18;TV
+2021;SemiC;Da Vinci;Treviso;914;4;TV
+2021;FinaleF;Da Vinci;Treviso;970;6;TV
+2021;Finale;Da Vinci;Treviso;743;12;TV
+2022;SemiD;Da Vinci;Treviso;1034;1;TV
+2022;Finale;Da Vinci;Treviso;519;11;TV
+2023;SemiC;Da Vinci;Treviso;236;26;TV
+2024;SemiA;Da Vinci;Treviso;696;13;TV
+2024;FinaleF;Da Vinci;Treviso;654;19;TV
+2025;SemiB;Da Vinci;Treviso;1011;3;TV
+2025;FinaleF;Da Vinci;Treviso;351;35;TV
+2025;Finale;Da Vinci;Treviso;1118;8;TV
+2026;SemiA;Da Vinci;Treviso;1185;2;TV
+2026;Finale;Da Vinci;Treviso;952;17;TV
+2013;SemiD;Stampacchia;Tricase;510;6;LE
+2013;Finale;Stampacchia;Tricase;328;25;LE
+2014;SemiA;Stampacchia;Tricase;733;4;LE
+2014;Finale;Stampacchia;Tricase;521;24;LE
+2015;SemiBL;Stampacchia;Tricase;273;25;LE
+2021;SemiB;Stampacchia;Tricase;756;9;LE
+2022;SemiA;Stampacchia;Tricase;345;14;LE
+2023;SemiB;Stampacchia;Tricase;484;13;LE
+2024;SemiB;Stampacchia;Tricase;527;23;LE
+2025;SemiA;Stampacchia;Tricase;574;20;LE
+2005;SemiA;Oberdan;Trieste;247;7;TS
+2005;Finale;Oberdan;Trieste;485;7;TS
+2006;SemiB;Oberdan;Trieste;549;4;TS
+2006;SemiA;Galilei;Trieste;273;18;TS
+2006;Finale;Oberdan;Trieste;422;22;TS
+2007;SemiA;Oberdan;Trieste;487;10;TS
+2007;Finale;Oberdan;Trieste;743;8;TS
+2008;SemiA;Oberdan;Trieste;586;5;TS
+2008;Finale;Oberdan;Trieste;270;31;TS
+2009;SemiA;Oberdan;Trieste;495;8;TS
+2009;Finale;Oberdan;Trieste;613;16;TS
+2010;SemiB;Oberdan;Trieste;679;5;TS
+2010;Finale;Oberdan;Trieste;707;9;TS
+2011;SemiC;Galilei;Trieste;281;25;TS
+2011;SemiB;Oberdan;Trieste;692;4;TS
+2011;Finale;Oberdan;Trieste;791;12;TS
+2012;SemiC;Galilei;Trieste;371;21;TS
+2012;SemiA;Oberdan;Trieste;852;1;TS
+2012;Finale;Oberdan;Trieste;698;10;TS
+2013;SemiB;Oberdan;Trieste;551;8;TS
+2014;SemiC;Oberdan;Trieste;457;17;TS
+2015;SemiAL;Oberdan;Trieste;456;17;TS
+2015;SemiA;Galilei;Trieste;292;25;TS
+2016;SemiC;Oberdan;Trieste;433;17;TS
+2017;SemiC;Oberdan;Trieste;549;7;TS
+2017;SemiA;Galilei;Trieste;184;29;TS
+2017;Finale;Oberdan;Trieste;476;24;TS
+2018;SemiC;Galilei;Trieste;423;20;TS
+2019;SemiA;Galilei;Trieste;344;16;TS
+2025;SemiA;Galilei;Trieste;279;30;TS
+2026;SemiD;Galilei;Trieste;1041;5;TS
+2026;Finale;Galilei;Trieste;864;20;TS
+2007;SemiB;Scarano;Trivento;270;27;CB
+2004;Finale;Marinelli;Udine;672;7;UD
+2005;SemiB;Malignani;Udine;152;15;UD
+2005;SemiA;Marinelli;Udine;248;6;UD
+2005;Finale;Marinelli;Udine;620;1;UD
+2006;SemiA;Marinelli;Udine;226;22;UD
+2008;SemiA;Marinelli;Udine;860;1;UD
+2008;Finale;Marinelli;Udine;917;2;UD
+2009;SemiA;Marinelli;Udine;706;2;UD
+2009;Finale;Marinelli;Udine;619;15;UD
+2010;SemiB;Marinelli;Udine;701;4;UD
+2010;SemiB;Stellini;Udine;391;22;UD
+2010;Finale;Marinelli;Udine;744;7;UD
+2011;SemiA;Marinelli;Udine;851;1;UD
+2011;Finale;Marinelli;Udine;915;6;UD
+2012;SemiC;Marinelli;Udine;954;1;UD
+2012;SemiB;Malignani;Udine;457;15;UD
+2012;Finale;Marinelli;Udine;667;11;UD
+2013;SemiD;Marinelli;Udine;648;4;UD
+2013;SemiB;Bertoni;Udine;623;3;UD
+2013;Finale;Marinelli;Udine;781;9;UD
+2013;Finale;Bertoni;Udine;634;14;UD
+2014;SemiD;Bertoni;Udine;463;17;UD
+2014;SemiB;Marinelli;Udine;808;2;UD
+2014;Finale;Marinelli;Udine;395;33;UD
+2015;SemiAL;Marinelli;Udine;514;9;UD
+2015;SemiA;Bertoni;Udine;937;3;UD
+2015;Finale;Bertoni;Udine;925;5;UD
+2015;Finale;Marinelli;Udine;671;27;UD
+2016;SemiD;Marinelli;Udine;437;11;UD
+2016;SemiA;Bertoni;Udine;656;3;UD
+2016;Finale;Bertoni;Udine;789;7;UD
+2017;SemiC;Marinelli [F];Udine;272;23;UD
+2017;SemiA;Malignani;Udine;370;12;UD
+2017;SemiA;Marinelli;Udine;352;14;UD
+2018;SemiD;Marinelli;Udine;777;2;UD
+2018;SemiC;Malignani;Udine;580;11;UD
+2018;Finale;Marinelli;Udine;778;9;UD
+2019;SemiC;Marinelli;Udine;627;5;UD
+2019;Finale;Marinelli;Udine;812;3;UD
+2020;SemiB;Malignani;Udine;294;21;UD
+2020;SemiA;Marinelli;Udine;661;9;UD
+2020;FinaleF;Marinelli;Udine;967;11;UD
+2021;SemiE;Malignani;Udine;643;12;UD
+2021;SemiB;Marinelli;Udine;1210;2;UD
+2021;Finale;Marinelli;Udine;492;32;UD
+2022;SemiA;Marinelli;Udine;521;8;UD
+2022;SemiA;Malignani;Udine;278;18;UD
+2023;SemiD;Malignani;Udine;575;9;UD
+2023;SemiC;Marinelli;Udine;453;11;UD
+2023;FinaleF;Marinelli;Udine;518;15;UD
+2023;FinaleF;Malignani;Udine;499;18;UD
+2024;SemiA;Marinelli;Udine;808;8;UD
+2024;SemiA;Malignani;Udine;674;15;UD
+2024;SemiA;Stellini;Udine;463;25;UD
+2006;SemiB;Copernico;Udine;431;8;UD
+2006;Finale;Copernico;Udine;648;5;UD
+2007;SemiA;Copernico;Udine;469;13;UD
+2024;Finale;Marinelli;Udine;577;30;UD
+2007;Finale;Copernico;Udine;837;6;UD
+2009;SemiB;Copernico;Udine;283;31;UD
+2011;SemiC;Copernico;Udine;685;1;UD
+2011;Finale;Copernico;Udine;464;26;UD
+2025;SemiC;Malignani;Udine;675;14;UD
+2025;SemiC;Marinelli;Udine;542;20;UD
+2012;SemiA;Copernico;Udine;346;17;UD
+2014;SemiC;Copernico;Udine;768;4;UD
+2014;Finale;Copernico;Udine;554;23;UD
+2015;SemiB;Copernico;Udine;702;5;UD
+2015;Finale;Copernico;Udine;755;20;UD
+2016;SemiA;Copernico;Udine;463;11;UD
+2017;SemiB;Copernico;Udine;712;4;UD
+2025;FinaleF;Malignani;Udine;402;31;UD
+2017;Finale;Copernico;Udine;445;28;UD
+2018;SemiD;Copernico;Udine;387;19;UD
+2019;SemiA;Copernico;Udine;450;11;UD
+2020;SemiB;Copernico;Udine;533;10;UD
+2020;FinaleF;Copernico;Udine;936;12;UD
+2026;SemiD;Malignani;Udine;965;6;UD
+2021;SemiE;Copernico;Udine;679;11;UD
+2022;SemiD;Copernico;Udine;584;10;UD
+2022;FinaleF;Copernico;Udine;487;18;UD
+2023;SemiA;Copernico;Udine;660;7;UD
+2026;SemiC;Marinelli;Udine;685;12;UD
+2023;FinaleF;Copernico;Udine;413;20;UD
+2023;Finale;Copernico;Udine;509;26;UD
+2024;SemiB;Copernico;Udine;981;4;UD
+2024;FinaleF;Copernico;Udine;986;10;UD
+2024;Finale;Copernico;Udine;1252;6;UD
+2025;SemiB;Copernico;Udine;842;8;UD
+2025;FinaleF;Copernico;Udine;823;14;UD
+2025;Finale;Copernico;Udine;1072;10;UD
+2026;SemiB;Copernico;Udine;923;8;UD
+2026;FinaleF;Malignani;Udine;1521;2;UD
+2026;FinaleF;Copernico;Udine;528;34;UD
+2026;Finale;Copernico;Udine;847;23;UD
+2026;Finale;Malignani;Udine;1138;9;UD
+2013;SemiD;Mattei;Urbino;97;28;PU
+2011;SemiB;Trissino;Valdagno;668;6;VI
+2011;Finale;Trissino;Valdagno;776;13;VI
+2012;SemiB;Trissino;Valdagno;383;20;VI
+2014;SemiB;Trissino;Valdagno;285;25;VI
+2024;SemiB;Trissino;Valdagno;534;22;VI
+2025;SemiB;Trissino;Valdagno;511;23;VI
+2014;SemiC;Mattioli;Vasto;237;29;CH
+2015;SemiBL;Mattioli;Vasto;230;29;CH
+2020;SemiC;Mattioli;Vasto;296;20;CH
+2014;SemiB;Landi;Velletri;431;14;RM
+2015;SemiB;Landi;Velletri;663;8;RM
+2015;Finale;Landi;Velletri;922;6;RM
+2016;SemiA;Landi;Velletri;337;22;RM
+2017;SemiA;Landi;Velletri;1021;1;RM
+2017;Finale;Landi;Velletri;897;3;RM
+2021;SemiF;Landi;Velletri;413;22;RM
+2021;SemiC;Giordano;Venafro;180;36;IS
+2021;SemiC;Juvarra;Venaria Reale;333;27;TO
+2024;SemiB;Juvarra;Venaria Reale;374;30;TO
+2025;SemiC;Juvarra;Venaria Reale;795;12;TO
+2026;SemiA;Juvarra;Venaria Reale;907;6;TO
+2026;Finale;Juvarra;Venaria Reale;679;30;TO
+2018;SemiB;Bruno-Franchetti;Venezia;98;28;VE
+2005;SemiB;Aprosio;Ventimiglia;70;22;IM
+2005;SemiB;Cobianchi;Verbania;94;21;VB
+2005;SemiA;Cavalieri;Verbania;100;18;VB
+2006;SemiB;Cavalieri;Verbania;473;5;VB
+2006;SemiB;Cobianchi;Verbania;208;25;VB
+2006;Finale;Cavalieri;Verbania;655;4;VB
+2007;SemiB;Cavalieri;Verbania;618;3;VB
+2007;Finale;Cavalieri;Verbania;744;7;VB
+2009;SemiB;Cobianchi;Verbania;93;36;VB
+2013;SemiD;Cobianchi;Verbania;111;25;VB
+2014;SemiD;Cavalieri;Verbania;307;28;VB
+2019;SemiC;Cavalieri;Verbania;50;27;VB
+2026;SemiA;Cobianchi;Verbania;758;13;VB
+2005;SemiB;Fracastoro;Verona;213;7;VR
+2005;SemiA;Galilei;Verona;233;8;VR
+2005;Finale;Galilei;Verona;441;12;VR
+2005;Finale;Fracastoro;Verona;208;21;VR
+2006;SemiB;Galilei;Verona;319;14;VR
+2006;Finale;Galilei;Verona;414;23;VR
+2007;SemiB;Galilei;Verona;477;11;VR
+2007;Finale;Galilei;Verona;650;11;VR
+2008;SemiA;Galilei;Verona;554;10;VR
+2008;Finale;Galilei;Verona;353;28;VR
+2009;SemiB;Galilei;Verona;750;2;VR
+2009;SemiB;Fracastoro;Verona;368;22;VR
+2009;Finale;Galilei;Verona;630;13;VR
+2010;SemiB;Galilei;Verona;421;21;VR
+2013;SemiD;Fracastoro;Verona;344;15;VR
+2014;SemiD;Galilei;Verona;488;16;VR
+2015;SemiB;Galilei;Verona;433;17;VR
+2016;SemiC;Galilei;Verona;468;15;VR
+2017;SemiB;Galilei;Verona;404;18;VR
+2018;SemiB;Galilei;Verona;470;11;VR
+2019;SemiA;Galilei;Verona;476;8;VR
+2019;Finale;Galilei;Verona;617;11;VR
+2020;SemiA;Galilei;Verona;571;11;VR
+2021;SemiA;Galilei;Verona;631;14;VR
+2021;FinaleF;Galilei;Verona;206;27;VR
+2022;FinaleF;Galilei;Verona;262;24;VR
+2023;SemiA;Galilei;Verona;196;26;VR
+2024;SemiC;Galilei;Verona;668;19;VR
+2025;SemiB;Galilei;Verona;460;26;VR
+2014;SemiA;Messedaglia;Verona;501;15;VR
+2016;SemiB;Copernico;Verona;460;11;VR
+2017;SemiC;Messadaglia [F];Verona;145;29;VR
+2018;FinaleF;Messedaglia;Verona;494;19;VR
+2019;SemiD;Messedaglia;Verona;269;15;VR
+2021;SemiA;Messedaglia;Verona;526;19;VR
+2022;SemiD;Messedaglia;Verona;455;13;VR
+2024;SemiB;Messedaglia;Verona;525;24;VR
+2009;SemiB;Barsanti e Matteucci;Viareggio;520;11;LU
+2009;Finale;Barsanti e Matteucci;Viareggio;351;29;LU
+2012;SemiA;Barsanti e Matteucci;Viareggio;123;31;LU
+2013;SemiA;Barsanti e Matteucci;Viareggio;155;28;LU
+2014;SemiA;Barsanti e Matteucci;Viareggio;455;17;LU
+2015;SemiB;Barsanti e Matteucci;Viareggio;386;20;LU
+2019;SemiA;Barsanti e Matteucci;Viareggio;187;25;LU
+2021;SemiB;Barsanti e Matteucci;Viareggio;445;25;LU
+2012;SemiB;Quadri;Vicenza;487;12;VI
+2013;SemiB;Quadri;Vicenza;583;6;VI
+2013;Finale;Quadri;Vicenza;394;24;VI
+2014;SemiD;Quadri;Vicenza;372;24;VI
+2015;SemiB;Quadri;Vicenza;734;4;VI
+2015;SemiA;Lioy;Vicenza;550;13;VI
+2015;Finale;Quadri;Vicenza;896;8;VI
+2016;SemiA;Quadri;Vicenza;446;12;VI
+2018;SemiD;Quadri;Vicenza;446;16;VI
+2020;SemiC;Quadri;Vicenza;655;7;VI
+2021;SemiF;Rossi;Vicenza;544;17;VI
+2021;SemiF;Pigafetta;Vicenza;542;18;VI
+2021;SemiD;Fogazzaro;Vicenza;699;9;VI
+2021;SemiD;Lioy;Vicenza;400;29;VI
+2021;SemiC;Quadri;Vicenza;1159;3;VI
+2021;FinaleF;Quadri;Vicenza;597;19;VI
+2021;Finale;Quadri;Vicenza;518;29;VI
+2022;SemiD;Quadri;Vicenza;867;2;VI
+2022;SemiA;Lioy;Vicenza;431;11;VI
+2022;FinaleF;Quadri;Vicenza;699;6;VI
+2022;FinaleF;Lioy;Vicenza;533;13;VI
+2022;Finale;Quadri;Vicenza;694;6;VI
+2023;SemiD;Quadri;Vicenza;625;6;VI
+2023;SemiB;Lioy;Vicenza;590;6;VI
+2023;FinaleF;Lioy;Vicenza;500;17;VI
+2023;Finale;Quadri;Vicenza;820;6;VI
+2023;Finale;Lioy;Vicenza;646;17;VI
+2024;SemiD;Quadri;Vicenza;1360;1;VI
+2024;SemiD;Lioy;Vicenza;667;13;VI
+2024;SemiA;Rossi;Vicenza;572;21;VI
+2024;Finale;Quadri;Vicenza;1088;8;VI
+2025;SemiD;Rossi;Vicenza;696;10;VI
+2025;SemiB;Quadri;Vicenza;896;7;VI
+2025;FinaleF;Quadri;Vicenza;856;12;VI
+2025;Finale;Quadri;Vicenza;826;18;VI
+2026;SemiB;Quadri;Vicenza;968;5;VI
+2026;SemiA;Lioy;Vicenza;757;14;VI
+2026;FinaleF;Quadri;Vicenza;1122;12;VI
+2026;Finale;Quadri;Vicenza;1000;14;VI
+2016;SemiA;Cairoli;Vigevano;667;2;PV
+2016;Finale;Cairoli;Vigevano;420;25;PV
+2018;SemiC;Cairoli;Vigevano;333;24;PV
+2020;SemiD;Cairoli;Vigevano;301;22;PV
+2022;SemiB;Cairoli;Vigevano;364;14;PV
+2023;SemiD;Cairoli;Vigevano;493;12;PV
+2024;SemiC;Paradisi;Vignola;215;32;MO
+2023;SemiA;Medi;Villafranca di Verona;196;27;VR
+2024;SemiD;Medi;Villafranca di Verona;291;31;VR
+2026;SemiD;Medi;Villafranca di Verona;578;17;VR
+2025;SemiD;Planck;Villorba;447;21;TV
+2018;SemiC;Banfi;Vimercate;599;9;MB
+2019;SemiB;Banfi;Vimercate;139;24;MB
+2021;SemiA;Banfi;Vimercate;579;16;MB
+2024;SemiC;Banfi;Vimercate;621;22;MB
+2025;SemiB;Banfi;Vimercate;531;22;MB
+2024;SemiD;Ruffini;Viterbo;832;8;VT
+2024;Finale;Ruffini;Viterbo;613;27;VT
+2026;SemiA;Ruffini;Viterbo;630;19;VT
+2007;SemiA;Liceo;Vittoria;313;23;RG
+2008;SemiB;Cannizzaro;Vittoria;528;13;RG
+2008;Finale;Cannizzaro;Vittoria;654;10;RG
+2021;SemiB;Mazzini;Vittoria;180;37;RG
+2005;SemiB;Flaminio;Vittorio Veneto;192;10;TV
+2005;Finale;Flaminio;Vittorio Veneto;227;18;TV
+2006;SemiA;Flaminio;Vittorio Veneto;148;29;TV
+2017;SemiC;Flaminio;Vittorio Veneto;339;19;TV
+2021;SemiD;Flaminio;Vittorio Veneto;304;33;TV
+2021;SemiA;Carducci;Volterra;180;38;PI
+2009;SemiA;Colle dei frati;Zagarolo;322;28;RM
+2012;SemiC;Borsellino-Falcone;Zagarolo;307;28;RM
+2021;SemiE;Borsellino-Falcone;Zagarolo;607;14;RM
+2023;SemiA;Borsellino-Falcone;Zagarolo;504;10;RM
+2024;SemiB;Borsellino-Falcone;Zagarolo;620;17;RM
+2026;SemiD;Borsellino-Falcone;Zagarolo;658;15;RM
