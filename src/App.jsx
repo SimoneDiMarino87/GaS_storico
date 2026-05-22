@@ -15,8 +15,6 @@ export default function App() {
   
   const { profili } = data || {};
 
-  const [scuolaSelezionata, setScuolaSelezionata] = useState("");
-
   useEffect(() => {
     // read tab from url path on first load (respecting any base path)
     try {
@@ -24,25 +22,17 @@ export default function App() {
       const last = pathParts[pathParts.length - 1];
       const allowed = ['scuola', 'classifiche', 'albo', 'tabella'];
       if (allowed.includes(last)) setActiveTab(last);
+      else if (pathParts.includes('scuola')) setActiveTab('scuola');
     } catch (e) {
       // ignore
     }
 
     get_data().then(d => {
       setData(d);
-      const entries = Object.entries(d.profiliScuole || {});
-      if (entries.length > 0) {
-        const id_scuola = entries[0][0];
-        setScuolaSelezionata(id_scuola);
-      }
     });
   }, []);
 
-  const handleNavigaAScuola = (idScuola) => {
-    setScuolaSelezionata(idScuola);
-    setTab('scuola');
-    window.scrollTo({ top: 0, behavior: 'smooth' }); 
-  };
+  
 
   // central setter that also updates the URL (no reload)
   const setTab = (tab) => {
@@ -54,6 +44,11 @@ export default function App() {
       // remove trailing tab segment if present
       const last = pathParts[pathParts.length - 1];
       if (allowed.includes(last)) pathParts.pop();
+      // also remove any existing `/scuola/<id>` segment to avoid preserving school id when switching tabs
+      const scuolaIndex = pathParts.findIndex(p => p === 'scuola');
+      if (scuolaIndex !== -1) {
+        pathParts.splice(scuolaIndex, 2);
+      }
       const basePath = '/' + pathParts.join('/');
       const newPath = (basePath === '/' ? '' : basePath) + '/' + tab;
       window.history.replaceState({}, '', newPath + window.location.search + window.location.hash);
@@ -67,8 +62,8 @@ export default function App() {
       <Header activeTab={activeTab} setActiveTab={setTab} />
       <main className="max-w-5xl mx-auto px-4 py-8" style={{ maxWidth: '1024px', margin: '0 auto', padding: '32px 16px' }}>
         { !data && <div>Caricamento dati...</div> }
-        { data && activeTab === 'scuola' && <VistaStoricoScuola data={data} scuolaSelezionata={scuolaSelezionata} setScuolaSelezionata={setScuolaSelezionata} />}
-        { data && activeTab === 'classifiche' && <VistaClassifiche data={data} goToSchool={handleNavigaAScuola} />}
+        { data && activeTab === 'scuola' && <VistaStoricoScuola data={data} />}
+        { data && activeTab === 'classifiche' && <VistaClassifiche data={data} />}
         { data && activeTab === 'albo' && <VistaAlboOro data={data} />}
         { data && activeTab === 'tabella' && <VistaTabella data={data} />} 
       </main>

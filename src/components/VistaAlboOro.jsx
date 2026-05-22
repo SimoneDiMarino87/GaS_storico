@@ -1,6 +1,12 @@
 import { useState, useMemo } from 'react';
 import { Award, ListOrdered } from 'lucide-react';
 
+function renderScuolaLink(profiliScuole, id_scuola) {
+  const scuola = profiliScuole?.[id_scuola];
+  if (!scuola) return id_scuola;
+  return <a href={`./scuola/${encodeURIComponent(id_scuola)}`} className="no-underline text-slate-700 hover:no-underline" style={{ color: 'inherit', textDecoration: 'none' }}>{`${scuola.nome} (${scuola.comune})`}</a>;
+}
+
 // ============================================================================
 // COMPONENTE: ALBO D'ORO E MEDAGLIERE
 // ============================================================================
@@ -40,10 +46,9 @@ function Podi({elenco_anni, medagliati, profiliScuole, titolo}) {
     return Object.values(mappa).sort((a,b) => b.anno - a.anno);
   }, [medagliati]);
 
+  // local wrapper using shared helper
   function renderScuola(id_scuola) {
-    const scuola = profiliScuole[id_scuola];
-    if (!scuola) return id_scuola;
-    return `${scuola.nome} (${scuola.comune})`;
+    return renderScuolaLink(profiliScuole, id_scuola);
   }
 
   return (
@@ -150,10 +155,7 @@ function Medagliere({medagliati, profiliScuole}) {
                   {idx + 1}
                 </td>
                 <td className="p-3 font-medium text-slate-700" style={{ padding: '12px', fontWeight: 500, color: '#334155' }}>
-                  {profiliScuole[row.id_scuola]?.nome || row.id_scuola} 
-                  <span className="text-xs text-slate-400 font-normal ml-1" style={{ fontSize: '12px', color: '#94a3b8', fontWeight: 'normal', marginLeft: '4px' }}>
-                    ({profiliScuole[row.id_scuola]?.comune})
-                  </span>
+                  {renderScuolaLink(profiliScuole, row.id_scuola)}
                 </td>
                 <td className="p-3 text-center text-slate-500" style={{ padding: '12px', textAlign: 'center', color: '#64748b' }}>
                   {profiliScuole[row.id_scuola]?.provincia}
@@ -168,7 +170,7 @@ function Medagliere({medagliati, profiliScuole}) {
                   {row.bronzo || '-'}
                 </td>
                 <td className="p-3 text-center font-black text-blue-600 border-l border-slate-100" style={{ padding: '12px', textAlign: 'center', fontWeight: 900, color: '#2563eb', borderLeft: '1px solid #f1f5f9' }}>
-                  {(row.oro + row.arg + row.bro) || '-'}
+                  {( (row.oro || 0) + (row.argento || 0) + (row.bronzo || 0) ) || '-'}
                 </td>
               </tr>
           )}

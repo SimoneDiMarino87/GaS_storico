@@ -87,12 +87,12 @@ export default function VistaTabella({ data }) {
         <div className="overflow-x-auto" style={{ overflowX: 'auto' }}>
             <table className="w-full text-left border-collapse" style={{ width: '100%', textAlign: 'left', borderCollapse: 'collapse' }}>
             <thead>
-                <tr className="bg-slate-50 text-slate-500 text-sm uppercase tracking-wide border-b border-slate-200" style={{ backgroundColor: '#f8fafc', color: '#64748b', fontSize: '14px', textTransform: 'uppercase', borderBottom: '1px solid #e2e8f0' }}>
-                <th className="p-4 font-semibold" style={{ padding: '16px', fontWeight: 600 }}>
+                <tr className="bg-slate-50 text-slate-500 text-sm uppercase tracking-wide" style={{ backgroundColor: '#f8fafc', color: '#64748b', fontSize: '14px', textTransform: 'uppercase' }}>
+                <th className="p-4 font-semibold" style={{ padding: '16px', fontWeight: 600, border: '1px solid #e6e9ef', backgroundColor: '#f3f4f6' }}>
                     Scuola
                 </th>
                 { elenco_anni.map(anno => (
-                    <th key={anno} className="p-4 font-semibold text-center" style={{ padding: '16px', fontWeight: 600, textAlign: 'center' }}>
+                    <th key={anno} className="p-4 font-semibold text-center" style={{ padding: '16px', fontWeight: 600, textAlign: 'center', border: '1px solid #e6e9ef' }}>
                     {anno}
                     </th>
                 )) }
@@ -104,11 +104,28 @@ export default function VistaTabella({ data }) {
                     key={row.id_scuola}
                     className="hover:bg-slate-50 cursor-pointer transition-colors"
                 >
-                    <td className="p-4" style={{ padding: '16px' }}>
-                    {profiliScuole[row.id_scuola]?.nome || row.id_scuola}
-                    &nbsp;({profiliScuole[row.id_scuola]?.comune || '???'})
-                    </td>
-                    {elenco_anni.map(anno => <td key={anno} className="p-4 text-center" style={{ padding: '16px', textAlign: 'center' }}>
+                                        <td className="p-4" style={{ padding: '16px', border: '1px solid #e6e9ef', backgroundColor: '#f8fafc' }}>
+                                        {(() => {
+                                                const id = row.id_scuola;
+                                                const pathParts = window.location.pathname.split('/').filter(Boolean);
+                                                const allowed = ['scuola', 'classifiche', 'albo', 'tabella'];
+                                                const last = pathParts[pathParts.length - 1];
+                                                if (allowed.includes(last)) pathParts.pop();
+                                                const basePath = '/' + pathParts.join('/');
+                                                const href = `./scuola/${encodeURIComponent(id)}`;
+                                                return (
+                                                    <a
+                                                        href={href}
+                                                        className="text-slate-800 hover:underline"
+                                                        style={{ color: '#1e293b', textDecoration: 'none' }}
+                                                    >
+                                                        {profiliScuole[id]?.nome || id}
+                                                        &nbsp;({profiliScuole[id]?.comune || '???'})
+                                                    </a>
+                                                );
+                                        })()}
+                                        </td>
+                    {elenco_anni.map(anno => <td key={anno} className="p-4 text-center" style={{ padding: '16px', textAlign: 'center', border: '1px solid #e6e9ef' }}>
                         {display_results(row.mappa_anni[anno] || [])}
                     </td>)}
                 </tr>

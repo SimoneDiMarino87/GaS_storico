@@ -1,17 +1,44 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { Trophy, Medal, MapPin, Award, ChevronRight } from 'lucide-react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip as RechartsTooltip, ResponsiveContainer, Legend } from 'recharts';
 
 // ============================================================================
 // COMPONENTE: STORICO SCUOLA
 // ============================================================================
-export default function VistaStoricoScuola({ data, scuolaSelezionata, setScuolaSelezionata }) {
+export default function VistaStoricoScuola({ data }) {
+  // no local state for selected school; derive it from the current path
+  const [, setTick] = useState(0); // used to force re-render on popstate
   const { profiliScuole, elenco_anni, risultati } = data;
   const [categoriaGara, setCategoriaGara] = useState("Completa"); 
   
   const profiliSicuri = profiliScuole || {};
   const elencoSicuro = Object.values(profiliSicuri).map(p => ({ id_scuola: p.id, nome: p.nome, comune: p.comune }));
+
+  function getSchoolFromPath() {
+    try {
+      const path = window.location.pathname || '';
+      const match = path.match(/\/scuola\/(.+)$/);
+      if (match && match[1]) {
+        const decoded = decodeURIComponent(match[1]);
+        if (profiliScuole && profiliScuole[decoded]) return decoded;
+      }
+    } catch (e) {}
+    return null;
+  }
+
+  const scuolaSelezionata = getSchoolFromPath();
   const profilo = profiliSicuri[scuolaSelezionata];
+
+  function setSchool(id) {
+    try {
+      const pathname = window.location.pathname || '';
+      const base = pathname.replace(/\/scuola\/.+$/, '');
+      const newPath = id ? `${base.replace(/\/$/, '')}/scuola/${encodeURIComponent(id)}` : base || '/';
+      const newUrl = newPath + window.location.search + window.location.hash;
+      window.history.replaceState({}, '', newUrl);
+      setTick(t => t + 1);
+    } catch (e) {}
+  }
 
   const anniCrescenti = elenco_anni.sort((a, b) => a - b);
   
@@ -52,34 +79,44 @@ export default function VistaStoricoScuola({ data, scuolaSelezionata, setScuolaS
     }
   }, [storiaFiltrata, categoriaGara, profilo]);
 
-  if (!profilo || elencoSicuro.length === 0) {
+  if (elencoSicuro.length === 0) {
     return <div className="p-10 text-center text-slate-500 font-medium bg-white rounded-xl shadow-sm border border-slate-100">
       Attendere, caricamento dati in corso... (o file JSON vuoti)
     </div>;
   }
 
+  // initialize selected school from URL or fallback to first available
+  // force update on browser navigation so `scuolaSelezionata` is recalculated
+  useEffect(() => {
+    function onPop() { setTick(t => t + 1); }
+    window.addEventListener('popstate', onPop);
+    return () => window.removeEventListener('popstate', onPop);
+  }, []);
+
   return (
     <div className="space-y-8 animate-in fade-in duration-500">
 
-      <Filtri scuolaSelezionata={scuolaSelezionata} setScuolaSelezionata={setScuolaSelezionata} categoriaGara={categoriaGara} setCategoriaGara={setCategoriaGara} elencoSicuro={elencoSicuro} />
+      <Filtri scuolaSelezionata={scuolaSelezionata} onChangeScuola={setSchool} categoriaGara={categoriaGara} setCategoriaGara={setCategoriaGara} elencoSicuro={elencoSicuro} />
 
-      <div className="text-center" style={{ textAlign: 'center' }}>
-        <h2 className="text-3xl font-bold text-slate-800 flex justify-center items-center gap-2" style={{ fontSize: '30px', fontWeight: 'bold', color: '#1e293b', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '8px', margin: 0 }}>
-          <Trophy className="text-amber-500" size={32} color="#f59e0b" /> {profilo.nome}
-        </h2>
-        <p className="text-slate-500 mt-2 flex justify-center items-center gap-1 font-medium" style={{ color: '#64748b', marginTop: '8px', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '4px', fontWeight: 500 }}>
-          <MapPin size={16} /> {profilo.comune} ({profilo.provincia})
-        </p>
-      </div>
+      {profilo ? (
+        <>
+          <div className="text-center" style={{ textAlign: 'center' }}>
+            <h2 className="text-3xl font-bold text-slate-800 flex justify-center items-center gap-2" style={{ fontSize: '30px', fontWeight: 'bold', color: '#1e293b', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '8px', margin: 0 }}>
+              <Trophy className="text-amber-500" size={32} color="#f59e0b" /> {profilo.nome}
+            </h2>
+            <p className="text-slate-500 mt-2 flex justify-center items-center gap-1 font-medium" style={{ color: '#64748b', marginTop: '8px', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '4px', fontWeight: 500 }}>
+              <MapPin size={16} /> {profilo.comune} ({profilo.provincia})
+            </p>
+          </div>
 
-      <Podi stats={stats} categoriaGara={categoriaGara} />
+          <Podi stats={stats} categoriaGara={categoriaGara} />
 
-      <Andamento storiaFiltrata={storiaFiltrata} categoriaGara={categoriaGara} />
+          <Andamento storiaFiltrata={storiaFiltrata} categoriaGara={categoriaGara} />
 
-      <div className="bg-white rounded-xl shadow-sm border border-slate-100 overflow-hidden mt-8" style={{ backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', overflow: 'hidden', marginTop: '32px' }}>
-        <h3 className="bg-slate-50 p-4 font-bold text-slate-800 border-b border-slate-200" style={{ backgroundColor: '#f8fafc', padding: '16px', fontWeight: 'bold', color: '#1e293b', borderBottom: '1px solid #e2e8f0', margin: 0 }}>Dettaglio Risultati</h3>
-        <div className="overflow-x-auto" style={{ overflowX: 'auto' }}>
-          <table className="w-full text-left border-collapse text-sm" style={{ width: '100%', textAlign: 'left', borderCollapse: 'collapse', fontSize: '14px' }}>
+          <div className="bg-white rounded-xl shadow-sm border border-slate-100 overflow-hidden mt-8" style={{ backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', overflow: 'hidden', marginTop: '32px' }}>
+            <h3 className="bg-slate-50 p-4 font-bold text-slate-800 border-b border-slate-200" style={{ backgroundColor: '#f8fafc', padding: '16px', fontWeight: 'bold', color: '#1e293b', borderBottom: '1px solid #e2e8f0', margin: 0 }}>Dettaglio Risultati</h3>
+            <div className="overflow-x-auto" style={{ overflowX: 'auto' }}>
+              <table className="w-full text-left border-collapse text-sm" style={{ width: '100%', textAlign: 'left', borderCollapse: 'collapse', fontSize: '14px' }}>
             <thead>
               <tr className="bg-white text-slate-500 uppercase tracking-wider border-b-2 border-slate-200" style={{ borderBottom: '2px solid #e2e8f0', color: '#64748b', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
                 <th className="p-4 font-semibold w-24" style={{ padding: '16px', fontWeight: 600, width: '96px' }}>Anno</th>
@@ -153,6 +190,8 @@ export default function VistaStoricoScuola({ data, scuolaSelezionata, setScuolaS
           </table>
         </div>
       </div>
+        </>
+      ) : null}
     </div>
   );
 };
@@ -191,11 +230,12 @@ function CustomTooltip({ active, payload, label, categoriaGara }) {
   );
 }
 
-function Filtri({scuolaSelezionata, setScuolaSelezionata, categoriaGara, setCategoriaGara, elencoSicuro}) {
+function Filtri({scuolaSelezionata, onChangeScuola, categoriaGara, setCategoriaGara, elencoSicuro}) {
   return <div className="flex flex-col sm:flex-row gap-4 justify-center items-center bg-white p-4 rounded-xl shadow-sm border border-slate-100" style={{ display: 'flex', gap: '16px', justifyContent: 'center', backgroundColor: 'white', padding: '16px', borderRadius: '12px', border: '1px solid #f1f5f9' }}>
     <div className="flex flex-col w-full sm:w-auto" style={{ display: 'flex', flexDirection: 'column' }}>
       <label className="text-xs font-semibold text-slate-500 uppercase tracking-wider mb-1" style={{ fontSize: '12px', fontWeight: 600, color: '#64748b', textTransform: 'uppercase', marginBottom: '4px' }}>Cerca Scuola</label>
-      <select value={scuolaSelezionata} onChange={e => setScuolaSelezionata(e.target.value)} className="p-2.5 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-slate-50 min-w-[250px] transition-all" style={{ padding: '10px', borderRadius: '8px', border: '1px solid #cbd5e1', backgroundColor: '#f8fafc', minWidth: '250px' }}>
+      <select value={scuolaSelezionata || ''} onChange={e => onChangeScuola(e.target.value || null)} className="p-2.5 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-slate-50 min-w-[250px] transition-all" style={{ padding: '10px', borderRadius: '8px', border: '1px solid #cbd5e1', backgroundColor: '#f8fafc', minWidth: '250px' }}>
+        <option value="">Seleziona scuola</option>
         {elencoSicuro.map(s => <option key={s.id_scuola} value={s.id_scuola}>{s.nome} ({s.comune})</option>)}
       </select>
     </div>

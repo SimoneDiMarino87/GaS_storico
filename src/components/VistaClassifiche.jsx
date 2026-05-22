@@ -4,7 +4,7 @@ import { ChevronRight } from 'lucide-react';
 // ============================================================================
 // COMPONENTE: CLASSIFICHE ANNUALI
 // ============================================================================
-export default function VistaClassifiche({ data, goToSchool }) {
+export default function VistaClassifiche({ data }) {
   const {profiliScuole, risultati, elenco_anni } = data;
   const [annoSel, setAnnoSel] = useState("2026");
   const [catSel, setCatSel] = useState("Finale Mista");
@@ -60,17 +60,28 @@ export default function VistaClassifiche({ data, goToSchool }) {
                 {classifica.map((row, idx) => (
                   <tr 
                     key={idx} 
-                    onClick={() => goToSchool(row.id_scuola)}
-                    className="hover:bg-blue-50 cursor-pointer transition-colors group"
-                    title="Clicca per vedere lo storico della scuola"
-                    style={{ cursor: 'pointer', borderBottom: '1px solid #f1f5f9' }}
+                    className="hover:bg-blue-50 transition-colors group"
+                    style={{ borderBottom: '1px solid #f1f5f9' }}
                   >
                     <td className="p-4 text-center font-bold text-slate-700" style={{ padding: '16px', textAlign: 'center', fontWeight: 'bold', color: '#334155' }}>
                       {row.posizione === 1 ? '🥇' : row.posizione === 2 ? '🥈' : row.posizione === 3 ? '🥉' : `${row.posizione}°`}
                     </td>
                     <td className="p-4 font-medium text-blue-700 flex items-center justify-between" style={{ padding: '16px', fontWeight: 500, color: '#1d4ed8', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                      {`${profiliScuole[row.id_scuola]?.nome || '???'} (${profiliScuole[row.id_scuola]?.comune || '???'})`}
-                      <ChevronRight size={16} className="text-blue-300 opacity-50" color="#93c5fd" />
+                      {(() => {
+                        const id = row.id_scuola;
+                        const pathParts = window.location.pathname.split('/').filter(Boolean);
+                        const allowed = ['scuola', 'classifiche', 'albo', 'tabella'];
+                        const last = pathParts[pathParts.length - 1];
+                        if (allowed.includes(last)) pathParts.pop();
+                        const basePath = '/' + pathParts.join('/');
+                        const href = `./scuola/${encodeURIComponent(id)}`;
+                        return (
+                          <a href={href} className="text-slate-800 hover:underline" style={{ color: '#1d293b', textDecoration: 'none', display: 'flex', justifyContent: 'space-between', alignItems: 'center', width: '100%' }}>
+                            <span>{`${profiliScuole[id]?.nome || '???'} (${profiliScuole[id]?.comune || '???'})`}</span>
+                            <ChevronRight size={16} className="text-blue-300 opacity-50" color="#93c5fd" />
+                          </a>
+                        );
+                      })()}
                     </td>
                     {catSel === 'Semifinale' && <td className="p-4 text-center text-slate-500" style={{ padding: '16px', textAlign: 'center', color: '#64748b' }}>
                       {{"SemiA":"A","SemiB":"B","SemiC":"C","SemiD":"D"}[row.gara] || row.gara}
