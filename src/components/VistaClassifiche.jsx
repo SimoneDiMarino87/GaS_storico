@@ -42,16 +42,16 @@ export default function VistaClassifiche({ data }) {
             <table className="w-full text-left border-collapse" style={{ width: '100%', textAlign: 'left', borderCollapse: 'collapse' }}>
               <thead>
                 <tr className="bg-slate-50 text-slate-500 text-sm uppercase tracking-wide border-b border-slate-200" style={{ backgroundColor: '#f8fafc', color: '#64748b', fontSize: '14px', textTransform: 'uppercase', borderBottom: '1px solid #e2e8f0' }}>
-                  <th className="p-4 font-semibold w-20 text-center" style={{ padding: '16px', fontWeight: 600, textAlign: 'center' }}>
+                  <th className="p-2 font-semibold w-20 text-center" style={{ padding: '8px', fontWeight: 600, textAlign: 'center' }}>
                     Pos.
                   </th>
-                  <th className="p-4 font-semibold" style={{ padding: '16px', fontWeight: 600 }}>
+                  <th className="p-2 font-semibold" style={{ padding: '8px', fontWeight: 600 }}>
                     Scuola
                   </th>
-                  {catSel === 'Semifinale' && <th className="p-4 font-semibold text-center" style={{ padding: '16px', fontWeight: 600, textAlign: 'center' }}>
+                  {catSel === 'Semifinale' && <th className="p-2 font-semibold text-center" style={{ padding: '8px', fontWeight: 600, textAlign: 'center' }}>
                     Girone
                   </th>}
-                  <th className="p-4 font-semibold text-right" style={{ padding: '16px', fontWeight: 600, textAlign: 'right' }}>
+                  <th className="p-2 font-semibold text-right" style={{ padding: '8px', fontWeight: 600, textAlign: 'right' }}>
                     Punti
                   </th>
                 </tr>
@@ -63,10 +63,10 @@ export default function VistaClassifiche({ data }) {
                     className="hover:bg-blue-50 transition-colors group"
                     style={{ borderBottom: '1px solid #f1f5f9' }}
                   >
-                    <td className="p-4 text-center font-bold text-slate-700" style={{ padding: '16px', textAlign: 'center', fontWeight: 'bold', color: '#334155' }}>
+                    <td className="p-2 text-center font-bold text-slate-700" style={{ padding: '8px', textAlign: 'center', fontWeight: 'bold', color: '#334155' }}>
                       {row.posizione === 1 ? '🥇' : row.posizione === 2 ? '🥈' : row.posizione === 3 ? '🥉' : `${row.posizione}°`}
                     </td>
-                    <td className="p-4 font-medium text-blue-700 flex items-center justify-between" style={{ padding: '16px', fontWeight: 500, color: '#1d4ed8', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                    <td className="p-2 font-medium text-blue-700 flex items-center justify-between" style={{ padding: '8px', fontWeight: 500, color: '#1d4ed8', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                       {(() => {
                         const id = row.id_scuola;
                         const pathParts = window.location.pathname.split('/').filter(Boolean);
@@ -83,10 +83,10 @@ export default function VistaClassifiche({ data }) {
                         );
                       })()}
                     </td>
-                    {catSel === 'Semifinale' && <td className="p-4 text-center text-slate-500" style={{ padding: '16px', textAlign: 'center', color: '#64748b' }}>
+                    {catSel === 'Semifinale' && <td className="p-2 text-center text-slate-500" style={{ padding: '8px', textAlign: 'center', color: '#64748b' }}>
                       {{"SemiA":"A","SemiB":"B","SemiC":"C","SemiD":"D"}[row.gara] || row.gara}
                     </td>}
-                    <td className="p-4 text-right font-mono font-bold text-slate-600" style={{ padding: '16px', textAlign: 'right', fontFamily: 'monospace', fontWeight: 'bold', color: '#475569' }}>
+                    <td className="p-2 text-right font-mono font-bold text-slate-600" style={{ padding: '8px', textAlign: 'right', fontFamily: 'monospace', fontWeight: 'bold', color: '#475569' }}>
                       {row.punti}
                     </td>
                   </tr>

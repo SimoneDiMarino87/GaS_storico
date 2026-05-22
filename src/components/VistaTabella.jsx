@@ -59,13 +59,13 @@ export default function VistaTabella({ data }) {
 
     return (
         <div className="bg-white rounded-xl shadow-sm border border-slate-100 overflow-hidden animate-in fade-in duration-500" style={{ backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', overflow: 'hidden' }}>
-        <div className="flex flex-col sm:flex-row gap-4 justify-between items-center bg-white p-4 rounded-xl shadow-sm border border-slate-100" style={{ display: 'flex', justifyContent: 'space-between', backgroundColor: 'white', padding: '16px', borderRadius: '12px', border: '1px solid #f1f5f9' }}>
+        <div className="flex flex-col sm:flex-row gap-4 justify-between items-center bg-white p-2 rounded-xl shadow-sm border border-slate-100" style={{ display: 'flex', justifyContent: 'space-between', backgroundColor: 'white', padding: '8px', borderRadius: '12px', border: '1px solid #f1f5f9' }}>
             <div className="flex gap-4 w-full sm:w-auto" style={{ display: 'flex', gap: '16px' }}>
             <div className="flex flex-col w-1/2 sm:w-auto" style={{ display: 'flex', flexDirection: 'column' }}>
                 <label className="text-xs font-semibold text-slate-500 uppercase mb-1" style={{ fontSize: '12px', fontWeight: 600, color: '#64748b', textTransform: 'uppercase', marginBottom: '4px' }}>
                     Categoria
                 </label>
-                <select value={garaSel} onChange={e => setGaraSel(e.target.value)} className="p-2 rounded-lg border border-slate-300 bg-slate-50" style={{ padding: '8px', borderRadius: '8px', border: '1px solid #cbd5e1', backgroundColor: '#f8fafc' }}>
+                <select value={garaSel} onChange={e => setGaraSel(e.target.value)} className="p-2 rounded-lg border border-slate-300 bg-slate-50" style={{ padding: '6px', borderRadius: '8px', border: '1px solid #cbd5e1', backgroundColor: '#f8fafc' }}>
                 <option value="Finale">Finale Mista</option>
                 <option value="FinaleF">Finale Femminile</option>
                 <option value="Semifinale">Semifinale</option>
@@ -76,7 +76,7 @@ export default function VistaTabella({ data }) {
                 <label className="text-xs font-semibold text-slate-500 uppercase mb-1" style={{ fontSize: '12px', fontWeight: 600, color: '#64748b', textTransform: 'uppercase', marginBottom: '4px' }}>
                     Provincia
                 </label>
-                <select value={provinciaSel} onChange={e => setProvinciaSel(e.target.value)} className="p-2 rounded-lg border border-slate-300 bg-slate-50" style={{ padding: '8px', borderRadius: '8px', border: '1px solid #cbd5e1', backgroundColor: '#f8fafc' }}>
+                <select value={provinciaSel} onChange={e => setProvinciaSel(e.target.value)} className="p-2 rounded-lg border border-slate-300 bg-slate-50" style={{ padding: '6px', borderRadius: '8px', border: '1px solid #cbd5e1', backgroundColor: '#f8fafc' }}>
                 <option value="">Tutte</option>
                 {elenco_province.map(prov => <option key={prov} value={prov}>{prov}</option>)}
                 </select>
@@ -88,11 +88,11 @@ export default function VistaTabella({ data }) {
             <table className="w-full text-left border-collapse" style={{ width: '100%', textAlign: 'left', borderCollapse: 'collapse' }}>
             <thead>
                 <tr className="bg-slate-50 text-slate-500 text-sm uppercase tracking-wide" style={{ backgroundColor: '#f8fafc', color: '#64748b', fontSize: '14px', textTransform: 'uppercase' }}>
-                <th className="p-4 font-semibold" style={{ padding: '16px', fontWeight: 600, border: '1px solid #e6e9ef', backgroundColor: '#f3f4f6' }}>
+                <th className="p-2 font-semibold" style={{ padding: '8px', fontWeight: 600, border: '1px solid #e6e9ef', backgroundColor: '#f3f4f6' }}>
                     Scuola
                 </th>
                 { elenco_anni.map(anno => (
-                    <th key={anno} className="p-4 font-semibold text-center" style={{ padding: '16px', fontWeight: 600, textAlign: 'center', border: '1px solid #e6e9ef' }}>
+                    <th key={anno} className="p-2 font-semibold text-center" style={{ padding: '8px', fontWeight: 600, textAlign: 'center', border: '1px solid #e6e9ef' }}>
                     {anno}
                     </th>
                 )) }
@@ -104,7 +104,7 @@ export default function VistaTabella({ data }) {
                     key={row.id_scuola}
                     className="hover:bg-slate-50 cursor-pointer transition-colors"
                 >
-                                        <td className="p-4" style={{ padding: '16px', border: '1px solid #e6e9ef', backgroundColor: '#f8fafc' }}>
+                                        <td className="p-2" style={{ padding: '8px', border: '1px solid #e6e9ef', backgroundColor: '#f8fafc' }}>
                                         {(() => {
                                                 const id = row.id_scuola;
                                                 const pathParts = window.location.pathname.split('/').filter(Boolean);
@@ -117,15 +117,16 @@ export default function VistaTabella({ data }) {
                                                     <a
                                                         href={href}
                                                         className="text-slate-800 hover:underline"
-                                                        style={{ color: '#1e293b', textDecoration: 'none' }}
+                                                        style={{ color: '#1e293b', textDecoration: 'none', display: 'block', overflow: 'hidden' }}
                                                     >
-                                                        {profiliScuole[id]?.nome || id}
-                                                        &nbsp;({profiliScuole[id]?.comune || '???'})
+                                                        <span style={{ display: 'inline-block', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', maxWidth: '100%' }}>
+                                                            {`${profiliScuole[id]?.nome || id} (${profiliScuole[id]?.comune || '???'})`}
+                                                        </span>
                                                     </a>
                                                 );
                                         })()}
                                         </td>
-                    {elenco_anni.map(anno => <td key={anno} className="p-4 text-center" style={{ padding: '16px', textAlign: 'center', border: '1px solid #e6e9ef' }}>
+                    {elenco_anni.map(anno => <td key={anno} className="p-2 text-center" style={{ padding: '8px', textAlign: 'center', border: '1px solid #e6e9ef' }}>
                         {display_results(row.mappa_anni[anno] || [])}
                     </td>)}
                 </tr>
