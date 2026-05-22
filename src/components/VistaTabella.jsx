@@ -5,13 +5,44 @@ export default function VistaTabella({ data }) {
     const [ garaSel, setGaraSel] = useState("Finale");
     const [ provinciaSel, setProvinciaSel ] = useState("");
 
-    const garaSelezionata = garaSel === "Finale,Semifinale"
-        ? (r => r.gara === "Finale" || r.categoria === "Semifinale")
-        : garaSel 
-            ? (r => r.gara === garaSel) 
-            : () => true;
+    const filtroGara = {   
+        "Finale,Semifinale": (r => r.gara === "Finale" || r.categoria === "Semifinale"),
+        "Finale": (r => r.gara === "Finale"),
+        "FinaleF": (r => r.gara === "FinaleF"),
+        "Semifinale": (r => r.categoria === "Semifinale") 
+    }[garaSel] || (() => true);
 
-    const risultatiFiltrati = useMemo(() => risultati.filter(r => garaSelezionata(r) && (provinciaSel==="" || profiliScuole[r.id_scuola]?.provincia === provinciaSel)), [risultati, garaSel, provinciaSel]);
+    const elenca_gare = garaSel === "Finale,Semifinale" 
+        ? (lista) => [lista.filter(r => r.gara === "Finale")[0], lista.filter(r => r.categoria === "Semifinale")[0]] 
+        : (lista) => [lista[0]];
+
+    const display_results = garaSel === "Finale,Semifinale"
+        ? (lista) => {
+            const finale = lista.filter(r => r.gara === "Finale")[0];
+            const semifinale = lista.filter(r => r.categoria === "Semifinale")[0];
+            if (!finale && !semifinale) return null;
+            const cellStyle = { fontSize: '12px', textAlign: 'center', minHeight: '20px', display: 'flex', alignItems: 'center', justifyContent: 'center' };
+            return <>
+                <div className="text-xs text-center" style={{ ...cellStyle, color: '#3b82f6' }}>
+                    {semifinale && `${semifinale.posizione}°`}
+                </div>
+                <div className="text-xs text-center" style={{ ...cellStyle, color: '#ee0505' }}>
+                    {finale && `${finale.posizione}°`}
+                </div>
+            </>
+        }
+        : (lista) => { 
+            const r = lista[0];
+            if (!r) return null;
+            const singleStyle = { fontSize: '12px', textAlign: 'center', minHeight: '20px', display: 'flex', alignItems: 'center', justifyContent: 'center', color: (r.categoria === 'Semifinale' ? '#3b82f6' : '#ee0505') };
+            return (
+            <div key={r.gara} className="text-xs text-center" style={singleStyle}>
+                {r.posizione}°
+            </div>
+        )};
+
+
+    const risultatiFiltrati = useMemo(() => risultati.filter(r => filtroGara(r) && (provinciaSel==="" || profiliScuole[r.id_scuola]?.provincia === provinciaSel)), [risultati, garaSel, provinciaSel]);
     const risultatiScuole = useMemo(() => {
         const mappa = {};
         risultatiFiltrati.forEach(r => {
@@ -68,7 +99,7 @@ export default function VistaTabella({ data }) {
                 </tr>
             </thead>
             <tbody className="divide-y divide-slate-100" style={{ borderTop: '1px solid #f1f5f9' }}>
-                {risultatiScuole.map(row => (
+                {risultatiScuole.map((row,idx) => (
                 <tr 
                     key={row.id_scuola}
                     className="hover:bg-slate-50 cursor-pointer transition-colors"
@@ -77,12 +108,8 @@ export default function VistaTabella({ data }) {
                     {profiliScuole[row.id_scuola]?.nome || row.id_scuola}
                     &nbsp;({profiliScuole[row.id_scuola]?.comune || '???'})
                     </td>
-                    {elenco_anni.map(anno => <td>
-                        {(row.mappa_anni[anno] || []).map(r => (
-                            <div key={r.gara} className="text-xs text-center" style={{ fontSize: '12px', textAlign: 'center', color: (r.categoria === 'Semifinale' ? '#3b82f6' : '#ee0505') }}>
-                                {r.posizione}°
-                            </div>
-                        ))}
+                    {elenco_anni.map(anno => <td key={anno} className="p-4 text-center" style={{ padding: '16px', textAlign: 'center' }}>
+                        {display_results(row.mappa_anni[anno] || [])}
                     </td>)}
                 </tr>
                 ))}
