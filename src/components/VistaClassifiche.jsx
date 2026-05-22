@@ -9,7 +9,7 @@ export default function VistaClassifiche({ data }) {
   const [annoSel, setAnnoSel] = useState("2026");
   const [catSel, setCatSel] = useState("Finale Mista");
 
-  const classifica = useMemo(() => risultati.filter(r => r.anno === annoSel && r.categoria === catSel).sort((a, b) => 2*(a.posizione - b.posizione)+ a.categoria.localCompare(b.categoria)), [risultati, annoSel, catSel]);
+  const classifica = useMemo(() => risultati.filter(r => r.anno === annoSel && r.categoria === catSel).sort((a, b) => a.gara.localeCompare(b.gara) || a.posizione - b.posizione), [risultati, annoSel, catSel]);
 
   return (
     <div className="space-y-6 animate-in fade-in duration-500">
