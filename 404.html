@@ -12,26 +12,28 @@
       // the original URL in the address bar so the SPA can read the path.
       (function(){
         try {
-          // Determine the repository base for project pages like /user/repo/...
-          // Use only the first two non-empty path segments as the repo root.
-          var parts = window.location.pathname.split('/').filter(function(p){ return p.length>0; });
-          var repoRoot = '/';
-          if (parts.length >= 2) repoRoot = '/' + parts.slice(0,2).join('/') + '/';
-
-          // Try to fetch the real index.html from the repo root. This keeps the
-          // original URL in the address bar so the SPA router can read it.
-          var indexUrl = repoRoot + 'index.html';
-          fetch(indexUrl, {cache: 'no-store'}).then(function(resp){
-            if (!resp.ok) throw new Error('no index');
-            return resp.text();
-          }).then(function(html){
-            document.open();
-            document.write(html);
-            document.close();
-          }).catch(function(){
-            // As a last resort, navigate to repo root (this will lose the path)
-            window.location.replace(repoRoot);
-          });
+          // Try progressively shorter path prefixes to locate index.html.
+          var segments = window.location.pathname.split('/');
+          // ensure leading empty segment for absolute path
+          if (segments.length === 0) segments = ['',''];
+          var tried = 0;
+          (function tryFetch(i){
+            if (i < 0) { window.location.replace('/'); return; }
+            var prefix = segments.slice(0, i+1).join('/');
+            if (!prefix.endsWith('/')) prefix += '/';
+            var candidate = prefix + 'index.html';
+            fetch(candidate, {cache: 'no-store'}).then(function(resp){
+              if (!resp.ok) throw new Error('no index');
+              return resp.text();
+            }).then(function(html){
+              document.open();
+              document.write(html);
+              document.close();
+            }).catch(function(){
+              tried++;
+              tryFetch(i-1);
+            });
+          })(segments.length - 1);
         } catch (e) {
           window.location.replace('/');
         }
