@@ -71,6 +71,12 @@ export default function VistaTabella({ data }) {
         return Object.entries(mappa).sort().map(([id_scuola, value]) => value);
     }, [risultatiFiltrati]);
 
+    const elenco_anni_non_vuoti = useMemo(() => {
+        const set_anni = new Set();
+        risultatiFiltrati.forEach(r => set_anni.add(r.anno));
+        return elenco_anni.filter(anno => set_anni.has(anno));
+    }, [risultatiFiltrati, elenco_anni]);
+
     return (
         <div className="bg-white rounded-xl shadow-sm border border-slate-100 overflow-hidden animate-in fade-in duration-500" style={{ backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', overflow: 'hidden' }}>
         <div className="flex flex-col sm:flex-row gap-4 justify-between items-center bg-white p-2 rounded-xl shadow-sm border border-slate-100" style={{ display: 'flex', justifyContent: 'space-between', backgroundColor: 'white', padding: '8px', borderRadius: '12px', border: '1px solid #f1f5f9' }}>
@@ -105,7 +111,7 @@ export default function VistaTabella({ data }) {
                 <th className="p-2 font-semibold" style={{ padding: '8px', fontWeight: 600, border: '1px solid #e6e9ef', backgroundColor: '#f3f4f6' }}>
                     Scuola
                 </th>
-                { elenco_anni.map(anno => (
+                { elenco_anni_non_vuoti.map(anno => (
                     <th key={anno} className="p-2 font-semibold text-center" style={{ padding: '8px', fontWeight: 600, textAlign: 'center', border: '1px solid #e6e9ef' }}>
                     {anno}
                     </th>
@@ -119,29 +125,29 @@ export default function VistaTabella({ data }) {
                     className="hover:bg-slate-50 cursor-pointer transition-colors"
                     style={{ height: '30px', minHeight: '30px', maxHeight: '30px', overflow: 'hidden' }}
                 >
-                                        <td className="p-2" style={{ padding: '0 8px', border: '1px solid #e6e9ef', backgroundColor: '#f8fafc', height: '30px', minHeight: '30px', maxHeight: '30px', overflow: 'hidden' }}>
-                                        {(() => {
-                                                const id = row.id_scuola;
-                                                const pathParts = window.location.pathname.split('/').filter(Boolean);
-                                                const allowed = ['scuola', 'classifiche', 'albo', 'tabella'];
-                                                const last = pathParts[pathParts.length - 1];
-                                                if (allowed.includes(last)) pathParts.pop();
-                                                const basePath = '/' + pathParts.join('/');
-                                                const href = `./scuola/${encodeURIComponent(id)}`;
-                                                return (
-                                                    <a
-                                                        href={href}
-                                                        className="text-slate-800 hover:underline"
-                                                        style={{ color: '#1e293b', textDecoration: 'none', display: 'block', overflow: 'hidden' }}
-                                                    >
-                                                        <span style={{ display: 'inline-block', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', maxWidth: '100%' }}>
-                                                            {`${profiliScuole[id]?.nome || id} (${profiliScuole[id]?.comune || '???'})`}
-                                                        </span>
-                                                    </a>
-                                                );
-                                        })()}
-                                        </td>
-                        {elenco_anni.map(anno => (
+                        <td className="p-2" style={{ padding: '0 8px', border: '1px solid #e6e9ef', backgroundColor: '#f8fafc', height: '30px', minHeight: '30px', maxHeight: '30px', overflow: 'hidden' }}>
+                        {(() => {
+                                const id = row.id_scuola;
+                                const pathParts = window.location.pathname.split('/').filter(Boolean);
+                                const allowed = ['scuola', 'classifiche', 'albo', 'tabella'];
+                                const last = pathParts[pathParts.length - 1];
+                                if (allowed.includes(last)) pathParts.pop();
+                                const basePath = '/' + pathParts.join('/');
+                                const href = `./scuola/${encodeURIComponent(id)}`;
+                                return (
+                                    <a
+                                        href={href}
+                                        className="text-slate-800 hover:underline"
+                                        style={{ color: '#1e293b', textDecoration: 'none', display: 'block', overflow: 'hidden' }}
+                                    >
+                                        <span style={{ display: 'inline-block', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', maxWidth: '100%' }}>
+                                            {`${profiliScuole[id]?.nome || id} (${profiliScuole[id]?.comune || '???'})`}
+                                        </span>
+                                    </a>
+                                );
+                        })()}
+                        </td>
+                        {elenco_anni_non_vuoti.map(anno => (
                             display_results(row.mappa_anni[anno] || [], anno)
                         ))}
                 </tr>
