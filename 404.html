@@ -12,9 +12,15 @@
       // the original URL in the address bar so the SPA can read the path.
       (function(){
         try {
-          var indexUrl = window.location.pathname.replace(/\/[^\/]*$/, '/') + 'index.html';
-          // If running under a project page (e.g. /user/repo/...), attempt to
-          // fetch the index.html from the same folder.
+          // Determine the repository base for project pages like /user/repo/...
+          // Use only the first two non-empty path segments as the repo root.
+          var parts = window.location.pathname.split('/').filter(function(p){ return p.length>0; });
+          var repoRoot = '/';
+          if (parts.length >= 2) repoRoot = '/' + parts.slice(0,2).join('/') + '/';
+
+          // Try to fetch the real index.html from the repo root. This keeps the
+          // original URL in the address bar so the SPA router can read it.
+          var indexUrl = repoRoot + 'index.html';
           fetch(indexUrl, {cache: 'no-store'}).then(function(resp){
             if (!resp.ok) throw new Error('no index');
             return resp.text();
@@ -23,13 +29,11 @@
             document.write(html);
             document.close();
           }).catch(function(){
-            // Fallback: redirect to repository root (losing path)
-            var base = window.location.pathname.split('/').slice(0,3).join('/') + '/';
-            window.location.replace(base);
+            // As a last resort, navigate to repo root (this will lose the path)
+            window.location.replace(repoRoot);
           });
         } catch (e) {
-          var base = '/';
-          window.location.replace(base);
+          window.location.replace('/');
         }
       })();
     </script>
