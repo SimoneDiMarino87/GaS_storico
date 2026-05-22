@@ -58,23 +58,23 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-slate-50 text-slate-800 font-sans pb-20" style={{ minHeight: '100vh', backgroundColor: '#f8fafc', color: '#1e293b', fontFamily: 'sans-serif', paddingBottom: '80px' }}>
+    <>
       <Header activeTab={activeTab} setActiveTab={setTab} />
-      <main className="max-w-5xl mx-auto px-4 py-8" style={{ maxWidth: '1024px', margin: '0 auto', padding: '32px 16px' }}>
+      <main className="w-full px-4 py-8 min-h-screen" style={{ width: '100%', padding: '32px 16px', paddingBottom: '80px' }}>
         { !data && <div>Caricamento dati...</div> }
         { data && activeTab === 'scuola' && <VistaStoricoScuola data={data} />}
         { data && activeTab === 'classifiche' && <VistaClassifiche data={data} />}
         { data && activeTab === 'albo' && <VistaAlboOro data={data} />}
         { data && activeTab === 'tabella' && <VistaTabella data={data} />} 
       </main>
-    </div>
+    </>
   );
 }
 
 function Header({activeTab, setActiveTab}) {
   return (
     <header className="bg-white border-b border-slate-200 shadow-sm sticky top-0 z-10" style={{ backgroundColor: 'white', borderBottom: '1px solid #e2e8f0', position: 'sticky', top: 0, zIndex: 10 }}>
-      <div className="max-w-5xl mx-auto px-4" style={{ maxWidth: '1024px', margin: '0 auto', padding: '0 16px' }}>
+      <div className="w-full px-4" style={{ width: '100%', margin: '0', padding: '0 16px' }}>
         <div className="flex flex-col sm:flex-row justify-between items-center py-4 gap-4" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '16px 0', flexWrap: 'wrap', gap: '16px' }}>
           <h1 className="text-2xl font-black text-blue-700 flex items-center gap-2" style={{ fontSize: '24px', fontWeight: 900, color: '#1d4ed8', display: 'flex', alignItems: 'center', gap: '8px', margin: 0 }}>
             <BarChart className="text-blue-600" color="#2563eb" />

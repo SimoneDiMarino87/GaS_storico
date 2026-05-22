@@ -100,23 +100,25 @@ export default function VistaStoricoScuola({ data }) {
 
       {profilo ? (
         <>
-          <div className="text-center" style={{ textAlign: 'center' }}>
-            <h2 className="text-3xl font-bold text-slate-800 flex justify-center items-center gap-2" style={{ fontSize: '30px', fontWeight: 'bold', color: '#1e293b', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '8px', margin: 0 }}>
-              <Trophy className="text-amber-500" size={32} color="#f59e0b" /> {profilo.nome}
-            </h2>
-            <p className="text-slate-500 mt-2 flex justify-center items-center gap-1 font-medium" style={{ color: '#64748b', marginTop: '8px', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '4px', fontWeight: 500 }}>
-              <MapPin size={16} /> {profilo.comune} ({profilo.provincia})
-            </p>
-          </div>
+          <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '12px', maxWidth: '850px', margin: 0, paddingTop: '16px' }}>
+            <div style={{ textAlign: 'center', width: '100%' }}>
+              <h2 className="text-3xl font-bold text-slate-800" style={{ fontSize: '30px', fontWeight: 'bold', color: '#1e293b', margin: 0, display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '8px' }}>
+                <Trophy className="text-amber-500" size={32} color="#f59e0b" /> {profilo.nome}
+              </h2>
+              <p className="text-slate-500 mt-2 font-medium" style={{ color: '#64748b', marginTop: '8px', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '4px', fontWeight: 500 }}>
+                <MapPin size={16} /> {profilo.comune} ({profilo.provincia})
+              </p>
+            </div>
 
-          <Podi stats={stats} categoriaGara={categoriaGara} />
+            <Podi stats={stats} categoriaGara={categoriaGara} />
+          </div>
 
           <Andamento storiaFiltrata={storiaFiltrata} categoriaGara={categoriaGara} />
 
-          <div className="bg-white rounded-xl shadow-sm border border-slate-100 overflow-hidden mt-8" style={{ backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', overflow: 'hidden', marginTop: '32px' }}>
+          <div className="bg-white rounded-xl shadow-sm border border-slate-100 overflow-hidden mt-8" style={{ backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', overflow: 'hidden', marginTop: '32px', display: 'inline-block', marginLeft: 0 }}>
             <h3 className="bg-slate-50 p-4 font-bold text-slate-800 border-b border-slate-200" style={{ backgroundColor: '#f8fafc', padding: '16px', fontWeight: 'bold', color: '#1e293b', borderBottom: '1px solid #e2e8f0', margin: 0 }}>Dettaglio Risultati</h3>
             <div className="overflow-x-auto" style={{ overflowX: 'auto' }}>
-              <table className="w-full text-left border-collapse text-sm" style={{ width: '100%', textAlign: 'left', borderCollapse: 'collapse', fontSize: '14px' }}>
+              <table className="text-left border-collapse text-sm" style={{ width: 'auto', minWidth: '700px', textAlign: 'left', borderCollapse: 'collapse', fontSize: '14px' }}>
             <thead>
               <tr className="bg-white text-slate-500 uppercase tracking-wider border-b-2 border-slate-200" style={{ borderBottom: '2px solid #e2e8f0', color: '#64748b', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
                 <th className="p-4 font-semibold w-24" style={{ padding: '16px', fontWeight: 600, width: '96px' }}>Anno</th>
@@ -231,7 +233,7 @@ function CustomTooltip({ active, payload, label, categoriaGara }) {
 }
 
 function Filtri({scuolaSelezionata, onChangeScuola, categoriaGara, setCategoriaGara, elencoSicuro}) {
-  return <div className="flex flex-col sm:flex-row gap-4 justify-center items-center bg-white p-4 rounded-xl shadow-sm border border-slate-100" style={{ display: 'flex', gap: '16px', justifyContent: 'center', backgroundColor: 'white', padding: '16px', borderRadius: '12px', border: '1px solid #f1f5f9' }}>
+  return <div className="flex flex-col sm:flex-row gap-4 justify-start items-center bg-white p-4 rounded-xl shadow-sm border border-slate-100" style={{ display: 'flex', gap: '16px', justifyContent: 'flex-start', backgroundColor: 'white', padding: '16px', borderRadius: '12px', border: '1px solid #f1f5f9', maxWidth: '600px', marginLeft: 0 }}>
     <div className="flex flex-col w-full sm:w-auto" style={{ display: 'flex', flexDirection: 'column' }}>
       <label className="text-xs font-semibold text-slate-500 uppercase tracking-wider mb-1" style={{ fontSize: '12px', fontWeight: 600, color: '#64748b', textTransform: 'uppercase', marginBottom: '4px' }}>Cerca Scuola</label>
       <select value={scuolaSelezionata || ''} onChange={e => onChangeScuola(e.target.value || null)} className="p-2.5 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-slate-50 min-w-[250px] transition-all" style={{ padding: '10px', borderRadius: '8px', border: '1px solid #cbd5e1', backgroundColor: '#f8fafc', minWidth: '250px' }}>
@@ -252,8 +254,8 @@ function Filtri({scuolaSelezionata, onChangeScuola, categoriaGara, setCategoriaG
 }
 
 function Podi({stats, categoriaGara}) {
-  return <div className="grid grid-cols-1 md:grid-cols-3 gap-4" style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: '16px' }}>
-    <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-6 flex flex-col items-center justify-center" style={{ backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', padding: '24px', display: 'flex', flexDirection: 'column', alignItems: 'center', flex: '1 1 200px', minWidth: '200px' }}>
+  return <div className="grid grid-cols-1 md:grid-cols-3 gap-4" style={{ display: 'flex', justifyContent: 'flex-start', alignItems: 'flex-start', flexWrap: 'wrap', gap: '16px' }}>
+    <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-6 flex flex-col items-center justify-center" style={{ backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', padding: '24px', display: 'flex', flexDirection: 'column', alignItems: 'center', maxWidth: '400px', minWidth: '200px' }}>
       <span className="text-4xl font-black text-slate-800" style={{ fontSize: '36px', fontWeight: 900, color: '#1e293b' }}>
         {stats.partecipazioni}
       </span>
@@ -262,7 +264,7 @@ function Podi({stats, categoriaGara}) {
       </span>
     </div>
     {categoriaGara !== 'Semifinale' && (
-      <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-6 flex flex-col items-center justify-center" style={{ backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', padding: '24px', display: 'flex', flexDirection: 'column', alignItems: 'center', flex: '1 1 250px', minWidth: '250px' }}>
+      <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-6 flex flex-col items-center justify-center" style={{ backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', padding: '24px', display: 'flex', flexDirection: 'column', alignItems: 'center', maxWidth: '400px', minWidth: '250px' }}>
           <div className="flex gap-4" style={{ display: 'flex', gap: '16px' }}>
             <div className="flex items-center text-amber-600 font-bold text-xl" style={{ display: 'flex', alignItems: 'center', color: '#d97706', fontWeight: 'bold', fontSize: '20px' }}><Medal size={24} className="fill-amber-400 mr-1" color="#d97706" fill="#fbbf24" style={{ marginRight: '4px' }}/>
             {stats.medaglie.oro}
@@ -277,7 +279,7 @@ function Podi({stats, categoriaGara}) {
           <span className="text-sm font-medium text-slate-500 mt-2" style={{ fontSize: '14px', fontWeight: 500, color: '#64748b', marginTop: '8px' }}>Podi Nazionali</span>
       </div>
     )}
-    <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-6 flex flex-col items-center justify-center" style={{ backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', padding: '24px', display: 'flex', flexDirection: 'column', alignItems: 'center', flex: '1 1 200px', minWidth: '200px' }}>
+    <div className="bg-white rounded-xl shadow-sm border border-slate-100 p-6 flex flex-col items-center justify-center" style={{ backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', padding: '24px', display: 'flex', flexDirection: 'column', alignItems: 'center', maxWidth: '400px', minWidth: '200px' }}>
       <div className="flex items-center gap-1" style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
         {stats.migliore !== "-" && <Medal className="text-blue-500" size={28} color="#3b82f6" />}
         <span className="text-4xl font-black text-slate-800" style={{ fontSize: '36px', fontWeight: 900, color: '#1e293b' }}>

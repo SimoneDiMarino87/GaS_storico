@@ -52,7 +52,7 @@ function Podi({elenco_anni, medagliati, profiliScuole, titolo}) {
   }
 
   return (
-    <div className="bg-white rounded-xl shadow-sm border border-slate-100 overflow-hidden flex-1" style={{ backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', overflow: 'hidden', flex: 1, minWidth: '300px' }}>
+    <div className="bg-white rounded-xl shadow-sm border border-slate-100 overflow-hidden flex-1" style={{ backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', overflow: 'hidden', flex: 1, minWidth: '300px', maxWidth: '400px' }}>
       <h3 className="bg-slate-50 p-4 font-bold text-slate-800 text-center border-b border-slate-200" style={{ backgroundColor: '#f8fafc', padding: '16px', fontWeight: 'bold', color: '#1e293b', textAlign: 'center', borderBottom: '1px solid #e2e8f0', margin: 0 }}>{titolo}</h3>
       <div className="p-4 space-y-4" style={{ padding: '16px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
         {podi_annuali.map(podio => (
@@ -113,7 +113,7 @@ function Medagliere({medagliati, profiliScuole}) {
       });
   }, [medagliati_filtrati]);
 
-  return <div className="bg-white rounded-xl shadow-sm border border-slate-100 overflow-hidden" style={{ backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', overflow: 'hidden', marginTop: '32px' }}>
+  return <div className="bg-white rounded-xl shadow-sm border border-slate-100 overflow-hidden" style={{ display: 'inline-block', backgroundColor: 'white', borderRadius: '12px', border: '1px solid #f1f5f9', overflow: 'hidden', marginTop: '32px', textAlign: 'left' }}>
     <div className="bg-slate-50 p-4 border-b border-slate-200 flex flex-col sm:flex-row justify-between items-center gap-4" style={{ backgroundColor: '#f8fafc', padding: '16px', borderBottom: '1px solid #e2e8f0', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap' }}>
       <h2 className="text-xl font-bold text-slate-800 flex items-center gap-2" style={{ fontSize: '20px', fontWeight: 'bold', color: '#1e293b', margin: 0, display: 'flex', alignItems: 'center', gap: '8px' }}><ListOrdered className="text-blue-500" color="#3b82f6" /> 
         Medagliere Cumulativo
@@ -128,11 +128,11 @@ function Medagliere({medagliati, profiliScuole}) {
     </div>
     
     <div className="overflow-x-auto" style={{ overflowX: 'auto' }}>
-      <table className="w-full text-left border-collapse text-sm" style={{ width: '100%', textAlign: 'left', borderCollapse: 'collapse', fontSize: '14px' }}>
+      <table className="text-left border-collapse text-sm" style={{ width: 'auto', textAlign: 'left', borderCollapse: 'collapse', fontSize: '14px' }}>
         <thead>
           <tr className="bg-white text-slate-500 uppercase tracking-wider border-b-2 border-slate-200" style={{ color: '#64748b', textTransform: 'uppercase', borderBottom: '2px solid #e2e8f0' }}>
             <th className="p-3 font-semibold text-center w-12" style={{ padding: '12px', fontWeight: 600, textAlign: 'center', width: '48px' }}>#</th>
-            <th className="p-3 font-semibold" style={{ padding: '12px', fontWeight: 600 }}>Scuola</th>
+            <th className="p-3 font-semibold" style={{ padding: '12px', fontWeight: 600, maxWidth: '300px', textAlign: 'left' }}>Scuola</th>
             <th className="p-3 font-semibold text-center" style={{ padding: '12px', fontWeight: 600, textAlign: 'center' }}>Prov</th>
             <th className="p-3 font-semibold text-center bg-amber-50 text-amber-700" style={{ padding: '12px', fontWeight: 600, textAlign: 'center', backgroundColor: '#fffbeb', color: '#b45309' }}>
               🥇 Oro
@@ -154,7 +154,7 @@ function Medagliere({medagliati, profiliScuole}) {
                 <td className="p-3 text-center font-bold text-slate-400" style={{ padding: '12px', textAlign: 'center', fontWeight: 'bold', color: '#94a3b8' }}>
                   {idx + 1}
                 </td>
-                <td className="p-3 font-medium text-slate-700" style={{ padding: '12px', fontWeight: 500, color: '#334155' }}>
+                <td className="p-3 font-medium text-slate-700" style={{ padding: '12px', fontWeight: 500, color: '#334155', maxWidth: '300px', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
                   {renderScuolaLink(profiliScuole, row.id_scuola)}
                 </td>
                 <td className="p-3 text-center text-slate-500" style={{ padding: '12px', textAlign: 'center', color: '#64748b' }}>
