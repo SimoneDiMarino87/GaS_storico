@@ -9,7 +9,7 @@ export default function VistaClassifiche({ data }) {
   const [annoSel, setAnnoSel] = useState("2026");
   const [catSel, setCatSel] = useState("Finale Mista");
 
-  const classifica = useMemo(() => risultati.filter(r => r.anno === annoSel && r.categoria === catSel).sort((a, b) => a.posizione - b.posizione), [risultati, annoSel, catSel]);
+  const classifica = useMemo(() => risultati.filter(r => r.anno === annoSel && r.categoria === catSel).sort((a, b) => 2*(a.posizione - b.posizione)+ a.categoria.localCompare(b.categoria)), [risultati, annoSel, catSel]);
 
   return (
     <div className="space-y-6 animate-in fade-in duration-500">
@@ -84,7 +84,7 @@ export default function VistaClassifiche({ data }) {
                       })()}
                     </td>
                     {catSel === 'Semifinale' && <td className="p-2 text-center text-slate-500" style={{ padding: '8px', textAlign: 'center', color: '#64748b' }}>
-                      {{"SemiA":"A","SemiB":"B","SemiC":"C","SemiD":"D"}[row.gara] || row.gara}
+                      {{"SemiA":"A","SemiB":"B","SemiC":"C","SemiD":"D","SemiE":"E","SemiF":"F","SemiAL":"AL","SemiBL":"BL"}[row.gara] || row.gara}
                     </td>}
                     <td className="p-2 text-right font-mono font-bold text-slate-600" style={{ padding: '8px', textAlign: 'right', fontFamily: 'monospace', fontWeight: 'bold', color: '#475569' }}>
                       {row.punti}
