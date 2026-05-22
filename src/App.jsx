@@ -18,6 +18,16 @@ export default function App() {
   const [scuolaSelezionata, setScuolaSelezionata] = useState("");
 
   useEffect(() => {
+    // read tab from url path on first load (respecting any base path)
+    try {
+      const pathParts = window.location.pathname.split('/').filter(Boolean);
+      const last = pathParts[pathParts.length - 1];
+      const allowed = ['scuola', 'classifiche', 'albo', 'tabella'];
+      if (allowed.includes(last)) setActiveTab(last);
+    } catch (e) {
+      // ignore
+    }
+
     get_data().then(d => {
       setData(d);
       const entries = Object.entries(d.profiliScuole || {});
@@ -30,13 +40,31 @@ export default function App() {
 
   const handleNavigaAScuola = (idScuola) => {
     setScuolaSelezionata(idScuola);
-    setActiveTab('scuola');
+    setTab('scuola');
     window.scrollTo({ top: 0, behavior: 'smooth' }); 
+  };
+
+  // central setter that also updates the URL (no reload)
+  const setTab = (tab) => {
+    setActiveTab(tab);
+    try {
+      const allowed = ['scuola', 'classifiche', 'albo', 'tabella'];
+      if (!tab || !allowed.includes(tab)) return;
+      const pathParts = window.location.pathname.split('/').filter(Boolean);
+      // remove trailing tab segment if present
+      const last = pathParts[pathParts.length - 1];
+      if (allowed.includes(last)) pathParts.pop();
+      const basePath = '/' + pathParts.join('/');
+      const newPath = (basePath === '/' ? '' : basePath) + '/' + tab;
+      window.history.replaceState({}, '', newPath + window.location.search + window.location.hash);
+    } catch (e) {
+      // ignore in environments without history
+    }
   };
 
   return (
     <div className="min-h-screen bg-slate-50 text-slate-800 font-sans pb-20" style={{ minHeight: '100vh', backgroundColor: '#f8fafc', color: '#1e293b', fontFamily: 'sans-serif', paddingBottom: '80px' }}>
-      <Header activeTab={activeTab} setActiveTab={setActiveTab} />
+      <Header activeTab={activeTab} setActiveTab={setTab} />
       <main className="max-w-5xl mx-auto px-4 py-8" style={{ maxWidth: '1024px', margin: '0 auto', padding: '32px 16px' }}>
         { !data && <div>Caricamento dati...</div> }
         { data && activeTab === 'scuola' && <VistaStoricoScuola data={data} scuolaSelezionata={scuolaSelezionata} setScuolaSelezionata={setScuolaSelezionata} />}
