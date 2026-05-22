@@ -1,5 +1,7 @@
 import { useState, useMemo } from 'react';
 
+export const ROW_HEIGHT = 30;
+
 export default function VistaTabella({ data }) {
     const { profiliScuole, risultati, elenco_province, elenco_anni } = data;
     const [ garaSel, setGaraSel] = useState("Finale");
@@ -17,29 +19,41 @@ export default function VistaTabella({ data }) {
         : (lista) => [lista[0]];
 
     const display_results = garaSel === "Finale,Semifinale"
-        ? (lista) => {
+        ? (lista, anno) => {
             const finale = lista.filter(r => r.gara === "Finale")[0];
             const semifinale = lista.filter(r => r.categoria === "Semifinale")[0];
-            if (!finale && !semifinale) return null;
-            const cellStyle = { fontSize: '12px', textAlign: 'center', minHeight: '20px', display: 'flex', alignItems: 'center', justifyContent: 'center' };
-            return <>
-                <div className="text-xs text-center" style={{ ...cellStyle, color: '#3b82f6' }}>
-                    {semifinale && `${semifinale.posizione}°`}
-                </div>
-                <div className="text-xs text-center" style={{ ...cellStyle, color: '#ee0505' }}>
-                    {finale && `${finale.posizione}°`}
-                </div>
-            </>
-        }
-        : (lista) => { 
-            const r = lista[0];
-            if (!r) return null;
-            const singleStyle = { fontSize: '12px', textAlign: 'center', minHeight: '20px', display: 'flex', alignItems: 'center', justifyContent: 'center', color: (r.categoria === 'Semifinale' ? '#3b82f6' : '#ee0505') };
+            if (!finale && !semifinale) return (
+                <td key={anno} className="p-2 text-center" style={{ padding: '0 8px', textAlign: 'center', border: '1px solid #e6e9ef', height: ROW_HEIGHT + 'px', minHeight: ROW_HEIGHT + 'px', maxHeight: ROW_HEIGHT + 'px', overflow: 'hidden' }} />
+            );
+            const halfLine = Math.floor(ROW_HEIGHT / 2);
+            const containerStyle = { height: ROW_HEIGHT + 'px', minHeight: ROW_HEIGHT + 'px', maxHeight: ROW_HEIGHT + 'px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', overflow: 'hidden' };
+            const partStyle = { fontSize: '12px', textAlign: 'center', lineHeight: halfLine + 'px', height: halfLine + 'px', minHeight: halfLine + 'px', maxHeight: halfLine + 'px', width: '100%', overflow: 'hidden', whiteSpace: 'nowrap', padding: '0', margin: '0', display: 'flex', alignItems: 'center', justifyContent: 'center' };
             return (
-            <div key={r.gara} className="text-xs text-center" style={singleStyle}>
-                {r.posizione}°
-            </div>
-        )};
+                <td key={anno} className="p-2 text-center" style={{ padding: '0 8px', textAlign: 'center', border: '1px solid #e6e9ef', height: ROW_HEIGHT + 'px', minHeight: ROW_HEIGHT + 'px', maxHeight: ROW_HEIGHT + 'px', overflow: 'hidden' }}>
+                    <div style={containerStyle}>
+                        <div className="text-xs text-center" style={{ ...partStyle, color: '#3b82f6' }}>
+                            {semifinale && `${semifinale.posizione}°`}
+                        </div>
+                        <div className="text-xs text-center" style={{ ...partStyle, color: '#ee0505' }}>
+                            {finale && `${finale.posizione}°`}
+                        </div>
+                    </div>
+                </td>
+            )
+        }
+        : (lista, anno) => { 
+            const r = lista[0];
+            if (!r) return (
+                <td key={anno} className="p-2 text-center" style={{ padding: '0 8px', textAlign: 'center', border: '1px solid #e6e9ef', height: ROW_HEIGHT + 'px', minHeight: ROW_HEIGHT + 'px', maxHeight: ROW_HEIGHT + 'px', overflow: 'hidden' }} />
+            );
+            const singleStyle = { fontSize: '12px', textAlign: 'center', height: ROW_HEIGHT + 'px', minHeight: ROW_HEIGHT + 'px', maxHeight: ROW_HEIGHT + 'px', lineHeight: ROW_HEIGHT + 'px', display: 'flex', alignItems: 'center', justifyContent: 'center', overflow: 'hidden', color: (r.categoria === 'Semifinale' ? '#3b82f6' : '#ee0505'), padding: '0', margin: '0' };
+            return (
+                <td key={anno} className="p-2 text-center" style={{ padding: '0 8px', textAlign: 'center', border: '1px solid #e6e9ef', height: ROW_HEIGHT + 'px', minHeight: ROW_HEIGHT + 'px', maxHeight: ROW_HEIGHT + 'px', overflow: 'hidden' }}>
+                    <div key={r.gara} className="text-xs text-center" style={singleStyle}>
+                        {r.posizione}°
+                    </div>
+                </td>
+            )};
 
 
     const risultatiFiltrati = useMemo(() => risultati.filter(r => filtroGara(r) && (provinciaSel==="" || profiliScuole[r.id_scuola]?.provincia === provinciaSel)), [risultati, garaSel, provinciaSel]);
@@ -103,8 +117,9 @@ export default function VistaTabella({ data }) {
                 <tr 
                     key={row.id_scuola}
                     className="hover:bg-slate-50 cursor-pointer transition-colors"
+                    style={{ height: '30px', minHeight: '30px', maxHeight: '30px', overflow: 'hidden' }}
                 >
-                                        <td className="p-2" style={{ padding: '8px', border: '1px solid #e6e9ef', backgroundColor: '#f8fafc' }}>
+                                        <td className="p-2" style={{ padding: '0 8px', border: '1px solid #e6e9ef', backgroundColor: '#f8fafc', height: '30px', minHeight: '30px', maxHeight: '30px', overflow: 'hidden' }}>
                                         {(() => {
                                                 const id = row.id_scuola;
                                                 const pathParts = window.location.pathname.split('/').filter(Boolean);
@@ -126,9 +141,9 @@ export default function VistaTabella({ data }) {
                                                 );
                                         })()}
                                         </td>
-                    {elenco_anni.map(anno => <td key={anno} className="p-2 text-center" style={{ padding: '8px', textAlign: 'center', border: '1px solid #e6e9ef' }}>
-                        {display_results(row.mappa_anni[anno] || [])}
-                    </td>)}
+                        {elenco_anni.map(anno => (
+                            display_results(row.mappa_anni[anno] || [], anno)
+                        ))}
                 </tr>
                 ))}
             </tbody>
