@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex">
+    <title>Redirecting...</title>
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+      // GitHub Pages serves this 404 for unknown paths; to support SPA routing
+      // we fetch the real index.html and replace the document, keeping
+      // the original URL in the address bar so the SPA can read the path.
+      (function(){
+        try {
+          var indexUrl = window.location.pathname.replace(/\/[^\/]*$/, '/') + 'index.html';
+          // If running under a project page (e.g. /user/repo/...), attempt to
+          // fetch the index.html from the same folder.
+          fetch(indexUrl, {cache: 'no-store'}).then(function(resp){
+            if (!resp.ok) throw new Error('no index');
+            return resp.text();
+          }).then(function(html){
+            document.open();
+            document.write(html);
+            document.close();
+          }).catch(function(){
+            // Fallback: redirect to repository root (losing path)
+            var base = window.location.pathname.split('/').slice(0,3).join('/') + '/';
+            window.location.replace(base);
+          });
+        } catch (e) {
+          var base = '/';
+          window.location.replace(base);
+        }
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>
